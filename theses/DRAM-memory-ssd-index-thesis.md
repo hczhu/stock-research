@@ -13,7 +13,8 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	| | |
 	|---|---|
 	| [GenInnov — "Is DRAM at a Permanently Higher Plateau?"](https://www.geninnov.ai/blog/is-dram-at-a-permanently-higher-plateau) | [Ma & Patterson (Google) — "Challenges and Research Directions for Large Language Model Inference Hardware" (arXiv)](https://arxiv.org/pdf/2601.05047) |
-	| [Korea import/export data (Korea Customs Service trade statistics)](https://tradedata.go.kr/cts/index_eng.do#) | |
+	| [Korea import/export data (Korea Customs Service trade statistics)](https://tradedata.go.kr/cts/index_eng.do#) | [DRAMeXchange — DRAM/NAND spot & contract price tracker](https://www.dramexchange.com) |
+	| [TrendForce — memory market research & data (runs DRAMeXchange)](https://www.trendforce.com) | |
 
   ---
 - ## Main Narrative
