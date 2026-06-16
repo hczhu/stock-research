@@ -218,8 +218,8 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		| 2016 | $5.28B | — | ₩6.29T | — | ₩13.20T | — |
 	- **\*Note**: Historically, ~**80–85%** of Samsung's DS-division capex line is directed exclusively toward **Memory (DRAM/NAND)** infrastructure and technology transitions.
 	- ---
-- ## Appendix: Micron FQ2-26 Segment Breakdown (technology & business unit)
-	- **Source**: Micron FQ2-26 earnings deck (reported Mar 18, 2026). Total revenue: **FQ2-26 $23.86B** (+75% Q/Q, +196% Y/Y), FQ1-26 $13.64B, FQ2-25 $8.05B.
+- ## Appendix: Micron Segment Breakdown (technology & business unit)
+	- **Source**: Micron FQ2-26 earnings deck (reported Mar 18, 2026) and FQ1-26 earnings deck (reported Dec 17, 2025). Total revenue: **FQ2-26 $23.86B** (+75% Q/Q, +196% Y/Y), FQ1-26 $13.64B, FQ4-25 $11.31B, FQ2-25 $8.05B.
 	- **Business-unit context** (Micron reorganized in **2025 around customer types rather than product types**):
 		- **CMBU — Cloud Memory BU**: customers = large hyperscalers (Microsoft, Amazon, Google) + AI-infra providers; products = **HBM, AI-accelerator memory, high-capacity server DRAM, LPDRAM for AI servers**. Split out because AI memory is Micron's fastest-growing, highest-margin business. **⚑ HBM revenue is reported inside CMBU.**
 		- **CDBU — Core Data Center BU**: customers = enterprise data centers, OEM server vendors, smaller cloud providers; products = server DRAM, enterprise SSDs, storage, traditional DC memory. Split out for its different buying patterns, product requirements, and sales cycles vs hyperscalers.
@@ -229,28 +229,33 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		|---|---:|---:|---:|---:|---|---|
 		| FQ2-26 | $18.8B | 79% | +74% | +207% | +5% | **+65%** |
 		| FQ1-26 | $10.8B | 79% | +20% | +69% | ~+1% | **~+20%** |
+		| FQ4-25 | $9.0B | 79% | +20% | +69% | — | — |
 	- ### NAND
 		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
 		| FQ2-26 | $5.0B | 21% | +82% | +169% | +2.5% | **+77.5%** |
 		| FQ1-26 | $2.7B | 20% | +22% | +22% | +5–7.5% | **+15%** |
+		| FQ4-25 | $2.3B | 20% | +22% | +22% | — | — |
 		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only ~2.5–5% Q/Q while ASPs jump +65% (DRAM) / +77.5% (NAND). (Qualitative ASP/bit bands from the deck mapped to midpoints: low-≈X2.5%, mid-≈X5%, high-≈X7.5%.)
 	- ### Business-unit % of total revenue
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | 32.5% | 23.8% | 32.3% | 11.4% |
 		| FQ1-26 | 38.7% | 17.4% | 31.2% | 12.6% |
+		| FQ4-25 | 40.1% | 13.9% | 33.2% | 12.7% |
 		| FQ2-25 | 36.6% | 22.7% | 27.8% | 12.8% |
 	- ### Business-unit gross margin
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | 74% | 74% | 79% | 68% |
 		| FQ1-26 | 66% | 51% | 54% | 45% |
+		| FQ4-25 | 59% | 41% | 36% | 31% |
 		| FQ2-25 | 55% | 47% | 15% | 21% |
 	- ### Business-unit revenue Q/Q growth
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | +47% | +139% | +81% | +57% |
 		| FQ1-26 | +16% | +51% | +13% | +20% |
+		| FQ4-25 | — | — | — | — |
 		- **Read**: every BU's gross margin re-rated hard in two quarters (e.g. MCBU 15% → 79%, AEBU 21% → 68%) — the pricing-driven super-cycle lifting all segments, not just the AI-centric CMBU/CDBU. CMBU + CDBU (the data-center-facing units, incl. all HBM) = **~56% of FQ2-26 revenue**.
-		- **Note on labels**: FQ2-26 is Micron's fiscal Q2 2026 (reported Mar 18, 2026). Technology-level Q/Q bit/ASP detail and per-BU Q/Q are only available for the latest quarter pair in the deck; earlier-quarter Q/Q would require quarters not shown.
+		- **Note on labels**: FQ2-26 is Micron's fiscal Q2 2026 (reported Mar 18, 2026). Technology-level Q/Q bit/ASP detail and per-BU Q/Q are only available for the latest quarter pair in the deck; earlier-quarter Q/Q would require quarters not shown. FQ4-25 Q/Q data not available (requires FQ3-25 figures from the FQ4 2025 earnings deck).
