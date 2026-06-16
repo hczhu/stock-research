@@ -224,30 +224,30 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- **CMBU — Cloud Memory BU**: customers = large hyperscalers (Microsoft, Amazon, Google) + AI-infra providers; products = **HBM, AI-accelerator memory, high-capacity server DRAM, LPDRAM for AI servers**. Split out because AI memory is Micron's fastest-growing, highest-margin business. **⚑ HBM revenue is reported inside CMBU.**
 		- **CDBU — Core Data Center BU**: customers = enterprise data centers, OEM server vendors, smaller cloud providers; products = server DRAM, enterprise SSDs, storage, traditional DC memory. Split out for its different buying patterns, product requirements, and sales cycles vs hyperscalers.
 		- **MCBU — Mobile and Client BU**; **AEBU — Automotive and Embedded BU** (record AEBU revenue, auto + industrial > $2B in the quarter).
-	- ### DRAM vs NAND (FQ2-26 — deck provides technology-level detail for the latest quarter only)
-		| Technology | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
+	- ### DRAM — each row a quarter (deck provides technology-level detail for the latest quarter only)
+		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
-		| DRAM | $18.8B | 79% | +74% | +207% | +mid-single digits | **+mid-60s%** |
-		| NAND | $5.0B | 21% | +82% | +169% | +low-single digits | **+high-70s%** |
+		| FQ2-26 | $18.8B | 79% | +74% | +207% | +mid-single digits | **+mid-60s%** |
+	- ### NAND — each row a quarter (deck provides technology-level detail for the latest quarter only)
+		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
+		|---|---:|---:|---:|---:|---|---|
+		| FQ2-26 | $5.0B | 21% | +82% | +169% | +low-single digits | **+high-70s%** |
 		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only single-digits Q/Q while ASPs jump +mid-60s% (DRAM) / +high-70s% (NAND).
 	- ### Business-unit % of total revenue — each row a quarter
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
-		| FQ2-25 | 36.6% | 22.7% | 27.8% | 12.8% |
-		| FQ1-26 | 38.7% | 17.4% | 31.2% | 12.6% |
 		| FQ2-26 | 32.5% | 23.8% | 32.3% | 11.4% |
+		| FQ1-26 | 38.7% | 17.4% | 31.2% | 12.6% |
+		| FQ2-25 | 36.6% | 22.7% | 27.8% | 12.8% |
 	- ### Business-unit gross margin — each row a quarter
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
-		| FQ2-25 | 55% | 47% | 15% | 21% |
-		| FQ1-26 | 66% | 51% | 54% | 45% |
 		| FQ2-26 | 74% | 74% | 79% | 68% |
-	- ### Business-unit revenue Q/Q growth (FQ2-26 — the only quarter pair in the deck)
-		| Business unit | Revenue Q/Q (FQ2-26) |
-		|---|---:|
-		| CMBU (Cloud Memory) | +47% |
-		| CDBU (Core Data Center) | +139% |
-		| MCBU (Mobile and Client) | +81% |
-		| AEBU (Automotive and Embedded) | +57% |
+		| FQ1-26 | 66% | 51% | 54% | 45% |
+		| FQ2-25 | 55% | 47% | 15% | 21% |
+	- ### Business-unit revenue Q/Q growth — each row a quarter (only the latest quarter pair is in the deck)
+		| Quarter | CMBU | CDBU | MCBU | AEBU |
+		|---|---:|---:|---:|---:|
+		| FQ2-26 | +47% | +139% | +81% | +57% |
 		- **Read**: every BU's gross margin re-rated hard in two quarters (e.g. MCBU 15% → 79%, AEBU 21% → 68%) — the pricing-driven super-cycle lifting all segments, not just the AI-centric CMBU/CDBU. CMBU + CDBU (the data-center-facing units, incl. all HBM) = **~56% of FQ2-26 revenue**.
 		- **Note on labels**: FQ2-26 is Micron's fiscal Q2 2026 (reported Mar 18, 2026). Technology-level Q/Q bit/ASP detail and per-BU Q/Q are only available for the latest quarter pair in the deck; earlier-quarter Q/Q would require quarters not shown.
