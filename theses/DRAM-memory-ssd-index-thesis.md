@@ -137,17 +137,6 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	  7. **Contracts ≠ demand** — "lock volume, float price" can be read as buyer *uncertainty*; volume commitments get renegotiated in every commodity downturn.
 	- **Cycle-risk sizing**: peak-to-trough EPS revisions average ≈2× (+102% to −88%) over ≈12 months; stocks don't get rewarded for buying peak earnings as the second derivative rolls.
 	- ---
-- ## Friendly to Shareholders?
-	- > Index of three large, established issuers; governance varies by holding.
-	  
-	  | Factor | Signal | Assessment |
-	  |--------|--------|------------|
-	  | Capital allocation | Capex discipline is the key tell | +26%/+31% YoY — watch for over-investment seeding the next glut |
-	  | Earnings durability | LTAs + prepayments | Improves visibility/predictability vs. historical commodity volatility |
-	  | Samsung structure | Conglomerate; memory is part of a larger mix | Non-memory businesses dilute pure-play exposure |
-	  | Micron | US-listed, cleanest pure-play DRAM/NAND | Highest valuation/volatility of the three |
-	  | SK Hynix | Part of SK Group | Strongest current earnings quality (72% OPM Q1 2026) |
-	- ---
 - ## Anecdotes & Opinions
 	- > Qualitative signals that don't fit a model but often move early.
 	-
