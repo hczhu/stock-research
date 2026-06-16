@@ -4,7 +4,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 - **Top 3 holdings**: Samsung Electronics, SK Hynix, Micron — the "Big 3" controlling ≈90% of DRAM output and the majority of total memory; all three are also leading NAND/enterprise-SSD makers, so the index captures the AI-driven storage (SSD) tailwind alongside DRAM/HBM
 - **Date**: 2026-06-04
 - **Market cap of holdings (combined)**: ≈$3.5T (Big 3)
-- **Position**: watching
+- **Position**: long
 - **Why an index, not a single name**: The memory super-cycle is an *industry* thesis — tight oligopoly supply meeting AI-driven demand. An index diversifies single-name execution risk (e.g., Samsung HBM4 yield, Micron valuation/volatility) while capturing the structural pricing power shared across all three. See [[2026-06-04-memory-market-and-big3-financials]] for combined financials.
   
   ---
