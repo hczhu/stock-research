@@ -199,3 +199,21 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	- ### How It Ended — The Bottom & the AI Pivot
 		- **Bottom: 2H 2023.** By **Q3 2023**, aggressive production cuts finally matched depleted buyer inventories → supply/demand equilibrium, and **DRAM spot prices ticked up for the first time in ~2 years**.
 		- **The AI lifeline**: the explosion of Generative AI shifted demand from commodity DRAM toward high-margin **HBM and enterprise SSDs**. Because **HBM needs ~3–4× the wafer capacity** of conventional DRAM, manufacturers **rapidly reallocated lines to AI memory** — by late 2023 this diversion constrained standard PC/server memory supply, evaporated the glut, and set the stage for the structural upcycle this thesis is built on.
+	- ---
+- ## Appendix: Peer Capex Comparison (2016–2026 Guidance)
+	- Big 3 memory capex history; tracks the supply-discipline / capacity-add signal central to the cycle (see Key Value Drivers). Note the synchronized **2023 trough** (all three cut) and the **2024–2026 AI-driven re-acceleration**.
+
+		| Year | Micron Capex (USD) | Micron YoY | SK Hynix Capex (KRW) | SK Hynix YoY | Samsung DS Capex (KRW)* | Samsung DS YoY |
+		|---|---:|---:|---:|---:|---:|---:|
+		| 2026 (Guid.) | >$25.00B | +57.6% | ~₩35.00T | +27.2% | ~₩54.00T | +4.9% |
+		| 2025 | $15.86B | +89.0% | ₩27.52T | +72.5% | ₩51.46T | +7.4% |
+		| 2024 | $8.39B | +9.2% | ₩15.95T | +91.5% | ₩47.92T | +7.9% |
+		| 2023 | $7.68B | −36.4% | ₩8.33T | −56.2% | ₩44.40T | −7.3% |
+		| 2022 | $12.07B | +20.3% | ₩19.01T | +52.2% | ₩47.90T | +10.0% |
+		| 2021 | $10.03B | +26.2% | ₩12.49T | +26.3% | ₩43.56T | +32.4% |
+		| 2020 | $7.95B | −12.7% | ₩9.89T | −23.3% | ₩32.89T | +45.5% |
+		| 2019 | $9.11B | +12.2% | ₩12.89T | −24.4% | ₩22.60T | −23.7% |
+		| 2018 | $8.12B | +59.8% | ₩17.04T | +65.4% | ₩29.60T | −13.9% |
+		| 2017 | $5.08B | −3.8% | ₩10.30T | +63.8% | ₩34.40T | +160.6% |
+		| 2016 | $5.28B | — | ₩6.29T | — | ₩13.20T | — |
+	- **\*Note**: Historically, ~**80–85%** of Samsung's DS-division capex line is directed exclusively toward **Memory (DRAM/NAND)** infrastructure and technology transitions.
