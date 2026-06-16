@@ -230,12 +230,6 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		| DRAM | $18.8B | 79% | +74% | +207% | +mid-single digits | **+mid-60s%** |
 		| NAND | $5.0B | 21% | +82% | +169% | +low-single digits | **+high-70s%** |
 		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only single-digits Q/Q while ASPs jump +mid-60s% (DRAM) / +high-70s% (NAND).
-	- ### Business-unit revenue ($M) — each row a quarter
-		| Quarter | CMBU | CDBU | MCBU | AEBU | Total |
-		|---|---:|---:|---:|---:|---:|
-		| FQ2-25 | 2,947 | 1,830 | 2,236 | 1,034 | 8,047 |
-		| FQ1-26 | 5,284 | 2,379 | 4,255 | 1,720 | 13,638 |
-		| FQ2-26 | 7,749 | 5,687 | 7,711 | 2,708 | 23,855 |
 	- ### Business-unit % of total revenue — each row a quarter
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
