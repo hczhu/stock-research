@@ -227,12 +227,12 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	- ### DRAM — each row a quarter (deck provides technology-level detail for the latest quarter only)
 		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
-		| FQ2-26 | $18.8B | 79% | +74% | +207% | +mid-single digits | **+mid-60s%** |
+		| FQ2-26 | $18.8B | 79% | +74% | +207% | +5% | **+65%** |
 	- ### NAND — each row a quarter (deck provides technology-level detail for the latest quarter only)
 		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
-		| FQ2-26 | $5.0B | 21% | +82% | +169% | +low-single digits | **+high-70s%** |
-		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only single-digits Q/Q while ASPs jump +mid-60s% (DRAM) / +high-70s% (NAND).
+		| FQ2-26 | $5.0B | 21% | +82% | +169% | +2.5% | **+77.5%** |
+		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only ~2.5–5% Q/Q while ASPs jump +65% (DRAM) / +77.5% (NAND). (Qualitative ASP/bit bands from the deck mapped to midpoints: low-≈X2.5%, mid-≈X5%, high-≈X7.5%.)
 	- ### Business-unit % of total revenue — each row a quarter
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
