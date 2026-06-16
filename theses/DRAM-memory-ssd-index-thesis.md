@@ -10,9 +10,9 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
   ---
 - ## References
 
-	| Source | Link |
+	| | |
 	|---|---|
-	| GenInnov — "Is DRAM at a Permanently Higher Plateau?" (see [[2026-06-05-memory-de-commoditization-permanent-plateau-geninnov]]) | https://www.geninnov.ai/blog/is-dram-at-a-permanently-higher-plateau |
+	| [GenInnov — "Is DRAM at a Permanently Higher Plateau?"](https://www.geninnov.ai/blog/is-dram-at-a-permanently-higher-plateau) | |
 
   ---
 - ## Main Narrative
