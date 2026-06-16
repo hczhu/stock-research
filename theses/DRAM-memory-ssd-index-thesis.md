@@ -181,3 +181,21 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- **SK Hynix** — best current stacking/TSV credibility from HBM leadership; plausible path to translate multi-die packaging know-how into flash
 		- **Micron** — strategically important US supplier with strong NAND roadmap and a clear incentive to climb the memory hierarchy
 		- **TSMC / Intel** — not direct beneficiaries of the memory index, but critical enablers because HBF only becomes real if advanced packaging platforms like CoWoS / SoIC / Foveros Direct can integrate flash stacks tightly with AI logic
+	- ---
+- ## Appendix: The 2022–2023 Memory Downcycle (How the Last Cycle Played Out)
+	- **Source**: user-provided article. Context for the current thesis — the 2022–2023 cycle is the textbook severe downturn that immediately preceded today's AI-driven upcycle; it shows how the glut formed, how the Big 3 behaved, and how AI ended it.
+	- **One-line**: a violent swing from pandemic-era shortages to massive oversupply forced unprecedented losses on manufacturers before pivoting into a structural, AI-driven recovery.
+	- ### How It Started — The Pandemic Hangover (bullwhip effect)
+		- **Demand shock**: 2020–2021 remote-work/digital-acceleration surged demand for PCs, laptops, smartphones, and cloud data-center infra. Fearing supply-chain disruption, buyers **aggressively over-ordered** DRAM and NAND to build safety stock.
+		- **Reversal**: by early 2022, high inflation, rising rates, and economic reopening **collapsed consumer electronics spending**.
+		- **Glut**: PC and smartphone shipments fell double-digits; device makers and hyperscalers sat on months of excess, expensive memory inventory and **stopped ordering**, choosing to burn through existing stock.
+	- ### The Manufacturer Dilemma — Price Crashes & Cash Burns
+		- Fabs are capital-intensive and costly to idle, so producers initially **kept lines running** → record inventory, crashing prices. Through 2022–early 2023, **DRAM and NAND ASPs plunged >50%**.
+		- **Phase 1 — Denial & market-share defiance (late 2022)**: **Micron and SK Hynix blinked first**, announcing **30–50% capex cuts** for 2023 and trimming wafer starts. **Samsung** took a contrarian stance, leveraging cash reserves to **refuse production cuts** and squeeze weaker rivals.
+		- **Phase 2 — Capitulation & historic cuts (early 2023)**: by Q1 2023 the industry was losing **billions/quarter** with operating margins sharply negative. **In April 2023, Samsung reversed course** and announced a "meaningful" production cut, aligning with Micron and SK Hynix. The Big 3 (plus NAND players **Kioxia, Western Digital**) enacted **historic utilization cuts** — idling lines and delaying node transitions to starve the market of supply.
+	- ### How Buyers Reacted — Opportunistic De-stocking
+		- **Strikebound buying**: with prices falling week-over-week, buyers played a waiting game — refusing long-term agreements and buying only as-needed on the **spot market** to exploit falling prices.
+		- **Inventory depletion**: hyperscalers (Microsoft, AWS, Meta) and PC OEMs (Dell, HP) spent **~12–18 months** drawing down stockpiles.
+	- ### How It Ended — The Bottom & the AI Pivot
+		- **Bottom: 2H 2023.** By **Q3 2023**, aggressive production cuts finally matched depleted buyer inventories → supply/demand equilibrium, and **DRAM spot prices ticked up for the first time in ~2 years**.
+		- **The AI lifeline**: the explosion of Generative AI shifted demand from commodity DRAM toward high-margin **HBM and enterprise SSDs**. Because **HBM needs ~3–4× the wafer capacity** of conventional DRAM, manufacturers **rapidly reallocated lines to AI memory** — by late 2023 this diversion constrained standard PC/server memory supply, evaporated the glut, and set the stage for the structural upcycle this thesis is built on.
