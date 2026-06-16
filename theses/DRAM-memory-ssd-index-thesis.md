@@ -224,28 +224,28 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- **CMBU — Cloud Memory BU**: customers = large hyperscalers (Microsoft, Amazon, Google) + AI-infra providers; products = **HBM, AI-accelerator memory, high-capacity server DRAM, LPDRAM for AI servers**. Split out because AI memory is Micron's fastest-growing, highest-margin business. **⚑ HBM revenue is reported inside CMBU.**
 		- **CDBU — Core Data Center BU**: customers = enterprise data centers, OEM server vendors, smaller cloud providers; products = server DRAM, enterprise SSDs, storage, traditional DC memory. Split out for its different buying patterns, product requirements, and sales cycles vs hyperscalers.
 		- **MCBU — Mobile and Client BU**; **AEBU — Automotive and Embedded BU** (record AEBU revenue, auto + industrial > $2B in the quarter).
-	- ### DRAM — each row a quarter (deck provides technology-level detail for the latest quarter only)
+	- ### DRAM (deck provides technology-level detail for the latest quarter only)
 		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
 		| FQ2-26 | $18.8B | 79% | +74% | +207% | +5% | **+65%** |
-	- ### NAND — each row a quarter (deck provides technology-level detail for the latest quarter only)
+	- ### NAND (deck provides technology-level detail for the latest quarter only)
 		| Quarter | Revenue | % of total rev | Rev Q/Q | Rev Y/Y | Bit shipments Q/Q | ASP Q/Q |
 		|---|---:|---:|---:|---:|---|---|
 		| FQ2-26 | $5.0B | 21% | +82% | +169% | +2.5% | **+77.5%** |
 		- The up-cycle is overwhelmingly **price-driven**: bit shipments up only ~2.5–5% Q/Q while ASPs jump +65% (DRAM) / +77.5% (NAND). (Qualitative ASP/bit bands from the deck mapped to midpoints: low-≈X2.5%, mid-≈X5%, high-≈X7.5%.)
-	- ### Business-unit % of total revenue — each row a quarter
+	- ### Business-unit % of total revenue
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | 32.5% | 23.8% | 32.3% | 11.4% |
 		| FQ1-26 | 38.7% | 17.4% | 31.2% | 12.6% |
 		| FQ2-25 | 36.6% | 22.7% | 27.8% | 12.8% |
-	- ### Business-unit gross margin — each row a quarter
+	- ### Business-unit gross margin
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | 74% | 74% | 79% | 68% |
 		| FQ1-26 | 66% | 51% | 54% | 45% |
 		| FQ2-25 | 55% | 47% | 15% | 21% |
-	- ### Business-unit revenue Q/Q growth — each row a quarter (only the latest quarter pair is in the deck)
+	- ### Business-unit revenue Q/Q growth
 		| Quarter | CMBU | CDBU | MCBU | AEBU |
 		|---|---:|---:|---:|---:|
 		| FQ2-26 | +47% | +139% | +81% | +57% |
