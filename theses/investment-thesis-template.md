@@ -3,7 +3,6 @@ tags:: [[TICKER]], [[sector]]
 - **Company**: Company Name (TICKER)
 - **Date**: YYYY-MM-DD
 - **Market cap at writing**: $XXB
-- **Position**: long / watching / avoided
   
   ---
 - ## References

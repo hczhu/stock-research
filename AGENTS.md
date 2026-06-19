@@ -62,6 +62,27 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - `**Source**:` attribution
 - At least one `## Section Title`
 
+## Do Not Disclose Positions
+
+Never include the owner's position, holdings, trade sizes, entry prices, or entry dates in thesis files, memos, or any other notes. This means:
+
+- Do not add a `**Position**:` field to thesis headers or templates.
+- Do not mention whether the owner is long, short, watching, or holding a name.
+- Do not record dollar amounts invested, number of shares, or purchase dates.
+- Analytical context (e.g., "Big 3 P/E <10 at the time of writing") is fine; personal position metadata is not.
+
+## Dollar Signs in Markdown
+
+Markdown renderers with LaTeX/MathJax support (GitHub, Logseq math plugin) treat `$...$` as inline math. Two currency dollar signs on the same line — e.g. `$37 ... high-$40s` — silently render as a math block, stripping spaces and garbling the text.
+
+**Rule**: escape currency dollar signs as `\$` whenever two or more `$[digit]` patterns appear on the same line. Examples:
+
+- `~\$37 two weeks before the talk, now high-\$40s`
+- `\$220B (2025) → \$890B (2026E)`
+- `≈\$47–49B vs ≈\$53B`
+
+Ticker symbols (`$MGM`, `$MU`) and WikiLink tags (`[[$MU]]`) do not need escaping — they are standalone and do not form pairs.
+
 ## Tag Conventions
 
 Use canonical tag forms — no duplicates or near-duplicates:
