@@ -3,7 +3,6 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 - **Company**: MediaTek (2454.TW)
 - **Date**: 2026-06-04
 - **Market cap at writing**: TBD
-- **Position**: watching
   
   ---
 - ## References

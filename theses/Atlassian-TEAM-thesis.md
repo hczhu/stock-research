@@ -3,7 +3,6 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
 - **Company**: Atlassian Corporation (TEAM)
 - **Date**: 2026-06-05
 - **Market cap at writing**: ~\$26B
-- **Position**: long
   
   ---
 - ## References

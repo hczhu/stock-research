@@ -2,7 +2,6 @@ tags:: [[Cloudflare]], [[NET]], [[SaaS]], [[networking]], [[security]], [[CDN]],
 
 - **Company**: Cloudflare, Inc. (NET)
 - **Date**: 2026-06-09
-- **Position**: watching
   
   ---
 - ## References

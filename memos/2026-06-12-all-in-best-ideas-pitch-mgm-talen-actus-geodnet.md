@@ -6,18 +6,18 @@
 	- **Results**: Audience vote: 1) Dreyfus/Talen 50%, 2) Cowan/MGM, 3) Oleg/Actus 21%, 4) Samani/GeodNet 5%. Besties vote: 1) MGM, 2) Talen, 3) Actus, 4) GeodNet.
 
 - ## Pitch 1: MGM Resorts ($MGM) — Aaron Cowan, Ceretta Capital ($4B fund; ex-Soros equity head, ex-SAC CIO)
-	- **Setup**: Stock was ~$37 two weeks before the talk, now high-$40s. **Barry Diller owns 26%** and just bid $48 for the whole company (~80% of his NAV). Company bought back **half its float in 6 years**. Caesars was recently taken out — Vegas improving.
+	- **Setup**: Stock was ~\$37 two weeks before the talk, now high-\$40s. **Barry Diller owns 26%** and just bid \$48 for the whole company (~80% of his NAV). Company bought back **half its float in 6 years**. Caesars was recently taken out — Vegas improving.
 	- **Thesis**: Don't tender. Diller is a financial buyer trying to pick off the company cheap for two hidden assets:
 	- **Hidden asset 1 — Osaka, Japan casino (opens 2030)**:
 		- Only prefecture in Japan to approve a casino after the national referendum
-		- Japan gambling market already ~$40B (pachinko + horses) vs Macau $30B, Vegas $10B
+		- Japan gambling market already ~\$40B (pachinko + horses) vs Macau \$30B, Vegas \$10B
 		- Estimated **$2B EBITDA**; MGM owns 40% of property + management fee
 		- Osaka closer to Shanghai than Macau/Singapore; ~same distance from Beijing as Macau. First-world jurisdiction vs Macau's issues/low multiple
 		- Market historically starts caring ~3 years before an Asian casino opens (Wynn Macau precedent) — we're entering that window now
 	- **Hidden asset 2 — Dubai (free option)**:
 		- MGM brand on a grand complex being built in Dubai (arena + MGM + Bellagio) with **300,000 sq ft of shell space reserved for a casino** if Dubai legalizes
 		- Wynn opens Ras Al Khaimah casino in ~2 years (45 min from Dubai) — competitive pressure for Dubai to legalize
-	- **Valuation**: Vegas + China ≈ low-$60s. Japan ≈ +$50. Dubai ≈ +$40-50 if it happens. **Stock could be worth $100-150 vs $48 bid** — "a triple"
+	- **Valuation**: Vegas + China ≈ low-\$60s. Japan ≈ +\$50. Dubai ≈ +\$40-50 if it happens. **Stock could be worth \$100-150 vs \$48 bid** — "a triple"
 	- **Risks discussed**: losing loyalty-program economics matters (his Rio investment failed partly from losing Caesars' program); Caesars also waited on a Dubai license that never came
 	- **Panel note**: Sphere at Venetian makes ~$1M/day incremental EBITDA when there's a show — entertainment draw makes gambling revenue "fly"; Diller reportedly working on reinventing entertainment at the properties
 
@@ -27,15 +27,15 @@
 	- **Sam Zell rule**: buy hard assets below replacement cost when new capacity will be needed; sell at premium to replacement cost when the market wakes up (his Equity Office playbook)
 	- **Talen numbers**:
 		- 2 GW nuclear + 6 GW natural gas baseload
-		- EV ~$25B vs **replacement cost ~$45B** → equity more than doubles just to reach replacement cost
-		- Stock high-$300s; **$50/share FCF doing nothing** (≈7x FCF vs ~15x for US infrastructure) → double for sitting still
-		- More data-center deals or higher power prices → **$70/share FCF** → at 15x = **$1,050**
+		- EV ~\$25B vs **replacement cost ~\$45B** → equity more than doubles just to reach replacement cost
+		- Stock high-\$300s; **\$50/share FCF doing nothing** (≈7x FCF vs ~15x for US infrastructure) → double for sitting still
+		- More data-center deals or higher power prices → **\$70/share FCF** → at 15x = **\$1,050**
 		- If they build ~4 GW of new capacity (regulators pushing producer+data-center deals) → **$100+/share FCF**
 	- **Macro color**:
 		- US had 2x China's generation capacity 20 years ago; China now has 3x the US — "Make America great again: copy China"
 		- Data center = a refinery: electricity in, tokens/intelligence out; ~$50B per GW
 		- PJM forecast: **106 GW of new power needed in 10 years** (≈ Japan's entire consumption) — coal plants won't retire
-		- Microsoft paying Constellation ~$100/MWh (vs $50 market) for 20 years to restart Three Mile Island
+		- Microsoft paying Constellation ~\$100/MWh (vs \$50 market) for 20 years to restart Three Mile Island
 		- PJM power prices still too low to stimulate new capacity — "mind-boggling"
 		- Jensen: "we need 1000x more power" — if remotely true, need nuclear + solar + orbital + everything; supply chain (nickel superalloys, silver for PV) will be short everywhere
 	- **Multiple framework (Q&A)**: contracted PPA cash flows = bond-like → ~20x+; merchant/spot = lower multiple; 15x is the blended rule of thumb. More contracts → higher multiple.
@@ -43,14 +43,14 @@
 	- **Panel concerns**: interest-rate sensitivity of PPA-heavy cash flows (margin compression if rates rise); government intervention risk (price caps, laws disadvantaging terrestrial compute) is the big exogenous negative; upside 3-5x but ~8 years out
 
 - ## Pitch 3: Actus Oncology ($AKTS) — Oleg Nodelman, EcoR1 Capital
-	- **Fund**: SF-based value-oriented biotech fund, started 2013 with $13M; 10x'ed since inception, ~20% annualized, ~$2.5B AUM now. Looks for "unfollowed, unloved, misunderstood" biotech. Not run by PhDs/MDs by design — "don't fall in love with the science, fall in love with the risk-reward." 25th year investing in biotech.
-	- **Company stats**: ticker AKTS, ~$1B market cap, ~$500M EV, cash runway >3 years (past key milestones). IPO'd recently at $300M, **18x oversubscribed**, $100M order backstopped by **Eli Lilly**.
+	- **Fund**: SF-based value-oriented biotech fund, started 2013 with \$13M; 10x'ed since inception, ~20% annualized, ~\$2.5B AUM now. Looks for "unfollowed, unloved, misunderstood" biotech. Not run by PhDs/MDs by design — "don't fall in love with the science, fall in love with the risk-reward." 25th year investing in biotech.
+	- **Company stats**: ticker AKTS, ~\$1B market cap, ~\$500M EV, cash runway >3 years (past key milestones). IPO'd recently at \$300M, **18x oversubscribed**, \$100M order backstopped by **Eli Lilly**.
 	- **Modality — radiopharmaceuticals**: "swarm of micro-drones" that find targets by molecular recognition then detonate a ~100-micron warhead (single-cell blast radius). Evolution of cancer warfare: surgery/radiation (medieval siege) → chemo (mustard gas, kills all dividing cells) → targeted therapy (GPS munition, but resistance) → immunotherapy (activate T-cells) → radiopharma (autonomous assassination, minimal collateral).
 	- **Platform**: mini-protein that can carry any radioactive payload; small enough to clear the body with minimal side effects. Target engagement verifiable via imaging in early trials → significant de-risking.
 	- **Lead programs** (chose known/valid targets to de-risk):
 		- **Nectin-4** (bladder cancer) — initial clinical data as early as **Q1 2027**
 		- **B7-H3** — expressed on every major solid tumor (prostate, colorectal, lung)
-	- **Thesis**: if either program shows a signal, value accrues to the entire mini-protein platform — "the holy grail: getting value for the promise of what might come." Could be worth **$10B / $200 per share** if even one program reaches market.
+	- **Thesis**: if either program shows a signal, value accrues to the entire mini-protein platform — "the holy grail: getting value for the promise of what might come." Could be worth **\$10B / \$200 per share** if even one program reaches market.
 	- **Pharma M&A backdrop**: Bristol, Novartis, Bayer, Lilly all building radiotherapy capability; ~$15B of radiotherapy M&A in recent years, early innings.
 	- **Moat — hard to replicate**: generics don't traffic in radiopharma; class involves radioisotopes so it's **off-limits to China**. Actus's payload is Actinium (made from Radium-223, a US nuclear-program waste product from the '50s-'60s) — not even available in China, whose program used enriched uranium/plutonium.
 	- **Risks (panel)**: classic biotech illiquidity/binary risk — downside 50-75% on a bad readout, China replication risk (Amgen-Sanofi Supreme Court case lets China change one amino acid to skirt patents, then attach the isotope), and new solid-tumor modalities (e.g. D-protein conjugates, RevMed's pancreatic drug). Stock flat since IPO because biotech investors are short-term; expect accumulation in 2H ahead of Q1 2027 data.
@@ -61,8 +61,8 @@
 	- **What it is**: world's largest and fastest-growing **RTK network** (Real-Time Kinematics) — geolocation precise to ~2 cm vs ~2 m for GPS (100x accuracy). Powers robotics: drones, AVs, robotic mowers, ag equipment.
 	- **Decentralized build model**: ~22,000 base stations deployed by random hobbyists/small businesses (a few hundred bucks each, mounted on rooftops), paid in **Geod tokens**. Founded 2021, network build began 2022, now ~2x the size of incumbents Trimble + Hexagon + Topcon combined (those 3 took 20-30 years, ~12,000 stations total). Live in 150 countries, 11,000+ cities, ~80% of global population.
 	- **Customers/use cases**: USDA subsidizing precision-ag adoption; Burro robotic mules; John Deere GUSS (autonomous spray); TomTom (maps for nearly every AV program); robotic lawnmowers (Yarbo, Sunseeker — ~1M units/yr); DJI drones (and future US drone makers).
-	- **Economics**: ARR just crossed **~$11M**, growing >3x YoY. **80% of revenue (~$8.8M/yr) buys Geod tokens on the open market** (verifiable on Solana); remaining 20% funds R&D + BD. Customer expansion: ~$60K/yr in year 1 → ~$170K/yr in year 2 (~3x). 5x'ed customer base last year. Network-effects/natural-monopoly business with lowest cost structure.
-	- **Valuation**: fully-diluted ~$150M (CoinMarketCap shows ~$60-70M on circulating float). Effectively a revenue-share token (80% of customer revenue). Trades 24/7, ticker GEOD on Solana.
+	- **Economics**: ARR just crossed **~\$11M**, growing >3x YoY. **80% of revenue (~\$8.8M/yr) buys Geod tokens on the open market** (verifiable on Solana); remaining 20% funds R&D + BD. Customer expansion: ~\$60K/yr in year 1 → ~\$170K/yr in year 2 (~3x). 5x'ed customer base last year. Network-effects/natural-monopoly business with lowest cost structure.
+	- **Valuation**: fully-diluted ~\$150M (CoinMarketCap shows ~\$60-70M on circulating float). Effectively a revenue-share token (80% of customer revenue). Trades 24/7, ticker GEOD on Solana.
 	- **Governance**: US corporation (GeodNet, SF-based; CEO Mike Horton). Company faces customers; contractual obligation to GeodNet Foundation to buy tokens with 80% of revenue. Own the **token**, not the equity (Samani owns tokens, not equity). Multicoin led a prior round.
 	- **Bull defense vs space/LEO threat**: ground base stations are a few hundred dollars — satellites can't compete on cost or energy use (matters for battery-sensitive drones). LEO mesh could eventually replace GPS itself (needs ubiquity → satellites), but not the cheap ground RTK layer; likely hybrid GEO/LEO + ground.
 	- **Skeptic notes**: classic DePIN tokens have failed when token rewards aren't valued; bull case rests on the buyback/revenue-share being real and the crypto bear market masking a cheap asset. Tim (panel): liquidity-constrained — couldn't get >$1M in without moving the market.

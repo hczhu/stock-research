@@ -3,7 +3,6 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
 - **Company**: Datadog, Inc. (DDOG)
 - **Date**: 2026-06-07
 - **Market cap at writing**: ~$40B
-- **Position**: watching
   
   ---
 - ## References

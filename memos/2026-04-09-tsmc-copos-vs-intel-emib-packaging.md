@@ -30,3 +30,11 @@
 	- Intel has a narrow window (2027–2028) where EMIB-T could be the preferred packaging for customers who cannot wait for CoPoS
 	- Nvidia Feynman on CoPoS would sustain the memory and compute scaling trajectory — supportive of continued HBM demand growth into 2028+
 	- TSMC's panel-level packaging investment requires new cleanroom infrastructure — consistent with reports of Taiwan companies investing in next-gen fab facilities
+
+- ## TSMC Foundry & Advanced-Packaging Moat — Research Note (2026-06-18)
+	- **Source**: Research note (Chinese-language; translated); argues TSMC's lead is structural and Intel's packaging entry is not a major threat
+	- **Process technology lead**: TSMC leads competitors by ~2 years on key process technology metrics — a lead the note characterizes as structural, not cyclical.
+	- **DTCO lock-in**: DTCO (Design-Technology Co-Optimization) and co-design practices bind large fabless customers to TSMC's process at the design stage, making it progressively harder to migrate high-volume products to competing foundries. The earlier in the design cycle a customer co-optimizes with TSMC, the more deeply embedded the dependency.
+	- **Advanced packaging as a wafer-pull lever, not a standalone P&L**: TSMC views advanced packaging (CoWoS, CoPoS, etc.) primarily as a complementary capability that drives wafer sales — not as an independent revenue or profit center. This framing implies TSMC can price packaging aggressively to defend foundry share without needing the packaging segment to justify its own margin.
+	- **EMIB market share**: TSMC expected to capture ~10% of the EMIB market in 2028/2029 — framed as a modest but deliberate incursion into Intel's packaging differentiation, consistent with CoPoS mass-production targeting 2028.
+	- **Intel packaging threat assessment**: Intel's entry into advanced packaging is **not considered a major threat** to TSMC. Rationale: TSMC's packaging is a defensive moat around wafer revenue, so it can cross-subsidize; Intel needs packaging to be independently profitable to justify the investment, putting it at a structural pricing disadvantage.
