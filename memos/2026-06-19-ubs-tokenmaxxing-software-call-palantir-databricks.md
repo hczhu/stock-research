@@ -4,6 +4,26 @@
 
 - **Thesis ("Token Maxxing")**: Enterprise AI adoption ramped fast but **token/compute costs are now exceeding budgets**, forcing usage caps, guardrails, and cuts to other spend to fund AI. Risk: token demand growth flattens → "the first potential crack in the AI narrative." Most management teams frame the current optimization wave as a temporary "cleanup," not structural demand weakness.
 
+- ## Case Studies (concrete examples from the call)
+
+	- **Palantir "Evolve" — token optimization product launch**
+		- Trigger: a significant uptick in customers trying to cut token costs.
+		- Result: **~90% adoption in just 3 weeks** — extremely fast uptake, signaling how acute the cost pressure became.
+		- Function: helps enterprises match each workload to the right-sized model; when a heavy/expensive model (e.g., Claude Opus) isn't needed, route to a smaller/cheaper one (Haiku, GPT-Nano, or open-source).
+	- **Palantir — model downgrade case study (~97% token saving)**
+		- Palantir helped a customer **migrate from a heavier OpenAI model to a lighter "nano" version**, producing a **~97% token cost saving**.
+		- Takeaway: optimization is real and can sharply cut wasteful spend *even while* the customer's broader AI budget keeps expanding ("both can be true" — overall AI spend grows while waste is cut). Because Palantir prices on **outcomes, not tokens**, it isn't harmed by the lower token bill and may share in the efficiency gains.
+	- **UBS (as an enterprise AI buyer) — itself the case study**
+		- Deploys **Anthropic Claude via Microsoft Azure with no direct relationship with Anthropic** → live proof hyperscalers are the commercial interface/gateway between enterprises and AI labs.
+		- Deploys **Chinese open-source models on-premise** in its own controlled environment. Notable because a large, highly regulated Swiss bank being comfortable with Chinese models suggests adoption is moving beyond AI-natives into mainstream regulated enterprises; on-prem deployment mitigates data-exposure/governance concerns.
+	- **AWS 2022–2024 — the optimization-precedent case study**
+		- During that period AWS **actively worked with customers to reduce their cloud bills**. It weighed on near-term growth but was the right long-term decision.
+		- Read-across: if frontier labs (OpenAI/Anthropic) sense enterprise adoption is constrained by cost, the smart move is to *proactively* offer optimization tools / lighter product options rather than simply defend pricing — accepting a short-term growth slowdown to build long-term trust ahead of IPOs.
+	- **Cloudflare — agentic-internet deployment case study**
+		- Example workflow: code **written via tools like Codex and deployed** can increasingly default its hosting path to **Cloudflare's developer platform** → Cloudflare getting woven structurally into the AI stack (more durable than renting scarce compute). Developer platform growing **triple digits**, helping blend total growth to **~30%**.
+	- **Akamai — ~\$2B Anthropic compute deal**
+		- Signed a **~\$2B compute deal with Anthropic**; debated whether it signals durable AI participation or just near-term benefit from supply shortfalls. Market read: Akamai temporarily capitalizing on supply shortages (has underperformed Cloudflare/DigitalOcean on growth).
+
 - ## Company-Specific Data Points & News
 
 	- **Palantir ([[$PLTR]])**
