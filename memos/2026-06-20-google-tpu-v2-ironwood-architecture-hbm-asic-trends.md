@@ -4,6 +4,8 @@
 
 - ## Headline Scaling Summary (TPU v2 → Ironwood, 2017–2025)
 
+	- **Terminology**: A **node** = one TPU chip (the physical silicon die with its attached HBM stacks). A **pod** = the full supercomputer formed by connecting many nodes over a high-speed custom interconnect (ICI) in a 3D Torus topology. One pod is what Google calls the training unit: all nodes share a single flat address space across their HBM, so the pod-level HBM is directly addressable as one giant memory pool. Each CPU host connects 4 TPU nodes; an Ironwood pod of 9,216 nodes therefore has 2,304 CPU hosts. The pod is the unit of training job scheduling — a "slice" is a subset of the pod (e.g., 64, 128, 2,048 chips) allocated to a single job.
+
 	- | Dimension | Change over 8 years |
 	  |---|---|
 	  | HBM capacity per node | **~10x** (16 GiB → 192 GiB) |
