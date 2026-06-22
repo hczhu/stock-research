@@ -7,7 +7,7 @@ tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[d
   ---
 - ## References
 
-	| | |
+	| [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/TEAM) | |
 	|---|---|
 	| | |
 
