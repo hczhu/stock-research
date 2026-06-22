@@ -7,7 +7,7 @@ tags:: [[Datadog]], [[DDOG]], [[SaaS]], [[observability]], [[DevOps]], [[cloud]]
   ---
 - ## References
   
-  | | |
+  | [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/DDOG) | |
   |---|---|
   | | |
   

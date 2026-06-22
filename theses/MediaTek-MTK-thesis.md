@@ -7,7 +7,7 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
   ---
 - ## References
 
-	| | |
+	| [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/MediaTek) | |
 	|---|---|
 	| | |
 

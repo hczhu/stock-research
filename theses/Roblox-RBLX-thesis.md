@@ -7,7 +7,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
   ---
 - ## References
 
-	| | |
+	| [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/RBLX) | |
 	|---|---|
 	| [Long-form analysis of Roblox's path to profitability — Matthew Ball](https://www.matthewball.co/all/roblox2024) | [Hacker News discussion on the Matthew Ball piece](https://news.ycombinator.com/item?id=41287099) |
 	| [RoMonitor — third-party Roblox game and player stats](https://romonitorstats.com/) | [Roblox patent filings](https://patents.google.com/?assignee=Roblox&oq=assignee:Roblox) |
