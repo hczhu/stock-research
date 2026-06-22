@@ -22,6 +22,24 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 			- **MediaTek is Google's second TPU design partner** — the diversification away from sole-source **Broadcom**. On the **June 2026 Broadcom earnings call**, CEO **Hock Tan** conceded Broadcom would not stay Google's only partner:
 				- > "while we like to win every design in that program, we also accept the fact that given the growth of … development and consumption of AI compute even by our partner, Google, … we fully expect that there will be some diversity of sources for them."
 			- Google is already partnering with MediaTek on TPU design and is also pulling more design capability in-house. **Structural driver**: as a hyperscaler's AI-compute consumption scales, single-vendor design risk (capacity, pricing, roadmap leverage) becomes unacceptable, so it adds a second ASIC design partner — and MediaTek is the one filling Google's second-source slot ([[2026-05-01-mediatek-google-tpu-codesign-semi-cot-model]], [[2026-03-28-mediatek-google-orders-and-broadcom-share-shift-2026-02]]).
+			- #### TPU v9 / Triggerfish — Incremental Google Order (2026 industry check)
+				- Google is developing a codename **Triggerfish** upgrade chip on top of TPU v9 / Humufish, with MediaTek exclusively receiving this incremental order at a **~30% higher unit price** than Humufish.
+				- Triggerfish vs. Humufish — key architecture differences:
+					- | Dimension | Humufish (TPU v9) | Triggerfish (v9 upgrade) |
+					  |---|---|---|
+					  | SRAM capacity | baseline | **2–3× Humufish** |
+					  | Simulation die | none | **new die** (RL + AI agent; local TPU mgmt; train/infer mode switching) |
+					  | HBM generation | HBM4 | **HBM4E** |
+				- **Why larger SRAM**: keeps more of the active working set for RL workloads and AI-agent collaboration local to the TPU → reduces data-movement cost → improves ultra-low-latency decode efficiency. Designed to address **both CPU wall and memory wall** simultaneously.
+				- **Simulation die functions**: local TPU resource management, training/inference mode switching, and — most importantly — enabling **reinforcement learning (RL)** and **multi-agent AI** workloads natively on the TPU cluster.
+				- Volume and revenue bridge:
+					- | | Humufish (TPU v9) | Triggerfish |
+					  |---|---|---|
+					  | Lifecycle units | **4–5M** (unchanged) | **+1–2M** incremental |
+					  | Production start | in production | **late 2027** |
+					  | Volume ramp | ongoing | **2028** |
+					  | Unit price vs. Humufish | baseline | **~+30%** |
+				- Triggerfish is incremental to the Humufish base — a new 2028 revenue driver for MediaTek at higher ASP, further cementing its position as Google's preferred TPU v9-generation design partner.
 			- **Anthropic is most likely to do the same in the long run**: as its own custom-silicon ambitions mature, Anthropic is strongly motivated to diversify accelerator design away from a single partner — a second leg of MediaTek's ASIC-design TAM. This generalizes the thesis from "Google's second source" to **MediaTek as the default second-source ASIC design house for any scaling AI compute buyer**.
 	- ### Consumer Chips — Nvidia RTX Spark Partnership
 		- MediaTek is the **design partner with Nvidia on the RTX Spark chip**.
@@ -94,4 +112,5 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 	-
 	- | Date | Source | Anecdote / Opinion | Signal direction |
 	  |------|--------|--------------------|-----------------|
-	  | 2026-06 | Industry chatter / personal view | The current rumor is that MediaTek's order volume for Google's next-generation TPU will be even larger — and I agree. The 8th-gen TPU shipping now had its capacity booked two years ago, when Google had not yet reserved nearly as much capacity. TSMC currently cannot let MediaTek add much capacity, so as more capacity is allocated, the next-gen Google order should ramp materially larger. | bullish |
+	  | 2026-06 | Industry check (private) | **Google Triggerfish**: Google developing a v9 upgrade (Triggerfish) exclusively with MediaTek; SRAM 2–3× Humufish, new simulation die (RL/AI-agent), HBM4→HBM4E. Triggerfish adds 1–2M incremental units to the 4–5M Humufish base; production late 2027, volume 2028; unit price ~30% above Humufish → new 2028 earnings driver. | bullish |
+  | 2026-06 | Industry chatter / personal view | The current rumor is that MediaTek's order volume for Google's next-generation TPU will be even larger — and I agree. The 8th-gen TPU shipping now had its capacity booked two years ago, when Google had not yet reserved nearly as much capacity. TSMC currently cannot let MediaTek add much capacity, so as more capacity is allocated, the next-gen Google order should ramp materially larger. | bullish |
