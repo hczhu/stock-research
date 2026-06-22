@@ -151,6 +151,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	  | 2026-06-17 | Channel check (private source) | DRAM contract: Q3 2026 +30% QoQ, Q4 +20–30%; price to double from current levels by H1 2027 — "no suspense." HBM renewal prices jumped from \$15–16.6/GB to ≥\$53/GB; actual prices above \$53/GB, with NVIDIA receiving meaningful volume discounts. Key nuance: high HBM mix may not be unambiguously good — HBM price increases are structurally lagged vs. commodity DRAM, priced via long-term contracts driven by DDR (not the reverse), so commodity DRAM margins will exceed HBM margins for ≥5 years. | bullish |
 	  | 2026-06-18 | WSJ + BofA (Jun 17–18) | Apple CEO Tim Cook confirmed iPhone 18 Pro price hike to offset **escalating memory costs** (WSJ exclusive, Jun 17). BofA raised Pro/Pro-Max ASP by +\$200 total (\$100 already in prior estimate + \$100 new raise; base model and Air unchanged). iPhone 18 Pro BOM: DRAM \$39→\$145 (+272%), NAND \$13→\$51 (+292%); memory+storage combined \$52→\$196 (+\$144, +277%) — the single largest per-unit BOM swing vs. prior gen. Apple total cost \$582→\$726; est. retail \$1,099→\$1,299. Source: TechInsights / iFixit / WSJ. See Appendix: iPhone 18 Pro BOM. | bullish |
   | 2026-06-20 | Industry chat (private) | **Nanya / DDR4 long-tail revival.** History: in the 2008 downturn Samsung's pricing nearly wiped out the entire global memory industry — Hynix was sold to SK Group (bailed out by the Korean government) and Micron absorbed the remaining Japanese/Taiwanese makers. Taiwan's Formosa Plastics Group ran two memory companies, Nanya and Inotera; Inotera was sold to Micron, while Nanya survived but lacked the capital to develop DDR5 — effectively "waiting to die." (Aside: Formosa was an original TSMC shareholder at ~10% but sold out early.) The DDR4 market kept shrinking and the Big 3 signaled exit, yet industrial PCs and Cisco gear require long-lifecycle parts that **must** use DDR4 — leaving those OEMs scrambling, and Nanya surviving on exactly these long-tail products. **New twist (the signal):** with DRAM scarcity so acute, customers may now directly fund Nanya's DDR5 development — even a few wafers of marginal supply can pull prices down enough to recoup the investment. Nanya thus shifts from "waiting to die on D4" to a credible path forward to D5. Illustrates how tight the cycle is: pricing power is reaching even long-tail legacy nodes and the industry's weakest surviving supplier. | bullish |
+  | 2026-06 | Citi Research | **DRAM ASP +200% YoY in 2026E; NAND ASP +186% YoY.** Front-loaded: blended DRAM QoQ peaks at +64% in 1Q26, NAND at +63% in 1Q26, then decelerates through year-end. Server DRAM leads all segments at +331% YoY. SSD leads NAND at +267% YoY. Graphic/Consumer DRAM is the laggard at +29% YoY — consumer end-market pricing power diverging sharply from AI/server. See Appendix: Citi DRAM & NAND ASP Projection. | bullish |
 	- ---
 - ## Appendix — SSD vs HDD Market Share (Bits vs Dollars)
 	- **Source**: industry estimates compiled via web search (IDC, Gartner, market-research firms); figures vary by source/definition (total vs enterprise vs data-center), treat as approximate. See [[2026-05-05-micron-6600-ion-245tb-ssd]].
@@ -297,3 +298,29 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- Base model: no change
 		- Air: already reflected +\$100; no further change
 		- Rationale: Cook's public confirmation of the pricing lever + continued memory price escalation
+- ---
+- ## Appendix: Citi DRAM & NAND ASP Projection by Application
+	- **Source**: Citi Research, © 2026 Citigroup Inc. (Figures 3 & 4). All figures are QoQ % change in ASP by quarter; YoY column reflects full-year 2025A or 2026E change.
+
+	- ### DRAM ASP QoQ % by Application
+	  | Application | 2025 1Q | 2025 2Q | 2025 3Q | 2025 4Q | 2025 YoY | 2026 1Q | 2026 2Q | 2026 3Q | 2026 4Q | 2026 YoY |
+	  |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+	  | Server | −8% | +8% | +15% | +71% | +43% | +88% | +43% | +16% | +7% | +331% |
+	  | Mobile | −10% | −2% | +2% | +50% | 0% | +67% | +45% | +12% | +7% | +225% |
+	  | PC | −15% | +3% | +4% | +45% | +1% | +63% | +35% | +10% | +6% | +194% |
+	  | Graphic/Consumer | +5% | +4% | +2% | 0% | +50% | +5% | +8% | +10% | +30% | +29% |
+	  | **DRAM ASP blended** | **−7%** | **+3%** | **+7%** | **+47%** | **+28%** | **+64%** | **+37%** | **+13%** | **+11%** | **+200%** |
+
+	- ### NAND ASP QoQ % by Application
+	  | Application | 2025 1Q | 2025 2Q | 2025 3Q | 2025 4Q | 2025 YoY | 2026 1Q | 2026 2Q | 2026 3Q | 2026 4Q | 2026 YoY |
+	  |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+	  | SSD | −7% | +2% | +5% | +31% | +21% | +70% | +63% | +25% | +10% | +267% |
+	  | Mobile | −13% | +3% | 0% | +11% | −16% | +55% | +25% | +10% | +3% | +113% |
+	  | USB & Others | −14% | +8% | +2% | +20% | −6% | +63% | +40% | +12% | +5% | +169% |
+	  | **NAND ASP blended** | **−11%** | **+3%** | **+3%** | **+21%** | **+3%** | **+63%** | **+45%** | **+17%** | **+6%** | **+186%** |
+
+	- ### Key Reads
+		- **2026 DRAM YoY by segment**: Server (+331%) >> Mobile (+225%) >> PC (+194%) >> Graphic/Consumer (+29%) — the AI/server premium vs. consumer is enormous; Graphic/Consumer barely moved while server nearly quadruples.
+		- **Front-loaded cycle**: sharpest QoQ gains are in 1Q–2Q 2026 (DRAM blended +64%/+37%; NAND blended +63%/+45%), decelerating to mid-single-digit QoQ by 4Q 2026 — consistent with the channel-check view that pricing peaks H1 2026 and moderates into H2.
+		- **NAND 2025 YoY was near-flat** (blended +3%) despite strong 4Q; SSD led at +21% while Mobile and USB/Others declined — the AI/datacenter SSD bid arrived later than DRAM and is now accelerating sharply into 2026 (+267% SSD YoY).
+		- **Cross-check with channel checks** (2026-06-17 anecdote): "DRAM contract Q3 +30% QoQ, Q4 +20–30%." Citi models 2026 3Q at +13% and 4Q at +11% — more conservative on the back half; both agree the cycle continues decelerating into year-end from a very high H1 base.
