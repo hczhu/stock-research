@@ -57,7 +57,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	  | HBM vs. DDR price divergence | HBM3e cost/GB and cost/GBps rising 2023-2025 while DDR4 cost/GB and cost/GBps trend down 2022-2025; widening spread supports de-commoditization |
 	  | Big 3 capex discipline | +26% (2025), +31% (2026E) — too much = future oversupply |
 	  | LTA coverage % | Higher commodity-LTA coverage supports a P/E re-rating (MS: 5× → ≈8.5× if 70% covered) |
-	  | Hyperscaler capex guidance | \$695–725B 2026E; the swing variable — a single \$20–30B cut reprices the chain |
+	  | Hyperscaler capex guidance | MS (Apr 2026): \$805B 2026E / \$1,116B 2027E (raised from \$765B/\$951B); AMZN+GOOGL+META+MSFT+ORCL combined; the swing variable — a single \$20–30B cut reprices the chain |
 	  | HBF design wins / packaging readiness | Watch whether HBF moves from papers/prototypes into real accelerator roadmaps; the tell is co-development among the Big 3, TSMC/Intel packaging, and GPU/NPU vendors |
 	  | CXMT/YMTC qualification | Watch for China entering global hyperscale server-DRAM qualification at scale |
 	  | Weekly token consumption (top models) | Real-time demand proxy — inference volume drives DRAM/HBM need; sustained WoW growth supports the demand leg (see table below) |
@@ -325,3 +325,33 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- **Front-loaded cycle**: sharpest QoQ gains are in 1Q–2Q 2026 (DRAM blended +64%/+37%; NAND blended +63%/+45%), decelerating to mid-single-digit QoQ by 4Q 2026 — consistent with the channel-check view that pricing peaks H1 2026 and moderates into H2.
 		- **NAND 2025 YoY was near-flat** (blended +3%) despite strong 4Q; SSD led at +21% while Mobile and USB/Others declined — the AI/datacenter SSD bid arrived later than DRAM and is now accelerating sharply into 2026 (+267% SSD YoY).
 		- **Cross-check with channel checks** (2026-06-17 anecdote): "DRAM contract Q3 +30% QoQ, Q4 +20–30%." Citi models 2026 3Q at +13% and 4Q at +11% — more conservative on the back half; both agree the cycle continues decelerating into year-end from a very high H1 base.
+
+- ## Appendix: Morgan Stanley Hyperscaler CapEx Estimates (2024–2027)
+
+	- **Source**: Morgan Stanley Research (Company data + MS estimates). Via Altimeter. Reference: *GOOGL, AMZN, and META Surprises and Learnings*, 30 Apr 2026. Headline: MS now sees hyperscaler capex approaching \$800B/\$1.1T in '26/'27 vs \$765B/\$950B previously.
+
+	- ### Per-Company CapEx (\$B)
+
+	  | Company | 2024A | 2025A | 2026 Prior | 2026 Current | 2027 Prior | 2027 Current | '24–'27 CAGR |
+	  |---|---:|---:|---:|---:|---:|---:|---:|
+	  | AMZN | \$83 | \$132 | \$211 | \$212 | \$249 | \$268 | 48% |
+	  | GOOGL | \$53 | \$91 | \$185 | \$190 | \$250 | \$299 | 69% |
+	  | META | \$39 | \$72 | \$135 | \$135 | \$165 | \$165 | 59% |
+	  | MSFT | \$76 | \$118 | \$156 | \$190 | \$178 | \$276 | 54% |
+	  | ORCL | ~\$10 | \$35 | \$78 | \$78 | \$108 | \$108 | 116% |
+	  | **Total** | **\$261** | **\$449** | **\$765** | **\$805** | **\$951** | **\$1,116** | **62%** |
+
+	- ### Revision Delta (Current vs. Prior)
+
+	  | Year | Prior | Current | Delta | Delta % |
+	  |---|---:|---:|---:|---:|
+	  | 2026 | \$765B | \$805B | +\$40B | +5% |
+	  | 2027 | \$951B | \$1,116B | +\$165B | +17% |
+
+	- ### Key Reads
+		- **2027 revision is the signal**: the +\$165B upward revision to 2027 is 4× larger than the 2026 revision — MS is increasing its conviction in a sustained, not just front-loaded, capex cycle.
+		- **MSFT was the key 2027 mover**: revised from \$178B to \$276B (+\$98B), the largest single-company upward revision — notable given Microsoft paused some datacenter leases in early 2025, suggesting that pause was temporary and capacity commitment has returned with force.
+		- **GOOGL is the fastest-growing of the large hyperscalers** on a dollar basis (2024→2027: \$53B→\$299B, +\$246B); the 69% CAGR implies Google is structurally closing the infrastructure gap with AWS.
+		- **ORCL CAGR of 116%** reflects a low 2024 base (\~\$10B) ramping aggressively into AI cloud; Oracle's announced datacenter build commitments have been the most surprising upside datapoint of 2025–26.
+		- **META is the only company with unchanged estimates**: both 2026 and 2027 held at \$135B/\$165B — either MS has high confidence in META's guidance or META management has given unusually precise forward visibility.
+		- **\$1.1T in 2027 is a new order of magnitude**: for context, total S&P 500 capex in 2019 was \~\$800B; five hyperscalers alone are projected to exceed that by 2027. This is the macro demand anchor for AI infrastructure supply chains including memory, networking, power, and cooling.
