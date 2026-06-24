@@ -32,15 +32,34 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 					  | HBM generation | HBM4 | **HBM4E** |
 				- **Why larger SRAM**: keeps more of the active working set for RL workloads and AI-agent collaboration local to the TPU → reduces data-movement cost → improves ultra-low-latency decode efficiency. Designed to address **both CPU wall and memory wall** simultaneously.
 				- **Simulation die functions**: local TPU resource management, training/inference mode switching, and — most importantly — enabling **reinforcement learning (RL)** and **multi-agent AI** workloads natively on the TPU cluster.
-				- Volume and revenue bridge:
-					- | | Humufish (TPU v9) | Triggerfish |
-					  |---|---|---|
-					  | Lifecycle units | **4–5M** (unchanged) | **+1–2M** incremental |
-					  | Production start | in production | **late 2027** |
-					  | Volume ramp | ongoing | **2028** |
-					  | Unit price vs. Humufish | baseline | **~+30%** |
+				- Volume and revenue bridge (updated FundaAI, Jun 2026):
+					- | Metric | Humufish (TPU v9) | Triggerfish | Combined |
+					  |---|---|---|---|
+					  | Lifecycle units | ~3–3.5M (~half) | ~3–3.5M (~half) | **6–7M** (raised from prior 5M) |
+					  | Mass production start | **Q3 2027** | **Q4 2027** | — |
+					  | Volume ramp | 2028 | 2028 | — |
+					  | ASP (FundaAI est.) | **\$15k** | **\$20k** | blended ~\$17.5k |
+					  | Unit price delta | baseline | **~+30%** | — |
+				- **Lifecycle revenue implied**: 6.5M units × \$17.5k blended ASP = **~\$114B total program TAM** across both chips.
+				- **Substrate is the primary bottleneck**: Google is actively pushing substrate manufacturers to expand capacity to support the 2028 ramp.
+				- **Triggerfish CPU die**: beyond the SRAM expansion, Triggerfish integrates a **new MediaTek-developed CPU die** for workload switching between training and inference — MediaTek IP embedded in the package, carrying higher margin than pass-through wafer volume and deepening design content per unit.
+				- **Pumafish**: confirmed cancelled; no supply-chain evidence of restart. Volume excluded from the 6–7M figure.
 				- Triggerfish is incremental to the Humufish base — a new 2028 revenue driver for MediaTek at higher ASP, further cementing its position as Google's preferred TPU v9-generation design partner.
 			- **Anthropic is most likely to do the same in the long run**: as its own custom-silicon ambitions mature, Anthropic is strongly motivated to diversify accelerator design away from a single partner — a second leg of MediaTek's ASIC-design TAM. This generalizes the thesis from "Google's second source" to **MediaTek as the default second-source ASIC design house for any scaling AI compute buyer**.
+		- #### SerDes Win: MediaTek 336G Displaces Broadcom 448G on TPU v9 (Jun 2026)
+			- MediaTek secured the **primary TPU v9 ASIC contract via 336G SerDes**, directly displacing Broadcom which had targeted 448G SerDes.
+			- **Why Broadcom lost**: 448G SerDes stalled on signal integrity, power, and thermal dissipation — unresolvable within Google's timeline. The 448G optical module design requires a **2nm process node**, pushing volume production to **2028–2029** — too late for the TPU v9 ramp.
+			- **Why MediaTek won**: multi-year accumulated high-speed interface IP + deep TSMC advanced-process collaboration. Same structural advantages as the Semi-COT model — execution capabilities that pure fabless vendors without equivalent TSMC integration cannot replicate on the same timeline.
+			- **Structural shift**: AI ASIC vendor differentiation is moving from compute chip design to **integrated system capability** — SerDes, optical interconnect co-design, and system-level architecture. MediaTek's IP depth here is a compounding moat.
+			- **AVGO v9 training chip**: Broadcom's status on the TPU v9 *training* chip contract remains pending (FundaAI, Jun 2026) — a separate contract from the inference/SerDes work MediaTek won.
+			- Source: Commercial Times (工商時報) Jun 23 2026 ([[2026-06-23-mediatek-google-tpu-v9-336g-serdes-broadcom-displacement]])
+	- ### AI ASIC Revenue Trajectory
+		- | Year | AI Accelerator ASIC Revenue | Primary drivers |
+		  |---|---|---|
+		  | 2026E | **\$2B** (revised up) | Google TPU v9 ramp |
+		  | 2027E | **Tens of billions** | TPU v9 volume + multiple CSP programs |
+		- 2027 projection requires multiple CSP programs (beyond Google) to begin volume production — execution risk is real but pipeline is confirmed to exist.
+		- **2027 total Google TPU shipment forecast** (all vendors): **10–11M units** (FundaAI Jun 2026; raised from 10M+ in April). MediaTek's share of this via Humufish + Triggerfish: 6–7M lifecycle units across 2027–2028 ramp.
 	- ### Consumer Chips — Nvidia RTX Spark Partnership
 		- MediaTek is the **design partner with Nvidia on the RTX Spark chip**.
 		- **Nvidia is redefining endpoint devices**: For the past 40 years the PC industry revolved around the operating system and applications; the future shifts toward a new computing architecture centered on **LLMs and AI agents**. RTX Spark is not aiming for pure PC market share but for **the user entry point of the AI era**.
@@ -114,3 +133,5 @@ tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
 	  |------|--------|--------------------|-----------------|
 	  | 2026-06 | Industry check (private) | **Google Triggerfish**: Google developing a v9 upgrade (Triggerfish) exclusively with MediaTek; SRAM 2–3× Humufish, new simulation die (RL/AI-agent), HBM4→HBM4E. Triggerfish adds 1–2M incremental units to the 4–5M Humufish base; production late 2027, volume 2028; unit price ~30% above Humufish → new 2028 earnings driver. | bullish |
   | 2026-06 | Industry chatter / personal view | The current rumor is that MediaTek's order volume for Google's next-generation TPU will be even larger — and I agree. The 8th-gen TPU shipping now had its capacity booked two years ago, when Google had not yet reserved nearly as much capacity. TSMC currently cannot let MediaTek add much capacity, so as more capacity is allocated, the next-gen Google order should ramp materially larger. | bullish |
+  | 2026-06-23 | Commercial Times (工商時報) | **SerDes win confirmed**: MediaTek wins Google TPU v9 primary contract via **336G SerDes**, displacing Broadcom (whose 448G approach failed on signal integrity / power / thermal; 448G optical module needs 2nm, volume not until 2028–2029). AI ASIC revenue: **\$2B 2026E**, "tens of billions" 2027E. Multiple CSP programs expected to materialize beyond Google. | bullish |
+  | 2026-06 | FundaAI-T channel check | **H+T volume raised to 6–7M lifecycle units** (up from prior 5M). Humufish ASP \$15k, Triggerfish ASP \$20k, ~half each. Substrate is primary bottleneck; Google pushing substrate makers to expand. Triggerfish adds MediaTek-developed CPU die (training/inference workload switching). Pumafish cancellation maintained — no restart signal. AVGO v9 training chip: still pending. 2027 total TPU forecast: **10–11M units** (vs. 10M+ at end-April). | bullish |
