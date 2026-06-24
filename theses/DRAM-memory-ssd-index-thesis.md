@@ -358,3 +358,30 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 		- **ORCL CAGR of 116%** reflects a low 2024 base (\~\$10B) ramping aggressively into AI cloud; Oracle's announced datacenter build commitments have been the most surprising upside datapoint of 2025–26.
 		- **META is the only company with unchanged estimates**: both 2026 and 2027 held at \$135B/\$165B — either MS has high confidence in META's guidance or META management has given unusually precise forward visibility.
 		- **\$1.1T in 2027 is a new order of magnitude**: for context, total S&P 500 capex in 2019 was \~\$800B; five hyperscalers alone are projected to exceed that by 2027. This is the macro demand anchor for AI infrastructure supply chains including memory, networking, power, and cooling.
+
+- ## Appendix: TechInsights DRAM & NAND Price Change vs. Q1 2023
+
+	- **Source**: TechInsights (via WSJ, Feb 2026). Average price per gigabyte, indexed to Q1 2023 = 0%. Data from 3Q 2026 onwards are estimates.
+
+	- | Period | DRAM (% chg from Q1 2023) | NAND (% chg from Q1 2023) | Status |
+	  |---|---:|---:|---|
+	  | Q1 2023 | 0% | 0% | Actual (baseline) |
+	  | Q4 2023 | ~0% | ~0% | Actual |
+	  | Q2 2024 | ~15% | ~10% | Actual |
+	  | Q4 2024 | ~50% | ~25% | Actual |
+	  | Q2 2025 | ~55% | ~45% | Actual |
+	  | Q4 2025 | ~65% | ~55% | Actual |
+	  | Q1 2026 | ~150% | ~75% | Actual |
+	  | Q2 2026 | ~575% | ~375% | Actual |
+	  | Q3 2026 | ~640% | ~440% | **Estimate** |
+	  | Q4 2026 | ~700% | ~490% | **Estimate** |
+	  | Q1 2027 | ~750% | ~510% | **Estimate** |
+	  | Q2 2027 | ~790% | ~500% | **Estimate** |
+	  | Q4 2027 | ~850% | ~415% | **Estimate** |
+
+	- ### Key Reads
+		- **The Q1–Q2 2026 inflection is the visual story**: both DRAM and NAND prices were essentially flat from Q1 2023 through end of 2025 (+50–65% over nearly 3 years), then exploded in a single two-quarter window. The chart makes clear this is not a gradual cycle — it is a step-change.
+		- **DRAM dramatically outpaces NAND**: by Q2 2026 DRAM is +575% vs. NAND +375% from the same baseline. The divergence reflects AI/server DRAM demand being structurally tighter than NAND demand, consistent with HBM sold-out status and LTA lock-in dynamics.
+		- **NAND peaks and rolls in 2027E**: TechInsights estimates NAND prices peak around Q1 2027 (~+510%) then decline toward ~+415% by end of 2027 — a meaningful reversal. This is consistent with NAND supply responding faster than DRAM (more fab-convertible capacity; China NAND ramp) and with the Jefferies expert flagging 2028 as the NAND risk inflection.
+		- **DRAM keeps rising through all of 2027E**: no peak visible in the DRAM estimate curve — it continues climbing to ~+850% by end of 2027. This implies TechInsights does not see a DRAM supply response materializing within the 2027 window, consistent with Micron's US fab timelines (Idaho mid-2027, NY 2030) and Samsung P5 (2028 completion, shipments ~2029).
+		- **Cross-check with WSJ/TrendForce**: the "~7× increase in 12 months" cited in the Feb 2026 WSJ article corresponds to the near-vertical DRAM line between ~Q1 2025 (~+50%) and ~Q1 2026 (~+580%) — a ~530-percentage-point rise or roughly 7× the Q1 2023 absolute price level. The two data sources align.
