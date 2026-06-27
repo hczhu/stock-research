@@ -39,7 +39,9 @@ tags:: [[$RBLX]], [[Roblox]], [[discovery algorithm]], [[retention]], [[monetiza
 	- Simple-surface, deep-underneath: **Grow a Garden**, **Steal a Brainrot**.
 	- Category evolution: **Sell Lemons** (personality + structure + stronger loop).
 - ## My takes
-	-
+	- In hindsight, the disruptive recommendation algorithm change was the reason Roblox’s 2026 Q2 and full-year bookings guidance was lowered to 8% to 12%, down from the previously promised consistent 20% growth. Management was determined to roll it out in Q2 2026.
+	  At the same time, they also decided to significantly increase revenue sharing with developers for O18 players, from 26.6% to 37.8%.
+	  It’s quite obvious that management chose to take a hard short-term hit to the stock price in order to pursue its long-term aging-up strategy.
 - ## Investment Implications ($RBLX)
 	- **Quality/LTV pivot**: rewarding 28-day retention should raise content quality, player LTV, and engagement durability — structurally bullish for DAUs/hours/bookings *quality* vs churn-driven spikes.
 	- **Monetization baked into distribution**: if discovery favors monetizing games, Roblox is effectively optimizing distribution for **bookings/its own take-rate** — supports near-term monetization but invites "platform self-dealing" scrutiny.
