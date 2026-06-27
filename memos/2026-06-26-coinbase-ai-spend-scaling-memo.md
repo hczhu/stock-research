@@ -1,0 +1,74 @@
+- ## Source
+	- Brian Armstrong post on X, June 26, 2026
+	- Core claim: Coinbase cut AI spend nearly in half while token usage kept growing, driven by better defaults, routing, caching, leaner context, and better visibility
+	- This is management commentary, not a formal cost disclosure, so the directional lessons matter more than the exact percentages
+- ## Main takeaway
+	- The right mental model is not "control AI costs by constraining usage"
+	- The better model is "build an internal inference and workflow layer that makes higher usage cheaper by default"
+	- This shifts the optimization target from user behavior to system design
+- ## What Coinbase appears to have done
+	- **Cheaper default models**
+		- Engineers still retain model choice
+		- The platform defaults toward cheaper open-weight models such as GLM 5.2 and Kimi 2.7 through an internal gateway
+		- Key point: defaults move aggregate spend more effectively than punitive caps if most users are already below caps
+	- **Task-level model routing**
+		- Prompts are preprocessed and routed to the best model based on task type, price, and cache dynamics
+		- Frontier models may be justified for planning, while execution can often be handled by cheaper models
+		- Important idea: model selection itself becomes an automation problem
+	- **Aggressive caching**
+		- Coinbase frames cache misses as the easiest path to runaway cost
+		- Example given: LibreChat cache hit rate improved from 5% to 60% after proper implementation
+		- This suggests many enterprises are still leaving large savings untapped at the infra layer
+	- **Leaner context hygiene**
+		- Fresh sessions for new tasks
+		- Narrow file context
+		- Disconnect unused tools
+		- The phrase "fewer tokens wasted" is more useful than "fewer tokens used"
+	- **Usage visibility instead of hard friction**
+		- Employees can spend heavily if the work justifies it
+		- Visibility and accountability are used instead of strict caps and alert spam
+- ## Why this matters
+	- AI cost control may increasingly look like cloud cost control
+		- Build a platform layer
+		- Set smart defaults
+		- Route workloads dynamically
+		- maximize reuse through caching
+		- instrument everything
+	- If true, the biggest cost wins are likely not coming from telling employees to "use AI less"
+	- They are coming from better orchestration, better context management, and better infrastructure policy
+- ## Important implications
+	- **The LLM gateway is strategic**
+		- A company-level gateway can enforce defaults, routing, caching, observability, and cost policy in one place
+		- This is likely more durable than trying to govern usage one team at a time
+	- **Open-weight models are becoming default workhorses**
+		- Not necessarily because they are best in absolute quality
+		- Because they can be good enough for many workloads at much lower marginal cost
+	- **Planning and execution should be separated**
+		- This is one of the clearest practical insights in the post
+		- Expensive reasoning may matter most up front, while repetitive execution can be commoditized
+	- **Cache-aware application design is underrated**
+		- Teams often talk about model pricing, but poor cache design can overwhelm those savings
+		- Prompt normalization, context reuse, and routing around warm caches may matter as much as headline price per token
+- ## What the chart suggests
+	- The chart shows total token usage trending up even as stacked spend bars fall from the peak
+	- That pattern is consistent with meaningful efficiency gains rather than simple usage suppression
+	- It also suggests the spend peak may have come before routing and caching discipline matured
+- ## Skeptical questions
+	- How much of the spend reduction came from vendor price declines versus internal optimization?
+	- Are the quality trade-offs from cheaper defaults fully measured, or only partially visible?
+	- How much of the improvement is attributable to one-time prompt or cache cleanup versus durable structural gains?
+	- Does the token growth reflect deeper production usage, or just broader employee experimentation?
+- ## Practical memo
+	- If I were designing an internal AI platform, I would prioritize:
+		- A single LLM gateway
+		- Default model policies by task class
+		- Planning/execution model separation
+		- Cache-aware prompt and context design
+		- Team-level spend and impact dashboards
+	- I would not start with:
+		- Lower caps
+		- More alerts
+		- Manual model-picking by every individual user
+- ## Bottom line
+	- Coinbase's reported result reinforces a broader thesis: AI adoption scales economically when inference becomes a managed systems problem, not an end-user self-control problem
+	- The companies that build the best internal routing, caching, and context discipline may be able to grow AI usage exponentially without matching that growth in spend
