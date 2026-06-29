@@ -14,6 +14,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
   | [GenInnov — "Is DRAM at a Permanently Higher Plateau?"](https://www.geninnov.ai/blog/is-dram-at-a-permanently-higher-plateau) | [Ma & Patterson (Google) — "Challenges and Research Directions for Large Language Model Inference Hardware" (arXiv)](https://arxiv.org/pdf/2601.05047) |
   | [Korea import/export data (Korea Customs Service trade statistics)](https://tradedata.go.kr/cts/index_eng.do#) | [DRAMeXchange — DRAM/NAND spot & contract price tracker](https://www.dramexchange.com) |
   | [TrendForce — memory market research & data (runs DRAMeXchange)](https://www.trendforce.com) | [OpenRouter rankings — weekly token consumption by top models (demand proxy)](https://openrouter.ai/rankings) |
+  | [GPU pricing index dashboard](https://semianalysis.com/gpu-pricing-index/) | |
   
   ---
 - ## Main Narrative
@@ -79,6 +80,18 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	  | 2026-03-23 | 22.730 | +11.7% |
 	  | 2026-03-16 | 20.350 | n/a |
 	- **Read**: From the 2026-04-13 trough (20.558T), consumption has compounded ≈7–10% WoW for 7 straight weeks to 34.528T — a steady, accelerating demand signal underpinning the inference-driven memory thesis. The late-March spike/reversion (27.0T → 21.0T) shows the series is noisy week-to-week; watch the trend, not single prints.
+	- **Hyperscaler + neocloud capex from Exponential View chart** (source: Exponential View analysis; company filings. Total capex includes PP&E + leases; 2026E based on guidance. Annual totals are chart labels; company stack mix is visual and not used as precise data):
+
+	  | Year | Total capex ($B) | YoY growth | Cumulative since 2020 ($B) | Read-through for memory |
+	  |---|---:|---:|---:|---|
+	  | 2020 | 97 | n/a | 97 | Pre-AI baseline for cloud infrastructure spend |
+	  | 2021 | 132 | +36% | 229 | Cloud buildout still mostly conventional hyperscaler growth |
+	  | 2022 | 160 | +21% | 389 | Capex continues rising before the GenAI acceleration fully hits |
+	  | 2023 | 163 | +2% | 552 | Pause year; establishes the pre-boom base |
+	  | 2024 | 268 | +64% | 820 | AI capex step-up begins to show in aggregate spend |
+	  | 2025 | 459 | +71% | 1,279 | Buildout broadens across hyperscalers and neoclouds |
+	  | 2026E | 848 | +85% | 2,127 | Memory demand anchor: AI infrastructure capex is nearly 9x the 2020 level |
+	- **Read**: The chart implies roughly **$2.1T cumulative hyperscaler + neocloud capex from 2020-2026E**, with **2024-2026E alone contributing ~$1.6T**. This supports the $DRAM thesis because memory demand is being pulled by a multi-year infrastructure buildout, not just one customer's training cluster cycle. Risk: total capex is not pure AI capex; it includes pre-planned cloud/SaaS, metaverse, and logistics spend, so use it as a demand-context proxy rather than a direct HBM/DRAM revenue model.
 	- ---
 - ## Secular Trends as Tailwinds
 	- **Agentic AI** — Longer context windows, KV-cache, agent swarms → structural rise in memory intensity per workload ([[2026-06-03-ai-memory-wall-agentic-ai-dram-demand]])
@@ -133,6 +146,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
 	- **HBF/value-capture mismatch** — if HBF becomes important, the Big 3 may sell more high-value NAND, but the *profit pool* could accrue disproportionately to TSMC/Intel packaging, custom accelerator vendors, or system architects rather than to memory makers themselves.
 	  **Hyperscaler capex moderates** — it is guidance, not contract; Microsoft already paused once; ≈5% of US GDP is a historically extreme allocation that has always reverted eventually.
 	- **Samsung breaks discipline** — documented countercyclical share-grab behavior (2022–23); an informal oligopoly breaks when one actor defects.
+	  **TSMC cultivates non-Big-3 memory supply** — TSMC bringing Winbond into next-gen WoW (Wafer-on-Wafer) AI-chip stacking is not an immediate HBM/DDR replacement, but it is a strategic warning. If TSMC can qualify Taiwanese DRAM wafers and stack them directly with logic wafers, some AI-memory value capture and supply optionality shifts from Samsung/SK Hynix/Micron toward the foundry/packaging layer. The risk is not near-term oversupply; it is that TSMC reduces dependence on the Big 3 over time and weakens the scarcity premium embedded in the $DRAM thesis.
 	  **Consumer DRAM snap-back** — deferred PC/smartphone replacement returns just as HBM supply ramps, correcting blended ASPs; "memory prices falling" headlines reprice the whole group even if HBM holds.
 	  **Contracts ≠ demand** — "lock volume, float price" can be read as buyer *uncertainty*; volume commitments get renegotiated in every commodity downturn.
 	- **Cycle-risk sizing**: peak-to-trough EPS revisions average ≈2× (+102% to −88%) over ≈12 months; stocks don't get rewarded for buying peak earnings as the second derivative rolls.
@@ -157,6 +171,7 @@ tags:: [[DRAM]], [[HBM]], [[HBF]], [[NAND]], [[SSD]], [[storage]], [[$005930.KS]
   | 2026-06 | Citi Research | **DRAM ASP +200% YoY in 2026E; NAND ASP +186% YoY.** Front-loaded: blended DRAM QoQ peaks at +64% in 1Q26, NAND at +63% in 1Q26, then decelerates through year-end. Server DRAM leads all segments at +331% YoY. SSD leads NAND at +267% YoY. Graphic/Consumer DRAM is the laggard at +29% YoY — consumer end-market pricing power diverging sharply from AI/server. See Appendix: Citi DRAM & NAND ASP Projection. | bullish |
   | 2026-02-12 | WSJ / TrendForce | **~7× increase in DRAM and NAND flash contract prices in the past 12 months** (i.e., Feb 2025 → Feb 2026). Source: TrendForce tracking data. Consistent with Citi's +200%/+186% YoY ASP projections; confirms the pricing cycle is not a modeling assumption — it was already visible in contract data months before the Citi report. | bullish |
   | 2026-02-12 | WSJ | **CXMT entering PC OEM supply chains for Asia**: HP and other major PC makers in talks with supply-chain partners about using CXMT memory chips in products bound for Asia. First disclosed signal of CXMT qualifying into branded OEM products. Not hyperscale server DRAM — consumer/commercial PC DRAM is a different, lower-spec segment — but this is the adoption pathway: consumer PC → broader commercial → eventually data-center adjacencies. Confirms the Jefferies view that China is not a 2026/27 threat but could be meaningful by 2028+ in non-HBM segments. | bearish |
+  | 2026-06 | Industry news / Korean press | **TSMC brings Winbond into AI-chip memory supply chain via next-gen WoW 3D stacking.** TSMC and Winbond will collaborate on Wafer-on-Wafer stacking, with Winbond supplying DRAM wafers and TSMC stacking them with logic wafers for AI chips. Read: this is less a normal supply deal than a TSMC supply-chain strategy — diversify away from exclusive dependence on Samsung/SK Hynix/Micron, cultivate a Taiwan-based memory ecosystem, and improve AI-chip supply stability. For Winbond, it is a possible entry point into AI server / HPC supply chains. Risk to thesis: not immediate HBM displacement, but longer-term value-capture and sourcing risk if TSMC can make on-package DRAM supply more foundry-controlled. | bearish |
   | 2026-02-12 | WSJ | **Micron US fab timeline and geopolitical context**: (1) New Idaho facilities: first opens **mid-2027**. (2) New York (Clay, near Syracuse) plant: production starts **2030**. (3) Manassas, VA expansion: new supply line already in production. (4) Total US investment pledge: **\$200B**. (5) Micron lobbying for stronger restrictions on US-China semiconductor partnerships; bipartisan legislation introduced. (6) Historical precedent: Apple was working with YMTC in 2022 to qualify it as a NAND supplier — abandoned after lawmaker opposition. The YMTC episode illustrates how quickly a qualified supply relationship can be severed by policy action, raising the ceiling on how aggressively the US can intervene in Chinese memory supply chains. | bullish |
 	- ---
 - ## Appendix — SSD vs HDD Market Share (Bits vs Dollars)
