@@ -1,16 +1,14 @@
-- tags:: [[$DDOG]], [[Datadog]], [[AI]], [[LLM]], [[agents]], [[inference]], [[enterprise-AI]], [[observability]], [[AI infrastructure]], [[OpenAI]], [[Anthropic]], [[$GOOGL]]
+tags:: [[$DDOG]], [[Datadog]], [[AI]], [[LLM]], [[agents]], [[inference]], [[enterprise-AI]], [[observability]], [[AI infrastructure]], [[OpenAI]], [[Anthropic]], [[$GOOGL]]
 
 - **Source**: Datadog, [State of AI Engineering](https://www.datadoghq.com/state-of-ai-engineering/), 2026
 - **Dataset**: LLM telemetry from more than a thousand Datadog customers using Datadog LLM Observability; results are biased toward Datadog's customer base, which skews cloud-native and infrastructure-mature.
-
 - ## Bottom line
 	- Datadog's report says production AI is becoming a **distributed-systems operations problem**: multi-model routing, prompt and context management, rate limits, retries, tool calls, service boundaries, evaluations, and cost control.
 	- This is directly bullish for **LLM observability and AI platform engineering**. As agents move from demos to production, the pain shifts from "can the model answer?" to "can the whole AI system stay reliable, cheap, debuggable, and governed?"
 	- For $DDOG, the most important read is that LLM Observability is not a side feature. The report frames agentic AI as a new observability surface with growing complexity, invisible drift, and production failure modes that map naturally to Datadog's core product DNA.
-
 - ## Key data points
 	- **Provider and model adoption**
-	
+	  
 	  | Metric | Datadog finding | Investment read |
 	  |---|---:|---|
 	  | OpenAI provider share | 63% | Still the default provider, but no longer the only serious production option |
@@ -23,7 +21,7 @@
 	  | Sonnet 4.5 adoption in March 2026 | 19% | Old models persist after successors launch |
 	  | GPT-4o adoption in March 2026 | 22% | Deprecation and model retirement risk becomes operational tech debt |
 	- **Frameworks, context, caching, and reliability**
-	
+	  
 	  | Metric | Datadog finding | Investment read |
 	  |---|---:|---|
 	  | Agent framework adoption | >9% of organizations in early 2025 to almost 18% by early 2026 | Framework adoption nearly doubled; agent telemetry need rises with abstraction |
@@ -39,7 +37,6 @@
 	  | March 2026 errors from rate limits | Almost one-third; nearly 8.4M rate-limit errors | Rate limits remain a material production bottleneck |
 	  | Agentic requests with one service call | 59% | Most production agents are still monolithic |
 	  | Agentic requests with 3+ service calls | 18% | Multi-agent / distributed-agent architectures are still early |
-
 - ## Main arguments
 	- **Fact 1: Production teams are going multi-model**
 		- The report shows that most production AI teams no longer standardize on one model.
@@ -69,7 +66,6 @@
 		- **59%** of agentic requests made only one service call.
 		- Only **18%** made three or more service calls.
 		- Read-through: the market is early. As agents become more distributed, demand for service maps, trace propagation, tool-aware observability, and cross-service debugging should rise.
-
 - ## Investment implications
 	- **Datadog / observability**
 		- This report is strategically favorable for $DDOG because AI production work creates new observability objects: prompts, model calls, tool calls, context windows, cached tokens, retries, rate-limit failures, and eval traces.
@@ -87,25 +83,22 @@
 		- Framework adoption almost doubling suggests developers are standardizing around agent abstractions.
 		- But if frameworks create hidden cost and latency, customers will demand tools that make framework behavior inspectable.
 		- The tooling opportunity is less "build agents" and more "operate, evaluate, route, debug, and govern agents."
-
 - ## Product and market read-through
-	| Theme | What the data says | Who benefits |
-	|---|---|---|
-	| Multi-model production | >70% of orgs use 3+ models | LLM gateways, eval platforms, observability vendors |
-	| Model sprawl | 6+ model usage nearly doubled | Governance, model inventory, deprecation tooling |
-	| Agent framework growth | Adoption nearly doubled YoY | Framework ecosystems, but also telemetry vendors |
-	| Prompt cost center | 69% of input tokens are system prompts | Prompt optimization, caching, context engineering |
-	| Caching gap | Only 28% of eligible spans use cached-read tokens | Observability and cost tooling that surfaces cache misses |
-	| Context explosion | Median request tokens more than doubled; 90th percentile quadrupled | Inference infra, context tools, retrieval quality systems |
-	| Capacity failure mode | Rate limits dominate errors | Capacity planning, fallback routing, model gateways |
-	| Early agent architecture | 59% single-service calls; 18% 3+ calls | Future growth in distributed agent observability |
-
+  | Theme | What the data says | Who benefits |
+  |---|---|---|
+  | Multi-model production | >70% of orgs use 3+ models | LLM gateways, eval platforms, observability vendors |
+  | Model sprawl | 6+ model usage nearly doubled | Governance, model inventory, deprecation tooling |
+  | Agent framework growth | Adoption nearly doubled YoY | Framework ecosystems, but also telemetry vendors |
+  | Prompt cost center | 69% of input tokens are system prompts | Prompt optimization, caching, context engineering |
+  | Caching gap | Only 28% of eligible spans use cached-read tokens | Observability and cost tooling that surfaces cache misses |
+  | Context explosion | Median request tokens more than doubled; 90th percentile quadrupled | Inference infra, context tools, retrieval quality systems |
+  | Capacity failure mode | Rate limits dominate errors | Capacity planning, fallback routing, model gateways |
+  | Early agent architecture | 59% single-service calls; 18% 3+ calls | Future growth in distributed agent observability |
 - ## Risks and caveats
 	- Datadog's dataset is not the whole market. It skews toward cloud-native, infrastructure-mature organizations already instrumenting production systems.
 	- The report measures Datadog customer telemetry, so it may overstate the importance of observability practices relative to the broader market.
 	- Better prompt caching and context engineering could reduce token waste, which is good for enterprise AI margins but can modestly temper the most aggressive inference-demand assumptions.
 	- Multi-model adoption weakens model-provider monopoly power, but it does not automatically mean buyers have pricing power if capacity remains constrained.
-
 - ## Links to related notes
 	- [[2026-06-05-coding-agents-token-demand-and-enterprise-pmf-willison]]
 	- [[2026-06-03-ai-memory-wall-agentic-ai-dram-demand]]
