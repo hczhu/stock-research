@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Guidance for AI agents (Codex, Claude Code, etc.) working in this repository.
+Guidance for AI coding assistants (Claude Code, Codex, etc.) working in this repository.
 
 ## Repository Overview
 
@@ -34,11 +34,11 @@ grep -ril "<source name or key phrase>" memos/
 memos/YYYY-MM-DD-kebab-case-description.md
 ```
 
-Use the date the memo is created or the date of the source material, whichever is more meaningful.
+Use the date the memo is created or the date of the source material, whichever is more meaningful. Multi-word titles with spaces are acceptable for older files but kebab-case is preferred for new ones.
 
 Earnings notes live under ticker-specific subdirectories:
 
-```markdown
+```
 earnings/<Ticker>/<Ticker>-YYYY-QN.md
 ```
 
@@ -57,10 +57,21 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 	- **Bold label**: value
 ```
 
-**Required elements:**
-- `tags::` line at the top using `[[WikiLink]]` syntax
-- `**Source**:` attribution
-- At least one `## Section Title`
+**Required elements for new memos:**
+- `tags::` line at the top using `[[WikiLink]]` syntax — include ticker symbols, sector (e.g. `[[semiconductor]]`, `[[AI]]`), and topic tags
+- A `## Section Title` as the first section
+- `**Source**:` attribution where the content comes from a third party
+
+**Optional but common elements:**
+- `**Thesis**:` — one-line investment takeaway
+- Data tables using standard Markdown table syntax
+- `## Investment Implications` or `## Key Data Points` sections
+- `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
+
+## Input Handling
+
+- **No images**: Never use images in memos. When the input prompt contains images (screenshots, charts, tables), OCR them to extract text and data points, then work from the extracted content.
+- **High data-point density**: When a text block contains many data points (metrics, figures, comparisons), structure it as a Markdown table rather than prose or bullet lists.
 
 ## Do Not Disclose Positions
 
@@ -104,11 +115,14 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 
 ## Workflow Rules
 
-- Never push directly to `main`. Always branch → PR → merge.
+- Never push directly to `main`. Always branch → PR → merge. After merging, `git checkout main && git pull`.
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
-- When searching for context before answering investment questions, `grep` across `memos/` by ticker, company name, or topic keyword.
+- When searching for context before answering investment questions, `grep` across `memos/`, `earnings/`, and `theses/` by ticker symbol, company name, or topic keyword.
+- Structured data in `data/` is CSV; read it directly to answer quantitative questions rather than guessing from memo text.
 - When data-point density is relatively high in a paragraph, use a Markdown table instead of dense prose.
-- Avoid narrow table columns — every column should render at least as wide as a typical word so headers and values do not wrap mid-word (e.g. `Weight` breaking into `Wei`/`ght`, or `19%` into `19`/`%`). When a column's values are very short (a bare number, percentage, or ticker), widen them into a short phrase (e.g. `19% of index` instead of `19%`) or fold the data into an adjacent column rather than leaving a sub-word-width column.
-- Exception: do not use tables in `Anecdotes & Opinions` sections. Use one short paragraph per anecdote/opinion, and use quoted text blocks for literal words from sources.
-- In `earnings/` files, do **not** repeat superficial financial recaps. Avoid headline financial numbers, guidance numbers, and other easily recoverable quarterly boilerplate unless a specific number is itself the insight.
-- Earnings notes should emphasize what changed strategically: customer wins, product direction, go-to-market changes, margin-structure explanations, management tone, competitive read-throughs, and unusual operating signals.
+- Avoid narrow table columns — every column should render at least as wide as a typical word so headers and values do not wrap mid-word. When a column's values are very short (a bare number, percentage, or ticker), widen them into a short phrase or fold the data into an adjacent column.
+- In `earnings/` files, do **not** repeat superficial financial recaps. Avoid headline financial numbers, guidance numbers, and other easily recoverable quarterly boilerplate unless a specific number is itself the insight. Emphasize what changed strategically: customer wins, product direction, go-to-market changes, margin-structure explanations, management tone, competitive read-throughs, and unusual operating signals.
+
+## Content Themes
+
+Memos span: AI infrastructure (GPU, HBM, DRAM, packaging), hyperscaler capex and strategy, SaaS metrics and competitive dynamics, China tech, semiconductor supply chain, and macro. Most memos are based on earnings calls, sell-side research, industry podcasts, or primary source data extracted from screenshots.
