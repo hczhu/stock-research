@@ -1,0 +1,138 @@
+- tags:: [[$MU]] [[$QCOM]] [[$NVDA]] [[$ARM]] [[Cerebras]] [[DRAM]] [[HBM]] [[data-center]] [[inference]] [[semiconductor]]
+-
+- ## Circuit podcast semis stock memo
+	- **Source**: Transcript supplied by user from The Circuit podcast episode discussing Cerebras, Qualcomm investor day, and Micron earnings.
+	- External checks used for key data points:
+		- [Investors.com: Qualcomm data center strategy and fiscal 2029 target](https://www.investors.com/news/technology/qualcomm-stock-ai-data-center-play/)
+		- [Investopedia: Micron Q3 FY2026 earnings, margin, and guidance](https://www.investopedia.com/micron-earnings-q3-fy2026-memory-stock-soars-ai-demand-12006096)
+		- [MarketWatch: Micron DRAM/NAND revenue and price increases](https://www.marketwatch.com/livecoverage/micron-earnings-stock-results-memory-guidance/card/micron-s-revenue-jumped-more-than-300-for-both-major-memory-types-3IooH2upkp6uaQV95eT5)
+		- [Investopedia: Cerebras first post-IPO earnings and margin concerns](https://www.investopedia.com/cerebras-first-post-ipo-earnings-beat-wall-street-projections-the-stock-is-falling-anyway-cbrs-12005527)
+-
+- ## Bottom line
+	- The strongest near-term stock signal in the transcript is still [[Micron]] / memory: pricing power, structural HBM/DRAM scarcity, and customer willingness to sign longer-term contracts suggest the current cycle may have more durability than a normal memory upcycle.
+	- [[Qualcomm]] is becoming more interesting because data center now gives investors a new upside vector, but the transcript frames it as a multi-year "prove it" story rather than a current earnings story.
+	- [[Cerebras]] has clear demand validation for low-latency inference, but public-market credibility is fragile after margin confusion in its first earnings print.
+	- [[Nvidia]] remains advantaged by supply pre-commitments, installed base, and ecosystem gravity, but memory inflation creates a debate over how long it can keep marking up memory-rich systems at corporate gross margins.
+-
+- ## Key data points extracted
+	- [[Cerebras]]
+		- First earnings report as a public company.
+		- Reported revenue around $193 million, ahead of expectations, but stock sold off due to gross margin concerns.
+		- Core gross margin was cited externally around 47% in Q1, with guidance implying a fall into the high-30% range.
+		- Margin pressure is linked to unusual capacity economics, including renting back data center capacity to meet near-term demand.
+		- Transcript claims demand is strong enough that Cerebras has had to reclaim/rent capacity from earlier customers.
+		- Customer concentration remains a risk: transcript highlights UAE-linked entities as historically central customers and shareholders.
+		- Strategic relevance: Cerebras is a test case for whether customers will pay premium token prices for faster, lower-latency inference.
+	- [[Qualcomm]]
+		- Investor day introduced a broader data center roadmap: merchant CPU, AI accelerator, custom ASIC/custom silicon, networking/connectivity, and near-memory compute.
+		- Management guided to data center revenue targets including about $5 billion by fiscal 2027 and more than $15 billion by fiscal 2029 according to external coverage.
+		- Transcript says Qualcomm has two custom ASIC customers and multi-generational programs, but not all agreements appear finalized.
+		- New CPU roadmap includes Dragonfly; podcast hosts view Qualcomm's custom ARM CPU architecture as technically credible.
+		- Qualcomm announced/outlined use of Modular to improve cross-architecture AI software portability.
+		- AlphaWave gives Qualcomm high-speed SerDes/IP exposure, potentially useful on the IO periphery of AI custom silicon designs.
+		- Near-memory compute / high-bandwidth compute is positioned for decode/inference acceleration, not as a full replacement for GPUs or main accelerators.
+		- Risk point: management's fiscal 2029 guide is large, long-dated, and less contractually firm than Arm's long-range targets per the transcript.
+	- [[Micron]]
+		- Podcast characterized the earnings print as a "monster" quarter.
+		- External checks show Q3 FY2026 revenue of about $41.46 billion, adjusted EPS of $25.11, and gross margin around 84.6%.
+		- Guidance called for Q4 revenue around $49-51 billion and margins around 86%.
+		- DRAM revenue was reported up 343% year over year to about $31.3 billion; NAND revenue up 361% year over year to about $9.9 billion.
+		- DRAM pricing rose in the low-60% range quarter over quarter; NAND pricing rose in the mid-80% range.
+		- Transcript suggests HBM pricing is up more than 300% in some categories.
+		- Customers are moving from capacity-only commitments toward longer-term capacity plus pricing agreements, implying buyer fear that prices will not quickly normalize.
+		- The hosts discuss possible future equilibrium gross margins around 65-70%, still far above historical memory-cycle averages.
+-
+- ## Investment view by ticker
+	- [[MU]] / [[Micron]]
+		- Stance: most compelling near-term long idea from the transcript, but position sizing should reflect cyclicality and extreme current margins.
+		- Bull case:
+			- AI memory scarcity gives Micron unusually strong pricing power.
+			- Longer-term customer agreements may reduce the traditional boom/bust shape of the memory cycle.
+			- If gross margins settle materially above history, market multiples may need to re-rate the business.
+			- Micron may gain strategic leverage if 2028-2029 capacity expansion meaningfully increases its share versus SK Hynix and Samsung.
+		- Bear case:
+			- Current margins are likely above normalized levels.
+			- Samsung and SK Hynix have deeper capital bases and may respond aggressively if Micron tries to take share.
+			- Double ordering / customer hoarding could create an air pocket later.
+			- China memory supply, especially CXMT, remains a long-term destabilizer.
+		- What to monitor:
+			- New long-term contract disclosures, especially floors/caps and duration.
+			- HBM capacity ramp timing and yields.
+			- Samsung/SK Hynix capex commentary.
+			- Any signs customers are deferring purchases after the price spike.
+	- [[QCOM]] / [[Qualcomm]]
+		- Stance: data center optionality is now real enough to track quarterly, but not yet enough to underwrite full fiscal 2029 guidance.
+		- Bull case:
+			- Qualcomm has credible low-power CPU design expertise and could become a differentiated custom ARM CPU partner for hyperscalers.
+			- AlphaWave SerDes/IP and custom silicon services may open doors in AI ASIC programs.
+			- Near-memory compute could be useful for inference decode if software support materializes.
+			- Data center revenue could change the multiple if investors stop viewing Qualcomm primarily as an ex-growth handset supplier.
+		- Bear case:
+			- Software ecosystem is outside Qualcomm's historical comfort zone; Modular helps but does not solve the CUDA/ROCm-style platform challenge by itself.
+			- Fiscal 2029 targets may be aspirational; transcript notes some agreements were not finalized.
+			- Custom design services may carry lower margins than investors expect, closer to GUC/Alchip economics than Broadcom-style custom silicon.
+			- Qualcomm has mixed history integrating acquired assets.
+		- What to monitor:
+			- Named hyperscaler/custom silicon customers.
+			- Gross margin impact from custom ASIC programs.
+			- Evidence that Modular materially lowers porting friction.
+			- Dragonfly CPU timing, benchmark data, and software ecosystem traction.
+	- [[CBRS]] / [[Cerebras]]
+		- Stance: high-upside inference pure play, but current evidence argues for caution until margin model and customer concentration are clearer.
+		- Bull case:
+			- Wafer-scale architecture appears differentiated for low-latency inference use cases such as speech, real-time agents, and conversational AI.
+			- OpenAI/AWS validation supports the view that non-GPU inference can find demand.
+			- Premium-token pricing, if sustained, could support a differentiated cloud/service model.
+		- Bear case:
+			- Public investors punished the stock despite revenue beat because margin communication was weak.
+			- Gross margin variability from capacity rent-back and cloud/service mix makes the model harder to value.
+			- Customer/shareholder concentration around UAE-linked entities complicates the quality of revenue.
+			- First public-company quarters matter; early IR execution missteps can compress the multiple.
+		- What to monitor:
+			- Core gross margin progression toward management's longer-term target.
+			- Capacity deployment pace and whether rent-back economics fade.
+			- Customer diversification beyond OpenAI, AWS, and UAE-linked demand.
+			- Actual token pricing versus GPU-based inference alternatives.
+	- [[NVDA]] / [[Nvidia]]
+		- Stance: still structurally advantaged, but memory economics are becoming a more visible part of the debate.
+		- Bull case:
+			- Large installed base and developer ecosystem may be a stronger moat than CUDA alone.
+			- Long-term memory supply commitments create supply assurance versus competitors.
+			- Customers still need GPUs for many internal and third-party workloads even as custom ASICs grow.
+		- Bear case:
+			- If memory becomes a larger share of system cost, Nvidia's ability to mark up memory at full corporate gross margin may be challenged over time.
+			- Hyperscaler custom ASIC and custom CPU programs reduce long-term dependence on merchant GPUs.
+		- What to monitor:
+			- GB/Rubin system gross margins.
+			- HBM pass-through versus markup behavior.
+			- Hyperscaler GPU mix versus internal ASIC mix.
+-
+- ## Second-order beneficiaries and losers
+	- Potential beneficiaries:
+		- [[ARM]]: custom CPU ramp at hyperscalers and Qualcomm Dragonfly both validate ARM in the data center.
+		- [[Broadcom]]: continues to represent the high-margin custom silicon benchmark.
+		- [[TSMC]]: custom ASIC, CPU, accelerator, and memory-adjacent logic demand all reinforce leading-edge foundry demand.
+		- [[Marvell]]: relevant comparison point for custom silicon and IO/periphery design, though Qualcomm/AlphaWave may compete for some sockets.
+		- [[Alchip]] / [[GUC]]: design-services analogs if Qualcomm's business resembles lower-margin implementation work.
+	- Potential pressure points:
+		- [[Apple]]: memory inflation may force device price increases or margin pressure; transcript suggests Apple underestimated duration/severity of memory pricing.
+		- Consumer electronics OEMs broadly: lower priority than AI infrastructure buyers in tight memory allocation.
+		- Non-Nvidia accelerator vendors: memory access, software maturity, and customer trust remain gating items.
+-
+- ## Variant perception
+	- Consensus may still anchor memory to historical cyclicality, but the transcript argues the industry structure may be different because AI customers are signing longer-duration agreements and memory is becoming strategic supply rather than commodity input.
+	- Qualcomm sentiment is skeptical because the company has disappointed on prior adjacency targets such as PCs, but the data center TAM is large enough that even partial success could alter the equity story.
+	- Cerebras is not being valued only on demand; the public market is already demanding evidence of durable unit economics and clear IR communication.
+-
+- ## Key questions for follow-up
+	- Are Micron's long-term memory contracts priced with explicit floors and caps, and how much of FY2027-FY2028 capacity is already committed?
+	- Does Qualcomm's custom ASIC revenue come from high-value compute/CPU tiles, lower-margin design services, SerDes/IP attachment, or wafer capacity brokerage?
+	- How much of Qualcomm's fiscal 2029 data center target is backed by signed customer agreements versus pipeline assumptions?
+	- Can Cerebras prove premium-token pricing at scale outside a handful of strategic customers?
+	- Will Nvidia be forced to share memory-cost inflation with customers, or can it preserve full system-level gross margins?
+-
+- ## Working conclusion
+	- Best transcript-derived idea: favor [[MU]] while memory supply remains constrained and contract duration improves, but expect volatility as investors debate normalized margins.
+	- Best optionality idea: track [[QCOM]] for data center proof points; do not yet capitalize the full fiscal 2029 guide.
+	- Highest-risk pure play: [[CBRS]] needs several clean quarters to prove margin structure and customer diversification.
+	- Market structure takeaway: the AI infrastructure trade is broadening from GPUs to memory, CPUs, custom ASICs, SerDes, and inference software; the winner map is expanding, but execution risk is rising.
