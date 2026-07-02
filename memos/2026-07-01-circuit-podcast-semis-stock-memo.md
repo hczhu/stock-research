@@ -1,4 +1,5 @@
-- tags:: [[$MU]] [[$QCOM]] [[$NVDA]] [[$ARM]] [[Cerebras]] [[DRAM]] [[HBM]] [[data-center]] [[inference]] [[semiconductor]]
+tags:: [[$MU]] [[$QCOM]] [[$NVDA]] [[$ARM]] [[Cerebras]] [[DRAM]] [[HBM]] [[data-center]] [[inference]] [[semiconductor]]
+
 -
 - ## Circuit podcast semis stock memo
 	- **Source**: Transcript supplied by user from The Circuit podcast episode discussing Cerebras, Qualcomm investor day, and Micron earnings.
@@ -40,7 +41,7 @@
 		- DRAM pricing rose in the low-60% range quarter over quarter; NAND pricing rose in the mid-80% range.
 		- Transcript suggests HBM pricing is up more than 300% in some categories.
 		- Customers are moving from capacity-only commitments toward longer-term capacity plus pricing agreements, implying buyer fear that prices will not quickly normalize.
-		- The hosts discuss possible future equilibrium gross margins around 65-70%, still far above historical memory-cycle averages.
+		- The hosts discuss **possible future equilibrium gross margins around 65-70%**, still far above historical memory-cycle averages.
 -
 - ## Investment view by ticker
 	- [[MU]] / [[Micron]]
@@ -131,8 +132,3 @@
 	- Can Cerebras prove premium-token pricing at scale outside a handful of strategic customers?
 	- Will Nvidia be forced to share memory-cost inflation with customers, or can it preserve full system-level gross margins?
 -
-- ## Working conclusion
-	- Best transcript-derived idea: favor [[MU]] while memory supply remains constrained and contract duration improves, but expect volatility as investors debate normalized margins.
-	- Best optionality idea: track [[QCOM]] for data center proof points; do not yet capitalize the full fiscal 2029 guide.
-	- Highest-risk pure play: [[CBRS]] needs several clean quarters to prove margin structure and customer diversification.
-	- Market structure takeaway: the AI infrastructure trade is broadening from GPUs to memory, CPUs, custom ASICs, SerDes, and inference software; the winner map is expanding, but execution risk is rising.
