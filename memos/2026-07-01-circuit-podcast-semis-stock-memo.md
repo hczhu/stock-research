@@ -17,31 +17,38 @@ tags:: [[$MU]] [[$QCOM]] [[$NVDA]] [[$ARM]] [[Cerebras]] [[DRAM]] [[HBM]] [[data
 -
 - ## Key data points extracted
 	- [[Cerebras]]
-		- First earnings report as a public company.
-		- Reported revenue around $193 million, ahead of expectations, but stock sold off due to gross margin concerns.
-		- Core gross margin was cited externally around 47% in Q1, with guidance implying a fall into the high-30% range.
-		- Margin pressure is linked to unusual capacity economics, including renting back data center capacity to meet near-term demand.
-		- Transcript claims demand is strong enough that Cerebras has had to reclaim/rent capacity from earlier customers.
-		- Customer concentration remains a risk: transcript highlights UAE-linked entities as historically central customers and shareholders.
-		- Strategic relevance: Cerebras is a test case for whether customers will pay premium token prices for faster, lower-latency inference.
+		- | Data point | Value / claim | Memo implication |
+		  |---|---|---|
+		  | Public-company setup | First earnings report as a public company | Early reporting credibility matters because new public shareholders do not know the story as well as venture investors |
+		  | Revenue | About USD 193 million, ahead of expectations | Demand is not the main objection in the near term |
+		  | Margin | Core gross margin cited externally around 47% in Q1; guidance implies high-30% range | Street concern is unit economics and mix, not top-line growth |
+		  | Capacity economics | Transcript says Cerebras has had to rent back capacity from earlier customers | Demand may be strong, but rent-back economics can depress gross margin |
+		  | Customer concentration | Transcript highlights UAE-linked entities as historically central customers and shareholders | Revenue quality and governance optics remain key risks |
+		  | Strategic relevance | Wafer-scale architecture targets faster, lower-latency inference | Cerebras is a test case for premium-token pricing |
 	- [[Qualcomm]]
-		- Investor day introduced a broader data center roadmap: merchant CPU, AI accelerator, custom ASIC/custom silicon, networking/connectivity, and near-memory compute.
-		- Management guided to data center revenue targets including about $5 billion by fiscal 2027 and more than $15 billion by fiscal 2029 according to external coverage.
-		- Transcript says Qualcomm has two custom ASIC customers and multi-generational programs, but not all agreements appear finalized.
-		- New CPU roadmap includes Dragonfly; podcast hosts view Qualcomm's custom ARM CPU architecture as technically credible.
-		- Qualcomm announced/outlined use of Modular to improve cross-architecture AI software portability.
-		- AlphaWave gives Qualcomm high-speed SerDes/IP exposure, potentially useful on the IO periphery of AI custom silicon designs.
-		- Near-memory compute / high-bandwidth compute is positioned for decode/inference acceleration, not as a full replacement for GPUs or main accelerators.
-		- Risk point: management's fiscal 2029 guide is large, long-dated, and less contractually firm than Arm's long-range targets per the transcript.
+		- | Data point | Value / claim | Memo implication |
+		  |---|---|---|
+		  | Data center roadmap | Merchant CPU, AI accelerator, custom ASIC/custom silicon, networking/connectivity, near-memory compute | Data center now creates a real upside narrative beyond handsets |
+		  | Revenue target | About USD 5 billion by fiscal 2027 and more than USD 15 billion by fiscal 2029 | Large enough to change the equity story if credible |
+		  | Customer pipeline | Transcript says two custom ASIC customers and multi-generational programs | Validates demand, but customer identity and contract status matter |
+		  | Contract certainty | Transcript says not all long-term agreements appear finalized | Do not underwrite the full fiscal 2029 guide yet |
+		  | CPU roadmap | Dragonfly CPU; hosts view Qualcomm's ARM CPU design as technically credible | Custom ARM CPU work could be a differentiated hyperscaler angle |
+		  | Software asset | Modular intended to improve cross-architecture AI software portability | Helps, but does not eliminate the software-platform challenge |
+		  | Connectivity/IP | AlphaWave adds high-speed SerDes exposure | Could help Qualcomm win IO/periphery sockets in AI custom silicon |
+		  | High-bandwidth compute | Near-memory compute for decode/inference acceleration, not a GPU replacement | Useful companion architecture, but requires software lift |
 	- [[Micron]]
-		- Podcast characterized the earnings print as a "monster" quarter.
-		- External checks show Q3 FY2026 revenue of about $41.46 billion, adjusted EPS of $25.11, and gross margin around 84.6%.
-		- Guidance called for Q4 revenue around $49-51 billion and margins around 86%.
-		- DRAM revenue was reported up 343% year over year to about $31.3 billion; NAND revenue up 361% year over year to about $9.9 billion.
-		- DRAM pricing rose in the low-60% range quarter over quarter; NAND pricing rose in the mid-80% range.
-		- Transcript suggests HBM pricing is up more than 300% in some categories.
-		- Customers are moving from capacity-only commitments toward longer-term capacity plus pricing agreements, implying buyer fear that prices will not quickly normalize.
-		- The hosts discuss **possible future equilibrium gross margins around 65-70%**, still far above historical memory-cycle averages.
+		- | Data point | Value / claim | Memo implication |
+		  |---|---|---|
+		  | Earnings quality | Podcast characterized the print as a "monster" quarter | Strongest near-term stock signal in the transcript |
+		  | Q3 FY2026 reported results | Revenue about USD 41.46 billion; adjusted EPS 25.11; gross margin around 84.6% | Margins are far above historical memory-cycle norms |
+		  | Q4 FY2026 guide | Revenue around USD 49-51 billion; gross margin around 86% | Pricing power appears to be increasing, not fading |
+		  | DRAM revenue | About USD 31.3 billion, up 343% year over year | DRAM is the core driver of the earnings reset |
+		  | NAND revenue | About USD 9.9 billion, up 361% year over year | Tightness is broader than HBM alone |
+		  | DRAM pricing | Low-60% quarter-over-quarter increase | Customers are accepting extraordinary near-term price increases |
+		  | NAND pricing | Mid-80% quarter-over-quarter increase | Supply scarcity is spilling into multiple memory categories |
+		  | HBM pricing | Transcript suggests more than 300% increase in some categories | HBM scarcity remains a structural AI infrastructure bottleneck |
+		  | Contract structure | Shift from capacity-only commitments toward longer-term capacity plus pricing agreements | Buyers appear worried prices will not quickly normalize |
+		  | Possible normalized margin | Hosts discuss future gross-margin equilibrium around 65-70% | Even a margin reset lower could still imply a much better business than historical Micron |
 -
 - ## Investment view by ticker
 	- [[MU]] / [[Micron]]
