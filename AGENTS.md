@@ -69,6 +69,9 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - `## Investment Implications` or `## Key Data Points` sections
 - `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
 
+**Disallowed sections:**
+- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Investment Implications`, `## Variant Perception`, or `## What to Monitor`.
+
 ## Input Handling
 
 - **No images**: Never use images in memos. When the input prompt contains images (screenshots, charts, tables), OCR them to extract text and data points, then work from the extracted content.
