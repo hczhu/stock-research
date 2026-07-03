@@ -1,0 +1,318 @@
+- tags:: [[AI]], [[AI-products]], [[consumer-internet]], [[SaaS]], [[AI-agents]], [[product-led-growth]], [[consumer-software]], [[founder-lessons]]
+
+- **Source**: User-provided Chinese podcast transcript, apparently an interview with Mengqi, founder of Ivoco, about one year of AI software entrepreneurship, moving from vertical B2B agents to consumer software, product craft, model anxiety, and founder psychology. The transcript is machine-generated / noisy; product names such as `Ivoco`, `Manus`, `Claude Code`, `Cursor`, `Whisper Flow`, `Tabless`, `Click`, and `Reddit` are preserved or normalized from context where possible.
+- ## Executive Summary
+	- Mengqi describes a one-year founder arc from concept-heavy vertical AI-agent storytelling toward a more grounded consumer-product approach.
+	- The most important shift is psychological and operational: stop trying to prove sophistication to outsiders or peers, and return to user pain, product detail, and genuine attachment to the product.
+	- The interview captures a broad AI software mood: coding agents make software easier to build, which creates anxiety that every product is copyable; but actual usable products still require thousands of details, stability, UX judgment, and taste.
+	- Ivoco initially pursued B2B vertical agents around sourcing / influencer marketing / growth workflows, then found the path pulled it toward SaaS-like complexity, services, and low product leverage.
+	- The company later pivoted toward consumer software, starting with a lightweight browser extension / desktop workflow tool that helps users access context and AI assistance without constantly switching tabs.
+	- Mengqi's strongest product belief now: if a product shortens the distance between user intent and resolution, it has value even when the underlying AI capability is not unique.
+	- His strongest founder belief now: product work should be led by users and real pain, not by fashionable AI abstractions, funding narratives, or the founder's need to look smart.
+- ## Founder Background And Initial Setup
+	- Mengqi worked across several domains before founding Ivoco:
+		- B2B solution work during the SaaS period.
+		- Consumer work at TikTok.
+		- A year in hardware.
+	- He says he intentionally collected broad experiences because he expected to start a company later.
+	- Ivoco began around one year before the interview.
+	- The company initially fit the pattern of many AI software startups:
+		- Strong founder background.
+		- A team that could attract talent.
+		- A popular AI-agent story.
+	- Mengqi is self-critical about that period. He says much of the early story was more about being clever and impressive than about deeply serving users.
+- ## AI Software Founder Anxiety
+	- The interview frames 2026 AI software as psychologically difficult for founders.
+	- Two forces drive the anxiety:
+		- **Models are too strong**: Claude Code / coding agents make many software features feel easy to reproduce.
+		- **Products are still hard**: despite model capability, few AI software products become genuinely usable and beloved.
+	- Mengqi says around February-March he felt software entrepreneurship might be doomed because any product could be attacked by frontier models, model ecosystems, or fast followers using coding agents.
+	- The anxiety later eased after building a real consumer product:
+		- Client software still has many bugs.
+		- Stability matters.
+		- Cross-device / cross-OS adaptation is hard.
+		- Polished interaction takes time.
+		- Actual product quality is not generated in one prompt.
+	- The core correction: coding agents reduce creation cost, but do not eliminate product craft.
+- ## Why "Anyone Can Build This" Is Only Half True
+	- Mengqi accepts that many ideas can be copied quickly at a rough level.
+	- But he argues the market evidence is clear: many teams can ship demos, while few products are reliable, useful, and smooth.
+	- Manus is used as an example:
+		- Many people said the idea was obvious.
+		- Many teams tried similar products.
+		- Few matched its public-quality, stability, and brand trust.
+	- His broader view:
+		- The idea layer is crowded.
+		- The narrative layer is crowded.
+		- The product-detail layer is still scarce.
+	- Software becomes more like a maintained lawn than a one-time artifact:
+		- Easy to start.
+		- Hard to keep healthy.
+		- Requires constant pruning, bug fixing, edge-case handling, and experience tuning.
+- ## Vertical Agent Thesis And Its Failure Modes
+	- Ivoco originally chose vertical agents over general agents because the general-agent space felt crowded.
+	- The team focused on "sourcing" as a potentially generalizable workflow:
+		- Find influencers.
+		- Find candidates.
+		- Find experts.
+		- Find customers.
+	- Influencer marketing was chosen as the first wedge.
+	- The early logic sounded reasonable:
+		- Sourcing is repetitive.
+		- Growth teams need creators / leads.
+		- AI could search, rank, and recommend people.
+		- Expertise from professional users could be captured and productized.
+	- The problem was that the product kept being pulled toward a traditional SaaS interface and workflow.
+	- Professional users asked for process control, review steps, filtering, and detailed workflow tools.
+	- Following those requests made the product look like an older SaaS product with AI layered on top.
+- ## Professional Users Can Pull You Back To SaaS
+	- Mengqi distinguishes between two user types:
+		- **Professional users**: people whose job is already influencer marketing / sourcing / operations.
+		- **Non-professional users**: founders or generalists who want the outcome without managing the workflow.
+	- Professional users wanted control:
+		- Confirm intermediate results.
+		- Tune filters.
+		- Inspect process.
+		- Keep the workflow close to existing tools.
+	- Non-professional users wanted results:
+		- Do not show me the process.
+		- Give me the output.
+		- Make decisions for me.
+	- Ivoco initially listened heavily to professional users, which made the product more SaaS-like.
+	- Mengqi compares this to asking a professional editor what AI product they want: the product may slowly become Adobe-like because professionals need control and fidelity.
+	- The lesson: if the goal is a new AI-native product, listening to existing professionals can trap the team in old workflow shapes.
+- ## Sourcing Was Not The Highest-Value Link
+	- The team later realized influencer sourcing was only a small part of the value chain.
+	- The harder and more valuable work is often after sourcing:
+		- Outreach.
+		- Communication.
+		- Negotiation.
+		- Follow-up.
+		- Coordination.
+		- Deliverable management.
+	- AI could make a sourcing list, but the customer still faced the more labor-intensive relationship work.
+	- Mengqi says the team had selected a relatively AI-friendly subproblem, but not necessarily the highest-value customer problem.
+	- The lesson: picking the part AI can do easily is not enough. The product must attack the part that matters most in the user's full workflow.
+- ## Horizontal Sourcing Did Not Solve The Problem
+	- Ivoco considered expanding from influencer sourcing into other sourcing categories.
+	- The team rejected this path because the cross-sell logic was weak.
+	- Mengqi uses a food analogy:
+		- Flour and eggs can make both pancakes and pasta.
+		- But a customer does not visit one shop to buy both just because the ingredients overlap.
+	- Similarly, the fact that "finding people" underlies influencers, candidates, experts, and customers does not mean one buyer wants all of those workflows from one product.
+	- Shared technical components are not the same as shared customer demand.
+	- This is an important anti-abstraction lesson: product categories are defined by user jobs, not by the founder's internal capability map.
+- ## Vertical Agents Became Service Businesses
+	- Mengqi's harshest critique of many vertical-agent products: they often become service companies.
+	- The customer may not really use the product.
+	- The vendor may need to assign people to serve the customer.
+	- The "AI product" can become a showpiece while the revenue comes from human service delivery.
+	- In some cases, internal service teams do not even use the AI product that is marketed externally.
+	- This creates a founder trap:
+		- The AI product looks good in materials.
+		- The customer pays for outcomes.
+		- But actual delivery relies on human operations.
+		- Product leverage remains low.
+	- Mengqi says this realization made him lose confidence in broad categories of B2B vertical agents.
+- ## B2B Constraints
+	- Mengqi lists several reasons B2B AI software felt unattractive for his team:
+		- Long sales cycles.
+		- Need for customer service.
+		- Pressure to become an agency or services layer.
+		- Difficulty selling from China / as a Chinese team into US B2B.
+		- Less direct benefit from model leaps in the end-user product.
+		- Organizational mismatch: his team was too strong-willed and product-oriented for heavy customer-service work.
+	- He also says if he wanted to do B2B service work, he might not need a startup-style structure at all.
+	- This pushed Ivoco toward consumer software, where user feedback is faster and product experience matters more directly.
+- ## AI Tool Economics: Token Whales And Gym Memberships
+	- Mengqi describes two broad AI software business shapes:
+		- **Token-whale products**: a small number of users consume large amounts of tokens and pay high amounts.
+		- **Gym-membership products**: many users subscribe, but not everyone consumes the full allowance.
+	- He is skeptical of low-margin token resale models.
+	- A pure token-heavy product can be difficult if the vendor cannot maintain enough gross margin.
+	- A consumer subscription product can work if the value is real and usage does not always max out.
+	- He is interested in consumer software that provides both productivity and emotional value, rather than pure token throughput.
+- ## Learning From Games And Steam Productivity Tools
+	- While exploring consumer software, Mengqi studied games and game-like products.
+	- He found Steam products that blur productivity and companionship:
+		- Pomodoro / focus tools.
+		- To-do / checklist tools.
+		- Habit-formation tools.
+		- Desktop companions.
+	- These products are not pure games and not pure productivity tools.
+	- They provide emotional value through presence, ritual, identity, aesthetics, and lightweight interaction.
+	- Mengqi sees this as evidence that the boundary between productivity and emotional value can be crossed.
+	- His new product direction aims to retain productivity value while adding a warmer, more personal layer.
+- ## Click / Browser Extension Experiment
+	- Ivoco built a lightweight browser extension product, referred to in the transcript as something like `Click` / `可离口`.
+	- The product addressed a personal pain:
+		- Too many browser tabs.
+		- Constant context switching.
+		- Difficulty finding the right information at the moment of writing or working.
+		- ADHD-like frustration from losing focus.
+	- Core ideas:
+		- Follow the cursor.
+		- Let the user invoke AI next to the current writing context.
+		- Pull context from open tabs.
+		- Reduce the need to screenshot, copy, paste, or write prompts manually.
+	- The product was simple and had many obvious alternatives, but users still responded positively.
+	- This gave the team confidence that small UX improvements can matter if they remove real friction.
+- ## From Browser Extension To Desktop Client
+	- The browser extension had a natural limitation: users work across more than browser tabs.
+	- Real workflows include:
+		- Lark.
+		- Slack.
+		- Local files.
+		- Desktop windows.
+		- Browser tabs.
+		- Multiple apps at once.
+	- The team expanded toward a desktop client so the product could operate across the full computer context.
+	- Mengqi says the desktop product took much longer than outsiders would expect.
+	- The team shipped dozens of versions and still found bugs.
+	- The main lesson: even with coding agents, desktop software remains difficult because polish depends on many small edge cases.
+- ## Intent Distance
+	- The core product concept Mengqi extracts from Click is **reducing the distance between intent and resolution**.
+	- Before the product:
+		- User has an intent.
+		- User captures context.
+		- User switches to ChatGPT/Claude.
+		- User writes a prompt.
+		- User copies output back.
+	- With the product:
+		- User clicks an action near the work surface.
+		- The button itself encodes the intent.
+		- The product supplies context automatically.
+		- The user avoids writing a prompt.
+	- This matters because many users do not want a universal chat box. They want the right action in the right context.
+	- As the number of intents grows, the product challenge becomes information architecture:
+		- Which actions should be visible?
+		- How does the UI avoid becoming cluttered?
+		- How does the user understand available powers?
+		- How does the product stay calm?
+- ## Pro-C Consumer Software
+	- The product is not purely for AI power users.
+	- Mengqi argues many mainstream users still do not use AI deeply.
+	- His field research in San Francisco suggested awareness and regular usage of tools such as Whisper Flow or Tabless were lower than AI insiders assume.
+	- This reinforced his belief that AI penetration is still early.
+	- The opportunity is not only serving people who already max out token budgets.
+	- It is also serving users who have real workflow pain but have not yet built AI-native habits.
+- ## User Research Through Reddit
+	- Ivoco uses Reddit heavily for user research.
+	- The team analyzes existing Reddit posts, but static reading is not enough.
+	- They also post questions and discussions to validate:
+		- Whether pain is real.
+		- How users describe the pain.
+		- Which workarounds they use.
+		- Whether existing solutions disappoint them.
+		- Whether users might pay.
+		- Which features matter first.
+	- Mengqi says the team breaks decisions into a decision funnel and uses Reddit feedback at multiple levels.
+	- Each important question may be tested through dozens of posts or comments.
+	- Reddit reduced founder anxiety because it showed many basic workflow problems remain unsolved despite AI progress.
+- ## Product Restraint
+	- Mengqi repeatedly criticizes his own tendency to add fashionable concepts.
+	- In the B2B period, the team tried to combine chat UI, GUI, digital employees, agent concepts, and other new interaction patterns.
+	- In hindsight, he sees much of this as concept-chasing.
+	- His current rule:
+		- Spend most of the time understanding the problem and the user.
+		- Use fashionable concepts only if they help solve the problem.
+		- Do not force an abstraction into the product to look advanced.
+	- This is a major shift from "we have an advanced hammer" to "what exact nail is hurting the user?"
+- ## Consumer Product Craft
+	- Mengqi now believes consumer software needs a different level of craft than many Chinese AI software teams are used to.
+	- Areas he emphasizes:
+		- Visual design.
+		- Emotional value.
+		- Privacy communication.
+		- Onboarding.
+		- Small interaction details.
+		- Stability.
+		- Trust.
+	- Example: privacy.
+		- Users are uncomfortable granting broad desktop/browser access.
+		- Long privacy policies do not solve the trust problem.
+		- Ivoco created a comic-style explanation of how data is stored and handled.
+	- The broader principle: if a product asks for deep access, trust needs to be designed, not assumed.
+- ## Internal Growth Skill
+	- Although Ivoco abandoned the first B2B product as a primary direction, its internal growth automation work became useful.
+	- The team built internal skills/agents for influencer marketing and growth.
+	- The current version is closer to an internal digital worker:
+		- Identifies who to work with.
+		- Estimates price.
+		- Negotiates.
+		- Plans content.
+		- Tracks dates.
+		- Produces a spreadsheet-like deliverable.
+	- Mengqi says this internal skill now works better than the earlier full product because it evolved from the team's own concrete needs.
+	- The lesson: a process product may become stronger when it is first used internally with complete context and continuous iteration.
+- ## AI In The Software Development Workflow
+	- Mengqi sees software development becoming simpler in structure:
+		- Problem initiation.
+		- AI-assisted implementation.
+		- Verification / acceptance.
+	- The middle implementation step receives most attention, but he believes the endpoints are now more important:
+		- Who defines the problem?
+		- How is context collected?
+		- How are priorities set?
+		- Who verifies quality?
+		- Which bugs matter?
+	- Ivoco is building internal workflows where:
+		- User feedback and bugs flow into agents.
+		- Agents triage and assign work.
+		- Coding agents implement.
+		- Humans or agents verify depending on complexity.
+	- He is not ready to release this as a platform because he does not yet know the right interface form.
+	- He is wary of releasing a platform and waiting for users to invent the value.
+- ## Founder Psychology: From Proof To Love
+	- Mengqi says his early company building was partly driven by vanity:
+		- Prove he was smart.
+		- Hire impressive people.
+		- Tell a sophisticated AI story.
+		- Use fashionable terms.
+	- The consumer product changed his relationship with the company.
+	- He describes it as a product he genuinely loves, despite flaws.
+	- The new orientation:
+		- Not "this proves I am impressive."
+		- But "this product matters to me and to users."
+	- He says the product can carry his personality, worldview, and values in a way the B2B agent product did not.
+- ## External Noise
+	- Mengqi says external forces can distort founders:
+		- Outside expectations.
+		- Talent-market expectations.
+		- Peer narratives.
+		- Model-company announcements.
+		- Trendy vocabulary.
+	- His conclusion is that users should become the primary gravitational force.
+	- He is skeptical of "world-first" launch theater if the product does not retain users.
+	- He avoided a big launch for the earlier product partly because he did not truly believe in the product.
+	- He now sees public launch as something that should follow internal conviction and product readiness, not serve as proof that the company is real.
+- ## Founder Lessons
+	- Do not confuse a plausible story with a working product.
+	- Do not hire algorithm researchers for an application company unless the business truly needs them.
+	- Do not let professional users pull a new AI product back into old SaaS workflows unless that is the chosen strategy.
+	- Do not pick an AI-friendly subproblem if it is not the customer's real value bottleneck.
+	- Do not generalize from shared technical primitives to shared customer demand.
+	- Do not use AI because the founder thinks the user "should" want AI.
+	- Do not over-index on concepts such as agents, GUI/chat hybrids, or digital employees before understanding the user problem.
+	- Do build for real workflow pain.
+	- Do use AI to shorten the distance between intent and outcome.
+	- Do preserve founder conviction, taste, and emotional attachment to the product.
+- ## Software Still Has A Future
+	- Mengqi ends more optimistic than he began.
+	- He believes AI software is not dead; rather, the old ways of narrating software companies are being stress-tested.
+	- The market is layered:
+		- Some users are AI-native.
+		- Many are still early.
+		- Some companies need workflows, not agents.
+		- Some users need small utilities, not universal assistants.
+		- Some products can be emotionally resonant, not merely efficient.
+	- He rejects dramatic narratives where one new model or product instantly kills whole categories.
+	- Real competition is dynamic, slow, layered, and full of transitional states.
+	- His current optimism comes from seeing many unsolved user problems and from discovering that product craft still matters.
+- ## Open Questions
+	- Which consumer AI products can combine productivity utility with emotional value?
+	- How much of consumer AI distribution will come from small workflow wedges rather than broad assistant positioning?
+	- What interface best supports many small intents without becoming cluttered?
+	- How durable are desktop/client products if model companies keep expanding their surfaces?
+	- Can internal AI workflows become products without turning into generic platforms?
+	- How should founders balance user gravity against model-company gravity and peer/narrative gravity?

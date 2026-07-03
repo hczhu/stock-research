@@ -1,0 +1,265 @@
+- tags:: [[AI]], [[consumer-internet]], [[content-platforms]], [[social]], [[UGC]], [[gaming]], [[ByteDance]], [[Douyin]], [[Xiaohongshu]], [[China]]
+
+- **Source**: User-provided Chinese podcast transcript, apparently an interview with Evote / Edward, a Chinese consumer-internet founder who previously worked at ByteDance, built products including `6件盘` and `音遇`, later worked on games, and is now exploring AI plus content. The transcript is machine-generated / noisy; product names and some chronology may contain ASR errors.
+- ## Executive Summary
+	- The interview is a dense founder/operator discussion about consumer platforms, social products, games, growth, ByteDance, WeChat, Xiaohongshu, and AI-generated content.
+	- Evote's central product lens is that many internet products can be understood through **supply diversity, distribution efficiency, and user participation intensity**.
+	- His view of "community" is unsentimental: community is usually a transitional stage, not the end state. If a community cannot broaden into a content platform, it must deepen into a vertical media product.
+	- Content platforms win when supply becomes sufficiently abundant and distribution becomes more efficient than explicit follow graphs. In the algorithmic era, "follow" is mostly an older mechanism for sourcing quality content.
+	- He separates "social" into multiple categories that are often conflated: communication tools, dating tools, social networks, social media, content communities, and game-like interaction spaces.
+	- His most repeated founder lesson is that early growth comes from real user demand, not growth hacks. Later growth is constrained by monetization and business model, because paid acquisition only works when the product can sustain a higher bid.
+	- AI is framed less as a new distribution channel and more as a **supply-side unlock**: an "imagination editor" that can turn more users' ideas into digital content and make previously scarce content supply abundant.
+- ## Product Taxonomy
+	- Evote repeatedly pushes against using one generic label such as "social" for very different products.
+	- **Communication tools**:
+		- WeChat is treated primarily as a communication tool, not simply a social product.
+		- The key product quality is restraint: for essential tools with a focused job, fewer visible moves can be better.
+	- **Dating tools**:
+		- Dating is the narrow category whose optimization target is new relationship formation.
+		- These products are inherently odd because a successful match can make the user leave the product.
+		- The stable user base can skew toward people with persistent, high-frequency dating / hormone-driven demand rather than a universal social use case.
+	- **Social networks**:
+		- Friend networks such as WeChat Moments solve existing-relationship expression and maintenance.
+		- They are not the same as dating, content discovery, or communication infrastructure.
+	- **Social media**:
+		- Weibo is described as closer to a star-chasing / fan social-media product, where consumption concentrates around top accounts.
+	- **Content communities**:
+		- Communities connect people through content, but the speaker sees them as a bridge toward either vertical media or broader content platforms.
+	- **Game-like social spaces**:
+		- Products such as `音遇`, party games, and social rooms are not merely "social"; they create rules that force interaction and reveal personal profile dimensions such as voice, humor, taste, confidence, or skill.
+- ## Community Is A Transitional Form
+	- Evote's strongest community thesis: **all communities eventually face a ceiling if they remain only communities**.
+	- The failure mode is:
+		- Growth slows.
+		- New consumers stop entering at sufficient scale.
+		- Creators receive less recognition and fewer commercial rewards.
+		- Creator motivation decays.
+		- The community becomes stagnant or dies.
+	- He describes two viable exits from the community stage:
+		- **Vertical media**: go deeper into one category, improve content sourcing / editorial ability, and extract more value from a narrower domain. Douban is cited as closer to this route.
+		- **Content platform**: broaden content formats, topics, and media types, then rely on scalable distribution.
+	- Douyin, Kuaishou, Bilibili, and Xiaohongshu are described as products that had community phases but later platformized.
+	- Today's Toutiao and Xigua-style products are examples of content platforms that did not necessarily require a strong community phase first.
+	- For UGC platforms specifically, he thinks a community phase is often important because early creators need identity, recognition, and peer feedback before large-scale consumer demand arrives.
+- ## From Tool To Community To Platform
+	- The repeated path for UGC products is:
+		- **Tool**: lower the creation threshold.
+		- **Community**: early creators recognize each other and build motivation through peer approval.
+		- **Content platform**: supply broadens, distribution scales, and commercial rewards replace pure community recognition.
+	- A tool can become a community only when the output itself has consumption value.
+		- Kuaishou's early GIF / editing usage created shareable content.
+		- Douyin's early creation tool lowered the threshold for BGM-driven, rhythm-cut short videos.
+		- Purely private tools, such as note-taking or personal utility tools, are much harder to convert into communities.
+	- The creation threshold matters, but it is not enough. The tool must repeatedly generate artifacts that others want to consume.
+	- Evote contrasts this with VUE: it had tool value and meaningful DAU, but did not become the kind of low-threshold, socially reinforcing tool that could compound into a large community and then platform.
+- ## What Marks The Shift From Community To Platform
+	- Evote suggests judging platformization through outcomes such as DAU and retention, assuming distribution is already competent.
+	- If DAU / retention do not break through, the likely issue is that supply has not diversified enough.
+	- A more operational signal is the concentration of consumption:
+		- In a strong community, a large share of views often comes from a small set of producers.
+		- In a broader content platform, views come from a much more diversified supply base.
+	- Early Zhihu is used as an analogy: a small number of star answerers can dominate the community phase.
+	- Weibo is described as still having a star-chasing concentration pattern in parts of its consumption.
+	- The deeper mechanism is distribution:
+		- Follow graphs used to be a strong way to find quality content.
+		- Recommendation algorithms are now usually more efficient than following individual accounts.
+		- Pursuing follow relationships as the core value proposition can become "driving history backwards" when algorithmic recommendation is already superior.
+- ## ByteDance As The Content Distribution Endgame
+	- Evote says he left ByteDance too early and missed a rare operating-learning window in the 2017-2020 Douyin / IS period.
+	- His retrospective reason is less about money and more about missing:
+		- Exposure to how a large, high-quality machine solves problems.
+		- The experience of working inside a hypergrowth content-distribution organization where one year could equal many years of normal learning.
+	- ByteDance is presented as the strongest example of a company that understood the endgame:
+		- Extreme low-friction consumption.
+		- Strong algorithmic distribution.
+		- A commercial ads loop that lets the product buy traffic aggressively and rationally.
+		- Expansion from attention platform into e-commerce, local services, and broader ecosystem layers.
+	- He frames information distribution as ultimately becoming an advertising platform when it reaches sufficient scale.
+	- This is why he considers many standalone information-distribution startups structurally fragile: if supply is abundant and the format can be absorbed by ByteDance, the largest distribution platform can often pull both creators and attention back into its own system.
+	- The exception is a content medium or information structure that the dominant platform cannot easily replicate.
+- ## Xiaohongshu Was Underestimated
+	- Evote says he previously underestimated Xiaohongshu because entertainment-style content distribution seemed already solved by Douyin.
+	- The revised view is that Xiaohongshu has a different content structure:
+		- Lower creation threshold for certain lifestyle / structured-information users.
+		- Stronger expression and recording use cases than Douyin.
+		- Better fit for structured search and reference-style information.
+		- Text-image posts are often better than video for presenting certain practical information.
+	- He sees Xiaohongshu as having done part of what Tieba and similar communities once wanted to do: organize structured, searchable, interest-based user knowledge.
+	- Douyin can mimic the interface and distribution pattern, but Xiaohongshu's accumulated supply, information structure, and user intent create differentiated value.
+- ## Social Products: Why Dating Is Hard And Narrow
+	- Evote argues that most founders who say they are building "social" are actually confused between several categories.
+	- Dating tools are the only category whose core product target is improving the efficiency of connecting new people.
+	- Tinder-like products optimize around structured signals such as attractiveness and distance.
+	- Once a product explicitly signals "I am here for dating / meeting strangers," it creates safety and intent problems:
+		- Users know the other person may be connecting with many people.
+		- The interaction carries strong purpose and therefore discomfort.
+		- The act of initiating contact contains a status / superiority game, which raises the psychological threshold.
+	- Different generations need different profile structures and interaction formats, so dating products can recur every several years.
+	- But he expects each generational opportunity to get smaller as online connection becomes more saturated.
+	- Dating can be an "OK business," but he does not frame it as a universally large social-network opportunity.
+- ## WeChat's Strategic Strength
+	- Evote attributes China's lack of direct Facebook / Snapchat / WhatsApp equivalents largely to WeChat and Zhang Xiaolong.
+	- His view is that WeChat executed a clear, restrained strategy at the right stages:
+		- Define the communication product correctly.
+		- Classify user scenarios well.
+		- Add the right features at the right time.
+		- Avoid unnecessary product motion.
+	- WeChat's strength is not constant visible innovation. For a condensed, essential communication tool, excessive iteration can damage the product.
+	- ByteDance's attempts to build Snapchat-like or communication/social-network features are described as much harder after WeChat had already occupied the key Chinese user scenarios.
+- ## Games And Social Interaction
+	- Evote resists the phrase "game social" unless the mechanism is defined clearly.
+	- His preferred framing: games can create structured interaction scenes where user relationships become closer through shared rules, repeated actions, and common memories.
+	- `音遇` was built around this idea:
+		- Full-song performance was too high-friction for ordinary users.
+		- Many people only want to sing one memorable line or a short segment.
+		- The product cut songs into fragments, let users compete for singing opportunities, and created a lightweight performance room.
+	- The broader design goal was to create rules that expose profile dimensions:
+		- Voice.
+		- Humor.
+		- Confidence.
+		- Taste.
+		- Expressiveness.
+		- Face / video presence, in some versions.
+	- The hard problem was room diversity:
+		- One or two successful room formats are not enough.
+		- Scaling to 10-20 durable formats is difficult.
+		- UGC creation of room rules would require a deeper architecture.
+	- Another constraint is that rules expose only limited profile dimensions. For example, Werewolf mostly reveals how clever or persuasive someone is, not the whole person.
+	- His retrospective view is that this kind of product may be possible, but the lack of clear large winners shows how difficult it is.
+- ## Game Industry Framework
+	- Evote offers a user-experience-based game taxonomy:
+		- **Gameplay / rule experience**: rules create skill, mastery, competition, or tactical enjoyment. Examples include MOBA, battle royale, and other high-skill systems.
+		- **Content experience**: world, narrative, environment, and role immersion make the user believe they are living another life. He puts Genshin-like and many 3A / MMO experiences here.
+		- **Social experience**: rules help users find status and role inside a group, such as leader, follower, second-in-command, guild member, or rival.
+	- These categories are not mutually exclusive. A game can be 90% content experience and 10% gameplay, or mix content and social experience.
+	- He is cautious about making grand claims on games because his own game projects did not produce enough positive feedback.
+	- His key learning is that mobile commercial games are often closer to consumer products than outsiders think:
+		- Positioning determines a large share of success probability.
+		- Efficient iteration matters after positioning.
+		- Game teams need systems that let people closest to the user feedback change content / mechanics directly.
+	- He is skeptical of vague "innovation" rhetoric in games. Much of successful creation is better understood as:
+		- Copying / studying proven products.
+		- Deconstructing mechanics.
+		- Rebuilding with a differentiated position.
+		- Iterating fast enough to refine fit.
+	- He uses the Japanese craft idea of `守破离`:
+		- First imitate faithfully.
+		- Then modify.
+		- Only later develop an original system.
+- ## Product Managers, Engineers, And Iteration
+	- Evote is sharply skeptical of the generic mobile-internet product-manager role, especially in games.
+	- In his view, many product managers add friction by writing requirements that engineers or designers only partially understand, producing long back-and-forth cycles.
+	- In games, the highest iteration speed comes when designers / planners can directly change skill effects, values, formulas, and content through tools.
+	- The broader organizational principle is "let the people who hear the artillery fire make changes."
+	- ByteDance's algorithm culture is cited as an example:
+		- Product teams may ship larger features in slower cycles.
+		- Algorithm engineers can run many small A/B tests rapidly.
+		- The people improving distribution directly own business metrics.
+	- Product still matters, but its role is to design interactions that collect useful user behavior signals and create the right inputs for the system.
+- ## Growth Is Demand First, Monetization Later
+	- Evote separates growth into stages:
+		- **0 to 1 / PMF**: fundamentally product and demand. If the demand is real and the solution is sharp, users come.
+		- **1 to 100**: fundamentally monetization and business model. Paid acquisition scales only if the business can sustain the bid.
+	- He downplays growth hacks and traffic tactics:
+		- Tactics are useful, but they can mislead founders.
+		- If a product cannot monetize, a team with better monetization can outbid it for traffic.
+	- His current view is that "growth is commercialization."
+		- Commercialization is the user's willingness to pay or otherwise create monetizable value.
+		- That willingness is evidence that the product delivered something real.
+	- This insight came partly from studying Huawei's "customer-centric" principle and asking what the measurable handle is. His answer: delivery, which shows up as customer payment.
+	- He contrasts this with his own `音遇` experience, where competitive pressure pushed the company toward aggressive acquisition before the product and monetization path were ready.
+- ## Founder Lessons From 6件盘 And 音遇
+	- `6件盘` began as a game-adjacent keyboard tool to quickly send preset messages, originally inspired by in-game communication friction.
+	- Its actual growth came from a different use case: fan communities using preset copy to support idols and coordinate "rainbow praise" / call campaigns.
+	- The product reportedly grew quickly but had limited ultimate scale, so Evote moved on.
+	- `音遇` grew fast, raised substantial capital, and attracted acquisition interest, but Evote describes the period as stressful rather than triumphant.
+	- Main mistakes he identifies:
+		- Competitive focus displaced user focus.
+		- Traffic spending pulled in users who damaged the community structure.
+		- The team did not commercialize early enough despite having a plausible voice-room / live-room monetization path.
+		- He lacked time to think because the company was being pushed by competitors and capital.
+	- The main personal lesson was not a simple operating tactic, but better self-knowledge:
+		- Understanding when ego drives decisions.
+		- Understanding how he reacts under pressure.
+		- Understanding whether he is doing enough to reverse a negative trend or merely being carried by it.
+- ## Founder Capability: Empathy, Imagination, Logic
+	- Evote cites Zhang Yiming's formulation:
+		- Empathy is the foundation.
+		- Imagination is the sky.
+		- Logic is the tool.
+	- His version of product insight starts with curiosity:
+		- Keep asking why something is this way.
+		- Look for cracks in the "dream."
+		- A crack often reveals an unreasonable user experience, which may become a real demand.
+	- He describes himself as strong at noticing unreasonable details and imagining a more reasonable product form.
+	- Example from WeChat:
+		- If a user sends a friend request from a group and later cannot tell whether it was sent, sending again may make them look overly eager.
+		- This small interaction violates the user's expected social posture.
+		- He says he escalated this as a product issue and it was later changed.
+	- The larger principle: product design should not unexpectedly distort real-world relationships between people.
+- ## Zhang Yiming And Zhang Xiaolong
+	- Evote frames Zhang Yiming as highly rational but also romantic at a large scale.
+		- He sees ByteDance as unusually rational in reducing dependency on vague assumptions and running the organization through metrics and disciplined problem-solving.
+		- He also sees Zhang Yiming as having a literary / idealistic side based on reading his old posts.
+	- Zhang Xiaolong is framed as restrained, observant, and deeply clear about the relationship between product, people, and the world.
+		- Evote says much of his understanding comes from reading WeChat version histories, public talks, and Zhang's posted content.
+		- He describes Zhang Xiaolong more as an observer of the world, while Zhang Yiming is more of a participant / builder.
+	- The contrast is partly role-driven:
+		- A CEO must participate in organization and strategy.
+		- A product leader can sometimes remain more purely observational and restrained.
+- ## AI As The Imagination Editor
+	- Evote contrasts mobile internet and AI:
+		- Mobile internet expanded the connected user base from PC-era scale to billions of people and added camera, mobility, location, and native device interactions.
+		- AI does not automatically create the same new-user explosion.
+		- AI's central change is on the supply side.
+	- His metaphor:
+		- The camera is an editor of the physical world: it turns physical reality into digital information.
+		- AI is an editor of imagination: it turns human imagination into digital information.
+	- This matters because relatively few people have strong camera presence, visual production skill, or polished creative execution.
+	- AI can let people with imagination but weak production skills express themselves.
+	- For content platforms, this can make previously insufficient supply become abundant enough to support new platform forms.
+	- He is less concerned with whether a product is "AI native" in a pure sense. The important question is whether it exceeds user expectations.
+	- Because current models are still immature, he sees rule-based design and hard-coded scaffolding as necessary in real products.
+	- His practical model of current AI: not one professional master, but many high-school-level assistants. Product design should account for that capability profile.
+- ## AI, Content Platforms, And Co-Creation
+	- AI may change the producer / consumer split.
+	- Traditional platforms often separate creators and consumers.
+	- With AI, users may consume and produce in the same flow:
+		- Reacting to content can become a creative action.
+		- Remixing and co-creating can become low-friction.
+		- Secondary creators may become a much larger class of participant.
+	- He compares this to comment participation in Neihan Duanzi, where commenters became a kind of secondary creator.
+	- If a product defines the interaction well, users may gain both consumption value and participation / creation value.
+	- This could improve retention because users who create or co-create leave more assets and identity on the platform than passive consumers.
+- ## AI And Entertainment Time
+	- Evote is commercially very optimistic about AI because it can increase total productive output and automate work that humans should not have to do.
+	- He argues that if AI saves production time, society can release more entertainment time.
+	- From this lens, entertainment demand should expand as AI removes or compresses labor.
+	- AI plus games / content is attractive to him because entertainment is where freed human attention may go.
+	- He is more cautious socially:
+		- AI may make many forms of skill less scarce.
+		- If intelligence, creativity, or even companionship become less scarce, the cultural effects are hard to predict.
+		- He worries about worlds where AI substitutes for real human scarcity, especially in relationships and deceased-person simulations.
+- ## AI Companions And Social Scarcity
+	- Evote does not rule out AI dating or AI companionship technically.
+	- He is personally uncomfortable with it because he sees scarcity as a driver of civilization and meaning.
+	- If people themselves become non-scarce through AI substitutes, the world may feel more like a toy than a human social environment.
+	- His stance is not that AI companionship cannot happen; it is that he does not want that outcome to become culturally dominant.
+- ## Meta-Lesson: Strategy Helps, But User Reality Wins
+	- A recurring tension in the interview is between strategic determinism and operator reality.
+	- Evote often says a product's end state may be visible early if one understands the category, business model, and distribution structure.
+	- But he also says this kind of strategic talk is often investor-style abstraction and can become detached from the field.
+	- Actual operating decisions should still come from:
+		- User feedback.
+		- Behavioral data.
+		- Real demand.
+		- Product readiness.
+		- Commercial delivery.
+	- His current operating style has shifted from "think to 40 points, then execute" toward "think to 85 points before committing," partly because games taught him how expensive long-cycle mistakes can be.
+- ## Open Questions
+	- Can AI-created supply become abundant enough to support entirely new content platforms, or will it mostly strengthen existing distribution systems?
+	- What interaction pattern best turns consumers into lightweight co-creators without making the product feel like work?
+	- Can game-like rooms produce enough durable format diversity, or do they inevitably collapse into a few narrow mechanics?
+	- How much of Xiaohongshu's advantage is content structure versus community culture versus search intent?
+	- Will AI entertainment products create new demand or mostly compete for existing attention pools?
+	- Can AI companions become mainstream without weakening the human scarcity that makes social life meaningful?

@@ -1,4 +1,5 @@
-- tags:: [[$UAL]] [[$DAL]] [[$AAL]] [[$LUV]] [[$ALK]] [[$JBLU]] [[airlines]] [[travel]] [[premiumization]] [[loyalty-programs]] [[fuel]] [[M&A]]
+tags:: [[$UAL]] [[$DAL]] [[$AAL]] [[$LUV]] [[$ALK]] [[$JBLU]] [[airlines]] [[travel]] [[premiumization]] [[loyalty-programs]] [[fuel]] [[M&A]]
+
 -
 - ## Bloomberg Businessweek: United/Kirby airline industry memo
 	- **Source**: Bloomberg Businessweek, "United's CEO Is Here to Buy Your Struggling Airline" by Mary Schlangenstein and Devin Leonard, April 23 2026; part of the June 1 2026 Businessweek issue. Extracted from user-provided PDF: `United Airlines Navigates Fuel Price Spikes, Merger Talk Under CEO Scott Kirby - Bloomberg.pdf`.
@@ -56,16 +57,6 @@
 		  | American O'Hare losses | Kirby estimated American lost USD 500M there in 2025 and could double this year | If directionally right, American may be defending share uneconomically |
 		  | TSA/ATC shutdown risk | Kirby lobbied to designate air traffic controllers as essential workers | Government shutdown risk is a real operating variable for airlines |
 		  | International network | United added Ulaanbaatar and Nuuk | United is leaning into differentiated international breadth |
-	- ### M&A and consolidation scenarios
-		- | Scenario | Article data point | Probability / implication |
-		  |---|---|---|
-		  | United + American | Would create more than USD 100B of annual revenue | Strategically huge but high antitrust, legal, integration, and management-distraction risk |
-		  | United + American domestic share | Combined companies control estimated 40% of domestic seats | Deal would face deep regulatory scrutiny |
-		  | American response | American publicly said it is not interested | Hostile or politically driven path would be difficult |
-		  | Integration precedent | US Airways-American integration took almost seven years | Any mega-merger would likely impair focus during a critical execution window |
-		  | United + JetBlue partnership | Federal approval allows United to use some JetBlue JFK slots | Partnership gives United a lower-risk path back into JFK |
-		  | United at JFK via partnership | Seven daily JFK flights starting next year | Small but strategically relevant re-entry after United exited JFK in 2022 |
-		  | Potential JetBlue acquisition | Could provide as many as 180 daily JFK flights | More plausible strategic asset than American if regulators allow |
 	- ### Fuel shock and weaker-carrier stress
 		- | Data point | Value / claim | Industry implication |
 		  |---|---|---|
@@ -90,38 +81,3 @@
 	- Network scarcity is becoming more valuable.
 		- Newark, O'Hare, and JFK are not interchangeable; regulatory caps, slots, and airport infrastructure determine competitive position.
 		- United's desire for JFK access shows that premium carrier status requires coverage of the most important corporate/leisure gateways.
--
-- ## Stock implications by ticker
-	- [[$UAL]]
-		- **Bull case**: United is narrowing the Delta gap while retaining more room for operational, loyalty, and premium-product improvement.
-		- **Key upside drivers**: loyalty monetization catch-up, fleet/product upgrade cycle, international network breadth, JFK optionality, and weaker-carrier asset availability.
-		- **Key risks**: fuel price spike, Newark/ATC reliability, O'Hare overcapacity, political/regulatory overreach, and management distraction from M&A ambitions.
-		- **Variant perception**: market may still underwrite United as a cyclical airline, while the article argues it is becoming a premium/network/loyalty platform.
-	- [[$DAL]]
-		- **Bull case**: Delta remains the reference asset for premium airline economics, margin quality, and loyalty monetization.
-		- **Key upside drivers**: continued premium demand, product leadership, loyalty economics, and ability to respond quickly to United product moves.
-		- **Key risks**: United copy/competition narrows relative edge; fuel inflation still pressures absolute margins.
-		- **Variant perception**: Delta may deserve a premium multiple, but the article offers fewer new upside surprises than United.
-	- [[$AAL]]
-		- **Bull case**: Scale and loyalty economics remain meaningful, and any reduction in O'Hare losses/corporate-sales damage could help.
-		- **Key risks**: weaker premium product, corporate travel channel mistakes, potential uneconomic hub defense, and low strategic flexibility.
-		- **Variant perception**: American's loyalty program is valuable, but the operating airline may be losing share of the premium profit pool.
-	- [[$JBLU]]
-		- **Bull case**: Strategic JFK slots/network position could make JetBlue more valuable to United than standalone financials imply.
-		- **Key risks**: M&A speculation may exceed regulatory reality; standalone scale remains small versus network majors.
-		- **Variant perception**: JetBlue is less an operating-quality story in this article and more a scarce-network-asset story.
-	- [[$LUV]] / [[$ALK]] / ULCCs
-		- **Read-through**: Southwest and Alaska appear less central to the article's immediate consolidation thesis, while Spirit/Frontier-style ULCC models look most exposed to fuel inflation and basic-economy competition from the majors.
--
-- ## Open questions
-	- Can United close the loyalty revenue gap versus Delta/American without degrading MileagePlus economics?
-	- Does United's premium capex earn incremental returns, or does the industry copy features until returns normalize?
-	- How much of American's O'Hare loss estimate is accurate, and when does American rationalize capacity if losses persist?
-	- Will regulators tolerate United accumulating more JFK relevance through partnership or acquisition?
-	- If oil stays elevated through 2027, which airline balance sheets and route networks are forced to shrink first?
--
-- ## Working conclusion
-	- Best stock idea from the article: [[$UAL]] as an improving premium/network carrier with multiple self-help levers and consolidation optionality.
-	- Highest-quality incumbent: [[$DAL]], but with fewer incremental surprises because the market already recognizes its premium leadership.
-	- Main negative read-through: [[$AAL]] and weaker low-cost carriers, especially where hub defense, fuel inflation, and basic-economy competition undermine profitability.
-	- Main industry framework: US airline investing should prioritize premium profit-pool capture, loyalty monetization, scarce hub/slot control, and resilience to fuel/regulatory shocks rather than headline passenger growth.
