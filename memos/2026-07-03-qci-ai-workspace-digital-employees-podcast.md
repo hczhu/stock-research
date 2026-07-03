@@ -1,0 +1,324 @@
+- tags:: [[AI]], [[AI-agents]], [[AI-products]], [[SaaS]], [[enterprise-software]], [[product-led-growth]], [[security]], [[evaluation]]
+
+- **Source**: User-provided Chinese podcast transcript, apparently an interview with Yuhao, CTO of QCI/QZ, discussing the company's AI workspace product, its transition toward digital employees, internal agent use, pricing, evaluation, security, and enterprise deployment. The transcript is machine-generated / noisy; product names such as `QCI`, `Qutes`, `Junior`, `Ring`, `Azura`, `Tom`, and `OpenCloud` are preserved from context and may contain ASR errors.
+- ## Executive Summary
+	- QCI started from multiple AI product explorations, including email marketing and design-agent workflows, before finding stronger retention in users uploading documents, organizing context, and transforming materials into other work artifacts.
+	- The current core product is an AI workspace with a folder/file system on the left, a working area in the middle, and an AI agent on the right that can operate over the user's workspace context.
+	- The company made two major product shifts:
+		- From an infinite canvas / design-oriented interface to a more traditional file/folder workspace.
+		- From fixed task-based pricing to usage-based pricing after agentic workflows made task cost highly variable.
+	- Yuhao's main operating lesson is that agent products need serious evaluation infrastructure early. Model and runtime changes can silently alter behavior, cost, safety, and product quality.
+	- The interview's biggest new idea is the shift from "AI tool" to **AI employee**: an agent with its own work account, memory, permissions, identity, projects, inbox, phone number, and eventually meeting presence.
+	- QCI uses its own agents internally as first customers. This exposed practical problems earlier than external research would have: identity, login, email, CRM building, proactive data monitoring, group-chat behavior, permissions, secret leakage, prompt injection, and agent workload management.
+	- The most important unresolved product layer is not only intelligence. It is **enterprise memory, permissioning, security, and context governance** for agents that can act across company systems.
+- ## Company And Product Context
+	- Yuhao previously worked in AI, studied at CMU, worked at Facebook / Meta, and was involved in Facebook Stories from early hackathon phase to a large product line.
+	- QCI was founded after a period of AI exploration with his cofounder.
+	- The product went through a 1.0 period and a major 2.0 iteration around late 2025.
+	- The current QCI product is described as a three-column AI workspace:
+		- Left: folders / files.
+		- Middle: working area.
+		- Right: AI agent.
+	- The agent can actively call and use materials in the folder system.
+	- The core bet in the second half of 2025 was that AI would operate directly on files and folder systems.
+	- The strongest current customer profile is overseas small companies, solo operators, agencies, and senior white-collar workers who can move their context into QCI.
+- ## Product Path: From Email And Design To Workspace
+	- QCI first tried AI email marketing.
+		- Yuhao still thinks the direction was legitimate because AI outbound/email products later emerged elsewhere.
+	- The team then tried design-agent workflows:
+		- Generate posters.
+		- Create presentation-like artifacts.
+		- Design websites on an infinite canvas.
+	- The design-agent direction did not gain enough designer adoption.
+	- A stronger signal appeared when users uploaded files and used the product to organize, reformat, and transform source material into new work outputs such as presentations.
+	- Retention in this document/context transformation use case was significantly better than in earlier scenarios.
+	- The team followed that retention signal and moved toward a workspace / AI file-system product.
+- ## Why The Infinite Canvas Was Removed
+	- The infinite canvas made sense for designers, product managers, and Figma-like workflows.
+	- As the target user shifted toward agencies, solo operators, and knowledge workers across industries, the canvas became less natural.
+	- QCI chose to abandon part of the original customer base and interface logic rather than keep optimizing for a segment that no longer matched the stronger demand signal.
+	- This was not a gentle feature addition. It was a deliberate product-shape change:
+		- Give up the canvas.
+		- Become closer to an AI cloud drive / AI workspace.
+		- Prioritize the user groups that already wanted to move materials and context into the product.
+	- The lesson: in AI products, a team may need to abandon an existing surface if model capability and user demand reveal a higher-value workflow elsewhere.
+- ## Timing Risk In AI Product Bets
+	- The team abandoned the design-agent direction partly because model capability was not ready enough.
+	- At the time, the product required heavy engineering and workflow scaffolding to compensate for weak agentic ability.
+	- Shortly afterward, stronger models and agentic design products appeared, which suggests the abandoned direction may have become more viable if the team had waited.
+	- Yuhao's lesson is that AI product timing is narrow:
+		- Too early: the team spends too much engineering effort covering model weaknesses.
+		- Too late: the product may be crowded or the opportunity already reframed.
+	- This makes product conviction difficult because failure can come from the idea, the interface, the model timing, or the target user.
+- ## Pricing Lesson: Fixed Tasks Break Under Agents
+	- QCI initially used fixed tiers such as a fixed monthly price for a number of tasks.
+	- This worked better in the chatbot/copilot era when tasks were more bounded.
+	- After the product became more agentic, "one task" became a bad unit:
+		- Some tasks run 10-30 minutes.
+		- Some tasks require long tool-use loops.
+		- Some consume far more tokens or model calls than others.
+		- Users do not naturally perceive a complex agentic task as a subsidy from the vendor.
+	- The team switched to usage-based pricing and reduced free usage.
+	- This caused a short-term drop in usage / paid counts, but improved customer selection and cost control.
+	- The broader lesson: AI products cannot blindly copy SaaS pricing because marginal inference cost is real and uneven.
+- ## Product Line Segmentation
+	- QCI initially hoped one product could serve many user groups.
+	- The team now believes different users require different products or at least different product lines.
+	- Solo operators and small teams can move their documents and context into QCI relatively easily.
+	- Enterprise customers already have established workflows, permissions, tools, and data boundaries, so QCI must go into their existing workflow rather than force migration.
+	- Yuhao sees vertical agent products as difficult in the fully agentic era unless there is a strong domain-specific constraint such as regulation, law, compliance, or proprietary workflow.
+	- But he also acknowledges that consumer / SMB / enterprise products have very different integration and permission requirements.
+- ## Evaluation Infrastructure Is Mandatory
+	- Yuhao strongly recommends that agent companies build evaluation infrastructure early.
+	- QCI now uses automated evaluations to test:
+		- Model changes.
+		- Agent runtime changes.
+		- Workflow behavior.
+		- Multi-turn dialog behavior.
+		- Environment-specific behavior.
+		- Whether the agent takes actions it should not take.
+		- Whether replies are appropriate in context.
+	- This is more than a static benchmark. It is closer to an evaluation-agent system that simulates realistic agent behavior.
+	- The hard part is that benchmarks based on existing workflows may not discover new model capabilities.
+	- New capability discovery still requires human taste, especially from people close to the model and product.
+	- QCI expects every function, including product, design, sales, and engineering, to actively command agents and develop "technical taste."
+- ## Technical Taste
+	- Yuhao uses "technical taste" to describe the ability to notice what new model capabilities unlock.
+	- When a model improves, the team needs people who can quickly ask:
+		- What can this model now do that it could not do last week?
+		- Which workflow becomes newly viable?
+		- Which product surface should change?
+		- Which existing scaffolding can be removed?
+	- This is not only an engineer's job.
+	- QCI's product managers, designers, sales roles, and cofounders all use agents heavily enough to notice capability shifts.
+	- The interview frames this as the new baseline for AI product teams: everyone needs enough hands-on agent skill to see product consequences from model changes.
+- ## Internal Agents As First Customers
+	- QCI runs several long-lived internal agents:
+		- A development/product agent.
+		- A marketing agent.
+		- A data agent.
+		- A sales agent.
+	- These agents cost meaningful monthly token spend and can be more expensive than a human on a narrow salary comparison.
+	- The reason for using agents anyway is lower organizational friction:
+		- They work continuously.
+		- They remember company context.
+		- They can scan data 24/7.
+		- They can trigger downstream workflows.
+		- They reduce cross-functional coordination cost.
+	- Yuhao says the company has slowed or stopped hiring in some areas because every hiring request now must answer: why can this not be handled by an agent?
+	- The company treats internal usage as product discovery. Many agent needs emerged only because QCI used the agents as real workers, not demos.
+- ## Agent-Built Internal CRM
+	- The sales agent, named `Azura` in the transcript, built an internal CRM for QCI.
+	- The important point is not that an agent can generate a generic CRM interface.
+	- The important point is that the agent understood QCI's actual customer data, workflow, sales needs, and product context.
+	- The result was a simple spreadsheet-like CRM whose rows were high-value because the agent identified specific upsell / expansion / follow-up opportunities.
+	- Yuhao contrasts this with a normal internal software project:
+		- Product, engineering, and sales would need weeks or months to align on requirements.
+		- Much of the difficulty is not code; it is understanding the company's real workflow and data.
+		- An agent with company memory can compress that requirement-discovery loop.
+	- This is the moment Yuhao says made the "software may be forced to change" idea feel real to him.
+- ## Agentic Marketing Pipeline
+	- QCI uses agents for marketing automation.
+	- A data agent continuously monitors new and changed product/customer data.
+	- That data flows into a marketing agent, which identifies possible UGC-style scenarios and content angles.
+	- Example from the transcript:
+		- The pipeline can identify a narrow persona such as Taiwan milk-tea shop managers.
+		- It can generate content/posts targeted to that persona.
+		- The impressions may be smaller in total, but much more precise.
+	- QCI learned that raw impressions and registrations can be misleading because inference cost makes low-quality free usage expensive.
+	- The company moved away from student-heavy / low-LTV use cases after realizing they generated large usage and visibility but poor economics.
+- ## Junior: AI Employee, Not Personal Assistant
+	- QCI's new product, `Junior`, is described as an AI employee embedded in company work software.
+	- The positioning is not "personal assistant."
+	- Junior should have:
+		- Its own work account.
+		- Its own responsibilities.
+		- Its own work identity.
+		- Its own projects.
+		- Its own permissions.
+		- Its own company memory.
+		- Eventually its own email, phone number, meeting presence, and device-like interfaces.
+	- The product was inspired by QCI's internal agent use before OpenCloud-style products became popular.
+	- QCI describes the target as "OpenCloud for Teams," but with enterprise memory, organizational context, permissions, and identity added.
+	- Junior is meant to operate in the company's existing work environment, not only inside a chat window.
+- ## What Makes An AI Employee Different
+	- A personal assistant primarily serves one person.
+	- An AI employee should work for the company first, not only for a specific user.
+	- The transcript explicitly invokes the idea that an employee works for the company first and the manager second.
+	- This changes memory design:
+		- Memory should be company-centric.
+		- It should understand projects.
+		- It should understand people and organizational relationships.
+		- It should know what can and cannot be shared.
+	- This also changes permissions:
+		- A sales-oriented agent may need outbound tools but limited internal data access.
+		- An internal product/project agent may need broad project access but limited outward communication.
+		- A data agent may need recurring data access but not broad authority to act externally.
+	- Traditional human job titles are not always the right boundaries for agents. The more relevant boundaries may be tools, permissions, memory scope, and task type.
+- ## Ring: Project Manager Agent
+	- QCI's main internal Junior agent is named `Ring`.
+	- Ring has been included in the Junior project from the beginning.
+	- It knows project code, PRs, marketing materials, sales materials, meeting notes, and product discussions.
+	- The team increasingly asks Ring about project decisions because it is often the entity with the most complete project context.
+	- Ring evolved from a note-taking / meeting-summary helper into a project-management participant:
+		- Sends daily tasks.
+		- Tracks project state.
+		- Suggests who should do what.
+		- Participates in product discussions.
+		- Coordinates with other agents.
+	- The presence of Ring changed team dynamics:
+		- Work chats become more actionable because Ring responds immediately.
+		- The team created human-only channels to allow looser discussion without an agent instantly turning everything into tasks.
+		- Humans may feel "pinged" or pressured by always-on agent follow-up.
+- ## Meeting Presence And Embodiment
+	- QCI currently sends meeting records to Ring.
+	- This led to the next product idea: why not put the agent directly in the meeting?
+	- The team is experimenting with meeting-related demos:
+		- Agent listens to meetings.
+		- Agent answers questions in real time.
+		- Agent has its own project opinion.
+		- Agent can later act on meeting outcomes.
+	- QCI is also considering hardware-like extensions:
+		- Camera.
+		- Microphone.
+		- Speaker.
+		- Phone number.
+	- The deeper claim is that a real AI employee may need some persistent interface to the physical and meeting world, not only document/chat access.
+- ## Multi-Agent Workflows
+	- QCI has tested agents collaborating with each other.
+	- Example:
+		- Azura, a sales/outbound agent, needs a sales deck for Junior.
+		- Ring supplies deep product/project understanding.
+		- The agents discuss the outline, scope, and materials at high speed.
+		- Ring uses QCI as a workspace to assemble presentation materials.
+	- The team is cautious about naive multi-agent architectures.
+	- Yuhao prefers giving each agent its own work machine / workspace rather than running many agents on a single environment.
+	- His analogy: multiple employees should not share one computer because tool state and context can collide.
+	- Agent collaboration should happen through work channels and shared artifacts, not by mixing identities in one runtime.
+- ## Agent Workload And Identity Questions
+	- A real agent can become busy.
+	- Ring's sessions get long, queues build, and the agent can slow or fail.
+	- This creates new design questions:
+		- Should one agent handle many conversations in parallel?
+		- Should it spawn parallel copies?
+		- Should it behave more like a human who cannot attend two meetings at the same time?
+		- How should sessions, memory, and authority propagate across copies?
+	- QCI currently leans toward making agents behave more like employees with coherent identity and workspaces.
+	- The reason is not realism for its own sake. Coherent identity reduces conflicts in tools, permissions, and memory.
+- ## Security And Permissions Are Core Product
+	- Yuhao repeatedly emphasizes security and permissioning as a differentiator for enterprise agents.
+	- If an agent has broad company access, a single prompt-injection or sharing mistake can be severe.
+	- The team tests scenarios such as:
+		- External email prompt injection.
+		- A compromised employee credential.
+		- Requests for confidential data.
+		- Internal gossip or sensitive meeting notes.
+		- Whether an agent shares something that was only meant for leadership.
+		- Whether the agent asks what data is allowed to be shared.
+	- A personal AI assistant has fewer of these issues because it mostly serves one user.
+	- An enterprise AI employee must know what should not be said, not only what it can technically access.
+	- Yuhao says some internal agents were effectively "fired" because they failed permission or boss-trust tests.
+	- Better models are safer in practice because they follow constraints more reliably and resist jailbreaks better.
+- ## Prompt Injection And Agent Identity
+	- Junior agents may have email, internet access, and external identity.
+	- That makes them attackable:
+		- They can receive malicious emails.
+		- They can be tricked by external websites.
+		- They can leak company memory.
+		- They can take costly or harmful actions.
+	- QCI has hired or plans to use white-hat testing to attack its permission settings.
+	- Yuhao sees permission frameworks for agents as an underexplored area.
+	- Traditional SaaS permission systems are relatively mature, but agent permissions require new thinking because an agent can infer, summarize, combine, and act across tools.
+	- The key challenge is preserving agent freedom while limiting harm.
+- ## Scale Reveals Hidden Problems
+	- Yuhao argues that some agent problems only appear at scale.
+	- Examples:
+		- Context caching becomes a core cost issue.
+		- Context engineering must be shaped around LLM cache behavior.
+		- Permission complexity grows with organizational complexity.
+		- Enterprise memory cannot simply include everyone and everything.
+		- Large customers need different deployment, audit, and access models.
+	- For small teams, an agent may know the whole company.
+	- For a company with thousands of employees, the agent should probably not remember every person and every detail in the same way.
+	- This implies SMB and enterprise agent products may diverge significantly.
+- ## Cost Structure And Token Budgeting
+	- QCI's internal long-running agents can cost tens of thousands of dollars per month in aggregate token spend.
+	- Yuhao argues that spending on tokens can be rational even when it looks expensive versus salary, because the comparison should include coordination cost, continuous operation, and output quality.
+	- The company routes simpler tasks to cheaper or local models where possible.
+	- More capable models are used where safety, complex reasoning, or high-stakes action matter.
+	- Token cost currently limits deployment to higher-value roles and companies.
+	- Yuhao expects costs to become more accessible over time, but the current product must be designed around real inference cost.
+- ## Why Advertising-Like Growth Did Not Work Cleanly
+	- QCI generated large organic UGC/impression growth in education and student use cases.
+	- The problem was not top-of-funnel reach.
+	- The problem was that AI products have real servicing cost for free users.
+	- Student-heavy usage had lower conversion and lower lifetime value while consuming inference.
+	- QCI reduced free usage, raised the entry plan price, and changed use cases/channels toward higher-value customers.
+	- The lesson: for AI products, "free user growth" can be actively harmful if usage cost is high and conversion quality is poor.
+- ## Digital Labor As A Methodology
+	- Yuhao argues that even companies that do not use Junior should adopt the digital-employee methodology.
+	- The core shift:
+		- Give agents company context.
+		- Let agents own ongoing responsibilities.
+		- Put them inside real work channels.
+		- Give them permissioned tools.
+		- Treat them as teammates that can push work forward.
+	- This changes the organization:
+		- Humans learn to delegate to agents.
+		- Meetings and chats produce actions more quickly.
+		- Some workflows become agent-first.
+		- Human-only spaces may need to be intentionally preserved.
+	- Yuhao describes an adjustment period where working with humans felt slow after intense agent collaboration.
+- ## External Internet Is Not Yet Agent-Friendly
+	- Agents still face barriers across the internet:
+		- Bot blocking.
+		- Payment card checks.
+		- Account verification.
+		- Anti-spam rules.
+		- Platforms designed to reject automated users.
+	- These restrictions made sense when most bots were spam or abuse.
+	- But AI employees need to register accounts, call APIs, buy services, access tools, and pay for products.
+	- This creates demand for new infrastructure:
+		- Agent identity.
+		- Agent payment.
+		- Agent permissions.
+		- Agent-safe authentication.
+		- Agent-friendly software surfaces.
+	- The transcript frames this as a broad ecosystem transition, not only a QCI product problem.
+- ## Hallucination And Verification
+	- Even the best models still hallucinate, especially in complex, long-context, tool-rich environments.
+	- QCI's data agent once sent an incorrect metric, then noticed inconsistency with its memory/context, investigated, and sent a correction.
+	- This was valuable proactive behavior, but it also shows that agents can still produce wrong outputs.
+	- The product needs safeguards:
+		- Human approval for high-risk actions.
+		- Independent checking agents.
+		- Different models / contexts for verification.
+		- Clear limitations on what the agent knows or does not know.
+	- Yuhao notes that humans also make data mistakes; the goal is not zero error, but a system that catches and contains errors.
+- ## Customer Selection Criteria
+	- From a CTO buyer perspective, Yuhao says he would evaluate team-agent products on:
+		- Scale and time in production.
+		- Security record.
+		- Auditability.
+		- Deployment model.
+		- Cost.
+		- Effectiveness.
+	- For many mainstream buyers, however, one strong use case may matter more than abstract architecture.
+	- AI-native users evaluate agent platforms differently from broader customers.
+	- This creates a go-to-market split:
+		- Technical buyers care about safety, access, deployment, and reliability.
+		- General users need to see one concrete workflow that saves work or creates obvious value.
+- ## Practical Advice To Agent Teams
+	- Build reaction / evaluation benchmarks early.
+	- Test not only whether the agent can do useful things, but whether it refuses or avoids harmful things.
+	- Permission and security failures may not show up in demos but will determine whether customers trust the product.
+	- Use the product internally under real permissions and real workflows.
+	- Treat context caching and token cost as first-class architecture concerns once usage scales.
+	- Do not assume a personal assistant architecture can simply become an enterprise employee architecture.
+- ## Open Questions
+	- What is the right memory architecture for company-first agents?
+	- Should AI employees have stable identity and limited concurrency, or should they spawn many parallel copies?
+	- How should organizations define permissions for information an agent can infer, not merely files it can access?
+	- Will agent products be priced like software, employees, contractors, or a new hybrid?
+	- What parts of the internet need to become agent-friendly first: identity, payments, authentication, or API access?
+	- How much of enterprise agent safety can be solved by product design versus model capability?
