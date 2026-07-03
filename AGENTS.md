@@ -14,6 +14,7 @@ Plain-text research memo repository for personal stock investing. No build syste
 | `data/` | CSV files with structured quantitative data (e.g. cost shares, pricing tables by quarter) |
 | `earnings/` | Earnings call notes grouped by ticker, one file per company-quarter (e.g. `earnings/MediaTek/MediaTek-2026-Q1.md`) |
 | `theses/` | Long-form investment theses and thesis templates |
+| `principles/` | The owner's own investing philosophy, frameworks, and durable wisdom — first-party, not third-party research. Use as reference/context when answering investment questions; do not treat as source material to re-extract into memos. |
 
 ## Before Creating a New Memo
 
