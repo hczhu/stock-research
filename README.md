@@ -12,7 +12,7 @@ stock-research/
 ├── earnings/       # Earnings call notes grouped by ticker
 ├── theses/         # Long-form investment theses and templates
 ├── data/           # Structured quantitative data (CSV)
-├── investing-wisdom.md
+├── principles/     # The owner's own investing philosophy and frameworks
 ├── AGENTS.md       # Guidance for AI coding agents (Codex, Claude Code)
 └── CLAUDE.md       # Guidance for Claude Code specifically
 ```
@@ -54,6 +54,14 @@ Long-form investment theses and the thesis template. Start here when building a 
 CSV files with structured quantitative data extracted from screenshots, reports, or proprietary estimates.
 
 Example: `ai-chip-component-cost-shares-by-quarter.csv` — quarterly HBM/memory/logic/packaging cost shares across major AI chip vendors (NVIDIA, AMD, Google, Amazon), used in the corresponding memo.
+
+### `principles/`
+
+The owner's **own** investing philosophy, decision frameworks, and durable wisdom — first-party, unlike the third-party extractions in `memos/`. Use these to understand the lens the rest of the repo is written through.
+
+- `my-investment-philosophy.md` — the owner's core strategy (high-quality compounders, position sizing, staying invested) plus Munger-derived risk principles
+- `investing-wisdom.md` — philosophy, principles, risk, and independence notes
+- `company-culture-trade-offs.md` — framework of organizational culture trade-offs (independence vs. collaboration, speed vs. thoroughness, etc.)
 
 ---
 
