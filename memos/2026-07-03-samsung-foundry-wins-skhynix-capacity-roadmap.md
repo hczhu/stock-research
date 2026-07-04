@@ -24,13 +24,27 @@
 	- **DRAM wafer capacity**: now targeting **3× wafer output by 2034** (up from prior "double in 5 years") — Yongin expansion accelerated ~a decade. \$67B budgeted 2024–2028 for expansion. Chairman Chey: "moving as fast as we can," but supply stays tight for years.
 	- **NAND**: mass-produce **375-layer 3D NAND by year-end 2026**; first to introduce **molybdenum** word-line metal gate (replacing tungsten used >10 yrs — Lam Research calls Mo the only viable path for high-layer 3D NAND). Follow-ups: **480 / 604-layer**. Racing Samsung/Kioxia to the **400-layer** frontier.
 	- **HBM4 equipment**: ordered **Hanmi TC Bonder 4.5 "Griffin"** (thermo-compression bonding), first Griffin contract, **KRW 44.2B (\$28.7M)** — capacity buildout for Nvidia demand. Added ASMPT + Hanwha Semitech as rival bonder suppliers.
-	- **HBM share**: **56.4%** in Q1 2026 (from F-1 filing) — still #1 despite the DDR5-margin pivot.
-	- **F-1 filing detail**: purchasing **26 ASML NXE3800E EUV scanners**; disclosed the antitrust class-action as a litigation risk. Nasdaq ADR raising **~\$29.4B (up to 17.79M new shares)** for capacity — proceeds explicitly for fabs/packaging/tools.
+	- **HBM share** (source variance worth noting): SK Hynix **56.4%** Q1 2026 (F-1 filing); **57%** Q4 2025 (Counterpoint, by revenue); Metapress cites **61% / Samsung 17% / Micron 21%** end-2025. All agree SK Hynix leads by a wide margin; the pivot to DDR5 has not yet cost the crown.
+	- **DRAM revenue share Q1 2026** (Counterpoint): **Samsung 38% / SK Hynix 29% / Micron 22%** — Samsung leads commodity DRAM even as it trails in HBM.
+	- **F-1 filing detail**: purchasing **26 ASML NXE3800E EUV scanners**; disclosed the antitrust class-action as a litigation risk. Nasdaq ADR raising **~\$29.4B (KRW 45.45T, up to 17.79M new shares)** for capacity. Pricing: new shares **KRW 2.55M** (Korea listing Jul 29); ADRs **KRW 255,500** (Nasdaq **Jul 10**). Also funding a **\$4B advanced testing/packaging facility in Indiana**.
+
+- ## Korea National Buildout — Sizing & Fab Timelines
+
+	- The government-driven megaproject now has concrete sub-allocations and fab schedules. Total scale (FT, Jun 28): **~\$590B** across four memory fabs + a packaging cluster; plus **KRW 550T (\$356B)** in AI data centers over the next decade.
+
+	- | Region / Program | Amount | Detail |
+	  |---|---|---|
+	  | Southwest (Honam/Gwangju) | **\$500B+** | **4 new memory fabs** (Samsung + SK each build 2); +\$52B HBM packaging hub |
+	  | Chungcheong | **KRW 392T (\$252.5B)** | HBM fabs + packaging; Samsung **KRW 140T**, SK Hynix **KRW 100T** |
+	  | Samsung (domestic total) | **KRW 2,655T (~\$1.72T)** | incl. **KRW 425T** in Honam for the new Gwangju fab |
+
+	- **Samsung Chungcheong (KRW 140T) breakdown**: HBM fab + packaging (Samsung Electronics), OLED/next-gen display (Samsung Display), **high-performance AI-server package substrates** (Samsung Electro-Mechanics), advanced batteries (Samsung SDI) — a vertically integrated AI-supply-chain cluster, not just memory.
+	- **SK Hynix fab timelines (Cheongju/Chungcheong)**: **P&T7** advanced-packaging facility completes **end-2027**; new **M17 fab** breaks ground next year, operational **H1 2029**.
 
 - ## Memory-Adjacent Component Signals
 
 	- **Samsung UFS 5.0** (industry-first, on-device AI): **10.8 GB/s read / 9.5 GB/s write** (vs UFS 4.1's 4.3/4.1) — built on 9th-gen V9 V-NAND; mass production Q4 2026. Feeds the on-device-AI storage upgrade cycle (Galaxy S27).
-	- **Silicon capacitors (Samsung Electro-Mechanics)**: market growing **>18%/yr**; Semco emerging as major Si-Cap supplier for AI servers alongside Murata/TSMC; MLCC + FC-BGA + Si-Cap now a full AI-power-component lineup. Confirms the LTA/tightness dynamic is **spreading beyond memory** into passives and substrates.
+	- **Silicon capacitors (Samsung Electro-Mechanics)**: market growing **>18%/yr** (expanding into AI servers, aerospace, optical comms); Si-Cap is **essential for GPUs and HBM** (stable power delivery); Semco now a major supplier alongside Murata/TSMC. Full three-pronged AI-power lineup: **MLCC + FC-BGA substrate + Si-Cap**. Confirms the tightness/LTA dynamic is **spreading beyond memory** into passives and substrates.
 
 - ## Corporate / Market Context
 
