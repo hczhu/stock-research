@@ -16,6 +16,7 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 	| [Roblox Developer Forum](https://devforum.roblox.com/) | [rbxrank — community leaderboard tracker](https://rbxrank.com/) |
 	| [Comp spreadsheet — consumer digital services user base and revenue](https://docs.google.com/spreadsheets/d/1K4m1h_0RqYlouCKhVP4WXpN_UtSJHnfVoLucvYYGhYk/edit?usp=sharing) | [SensorTower — App Store category rankings](https://app.sensortower.com/overview/431946152?country=GB&tab=category_rankings) |
 	| [Roblox financials tracking spreadsheet](https://docs.google.com/spreadsheets/d/1CH2CrNDwPNoc-5qUK43wnDgaC6uRujRMFTBzKfpYfOA/edit#gid=0) | [Substack thesis — Not Just a Kids' Game (aging-up narrative, Roblox Reality)](https://hczhu.substack.com/p/a-roblox-investment-thesis-not-just) |
+	| [[2026-07-03-roblox-video-gaming-valuation-comps-screenshot]] | Roblox / global gaming valuation comps; useful for multiple-premium and Nintendo / Japanese publisher comparison |
 
   ---
 - ## Main Narrative
@@ -162,14 +163,15 @@ tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [
 		- Extremely sticky for kids (64% of UK 8–12s); advertisers keep returning (Chipotle's free-burrito event crashed the platform; SunSilk hit 32M visits).
 	- ---
 - ## Pre-Mortem — What Can Go Wrong?
-	- 1. **Profitability / marginal costs** — structural take: ≈24% app-store fees + ≈27% to developers + ≈33% infra & safety = **≈84% of revenue**. The model only works if app-store fees fall and infra leverage improves.
-	  2. **Saturation in high-ARPU countries** — US DAU ≈26M (Q3 2025); growth increasingly comes from lower-ARPU regions (APA 46M DAU at \$5.27 ABPDAU vs US \$40.18), pressuring blended monetization.
-	  3. **Age-up execution risk** — verification slowed signups and cut guidance; if older cohorts don't convert to higher-margin content, the pivot stalls.
-	  4. **Ads may not scale** — kid-safety constraints limit ad inventory/targeting; management itself said (2023) "we've never said advertising is going to be the meat of our business."
-	  5. **VR substitution** — Meta Horizon Worlds and VR-native UGC could capture the next generation of under-13s.
-	  6. **Founder-CEO age / succession** — David Baszucki born 1963 (founder-led is a strength, but key-person risk).
-	  7. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the \$13.5B ARPU-parity upside never materializes. **Cautionary comp — Fortnite**: revenue peaked at ≈\$6B in 2021 (likely a COVID-boosted high) and has not reclaimed it since; Epic Games conducted [layoffs](https://www.epicgames.com/site/news/todays-layoffs) — evidence that even the closest competitor's UGC/live-service model can plateau and de-rate after a demand pull-forward. A reminder that gaming-platform engagement and spend can mean-revert.
-	  8. **Recurring regulatory / geographic headwinds (8-quarter trend)** — friction shows up almost every year: Turkey ban (Aug 2024), Russia ban (Dec 2025), and the global age-verification rollout that gated chat, slowed new-user signups, and **cut FY2026 bookings guidance to 8–12%** (2025Q3, 2026Q1). A large, kid-heavy, global platform is a standing target for child-safety regulation and country bans — a persistent, partly-unpredictable drag on growth and a compliance-cost burden.
+	- 1. **Aging up may weaken Roblox's social flavor** — the bullish case assumes Roblox can add deeper, more complex young-adult games without losing what made the platform unique. The risk is that Roblox starts to look more like **Steam**: a catalog of games rather than a social place where kids play simple experiences with friends and grow up together. Roblox's two pillars are (1) social play and (2) user-made games; aging up may improve content depth but cripple the first pillar. If the market concludes Roblox is becoming a conventional gaming platform instead of a differentiated social / UGC network, it may strip Roblox of its valuation-multiple premium versus traditional gaming companies such as Nintendo. See [[2026-07-03-roblox-video-gaming-valuation-comps-screenshot]].
+	  2. **Profitability / marginal costs** — structural take: ≈24% app-store fees + ≈27% to developers + ≈33% infra & safety = **≈84% of revenue**. The model only works if app-store fees fall and infra leverage improves.
+	  3. **Saturation in high-ARPU countries** — US DAU ≈26M (Q3 2025); growth increasingly comes from lower-ARPU regions (APA 46M DAU at \$5.27 ABPDAU vs US \$40.18), pressuring blended monetization.
+	  4. **Age-up execution risk** — verification slowed signups and cut guidance; if older cohorts don't convert to higher-margin content, the pivot stalls.
+	  5. **Ads may not scale** — kid-safety constraints limit ad inventory/targeting; management itself said (2023) "we've never said advertising is going to be the meat of our business."
+	  6. **VR substitution** — Meta Horizon Worlds and VR-native UGC could capture the next generation of under-13s.
+	  7. **Founder-CEO age / succession** — David Baszucki born 1963 (founder-led is a strength, but key-person risk).
+	  8. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the \$13.5B ARPU-parity upside never materializes. **Cautionary comp — Fortnite**: revenue peaked at ≈\$6B in 2021 (likely a COVID-boosted high) and has not reclaimed it since; Epic Games conducted [layoffs](https://www.epicgames.com/site/news/todays-layoffs) — evidence that even the closest competitor's UGC/live-service model can plateau and de-rate after a demand pull-forward. A reminder that gaming-platform engagement and spend can mean-revert.
+	  9. **Recurring regulatory / geographic headwinds (8-quarter trend)** — friction shows up almost every year: Turkey ban (Aug 2024), Russia ban (Dec 2025), and the global age-verification rollout that gated chat, slowed new-user signups, and **cut FY2026 bookings guidance to 8–12%** (2025Q3, 2026Q1). A large, kid-heavy, global platform is a standing target for child-safety regulation and country bans — a persistent, partly-unpredictable drag on growth and a compliance-cost burden.
 	- ---
 - ## Friendly to Shareholders?
 	- > Share dilution and executive incentive plans.
