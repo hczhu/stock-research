@@ -4,6 +4,7 @@ tags:: [[$TEAM]] [[Atlassian]] [[Rovo]] [[HULA]] [[RovoDev]] [[AI-agents]] [[cod
 - ## Atlassian in academic papers — AI/SDLC research survey
 	- **Source**: 9 arXiv papers that mention Atlassian, collected under `tmp-files/atlassian-pdfs/`. Extracted via `pdftotext` + keyword scan for "Atlassian". Links are the arXiv abstract/PDF pages.
 	- **Thesis**: Atlassian is one of the most prolific *industrial* publishers of applied "LLM agents inside the SDLC" research, mostly through a standing Monash University collaboration. The papers show Atlassian deploying LLM agents and code-review automation into its own Jira/Bitbucket/Confluence products at production scale with measured results, while third-party researchers increasingly treat Jira/Confluence APIs as the default enterprise-workflow substrate to build on. Net incrementally bullish on [[$TEAM]]'s AI-native product depth; the recurring gating risk across every paper is output reliability (code quality, hallucination).
+	- SDLC - Software Development Life Cycle
 -
 - ## Bottom line
 	- **Atlassian is dogfooding LLM agents in production, not just prototyping.** HULA (coding agents in Jira) and RovoDev Code Reviewer (code review in Bitbucket) are both deployed internally/at scale with real telemetry — this is the applied-research backbone behind the Rovo product story.
