@@ -1,6 +1,6 @@
 - tags:: [[$NVDA]], [[Nvidia]], [[interconnect]], [[inference]], [[AI-accelerators]], [[HBM]], [[LPDDR]], [[DRAM]], [[NVLink]], [[latency]], [[chip-architecture]], [[$MU]], [[semiconductors]]
 
-- **Source**: Long-form technical argument (X/blog post reply, "part one") on why **the interconnect — not memory — is the binding constraint for AI inference**, and why an **interconnect-first, low-latency, LPDDR-based** design can beat Nvidia on decode at a fraction of silicon/power. Includes a companion explainer on **latency > bandwidth for inference**. Investment framing is mine. Companion to [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]], [[2026-07-06-gpt56-sol-hn-cerebras-inference-economics]], [[2026-07-06-openai-broadcom-jalapeno-hn-cerebras-hbm-readthrough]], and [[DRAM-memory-ssd-index-thesis]].
+- **Source**: Long-form technical argument (X post, parts one and two) on why **the interconnect — not memory — is the binding constraint for AI inference**, and why an **interconnect-first, low-latency, LPDDR-based** design can beat Nvidia on decode at a fraction of silicon/power. Includes a companion explainer on **latency > bandwidth for inference**. Investment framing is mine. Companion to [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]], [[2026-07-06-gpt56-sol-hn-cerebras-inference-economics]], [[2026-07-06-openai-broadcom-jalapeno-hn-cerebras-hbm-readthrough]], and [[DRAM-memory-ssd-index-thesis]].
 
 - **Thesis frame**: A first-principles case that the industry is **over-building the wrong things** (HBM bandwidth, leading-edge logic, high-bandwidth/high-latency fabrics) because today's chips were **optimized for training, not inference**. If correct, the **decode-inference winner is a low-latency-interconnect + commodity-LPDDR + small-logic design** — a direct challenge to the HBM/CoWoS/leading-node value stack that underpins the [[$NVDA]] inference moat and much of the HBM bull case. Note: this is an **opinionated design argument, not a shipping product** — the numbers are the author's own back-of-envelope.
 
@@ -38,7 +38,7 @@
 	  | Pipeline across 8 chips | ~8.75 GB/chip → **1/8th bandwidth & FLOPs each** for same aggregate |
 	  | FLOPs-per-byte need (batch 64, FP4) | **~250–256**; Blackwell ships **1,250** (5× over-provisioned vs HBM pipe) |
 
-- ## The Interconnect-First Architecture That "Falls Out"
+- ## The Interconnect-First Architecture That "Falls Out" (Part 2)
 	- **Memory**: **LPDDR6 @ 14.4 Gb/s/pin**, 24 channels = 576 data pins → **~1 TB/s/chip, 192 GB/chip**. "B200 in size, A100 in bandwidth." **LPDDR latency ~100 ns ≈ HBM**, so streaming weights costs nothing on latency; pipelining already collapsed the bandwidth requirement.
 	- **Compute**: sized to memory — **1 TB/s × 256 FLOPs/byte ≈ 260 TF FP4**, provision **~280 TF** and stop. "Rest of the alpha is in latency tuning, not FLOPs."
 	- **Die**: **~30 mm² MAC array on TSMC N6**, plus SRAM buffers, **24 LPDDR PHYs**, and **56 lanes of plain 32 GT/s NRZ PCIe 5.0 SerDes**. Spend the budget on **ports, not FLOPs**: **7 ports × x8 = full mesh across 8 chips, ~224 GB/s any-to-any**, sized for 8 KB activations (not 100 MB gradients). **Total ~144 mm², ~180 W with DRAM — "mobile-SoC economics."**
