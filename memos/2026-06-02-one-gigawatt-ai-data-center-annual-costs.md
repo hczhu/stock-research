@@ -39,6 +39,25 @@
 	| Servers + facility + network infrastructure | `$7.60B` | The top three buckets account for about `89.1%` of total annual cost. |
 	| Energy as share of OpEx | `65.8%` | Power dominates recurring operating cost. |
 
+- ## Electricity Cost Back-Of-Envelope
+	- Formula: `annual electricity cost = load in kW * 8,760 hours/year * $/kWh * utilization * PUE adjustment if 1GW is IT load`.
+	- If `1 GW` means **grid draw at the meter**, annual energy use is `1,000,000 kW * 8,760h = 8.76B kWh`.
+	- The claim that a `1 GW` site costs `~$613M/year` in electricity implies an electricity price of about `$0.07/kWh`:
+		- `8.76B kWh * $0.07/kWh = $613.2M/year`.
+	- The chart's `$590M` energy line implies an effective rate of about `$0.067/kWh` if it also assumes `1 GW` of all-year grid draw:
+		- `$590M / 8.76B kWh = ~$0.067/kWh`.
+	- Sensitivity table:
+		| Assumption | Calculation | Annual electricity cost |
+		| --- | ---: | ---: |
+		| `1 GW` grid draw at `$0.05/kWh` | `8.76B kWh * $0.05` | `$438M` |
+		| `1 GW` grid draw at `$0.067/kWh` | `8.76B kWh * $0.067` | `~$590M` |
+		| `1 GW` grid draw at `$0.07/kWh` | `8.76B kWh * $0.07` | `$613M` |
+		| `1 GW` grid draw at `$0.087/kWh` | `8.76B kWh * $0.087` | `$762M` |
+		| `1 GW` IT load, `PUE 1.2`, `$0.07/kWh` | `8.76B kWh * 1.2 * $0.07` | `$736M` |
+		| `1 GW` IT load, `PUE 1.35`, `80% utilization`, `$0.087/kWh` | `8.76B kWh * 1.35 * 80% * $0.087` | `~$823M` |
+	- Read: `~$590M-$613M/year` is a reasonable electricity-cost estimate for a continuously loaded `1 GW` site at roughly `6.7-7.0c/kWh`. If the `1 GW` figure is **IT load** rather than **meter/grid draw**, the electricity bill should be grossed up by `PUE` unless the quoted power already includes facility overhead.
+	- Important distinction: electricity is not the biggest dollar line versus annualized compute capex. If GPUs alone cost `~$25B` per `1 GW`, cutting GPU cost in half saves `~$12.5B` upfront, or `~$2B+/year` on a six-year straight-line life before financing cost. The stronger argument for `perf/watt` is not that the electricity bill dominates hardware dollars, but that scarce power capacity caps tokens, revenue, and deployment scale.
+
 - ## Stock Implications
 	- The cost stack is primarily a compute and capital-equipment story: servers alone are nearly `59%` of annualized cost.
 	- Networking is large enough at `$1.2B` annually to matter as a separate AI infrastructure investment theme, not just an attachment to server spend.
