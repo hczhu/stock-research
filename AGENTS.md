@@ -86,6 +86,16 @@ Never include the owner's position, holdings, trade sizes, entry prices, or entr
 - Do not record dollar amounts invested, number of shares, or purchase dates.
 - Analytical context (e.g., "Big 3 P/E <10 at the time of writing") is fine; personal position metadata is not.
 
+## GitHub + Logseq Dual Rendering
+
+Memos must render correctly **both** in Logseq (outliner) and on GitHub (CommonMark/GFM). GitHub treats tab-indented lines that are not nested under a list item as **indented code blocks** (monospace boxes) — the most common way an outline file breaks on GitHub.
+
+1. **Headings must be bullets**: write `- ## Section Title`, never a bare `## Section Title` followed by tab-indented children — the children render as a code block on GitHub.
+2. **Only tab-indent under a parent bullet** — one tab per nesting level; no free-standing tab-indented text.
+3. **Tables hang off a bullet**: start the table on the bullet line (`- | Col | Col |`) and indent subsequent rows with the same tabs plus two spaces so the `|` characters align vertically. A table on bare tab-indented lines (no bullet) becomes a code block on GitHub.
+4. Escape currency dollar signs per the rule below.
+5. After merging, spot-check the rendered memo on GitHub when it contains new tables or deep nesting.
+
 ## Dollar Signs in Markdown
 
 Markdown renderers with LaTeX/MathJax support (GitHub, Logseq math plugin) treat `$...$` as inline math. Two currency dollar signs on the same line — e.g. `$37 ... high-$40s` — silently render as a math block, stripping spaces and garbling the text.
