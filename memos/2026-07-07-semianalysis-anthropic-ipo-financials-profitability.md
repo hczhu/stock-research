@@ -7,22 +7,22 @@
 
 - ## Headline Financial Model
 
-	| Metric | SemiAnalysis Estimate | Interpretation |
-	|---|---|---|
-	| Anthropic ARR at end-2025 | **\$9 billion** | Base before the Claude Code acceleration. |
-	| Anthropic ARR in 1Q26 | **\$30 billion** | Added \$21 billion during the quarter. |
-	| Current Anthropic ARR | More than **\$60 billion** | Implies extraordinary usage-driven acceleration during 1H26. |
-	| 3Q26 GAAP EBIT | More than **\$1 billion** | Estimated **6% EBIT margin**, despite continued investment. |
-	| OpenAI EBIT margin comparison | Approximately **-100%** | SemiAnalysis sees a stark profitability and reinvestment gap. |
-	| Anthropic blended gross margin | Mid-**60%** range in 2026 | Improved from approximately **-94%** in 2024. |
-	| Anthropic API gross margin | More than **80%** | Usage-based API is materially more profitable than consumer subscriptions. |
-	| 2Q26 EBTIT margin | **36%** | Earnings before training, interest, and taxes; useful for inference economics but excludes a core lab cost. |
-	| Net dollar retention | **500%** | Existing customers increased annualized spend approximately 5x. |
-	| API / consumption share | Approximately **75-85%** of ARR | Central reason for Anthropic's margin advantage. |
-	| Subscription share | Approximately **15%** of ARR | Consumer subscriptions contribute only about **5%** of total ARR. |
-	| Long-run EBIT / FCF margin potential | **30-40%** | Report assumes gross margin reaches the mid-70s. |
-	| 2027 ending ARR base case | **\$300 billion** | Requires monthly net-new ARR to reach approximately \$15 billion. |
-	| Valuation base case | **20x** 2027 ending ARR | Produces a **\$6 trillion** enterprise value, which is highly aggressive. |
+	- | Metric | SemiAnalysis Estimate | Interpretation |
+	  |---|---|---|
+	  | Anthropic ARR at end-2025 | **\$9 billion** | Base before the Claude Code acceleration. |
+	  | Anthropic ARR in 1Q26 | **\$30 billion** | Added \$21 billion during the quarter. |
+	  | Current Anthropic ARR | More than **\$60 billion** | Implies extraordinary usage-driven acceleration during 1H26. |
+	  | 3Q26 GAAP EBIT | More than **\$1 billion** | Estimated **6% EBIT margin**, despite continued investment. |
+	  | OpenAI EBIT margin comparison | Approximately **-100%** | SemiAnalysis sees a stark profitability and reinvestment gap. |
+	  | Anthropic blended gross margin | Mid-**60%** range in 2026 | Improved from approximately **-94%** in 2024. |
+	  | Anthropic API gross margin | More than **80%** | Usage-based API is materially more profitable than consumer subscriptions. |
+	  | 2Q26 EBTIT margin | **36%** | Earnings before training, interest, and taxes; useful for inference economics but excludes a core lab cost. |
+	  | Net dollar retention | **500%** | Existing customers increased annualized spend approximately 5x. |
+	  | API / consumption share | Approximately **75-85%** of ARR | Central reason for Anthropic's margin advantage. |
+	  | Subscription share | Approximately **15%** of ARR | Consumer subscriptions contribute only about **5%** of total ARR. |
+	  | Long-run EBIT / FCF margin potential | **30-40%** | Report assumes gross margin reaches the mid-70s. |
+	  | 2027 ending ARR base case | **\$300 billion** | Requires monthly net-new ARR to reach approximately \$15 billion. |
+	  | Valuation base case | **20x** 2027 ending ARR | Produces a **\$6 trillion** enterprise value, which is highly aggressive. |
 
 - ## Growth Inflection From Claude Code
 	- The report describes ChatGPT as the consumer-AI inflection and Claude Code as the equivalent B2B inflection.
@@ -38,15 +38,15 @@
 
 - ## Revenue Mix: Anthropic Versus OpenAI
 
-	| Mix Metric | Anthropic | OpenAI | Read-Through |
-	|---|---:|---:|---|
-	| Consumption-based API share | **75-85%** of ARR | Historically much lower, but rising | Anthropic monetizes incremental tokens directly. |
-	| Total subscription share | **15%** | More than **65%** in 1Q26 | OpenAI carries more fixed-price usage and free-user compute burden. |
-	| Consumer subscription share | **5%** of ARR | Approximately **40%** at end-2Q26 | Anthropic is much more enterprise-oriented. |
-	| Current B2B direction | Dominant | Codex and API now drive most monthly net-new ARR | OpenAI is converging toward Anthropic's model. |
-	| Free-user base | Approximately **55-60 million MAUs** | Approximately **950 million WAUs** | OpenAI's consumer reach is far larger and more expensive to serve. |
-	| Paying share of consumer users | Approximately **9%** | Approximately **6%** | Anthropic has a smaller but better-monetized consumer base. |
-	| Free-user serving cost | Not highlighted | Just under **\$0.70 per user per month** | OpenAI's free tier creates a substantial gross-margin drag. |
+	- | Mix Metric | Anthropic | OpenAI | Read-Through |
+	  |---|---:|---:|---|
+	  | Consumption-based API share | **75-85%** of ARR | Historically much lower, but rising | Anthropic monetizes incremental tokens directly. |
+	  | Total subscription share | **15%** | More than **65%** in 1Q26 | OpenAI carries more fixed-price usage and free-user compute burden. |
+	  | Consumer subscription share | **5%** of ARR | Approximately **40%** at end-2Q26 | Anthropic is much more enterprise-oriented. |
+	  | Current B2B direction | Dominant | Codex and API now drive most monthly net-new ARR | OpenAI is converging toward Anthropic's model. |
+	  | Free-user base | Approximately **55-60 million MAUs** | Approximately **950 million WAUs** | OpenAI's consumer reach is far larger and more expensive to serve. |
+	  | Paying share of consumer users | Approximately **9%** | Approximately **6%** | Anthropic has a smaller but better-monetized consumer base. |
+	  | Free-user serving cost | Not highlighted | Just under **\$0.70 per user per month** | OpenAI's free tier creates a substantial gross-margin drag. |
 
 - ## Product Pricing and Packaging
 	- Claude consumer subscriptions include Free, Pro, Max 5x, and Max 20x.
@@ -150,17 +150,17 @@
 
 - ## Read-Through by Company
 
-	| Company | Report Claim | Stock / Strategic Read-Through |
-	|---|---|---|
-	| OpenAI | Consumer/subscription-heavy, approximately -100% EBIT margin; Codex and API now reaccelerating growth | Must shift toward B2B API revenue and improve margins to fund model development. |
-	| Amazon / AWS | Bedrock distributes Claude and captures infrastructure plus revenue-share economics | Anthropic growth raises AWS TaaS revenue, Trainium utilization, and cloud margins. |
-	| Microsoft / Azure | Foundry distributes Claude and other models; Microsoft historically bought back \$20 billion annually | Model choice helps Azure distribution, but the capex cycle may reverse capital returns. |
-	| Alphabet / GCP | Raised \$84.75 billion of equity; Gemini and cloud model distribution compete with Anthropic | Google is both distribution partner and a major model competitor capable of compressing prices. |
-	| Meta | Estimated largest Anthropic customer at 3-5% of revenue; building competing models; potential compute lessor | Simultaneously funds Anthropic, threatens coding-model pricing, and may monetize surplus infrastructure. |
-	| SpaceX | Recent compute transaction cited at materially higher market pricing | Emerging supplier / neocloud competitor benefiting from capacity scarcity. |
-	| Cursor, Cognition, Lovable, Replit | Part of a coding-startup group contributing roughly \$6 billion ARR to labs | Their economics depend heavily on frontier-token costs and ability to differentiate beyond model access. |
-	| Zhipu and MiniMax | Chinese AI labs that completed IPOs in 2026 | Establish precedent for public-market financing of standalone labs. |
-	| Snowflake, Datadog, Cloudflare | Prior consumption-software examples that traded above 50x forward revenue before optimization | Warning that usage growth and valuation can compress sharply when customers optimize spending. |
+	- | Company | Report Claim | Stock / Strategic Read-Through |
+	  |---|---|---|
+	  | OpenAI | Consumer/subscription-heavy, approximately -100% EBIT margin; Codex and API now reaccelerating growth | Must shift toward B2B API revenue and improve margins to fund model development. |
+	  | Amazon / AWS | Bedrock distributes Claude and captures infrastructure plus revenue-share economics | Anthropic growth raises AWS TaaS revenue, Trainium utilization, and cloud margins. |
+	  | Microsoft / Azure | Foundry distributes Claude and other models; Microsoft historically bought back \$20 billion annually | Model choice helps Azure distribution, but the capex cycle may reverse capital returns. |
+	  | Alphabet / GCP | Raised \$84.75 billion of equity; Gemini and cloud model distribution compete with Anthropic | Google is both distribution partner and a major model competitor capable of compressing prices. |
+	  | Meta | Estimated largest Anthropic customer at 3-5% of revenue; building competing models; potential compute lessor | Simultaneously funds Anthropic, threatens coding-model pricing, and may monetize surplus infrastructure. |
+	  | SpaceX | Recent compute transaction cited at materially higher market pricing | Emerging supplier / neocloud competitor benefiting from capacity scarcity. |
+	  | Cursor, Cognition, Lovable, Replit | Part of a coding-startup group contributing roughly \$6 billion ARR to labs | Their economics depend heavily on frontier-token costs and ability to differentiate beyond model access. |
+	  | Zhipu and MiniMax | Chinese AI labs that completed IPOs in 2026 | Establish precedent for public-market financing of standalone labs. |
+	  | Snowflake, Datadog, Cloudflare | Prior consumption-software examples that traded above 50x forward revenue before optimization | Warning that usage growth and valuation can compress sharply when customers optimize spending. |
 
 - ## Competitive and Regulatory Risks
 	- **Token budgeting**: Enterprises may cap per-user spend as usage scales, particularly for low-ROI roles.
