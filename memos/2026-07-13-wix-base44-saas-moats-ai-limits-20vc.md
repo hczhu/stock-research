@@ -6,19 +6,19 @@
 
 - ## Valuation and Operating Snapshot
 
-	| Metric | Transcript Figure | Investment Interpretation |
-	|---|---|---|
-	| Wix market capitalization | Approximately **\$2.8 billion** | Public markets are assigning limited value to the core business and Base44 combined. |
-	| Wix annual revenue | Approximately **\$2.1 billion** | Implies a market-cap-to-revenue ratio of roughly **1.3x**, before adjusting for cash and debt. |
-	| Wix annual free cash flow | Approximately **\$400 million** | The transcript's phrase was distorted as “fake cash flow”; context strongly suggests free cash flow. |
-	| Base44 reported annualized revenue | More than **\$150 million** in the introduction; approximately **\$160 million** later in the interview | Base44 has become material quickly, although the company does not provide the metric every month or quarter. |
-	| Base44 acquisition price | Approximately **\$80 million** | Wix acquired a one-person company; reported annualized revenue is now about **2x** the purchase price. |
-	| Base44 investment | Approximately **\$200 million-plus** per year | Base44 consumes a substantial portion of Wix's core cash generation while management prioritizes growth and quality. |
-	| Base44 staff | Approximately **400 people** | Wix rapidly built an operating organization around the acquired founder and product. |
-	| Total Wix staff | Approximately **3,500**, including Base44 | Base44 represents roughly **11%** of total headcount. |
-	| Base44 two-year headcount outlook | Approximately **800 to 1,000**, mostly engineers | Management expects continued heavy investment and potential headcount doubling or more. |
-	| Geographic support footprint | **192 countries** | Global SMB coverage makes customer support and localization difficult to automate down to a minimal team. |
-	| Host's Base44 standalone valuation framing | Approximately **\$8 billion** based on peer vibe-coding multiples | This is a speculative peer-multiple argument, not management guidance or an intrinsic valuation. |
+	- | Metric | Transcript Figure | Investment Interpretation |
+	  |---|---|---|
+	  | Wix market capitalization | Approximately **\$2.8 billion** | Public markets are assigning limited value to the core business and Base44 combined. |
+	  | Wix annual revenue | Approximately **\$2.1 billion** | Implies a market-cap-to-revenue ratio of roughly **1.3x**, before adjusting for cash and debt. |
+	  | Wix annual free cash flow | Approximately **\$400 million** | The transcript's phrase was distorted as “fake cash flow”; context strongly suggests free cash flow. |
+	  | Base44 reported annualized revenue | More than **\$150 million** in the introduction; approximately **\$160 million** later in the interview | Base44 has become material quickly, although the company does not provide the metric every month or quarter. |
+	  | Base44 acquisition price | Approximately **\$80 million** | Wix acquired a one-person company; reported annualized revenue is now about **2x** the purchase price. |
+	  | Base44 investment | Approximately **\$200 million-plus** per year | Base44 consumes a substantial portion of Wix's core cash generation while management prioritizes growth and quality. |
+	  | Base44 staff | Approximately **400 people** | Wix rapidly built an operating organization around the acquired founder and product. |
+	  | Total Wix staff | Approximately **3,500**, including Base44 | Base44 represents roughly **11%** of total headcount. |
+	  | Base44 two-year headcount outlook | Approximately **800 to 1,000**, mostly engineers | Management expects continued heavy investment and potential headcount doubling or more. |
+	  | Geographic support footprint | **192 countries** | Global SMB coverage makes customer support and localization difficult to automate down to a minimal team. |
+	  | Host's Base44 standalone valuation framing | Approximately **\$8 billion** based on peer vibe-coding multiples | This is a speculative peer-multiple argument, not management guidance or an intrinsic valuation. |
 
 - ## Why Public Markets Are Skeptical
 	- Abrahami attributes the broad SaaS multiple compression to uncertainty over whether AI makes incumbent applications replaceable.
