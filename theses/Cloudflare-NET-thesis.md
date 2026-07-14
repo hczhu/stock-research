@@ -156,4 +156,3 @@ tags:: [[Cloudflare]], [[NET]], [[SaaS]], [[networking]], [[security]], [[CDN]],
 	  | 2023/05 | Large-customer ARPC around $340k | Useful benchmark for enterprise monetization maturity |
 	  | 2024/05 | Enterprises often deploy 50+ security tools and still want consolidation | Strengthens the suite thesis |
 	  | Early 2021 to late 2022 | Network expanded from ~200 to 250 POPs, ~58 Tbps to 100 Tbps, and from 99% of internet users within 100 ms to 95% within 50 ms | Scale and performance continue compounding |
-  | [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/NET) | |
