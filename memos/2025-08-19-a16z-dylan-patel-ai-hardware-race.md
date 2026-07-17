@@ -116,6 +116,15 @@
 	- **[[$INTC]] — strategic asset, distressed execution**: foundry scarcity gives Intel option value, but the turnaround thesis requires measurable improvements in cycle time, revisions, yield, accountability, and funding before structural separation becomes relevant.
 	- **Model/API vendors — value creation does not guarantee value capture**: commoditizing inference and free-user economics pressure margins. Transaction take rates, workflow ownership, and enterprise lock-in are more attractive moats than raw model access.
 
+- ## Addendum — Additional Data Points From the Full Transcript
+	- **One-year GPU depreciation (Trump tax bill)**: the new tax bill allows depreciating **the entire GPU-cluster cost in year one**; SemiAnalysis estimated the tax implications at roughly **\$10B per year for each major hyperscaler**. A material, under-discussed subsidy to AI capex economics — and part of Patel's argument that Nvidia should deploy its cash into infrastructure rather than buybacks.
+	- **Agentic-commerce evidence (Etsy/Amazon)**: **~10% of Etsy's traffic already comes from ChatGPT, and OpenAI earns nothing on it**; Amazon blocks ChatGPT. This is the concrete basis for the take-rate monetization thesis (labs are buying RL environments of Amazon/Shopify/Etsy/airline sites to train purchasing agents).
+	- **Google buying power, not crypto**: the day of recording, **Google bought ~8% of a crypto-mining company (TeraWulf)** — "not because they're getting into crypto mining… they need the power." Hyperscalers are abandoning sustainability-pledge constraints to acquire powered sites; same logic as CoreWeave's ~\$10B acquisition of a ~\$2B crypto miner.
+	- **ByteDance is the biggest or second-biggest Google Cloud customer**, renting large volumes of Blackwell (Oracle and Microsoft also rent heavily to Chinese firms) — offshore rental is more cost-effective for China than domestic H20 deployment, reinforcing the efficient-compute-per-dollar framing.
+	- **Negative-gross-margin subscription texture**: a user re-engineered his sleep into sailor-style power naps around Anthropic's hour-based rate limits; a Reddit leaderboard tracks token consumption with one user extracting **~\$30K/month of usage from a subscription**. The color behind the shift to usage-based pricing.
+	- **Open-source cost floor**: Qwen-coder-class models are "super cheap" run on-prem or via inference libraries — part of the dispersal scenario that favors Nvidia over captive custom silicon.
+	- **China posturing color**: some Chinese provinces ruled the H20 "not efficient enough to be deployed" and Beijing announced a **backdoor investigation into the H20** ("there's no back door… GPUs are usually firewalled from the public internet anyways") — friction that cuts against Nvidia's China-sales argument even where licenses exist.
+
 - ## What Would Change the Thesis
 	- A material slowdown in frontier-lab and ad-inference demand despite falling token costs.
 	- Hyperscaler capex flattening because monetization fails, rather than because powered capacity is unavailable.
