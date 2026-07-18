@@ -8,22 +8,22 @@
 	- **Investment takeaway**: The decisive question is not “Is the sale GAAP-compliant?” but whether long-term compute revenue, utilization, and GPU residual economics can cover capex, depreciation, and interest after financing conditions normalize. [[$CRWV]] offers the highest operating and financial leverage; [[$NBIS]] starts with a stronger balance sheet but still needs substantial external capital; [[$NVDA]] gains ecosystem control and demand acceleration while assuming limited but non-zero equity and capacity-purchase exposure.
 
 - ## Executive Summary
-	- **Demand is not imaginary**: CoreWeave reported $2.08B of quarterly revenue, $99.4B of backlog, more than 1 GW of active power, and contracts with Meta, Anthropic, and other large customers. Nebius reported rapid revenue growth and contracts with Microsoft and Meta.
-	- **Funding is the vulnerability**: Both companies plan 2026 capex far above operating cash flow. The report estimates a $17.33B CoreWeave funding gap and $6.3B Nebius funding need at midpoint guidance.
-	- **Nvidia's equity is small relative to the buildout**: Its $2B CoreWeave purchase equals about 5.7% of CoreWeave's $35B high-end 2026 capex plan. Most funding comes from customer commitments, prepayments, debt, and other investors.
+	- **Demand is not imaginary**: CoreWeave reported \$2.08B of quarterly revenue, \$99.4B of backlog, more than 1 GW of active power, and contracts with Meta, Anthropic, and other large customers. Nebius reported rapid revenue growth and contracts with Microsoft and Meta.
+	- **Funding is the vulnerability**: Both companies plan 2026 capex far above operating cash flow. The report estimates a \$17.33B CoreWeave funding gap and \$6.3B Nebius funding need at midpoint guidance.
+	- **Nvidia's equity is small relative to the buildout**: Its \$2B CoreWeave purchase equals about 5.7% of CoreWeave's \$35B high-end 2026 capex plan. Most funding comes from customer commitments, prepayments, debt, and other investors.
 	- **The circular loop still matters**: A small Nvidia investment can have a large multiplier by improving strategic alignment, hardware access, lender confidence, and the perceived collateral value of Nvidia systems.
 	- **The risk is second-derivative demand**: Revenue need not decline for the capital structure to break. If AI demand grows more slowly than assumed, new capacity can miss utilization and pricing targets while debt service and depreciation remain fixed.
 	- **Accounting and economics are separate**: CoreWeave owns the GPUs it buys. Nvidia's separate commitment is to purchase unused compute capacity, not repurchase the chips. This supports sale accounting but does not resolve whether the ecosystem is overbuilding.
 
-- ## The $145B+ Neocloud Commitment Map
+- ## The \$145B+ Neocloud Commitment Map
 	- | Buyer or ecosystem | Reported commitment | Recipient / detail | Interpretation |
 	  |---|---:|---|---|
-	  | [[$MSFT]] | Approximately $60B | CoreWeave, Nebius, Nscale, and other neoclouds | Outsources rapid capacity deployment while reducing direct balance-sheet capex |
-	  | [[$META]] → [[$CRWV]] | $35.2B | Includes a recent $21B expansion | Large investment-grade contract supports CoreWeave revenue visibility and financing |
-	  | [[$META]] → [[$NBIS]] | Up to $27B | Together with CoreWeave, Meta's neocloud commitments reach up to $62.2B | Nebius says $12B is a five-year compute purchase and $15B provides additional allocation flexibility |
-	  | Microsoft + Meta total | Up to $122.2B | Across CoreWeave, Nebius, Nscale, and others | Report compares this with roughly 90% of AWS trailing-twelve-month revenue |
-	  | Including OpenAI and Anthropic | More than $145B potential | Exact additional contract values are not fully disclosed | Shows that AI labs add another major layer of demand, but the estimate is less auditable |
-	- The commitments are an order of magnitude larger than the report's 2026 revenue estimates of $12.6B for CoreWeave and $3.4B for Nebius.
+	  | [[$MSFT]] | Approximately \$60B | CoreWeave, Nebius, Nscale, and other neoclouds | Outsources rapid capacity deployment while reducing direct balance-sheet capex |
+	  | [[$META]] → [[$CRWV]] | \$35.2B | Includes a recent \$21B expansion | Large investment-grade contract supports CoreWeave revenue visibility and financing |
+	  | [[$META]] → [[$NBIS]] | Up to \$27B | Together with CoreWeave, Meta's neocloud commitments reach up to \$62.2B | Nebius says \$12B is a five-year compute purchase and \$15B provides additional allocation flexibility |
+	  | Microsoft + Meta total | Up to \$122.2B | Across CoreWeave, Nebius, Nscale, and others | Report compares this with roughly 90% of AWS trailing-twelve-month revenue |
+	  | Including OpenAI and Anthropic | More than \$145B potential | Exact additional contract values are not fully disclosed | Shows that AI labs add another major layer of demand, but the estimate is less auditable |
+	- The commitments are an order of magnitude larger than the report's 2026 revenue estimates of \$12.6B for CoreWeave and \$3.4B for Nebius.
 	- A commitment is not equivalent to recognized revenue, cash received, or guaranteed profit. Contract duration, cancellation rights, prepayments, utilization, pass-through expenses, and customer credit determine economic quality.
 
 - ## Why Hyperscalers Use Neoclouds
@@ -44,19 +44,19 @@
 - ## The Capex-to-Opex Transfer
 	- | Hyperscaler | 2026 operating cash flow / capex cited by report | Neocloud commitments | Balance-sheet effect |
 	  |---|---|---:|---|
-	  | [[$META]] | Approximately $136B OCF versus $125–145B capex guidance | Up to $62.2B | Directly building equivalent capacity would pressure free cash flow further; service costs are recognized over contracts through 2031–2032 |
-	  | [[$MSFT]] | Approximately $200B forecast OCF versus $190B capex guidance | Approximately $60B | Expands capacity while avoiding the neocloud infrastructure spend in Microsoft's reported capex |
+	  | [[$META]] | Approximately \$136B OCF versus \$125–145B capex guidance | Up to \$62.2B | Directly building equivalent capacity would pressure free cash flow further; service costs are recognized over contracts through 2031–2032 |
+	  | [[$MSFT]] | Approximately \$200B forecast OCF versus \$190B capex guidance | Approximately \$60B | Expands capacity while avoiding the neocloud infrastructure spend in Microsoft's reported capex |
 	- This does not eliminate economic cost. It relocates asset ownership, financing, construction, and residual-value risk to CoreWeave and Nebius while leaving hyperscalers with long-term purchase commitments.
 	- The strategy is rational if neoclouds deploy faster, finance efficiently, and achieve higher utilization. It becomes financial engineering if the primary value is flattering hyperscaler free-cash-flow optics while the underlying capacity earns inadequate returns.
 
 - ## Nvidia's Role — Investor, Supplier, Technology Partner, and Customer
-	- [[$NVDA]] invested $2B in CoreWeave in January 2026, buying 22.94M shares at $87.20 per share in cash. Nvidia separately announced a $2B investment in Nebius.
+	- [[$NVDA]] invested \$2B in CoreWeave in January 2026, buying 22.94M shares at \$87.20 per share in cash. Nvidia separately announced a \$2B investment in Nebius.
 	- Both partnerships target more than 5 GW of Nvidia-system capacity by 2030 and include early access, design review, bring-up support, system software, and full-stack collaboration.
-	- Before the latest investments, the report cites an Nvidia CoreWeave stake worth $896.7M in Q1 2025 and a $33M Nebius stake in Q4 2025, showing that these are continuing relationships rather than one-off checks.
-	- CoreWeave disclosed a Nvidia strategic collaboration initially valued at $6.3B under which Nvidia can be required to buy residual unsold compute capacity through April 13, 2032.
+	- Before the latest investments, the report cites an Nvidia CoreWeave stake worth \$896.7M in Q1 2025 and a \$33M Nebius stake in Q4 2025, showing that these are continuing relationships rather than one-off checks.
+	- CoreWeave disclosed a Nvidia strategic collaboration initially valued at \$6.3B under which Nvidia can be required to buy residual unsold compute capacity through April 13, 2032.
 	- **Critical distinction**: The backstop is a compute-capacity purchase commitment, not a GPU repurchase. CoreWeave retains title and residual-value risk on the hardware.
-	- The PDF states the initial $6.3B value could grow; Hacker News commenters disputed whether $6.3B is a cap and noted that confidential terms and termination conditions complicate the analysis. Treat the maximum exposure as unresolved without the full operative order forms.
-	- Nvidia's reported trailing free cash flow of $119B makes the disclosed equity checks and initial backstop manageable individually. The investment question is whether similar arrangements proliferate and what portion of future GPU demand relies on supported counterparties.
+	- The PDF states the initial \$6.3B value could grow; Hacker News commenters disputed whether \$6.3B is a cap and noted that confidential terms and termination conditions complicate the analysis. Treat the maximum exposure as unresolved without the full operative order forms.
+	- Nvidia's reported trailing free cash flow of \$119B makes the disclosed equity checks and initial backstop manageable individually. The investment question is whether similar arrangements proliferate and what portion of future GPU demand relies on supported counterparties.
 
 - ## The Circular Financing Loop
 	- **1. Hyperscaler / AI-lab contract** → gives the neocloud backlog, prepayments, and an investment-grade revenue counterparty.
@@ -70,32 +70,32 @@
 - ## CoreWeave — Maximum Operating and Financial Leverage
 	- | Metric | Latest quarter / 2026 estimate | Read-through |
 	  |---|---:|---|
-	  | Revenue | $2.08B, up 112% YoY | Real, rapidly growing demand base |
-	  | Revenue backlog | $99.4B as of March 31, 2026 | Strong visibility, but not cash or profit |
-	  | Operating cash flow | $2.98B | Helped fund the build but far below capex |
-	  | Capex | $7.7B in the quarter | Approximately 3.7× quarterly revenue |
-	  | Free cash flow | Negative $4.71B | External capital remains essential |
-	  | Cash | $2.27B, down $890M / 28.3% QoQ | Thin cushion relative to buildout |
-	  | Debt | $24.86B, up nearly $3.5B / 16.1% QoQ | Leverage is rising before all committed facilities are drawn |
-	  | 2026 capex guidance | $31–35B; $33B midpoint | Implies $25.3B remaining after Q1 |
-	  | Report-estimated 2026 funding gap | $17.33B | Likely minimum because management will protect liquidity |
-	  | Equity issued since listing | Approximately $3.5B | Meaningful but much smaller than debt issuance |
-	  | Debt issued across first five reports | $18.81B | More than 5× equity issuance |
-	  | Net cash position | Negative $22.6B | High exposure to financing and asset utilization |
+	  | Revenue | \$2.08B, up 112% YoY | Real, rapidly growing demand base |
+	  | Revenue backlog | \$99.4B as of March 31, 2026 | Strong visibility, but not cash or profit |
+	  | Operating cash flow | \$2.98B | Helped fund the build but far below capex |
+	  | Capex | \$7.7B in the quarter | Approximately 3.7× quarterly revenue |
+	  | Free cash flow | Negative \$4.71B | External capital remains essential |
+	  | Cash | \$2.27B, down \$890M / 28.3% QoQ | Thin cushion relative to buildout |
+	  | Debt | \$24.86B, up nearly \$3.5B / 16.1% QoQ | Leverage is rising before all committed facilities are drawn |
+	  | 2026 capex guidance | \$31–35B; \$33B midpoint | Implies \$25.3B remaining after Q1 |
+	  | Report-estimated 2026 funding gap | \$17.33B | Likely minimum because management will protect liquidity |
+	  | Equity issued since listing | Approximately \$3.5B | Meaningful but much smaller than debt issuance |
+	  | Debt issued across first five reports | \$18.81B | More than 5× equity issuance |
+	  | Net cash position | Negative \$22.6B | High exposure to financing and asset utilization |
 	- CoreWeave expects to reach approximately 1.7 GW active power by year-end 2026 from more than 1 GW currently active and more than 3.5 GW contracted.
 	- The company plans to convert the majority of its contracted pipeline to active capacity by the end of 2027, so heavy capital needs extend beyond the report's one-year funding-gap calculation.
 
 - ## CoreWeave's GPU-Backed Debt Engine
 	- CoreWeave has closed six GPU-backed delayed draw term loan facilities (DDTLs), drawing funds as construction and equipment milestones occur.
-	- DDTL 4.0 is an $8.5B non-recourse, investment-grade facility. Only $1.26B was drawn at March 31, so reported debt understates the future balance if CoreWeave uses the remaining capacity.
+	- DDTL 4.0 is an \$8.5B non-recourse, investment-grade facility. Only \$1.26B was drawn at March 31, so reported debt understates the future balance if CoreWeave uses the remaining capacity.
 	- CoreWeave's release priced DDTL 4.0 at SOFR +2.25% for the floating tranche and approximately 5.9% for the fixed tranche. The report describes the fixed tranche as roughly three-year Treasuries plus a 2% premium.
 	- The investment-grade rating is supported by a long-term contract with an investment-grade AI enterprise, presumed by the report to be Meta, plus the collateral value of the GPUs.
 	- DDTL 5.0 was reportedly backed by two non-investment-grade customer contracts, did not receive an investment-grade rating, and therefore carries a higher rate.
 	- **Credit insight**: The neocloud's cost of capital is a derivative of three variables—the customer's credit, the Nvidia system's residual value, and the contract's enforceability—not just the neocloud's corporate balance sheet.
 
 - ## Interest Expense Is Already a Major Revenue Claim
-	- CoreWeave paid $536M of interest in Q1, equal to **25.8% of revenue** and **46.3% of adjusted EBITDA**.
-	- Q2 guidance cited by the report implies $690M of interest expense on $2.525B midpoint revenue, raising interest/revenue to **27.3%**.
+	- CoreWeave paid \$536M of interest in Q1, equal to **25.8% of revenue** and **46.3% of adjusted EBITDA**.
+	- Q2 guidance cited by the report implies \$690M of interest expense on \$2.525B midpoint revenue, raising interest/revenue to **27.3%**.
 	- The three-year Treasury yield rose from below 3.6% at the beginning of 2026 to approximately 4.16% in June, increasing the cost of future fixed and floating financing.
 	- Adjusted EBITDA is a poor standalone solvency measure for this business because it excludes both depreciation on rapidly obsolescing accelerators and the interest required to fund them.
 	- **Key threshold**: Revenue growth must exceed the combined growth of depreciation, interest, and required maintenance / refresh capex for equity value to compound.
@@ -103,18 +103,18 @@
 - ## Nebius — Better Starting Balance Sheet, Same Capital-Intensity Problem
 	- | Metric | Report figure | Interpretation / verification note |
 	  |---|---:|---|
-	  | Latest-quarter revenue | PDF says $339M, up 684% YoY | Nebius's Q1 letter instead reports $399.0M group revenue and $389.7M AI-cloud revenue; use the company filing |
-	  | Operating cash flow | $2.26B | Driven substantially by customer prepayments, not mature recurring cash generation |
-	  | Capex | $2.47B | Nearly absorbed the quarter's unusually high operating cash inflow |
-	  | Free cash flow | Negative $214.9M | Better than CoreWeave in the quarter but not steady-state evidence |
-	  | Cash / debt | $9.37B / $8.45B | Approximately $920M net cash |
-	  | 2026 capex midpoint | $22.5B | Implies roughly $20B remaining after Q1 |
-	  | Report-estimated additional funding need | $6.3B | Includes cash and approximately $6.9B of contractual commitments in the bridge |
-	  | Equity issued since Q4 2024 | Approximately $3.92B | Includes Nvidia's $2B pre-funded warrants / investment |
-	  | Debt issued since Q4 2024 | $8.32B | Debt remains the larger funding source |
-	  | Undeployed ATM | 25M shares | At $200/share, gross proceeds could be $5B with approximately 8% dilution |
+	  | Latest-quarter revenue | PDF says \$339M, up 684% YoY | Nebius's Q1 letter instead reports \$399.0M group revenue and \$389.7M AI-cloud revenue; use the company filing |
+	  | Operating cash flow | \$2.26B | Driven substantially by customer prepayments, not mature recurring cash generation |
+	  | Capex | \$2.47B | Nearly absorbed the quarter's unusually high operating cash inflow |
+	  | Free cash flow | Negative \$214.9M | Better than CoreWeave in the quarter but not steady-state evidence |
+	  | Cash / debt | \$9.37B / \$8.45B | Approximately \$920M net cash |
+	  | 2026 capex midpoint | \$22.5B | Implies roughly \$20B remaining after Q1 |
+	  | Report-estimated additional funding need | \$6.3B | Includes cash and approximately \$6.9B of contractual commitments in the bridge |
+	  | Equity issued since Q4 2024 | Approximately \$3.92B | Includes Nvidia's \$2B pre-funded warrants / investment |
+	  | Debt issued since Q4 2024 | \$8.32B | Debt remains the larger funding source |
+	  | Undeployed ATM | 25M shares | At \$200/share, gross proceeds could be \$5B with approximately 8% dilution |
 	- Nebius reported more than 3.5 GW of contracted power, raised its year-end contracted target above 4 GW, and expects 800 MW–1 GW of connected power by year-end 2026.
-	- Its Q1 letter says it raised $6.3B during the quarter—$2B from Nvidia and $4.3B of convertible securities—and held more than $9B of cash after fundraising.
+	- Its Q1 letter says it raised \$6.3B during the quarter—\$2B from Nvidia and \$4.3B of convertible securities—and held more than \$9B of cash after fundraising.
 	- The stronger liquidity position reduces near-term refinancing risk, but deploying even the existing power pipeline requires years of debt, prepayments, or equity issuance.
 
 - ## Contracted Power Is Not Revenue-Producing Power
@@ -128,9 +128,9 @@
 - ## Hacker News Debate — Best Bull and Bear Arguments
 	- | Debate | Bull interpretation | Bear interpretation | Synthesis |
 	  |---|---|---|---|
-	  | Nvidia's $2B CoreWeave stake | Only 5.7% of $35B 2026 capex; most money is external, so the loop is not self-funded | A small equity check can unlock much larger debt and purchases through signaling and collateral | Direct dollars understate Nvidia's influence but overstate circularity if treated as the primary funding source |
+	  | Nvidia's \$2B CoreWeave stake | Only 5.7% of \$35B 2026 capex; most money is external, so the loop is not self-funded | A small equity check can unlock much larger debt and purchases through signaling and collateral | Direct dollars understate Nvidia's influence but overstate circularity if treated as the primary funding source |
 	  | Nvidia's motive | Neoclouds counter hyperscaler custom silicon, deploy Nvidia's full stack, and provide usage data | Nvidia has an incentive to manufacture or accelerate marginal demand | Both are true; strategic channel creation can be rational and still pull demand forward |
-	  | Capacity backstop | $6.3B is small relative to Nvidia cash flow and gives Nvidia usable DGX Cloud capacity | It weakens CoreWeave's penalty for over-ordering and shifts utilization risk back to Nvidia | Exposure is meaningful but not a make-whole guarantee for CoreWeave's total investment |
+	  | Capacity backstop | \$6.3B is small relative to Nvidia cash flow and gives Nvidia usable DGX Cloud capacity | It weakens CoreWeave's penalty for over-ordering and shifts utilization risk back to Nvidia | Exposure is meaningful but not a make-whole guarantee for CoreWeave's total investment |
 	  | Revenue accounting | CoreWeave pays cash, takes title, and Nvidia separately buys a service; not consignment | GAAP compliance does not prove organic or sustainable demand | Focus on disclosure and durability rather than alleging that booked revenue is fictitious |
 	  | End demand | AI labs and enterprises report rapidly rising spend and real labor/productivity value | Current revenue remains too small relative to valuations and infrastructure commitments | End demand can be real while the investment cycle still overbuilds ahead of monetization |
 	  | Historical analogy | Intel Capital and other suppliers have long invested to expand their TAM | Today's scale and leverage make a reversal far more consequential | Vendor financing is not novel; scale, asset duration, and interconnectedness are the differentiators |
@@ -152,11 +152,11 @@
 		- Each Nvidia dollar can catalyze more than a dollar of system demand through debt and customer contracts.
 		- The risk is revenue pull-forward and future opex if supported customers cannot place capacity. Monitor aggregate equity investments, purchase obligations, receivables, and neocloud share of Nvidia data-center sales.
 	- **[[$CRWV]] — highest upside torque and highest refinancing risk**
-		- Nearly $100B backlog, early access to new GPUs, strong software utilization claims, and investment-grade contract financing support extraordinary growth.
-		- Negative FCF, more than $24B debt, a $17B-plus estimated funding gap, and interest above one-quarter of revenue leave little room for delays or pricing compression.
+		- Nearly \$100B backlog, early access to new GPUs, strong software utilization claims, and investment-grade contract financing support extraordinary growth.
+		- Negative FCF, more than \$24B debt, a \$17B-plus estimated funding gap, and interest above one-quarter of revenue leave little room for delays or pricing compression.
 		- Equity behaves like a levered option on sustained compute scarcity, contract performance, and open credit markets.
 	- **[[$NBIS]] — better liquidity, substantial execution and dilution risk**
-		- More than $9B cash, customer prepayments, and net cash provide a stronger starting position than CoreWeave.
+		- More than \$9B cash, customer prepayments, and net cash provide a stronger starting position than CoreWeave.
 		- The gap between more than 3.5 GW contracted and at most 1 GW connected in 2026 still requires large future financing. The unused ATM makes dilution a visible release valve.
 	- **[[$MSFT]] / [[$META]] — capacity acceleration with hidden duration**
 		- Neocloud leases protect near-term capex and time-to-compute but create long-duration opex and take-or-pay exposure.
