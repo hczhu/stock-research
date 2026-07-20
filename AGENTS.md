@@ -70,12 +70,13 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
 
 **Disallowed sections:**
-- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Key Takeaways`, `## Stock Read-Throughs`, or `## Variant Perception`.
+- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Key Takeaways` or `## Stock Read-Throughs`.
 - Do **not** write a `## Risks and Caveats` section in memos.
 - Do **not** write an `## Investment Implications` section.
 - Do **not** write a `## Catalysts` section.
 - Do **not** write a `## Risks and Counterarguments` section.
 - Do **not** write a `## What to Monitor` section.
+- Do **not** write a `## Variant Perception` section.
 
 ## Input Handling
 
