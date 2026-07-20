@@ -66,11 +66,15 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 **Optional but common elements:**
 - `**Thesis**:` — one-line investment takeaway
 - Data tables using standard Markdown table syntax
-- `## Investment Implications` or `## Key Data Points` sections
+- `## Key Data Points` or `## Stock Read-Throughs` sections
 - `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
 
 **Disallowed sections:**
-- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Investment Implications`, `## Variant Perception`, or `## What to Monitor`.
+- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Key Takeaways`, `## Stock Read-Throughs`, or `## Variant Perception`.
+- Do **not** write an `## Investment Implications` section.
+- Do **not** write a `## Catalysts` section.
+- Do **not** write a `## Risks and Counterarguments` section.
+- Do **not** write a `## What to Monitor` section.
 
 ## Input Handling
 
