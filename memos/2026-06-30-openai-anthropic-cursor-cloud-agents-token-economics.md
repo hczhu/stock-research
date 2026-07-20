@@ -123,13 +123,6 @@
 	  | **Datadog / [[$DDOG]]** | Long-running agents require execution traces, infrastructure telemetry, failure diagnosis and cost observability | Cloud and model vendors may bundle basic monitoring; Datadog needs cross-provider depth and automated remediation |
 	  | **Coinbase / [[$COIN]]** | Lower AI unit costs can improve engineering efficiency without reducing usage | The case study is operational rather than a direct revenue driver; savings must translate into faster or safer product delivery |
 
-- ## Variant Perception
-	- **Consensus framing**: better coding models primarily shift share among OpenAI, Anthropic, Cursor and GitHub Copilot.
-	- **Broader read**: the larger change is architectural. Persistent agents create a new cloud workload and pull value toward runtime, context, security, repositories, evaluation, telemetry and financial governance.
-	- **Bullish mistake**: extrapolating OpenAI's 88%–99% department-level Codex share directly to ordinary companies.
-	- **Bearish mistake**: assuming cheaper tokens reduce the market. Lower unit prices can stimulate much higher usage, even if revenue capture shifts from model labs to infrastructure and workflow layers.
-	- **Central tension**: cloud agents increase gross inference demand but also make it worthwhile for sophisticated customers to optimize routing, caching and model choice aggressively.
-
 - ## Uncertainties and Falsification Tests
 	- OpenAI, Anthropic and Cursor are unusually motivated, technically capable early adopters; their behavior may remain an outlier.
 	- Long-running agents could stall if reliability, security or human-review costs grow faster than task duration.
