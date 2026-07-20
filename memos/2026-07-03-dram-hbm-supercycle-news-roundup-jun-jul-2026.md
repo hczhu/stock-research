@@ -80,6 +80,64 @@
 
 	- **Ming-Chi Kuo framing**: supply crunch could **last through 2027**; not just higher prices but genuine availability constraint.
 
+- ## Apple and CXMT — Supply Insurance, Not a Cost Solution
+	- **Source note**: Ming-Chi Kuo industry checks and analysis in the user-supplied news excerpt; exact publication link and timestamp were not provided. Treat estimates as channel-check data rather than company guidance.
+	- **Core conclusion**: Apple's reported lobbying to keep CXMT off the US Commerce Department Entity List is best understood as an attempt to preserve a potential fourth DRAM source as the global shortage worsens. CXMT cannot supply enough volume to reset pricing or close Apple's gap, but in a constrained market even marginal qualified capacity has strategic value.
+
+	- | Signal | Reported data | Analytical read-through |
+	  |---|---|---|
+	  | Consumer-memory reallocation | An estimated **15–20%** of memory capacity allocated to consumer electronics in 2026 may shift to data centers in 2027, with potential for a larger move | The relevant consumer supply pool may shrink before accounting for underlying device demand; AI demand crowds out phones and PCs even if total industry capacity grows |
+	  | Apple A20 pull-in | Actual A20 chip pull-in during **2H26–1Q27** could be **10–20% below** Apple's original target because of tight LPDDR supply | Memory availability can constrain system-chip orders and finished-device production; the effect is no longer limited to a higher bill of materials |
+	  | Forecast caveat | Part of the A20 reduction may reflect Apple's own component-order overbooking | A 10–20% order cut is not automatically a 10–20% iPhone unit reduction; original orders may have included shortage-driven buffers |
+	  | CXMT domestic balance | CXMT says in its IPO prospectus that capacity is far below Chinese domestic demand | CXMT is not sitting on surplus supply that Apple can access cheaply; Chinese customers compete for the same limited output |
+	  | Prospective CXMT sourcing | Even a successful Apple qualification would not materially lower costs or fill the supply gap | The value is redundancy and incremental allocation, not a return to pre-shortage pricing |
+	  | Policy objective | Apple is reportedly lobbying Washington to keep CXMT off the Entity List | Preserving legal access matters before Apple spends time qualifying parts and negotiating supply; the Pentagon's Section 1260H designation already creates policy risk |
+	  | Historical contrast | Apple evaluated YMTC NAND in 2022 primarily as a lower-cost source; CXMT DRAM is being considered amid an availability shortage | The procurement objective has shifted from price competition to continuity of supply |
+	  | Management timing | The source argues Tim Cook has unusual credibility in both Washington and Beijing and may want the issue addressed before a CEO transition | Political access is treated as a time-sensitive supply-chain asset, though succession timing and lobbying outcomes remain speculative |
+
+	- **Why CXMT matters despite insufficient capacity**:
+		- Tight markets are governed by marginal supply. A source too small to solve the industry shortage can still support a product launch, improve allocation flexibility, or reduce reliance on any one incumbent.
+		- A technically qualified alternative gives Apple procurement optionality across Samsung, SK Hynix, and Micron, but limited spare capacity means it provides less pricing leverage than a new supplier would in a balanced market.
+		- Qualification can have option value even if initial purchase volume is low: Apple would be positioned to absorb future CXMT expansion if policy and product quality permit.
+		- CXMT's own domestic shortfall means Apple may need long-term commitments, prepayments, or politically sensitive allocation guarantees to secure meaningful volume.
+
+	- **Why this differs from Apple's 2022 YMTC evaluation**:
+		- YMTC addressed **NAND cost diversification** in a market where Apple could bargain among suppliers.
+		- CXMT addresses **LPDDR availability and concentration risk** while data centers are pulling wafers away from consumer products.
+		- NAND sourcing could be abandoned when Washington objected because the principal benefit was lower cost. If DRAM shortages threaten device volumes, abandoning an incremental supplier carries a larger operational penalty.
+		- The comparison shows how AI infrastructure has changed memory procurement from a component-cost exercise into a production-continuity and geopolitical-risk problem.
+
+	- **Policy and narrative strategy**:
+		- Keeping CXMT off the Entity List would preserve the possibility of commercial qualification; it would not guarantee US political approval, sufficient capacity, or acceptable economics.
+		- Apple's effort may also create public evidence that management pursued supply alternatives. If memory scarcity forces device price increases or longer delivery times, Apple can argue that policy—not procurement inaction—limited the available response.
+		- That narrative benefit is secondary to supply access and is an inference from the source, not a disclosed Apple communications plan.
+		- The episode illustrates how export controls can affect downstream US hardware companies: restricting a Chinese memory supplier may reinforce the Big 3's pricing power while reducing sourcing flexibility for Apple.
+
+	- **Supply-chain transmission mechanism**:
+		- Data-center customers secure more DRAM wafer allocation through higher willingness to pay and longer commitments.
+		- Memory manufacturers redirect capacity away from lower-margin consumer LPDDR.
+		- Apple receives fewer LPDDR units or accepts materially higher prices.
+		- Apple reduces A20 pull-ins, changes product mix, delays shipments, raises device prices, or absorbs margin pressure.
+		- Attempts to qualify CXMT run into limited Chinese supply and US policy constraints, leaving the incumbent DRAM oligopoly as the binding source of volume.
+
+	- **Stock read-throughs**:
+		- **[[$AAPL]] — negative operating leverage from physical scarcity**: the risk is no longer just memory-cost inflation. A constrained LPDDR allocation can reduce product availability and suppress logic-chip pull-ins, while price increases test consumer demand.
+		- **[[$AAPL]] — procurement strength has limits**: scale, multi-sourcing, and Tim Cook's political relationships cannot manufacture wafer capacity. Apple's effort to add CXMT is itself evidence that incumbent supply is insufficient.
+		- **[[$MU]], [[$005930.KS]], and [[$000660.KS]] — positive pricing and allocation signal**: a buyer with Apple's scale seeking a geopolitically difficult fourth source supports the thesis that the Big 3 retain strong negotiating leverage through 2027.
+		- **CXMT — strategically relevant but not yet an industry-balancing supplier**: domestic undersupply limits near-term exports and weakens the claim that Chinese DRAM capacity will break global pricing in 2026–2027.
+		- **[[$TSM]] — A20 order data is a cautionary downstream signal**: lower pull-ins could reduce near-term Apple wafer demand, but overbooking makes the magnitude noisy and memory may shift rather than eliminate production across products.
+		- **Consumer hardware — AI capex crowds out device volumes**: smartphones and PCs compete indirectly with data centers for memory-fab capacity. This can produce higher prices, lower specifications, delayed launches, and weaker unit elasticity across the sector.
+
+	- **Predictions and falsifiers**:
+		- | Implied prediction | Supporting evidence | Falsifying evidence |
+		  |---|---|---|
+		  | Consumer-memory availability worsens through 2027 | More OEM allocation cuts, LPDDR lead-time extensions, device delays, or component-order reductions | Consumer allocations stabilize while device production meets original plans |
+		  | CXMT remains a marginal rather than price-setting source | Domestic demand absorbs output; export availability stays limited; pricing remains near the Big 3 | CXMT offers Apple large qualified volumes at a material discount |
+		  | Apple's A20 reduction partly reflects a real supply constraint | Similar cuts appear across LPDDR-dependent components and suppliers | A20 orders rebound quickly with no change in memory availability, indicating overbooking was dominant |
+		  | Memory scarcity reaches consumers | Additional Apple price increases, longer delivery times, lower base-memory configurations, or unfavorable product mix | Apple absorbs costs without margin deterioration and maintains availability |
+		  | US policy preserves Big 3 leverage over Apple | CXMT is added to the Entity List or Apple is prevented from qualifying it | Washington permits sourcing and Apple secures meaningful CXMT allocation |
+		  | China does not break the 2027 DRAM cycle | CXMT prospectus updates continue to show domestic undersupply and constrained expansion | Rapid capacity additions create exportable surplus before the end of 2027 |
+
 - ## Strategic Alliances and Architecture Read-Throughs
 
 	- | Area | Data point | Read-through |
