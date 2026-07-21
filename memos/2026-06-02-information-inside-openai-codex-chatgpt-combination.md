@@ -18,6 +18,21 @@
 	  | Claude Code / Cowork users | Not disclosed; **paying users only** (no free tier) | Article |
 	  | Anthropic coding-product revenue | "Likely greater than Codex's today" | Article's judgment |
 
+- ## July 2026 Adoption Update — ChatGPT Work + Codex
+	- **Source**: User-provided OpenAI-branded chart, “The agentic breakout,” covering March-July 2026. The image does not include a publication URL, underlying dataset, geographic scope, or user-count methodology, so the labels below are transcribed as presented rather than independently verified.
+	- **Metric boundary**: This chart reports **combined ChatGPT Work + Codex weekly active users**, while the earlier series above reports **Codex WAU alone**. The two series should not be treated as a continuous like-for-like history.
+	- | Measurement point | Labeled weekly active users | Change from prior labeled point | Derived growth |
+	  |---|---:|---:|---:|
+	  | March 2026 | 2M combined WAU | Starting point | Baseline |
+	  | July 12, 2026 | 6M combined WAU | +4M users | 3.0x, or +200%, versus March |
+	  | July 21, 2026 | 10M combined WAU | +4M users in 9 days | 1.67x, or +66.7%, versus July 12 |
+	  | March to July 21 | 2M to 10M combined WAU | +8M users | 5.0x, or +400% |
+	- **Chart annotation versus arithmetic**: OpenAI's graphic describes the move to 10M as “~2x growth in 1 week.” The labeled endpoints are 6M on July 12 and 10M on July 21, which imply **1.67x over nine days**. The annotation is therefore a rounded characterization, not the exact endpoint calculation.
+	- **Adoption inflection**: The final 4M-user increase took nine days, whereas the prior 4M increase accumulated between March and July 12. Even allowing for the combined metric and a product-launch step-up, the slope changed sharply after ChatGPT Work became part of the agentic desktop offering.
+	- **Distribution thesis gains support**: The Codex harness is no longer constrained to developers who deliberately seek out a coding agent. Folding it into ChatGPT Work appears to have expanded the reachable user base and accelerated agent adoption beyond the earlier 5M+ Codex-only milestone.
+	- **Revenue cannot be inferred from WAU alone**: The chart does not disclose paying mix, usage intensity, token consumption, enterprise share, retention, or revenue. A combined-product WAU breakout supports the engagement thesis, but not yet the unit-economics or monetization thesis.
+	- **Competitive read-through**: Rapid combined adoption strengthens OpenAI's challenge to Claude Code/Cowork and validates the decision to organize the desktop product around agentic work. It also increases pressure on OpenAI to prove that broader users can successfully complete useful tasks rather than merely sample the redesigned product.
+
 - ## The Timeline (how OpenAI lost, then chased, coding)
 	- **Fall 2024**: Claude "pulled ahead of OpenAI's models by some internal measures" — alarming because OpenAI long believed **AI-for-coding speeds up the research process key to superintelligent AI** (coding = the recursive-self-improvement input, not just a product).
 	- **Jan 2025**: Operator (browser-clicking agent) ships; leaders quickly realize **"having an AI click around a browser was too slow"** — writing code is the more efficient way for AI to navigate a computer. (The GUI-agent → code-agent pivot in one sentence.)
