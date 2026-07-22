@@ -4,16 +4,6 @@
 - **Scope**: Observations from visits to OpenAI, Anthropic and Cursor, supplemented by public product announcements, benchmark results and a Coinbase token-cost case study.
 - **Thesis**: Coding agents are moving from interactive desktop tools into persistent cloud runtimes that execute long tasks asynchronously. As adoption expands beyond engineers and token volumes rise, model access alone should become less differentiated; value shifts toward secure execution environments, agent orchestration, context, repositories, observability, evaluation, multi-model routing and cost control.
 
-- ## Key Takeaways
-	- **Cloud agents are becoming the next deployment primitive**: OpenAI, Anthropic and Cursor are all investing in remotely hosted agents that can run for hours or days without tying up a user's laptop.
-	- **The strategic unit is the runtime, not the chat interface**: persistent sandboxes must supply code, tools, credentials, context, networking, checkpoints and recovery. A Slack mention or mobile app is mainly a low-friction launch surface for this infrastructure.
-	- **Coding harnesses may become general-purpose knowledge-work environments**: at OpenAI, Codex represents 99% of engineering output-token usage and roughly 88%–91% in Finance, Legal and Recruiting, versus ChatGPT.
-	- **OpenAI is a frontier indicator, not a normal adoption baseline**: it sells tokens, places no internal AI-spending limits and hires unusually autonomous workers. Other enterprises are likely to follow more slowly and with tighter budgets.
-	- **Engineering work moves up the abstraction stack**: engineers increasingly partition work, design conflict-free architectures and improve the environment in which many agents execute rather than manually author every change.
-	- **Token optimization becomes a platform discipline**: Coinbase reportedly cut total token spending by nearly half without materially reducing usage through model routing, caching, cheaper defaults and context hygiene.
-	- **Open-weight models pressure frontier-model economics**: the report describes GLM-5.2 as near-frontier on coding at 70%–80% lower token cost, creating a strong incentive for enterprises to route commodity tasks away from premium models.
-	- **The likely winner is a multi-model control plane**: enterprises will want provider failover, sensitive-data redaction, logging, caching, budget policies and task-based model selection rather than dependence on a single lab.
-
 - ## Key Data Points
 	- | Topic | Reported data | Significance |
 	  |---|---|---|
@@ -111,17 +101,6 @@
 	- Token usage can rise much faster than token spending as caching improves and model prices decline.
 	- Model choice will become dynamic and task-specific, weakening single-provider lock-in.
 	- Security, evaluation and observability spending should grow as autonomous agents receive longer execution windows and broader tool access.
-
-- ## Stock Read-Throughs
-	- | Company | Positive exposure | Strategic tension |
-	  |---|---|---|
-	  | **Microsoft / [[$MSFT]]** | Azure compute, GitHub repositories and enterprise distribution position Microsoft across agent runtime, code context and workflow | Codex may capture the agent interface independently of GitHub Copilot; open-model routing pressures premium inference economics |
-	  | **Amazon / [[$AMZN]]** | AWS can host Anthropic managed agents, isolated sandboxes and open-weight inference; Bedrock fits multi-model routing | Anthropic may capture the application layer while customers optimize aggressively across providers |
-	  | **Alphabet / [[$GOOGL]]** | GCP has cloud runtime and GPU exposure plus its own models and developer tools | Model commoditization and customer-controlled gateways reduce lock-in to Gemini |
-	  | **Salesforce / [[$CRM]]** | Slack can become a ubiquitous agent-launch surface; enterprise data and permissions strengthen context | A Slack mention is a thin interface unless Salesforce captures runtime, workflow or consumption economics |
-	  | **GitLab / [[$GTLB]]** | Repositories, merge requests, CI/CD and governance are natural control points for cloud agents producing merge-ready PRs | Coding platforms can bypass GitLab's interface unless it becomes the trusted orchestration and policy layer |
-	  | **Datadog / [[$DDOG]]** | Long-running agents require execution traces, infrastructure telemetry, failure diagnosis and cost observability | Cloud and model vendors may bundle basic monitoring; Datadog needs cross-provider depth and automated remediation |
-	  | **Coinbase / [[$COIN]]** | Lower AI unit costs can improve engineering efficiency without reducing usage | The case study is operational rather than a direct revenue driver; savings must translate into faster or safer product delivery |
 
 - ## Uncertainties and Falsification Tests
 	- OpenAI, Anthropic and Cursor are unusually motivated, technically capable early adopters; their behavior may remain an outlier.

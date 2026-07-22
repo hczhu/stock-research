@@ -3,17 +3,6 @@
 - **Source**: McKinsey & Company Growth, Marketing & Sales Practice, “From campaigns to continuous growth: AI capabilities shaping marketing,” June 2026. Authors: Eli Stein, Jamie Wilkie, Julien Boudet, Kelsey Robinson and Lalit Bhagia, with Emily Scofield. User-provided nine-page PDF.
 - **Thesis**: AI is pushing marketing from periodic campaigns toward an always-on growth system that continuously senses demand, generates content, personalizes offers, markets to consumer agents and reallocates spend. Creative production and campaign execution should become cheaper and more abundant, shifting strategic value toward first-party data, identity, machine-readable product knowledge, closed-loop measurement and cross-platform orchestration.
 
-- ## Key Takeaways
-	- **Consumer discovery is already changing**: nearly half of consumers use AI-powered search during the purchase journey, with usage spanning category education, technical explanations, recommendations, comparisons and review summaries.
-	- **Experimentation is far ahead of value capture**: 90% of CMOs are testing AI, but fewer than 10% have scaled it or captured value across marketing workflows.
-	- **The problem is organizational, not merely technical**: only 28% of surveyed organizations are fundamentally rewiring teams and workflows; most are bolting point tools onto a campaign-era operating model.
-	- **The upside is economically material**: McKinsey cites potential revenue growth of 4%–7%, two- to threefold productivity improvement and 60%–70% savings in execution tasks when capabilities operate as an integrated system.
-	- **Creative production commoditizes first**: organizations are already reporting two- to fivefold creative-productivity gains, 10%–30% lower creative costs and campaign cycles compressed from six to ten weeks to same-day execution.
-	- **Agentic discovery moves marketing from attention to trust**: brands must provide structured specifications, verified reviews, expert evidence and current commercial terms that machines can interpret and validate.
-	- **Data and orchestration become the control points**: the winning stack requires unified customer identity, real-time decisions, offer management, measurement, governance and the ability to coordinate agents across channels.
-	- **Marketing organizations become smaller and faster**: execution labor shrinks while new roles emerge for system builders, human-agent orchestrators and quality/brand standard bearers.
-	- **Savings do not automatically become earnings**: time saved creates value only if headcount, external spend or resource allocation changes, or if freed capacity is reinvested into measurable growth.
-
 - ## Key Data Points
 	- | Metric | Reported result | Source context |
 	  |---|---|---|
@@ -126,16 +115,6 @@
 	- Retail-media networks and commerce platforms should benefit because purchase data provides the strongest closed-loop training and measurement signal.
 	- CRM and data-cloud platforms will compete to become the identity and decision layer for one-to-one journeys.
 	- AI value reporting will move from adoption metrics toward realized revenue, acquisition-cost, retention and external-spend outcomes.
-
-- ## Stock Read-Throughs
-	- | Company | Positive exposure | Strategic pressure |
-	  |---|---|---|
-	  | **Meta / [[$META]]** | Closed-loop engagement and conversion data, automated creative, massive experimentation surface and native messaging distribution | More discovery inside independent assistants can weaken direct consumer attention and shift control upstream |
-	  | **Alphabet / [[$GOOGL]]** | Search intent, Gemini, YouTube, merchant data and automated ad buying position Google across human and agent discovery | Traditional search traffic and paid-click economics face disintermediation if agents answer and transact directly |
-	  | **Amazon / [[$AMZN]]** | Purchase history, product catalog, fulfillment and retail-media data create high-trust inputs for agentic commerce | External agents may own discovery and force Amazon to expose data or share transaction economics |
-	  | **Salesforce / [[$CRM]]** | CRM, Data Cloud, marketing automation and offer workflows can anchor identity and next-best action | Value depends on unifying fragmented data and proving outcomes rather than selling more point tools or seats |
-	  | **Adobe / [[$ADBE]]** | Brand assets, creative tooling, content supply chain and governance are central to scaled creativity | Generative content commoditizes basic production and can compress per-asset pricing; Adobe must monetize workflow and brand control |
-	  | **Trade Desk / [[$TTD]]** | Neutral cross-channel buying and measurement align with always-on budget orchestration | Closed platforms with proprietary conversion data may outperform neutral intermediaries; agentic buying can compress manual platform value |
 
 - ## Evidence Quality and Open Questions
 	- Several outcome estimates are based on McKinsey client experience rather than controlled studies or disclosed company financials.

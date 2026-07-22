@@ -129,17 +129,6 @@
 	- **SaaS margin benchmarks may reset**: if agentic automation truly halves G&A and reduces sales-support requirements, mature software companies could sustain higher operating margins without suppressing product investment.
 	- **Gross margin becomes less comparable across software**: consumption platforms may accept lower product gross margins in exchange for faster growth and lower sales costs, making operating contribution and capital intensity more useful than SaaS gross margin alone.
 
-- ## Stock Read-Throughs
-	- **[[$NET]] — revenue quality is broadening**: 33.5% growth is supported by large customers, partners, US acceleration, Workers, Cloudflare One, and improving retention—not one isolated AI product.
-	- **[[$NET]] — dogfooding can compress sales cycles**: Cloudflare OS makes Workers and Zero Trust concrete for enterprise buyers and gives management a quantified operating-margin story, potentially improving conversion and cross-sell.
-	- **[[$NET]] — the restructuring raises execution stakes**: a 20% reduction during strong demand can create organizational disruption, knowledge loss, and customer-support risk. The company must show product velocity, retention, and pipeline conversion remain intact.
-	- **[[$NET]] — margin upside is credible but back-end loaded**: restructuring charges and Workers mix pressure near-term results, while the 30% operating-margin and 30–35%+ FCF targets require several years of sustained productivity.
-	- **[[$NET]] — Workers is both the upside and the accounting debate**: 137% ARR growth and developer additions are powerful signals; lower gross margin means valuation should depend on contribution economics, attach rates, and durable paid consumption.
-	- **[[$NET]] — Cloudflare OS adds application-layer optionality**: a managed enterprise-agent product could expand TAM, but free distribution that drives infrastructure usage may produce better strategic fit and lower go-to-market complexity.
-	- **[[$CRM]], [[$WDAY]], and [[$TEAM]] — systems of record remain data suppliers**: Cloudflare's architecture depends on their context but can disintermediate parts of their workflow and analytics interfaces.
-	- **[[$ZS]] and [[$PANW]] — agent governance expands SASE demand**: autonomous access to private systems creates new identity and policy volume, while Cloudflare's combined runtime/network architecture increases competitive pressure.
-	- **Model providers — routing pressures pricing power**: enterprises adopting gateways can shift tasks between OpenAI, Anthropic, open models, and internal inference. Frontier quality remains valuable, but the buyer gains procurement flexibility.
-
 - ## Execution Questions and Falsifiers
 	- | Management claim or thesis | Evidence that would support it | Evidence that would weaken it |
 	  |---|---|---|

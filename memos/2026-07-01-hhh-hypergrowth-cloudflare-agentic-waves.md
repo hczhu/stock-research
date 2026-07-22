@@ -111,16 +111,6 @@
 	- Cloudflare's larger reported customer-add advantage and broader Acts 2-3 portfolio support superior cross-sell potential, but the article's customer comparison may not be like-for-like.
 	- **Industry conclusion**: edge security is likely a category-wide beneficiary of machine traffic; durable share gains depend on who converts traffic into developer compute, data services, and private connectivity.
 
-- ## Stock Read-Throughs
-	- **[[$NET]] — strongest evidence is the platform flywheel**: named AI deployments and the 1 million Dynamic Workers ramp validate Workers as agent infrastructure more directly than generic AI branding would.
-	- **[[$NET]] — mix can shift toward consumption**: machine-generated applications and agent sandboxes create volatile but potentially high-elasticity usage across compute, browsing, storage, workflows, and networking. Investors should expect new forecasting and gross-margin complexity.
-	- **[[$NET]] — SASE may benefit from non-human identities**: agent access to private services expands the protected-entity count beyond employees and devices. This is a credible new use case for Cloudflare One even if human seat growth slows.
-	- **[[$NET]] — developer distribution is a leading indicator**: default deployment in Codex Sites, Vite plugin penetration, and infrastructure choices by Figma, Lovable, and Anthropic matter because agents increasingly choose infrastructure before users see it.
-	- **[[$NET]] — Act 4 can increase strategic value before direct revenue**: crawler controls and content scarcity may help Cloudflare win and retain publishers, reduce price sensitivity, and deepen its control-plane position even if payment take rates remain negligible.
-	- **[[$FSLY]] — agentic traffic helps the core but does not close the platform gap**: accelerating security and edge-compute growth are positive, while the tiny compute mix and weak customer additions constrain the multi-product narrative.
-	- **[[$ZS]] / [[$PANW]] — agent security is both opportunity and competitive pressure**: more autonomous identities and private tool calls expand Zero Trust demand, but Cloudflare can bundle runtime and network enforcement in one architecture.
-	- **[[$AMZN]] / [[$MSFT]] / [[$GOOG]] — edge-agent competition broadens**: Cloudflare does not need to replace centralized cloud compute to win. It can capture latency-sensitive execution, generated app deployment, security, and cross-cloud connectivity at the edge.
-
 - ## Predictions and Falsifiers
 	- | Prediction | Evidence that would support it | Evidence that would weaken it |
 	  |---|---|---|

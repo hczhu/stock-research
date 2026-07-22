@@ -126,16 +126,6 @@
 	- **Timing range**: model progress could arrive within a year or take several years; safe commercial deployment may lag capability.
 	- **Hardware read-through**: physical AI adds persistent inference, sensors, edge compute, simulation, and training demand, but accident liability and hardware economics are stronger constraints than in software.
 
-- ## Stock Read-Throughs
-	- **[[$NVDA]] — stacked compute demand remains the clearest beneficiary**: pre-training, growing RL, synthetic-data inference, distillation teachers, mass serving, video, longer reasoning, and agents compete for capacity rather than collapsing into one workload.
-	- **[[$MSFT]] / OpenAI — efficiency is strategic, not merely defensive**: cheaper distilled models make billion-user products economically viable, while premium long-thinking modes monetize high-value demand and drive Azure inference.
-	- **[[$GOOG]] — scaling validation and multimodal leverage**: Kaiser says Google and other labs observe the same pre-training laws. Google's data, infrastructure, and multimodal product surface position it well if visual reasoning becomes the next major frontier.
-	- **Anthropic — integrated-system competition**: model leadership depends on RL, tools, post-training, long-horizon harnesses, and product feedback. A narrow lead can compound through usage data but remains technically contestable.
-	- **Developer tools — workflow transition is already occurring**: coding agents are the first domain where delegation replaced autocomplete. Demand should move toward task orchestration, review, security, and observability.
-	- **Vertical AI and enterprise SaaS — reliability layer remains valuable**: jagged errors and trust requirements support domain evals, proprietary data, human escalation, and systems of record even as base models improve.
-	- **AI infrastructure — security becomes part of compute access**: agents cannot autonomously use clusters, internal data, and production tools without sandboxes, permissions, secrets, audit logs, and rollback.
-	- **Robotics — high upside, wider timing distribution**: software capability may arrive before safe, economical household deployment. Valuation should distinguish demos from reliability at fleet scale.
-
 - ## Predictions and Falsifiers
 	- | Prediction implied by the interview | Evidence that would support it | Evidence that would weaken it |
 	  |---|---|---|

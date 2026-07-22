@@ -68,15 +68,6 @@
 		- Use the Rivian joint venture for a zonal software architecture rather than relying solely on CARIAD.
 	- These partnerships concede that speed and software capability can matter more than owning every layer internally. They may lower execution risk, but they also make governance, intellectual property, and value capture more complex.
 
-- ## Stock Read-Throughs
-
-	- **Volkswagen**: The upside case is that European BEV leadership, platform consolidation, partnerships, and more than EUR 6 billion of targeted annual savings create a credible earnings reset. The offset is that labor friction, duplicated architectures, and plant underutilization can consume those gains for years.
-	- **Tesla ([[$TSLA]])**: May's growth shows that demand recovered from a weak comparison, but falling behind BYD and SAIC highlights an aging European lineup and intensifying price, feature, and product-cycle competition. Relative share is more informative than year-over-year growth off a depressed base.
-	- **BYD**: European scale is becoming visible before its local manufacturing footprint is fully mature. Vertical integration in batteries and power electronics should support cost and iteration speed, though tariffs, localization costs, and dealer/service build-out determine how much of that advantage reaches earnings.
-	- **SAIC and Geely**: Both demonstrate that Chinese exposure takes different forms—SAIC through MG and Geely through a portfolio that includes European-rooted brands. Brand heritage and existing distribution can soften consumer resistance to Chinese ownership.
-	- **Other European incumbents**: The Volkswagen case raises the probability of further plant consolidation, headcount reductions, platform sharing, and external software partnerships across the sector. Companies with strong hybrid economics may have more time, but not necessarily a simpler transition.
-	- **Suppliers**: Content shifts away from engines, transmissions, fuel systems, and exhaust components toward batteries, power semiconductors, thermal systems, sensors, compute, and software. The key question is not merely EV unit growth, but which suppliers retain pricing power as OEMs consolidate components and architectures.
-
 - ## Predictions and Trends
 
 	- Electrified share should continue to rise faster than BEV share because hybrids remain a practical bridge for buyers and a compliance tool for manufacturers.

@@ -2,14 +2,6 @@
 
 - **Source**: User-provided screenshot, 2026-06-08, showing HBM generation specs and excerpts on HBM cost inflation, DRAM density deceleration, and SRAM-only inference limits.
 
-- ## Key Takeaways
-	- HBM is scaling aggressively on bandwidth and capacity, but not cheaply. From first-gen HBM to HBM4, stack bandwidth rises from **128 GB/s to 2,048 GB/s** and max stack capacity rises from **4 GiB to 64 GiB**.
-	- HBM4 gets much of its bandwidth gain from **doubling pins from 1,024 to 2,048**, not from higher pin speed. Max pin bandwidth actually falls from **9.8 Gbps on HBM3E to 8 Gbps on HBM4**.
-	- NVIDIA accelerator memory intensity keeps rising: V100 used **4 HBM stacks/GPU**, A100 and H100 used **5**, and Blackwell/Rubin move to **8**.
-	- The economics are structurally different from commodity DRAM. The excerpt says normalized HBM capacity cost and bandwidth cost both rose **1.35x from 2023-2025**, while standard DDR4 capacity cost fell to **0.54x** and bandwidth cost fell to **0.45x from 2022-2025**.
-	- DRAM density scaling is slowing: fourfold die-density growth from **8 Gb DRAM dies introduced in 2014** is taking **over 10 years**, versus **3-6 years** for prior fourfold gains.
-	- SRAM-only accelerator designs are not enough for modern LLMs. Cerebras and Groq tried to avoid external DRAM/HBM with SRAM-heavy architectures, but LLM scale overwhelmed on-chip SRAM capacity and forced later external-DRAM retrofits.
-
 - ## HBM Generation Data
 	- The table is useful because it separates pin-level progress, stack-level bandwidth, die count, capacity per die, stack capacity, and NVIDIA GPU attachment.
 

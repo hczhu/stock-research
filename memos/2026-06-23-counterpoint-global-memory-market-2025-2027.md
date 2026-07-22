@@ -18,13 +18,6 @@
 	- Server's share of the total roughly tracks the AI infrastructure buildout: 37% in 2025 → 56% in 2026E → 57% in 2027E.
 	- Precise per-segment USD splits for non-server categories are not labeled in the chart; server % is the only explicitly annotated figure.
 
-- ## Key Takeaways
-
-	- **Scale of the 2025→2026 jump is extraordinary**: total market grows 4.2x in a single year, driven almost entirely by server/AI memory demand. Server segment alone expands ~6.3x (from \$97B to \$609B).
-	- **2026→2027 growth decelerates sharply**: +40% vs. +317% — consistent with a market entering a normalization phase after the AI-driven demand surge.
-	- **Server share plateaus at ~57% in 2027**: the AI memory mix shift is largely complete by 2027; incremental growth becomes more balanced across segments.
-	- **HBM embedded**: HBM is shown as a discrete segment within the server-adjacent stack; Counterpoint is counting HBM separately from standard server DRAM, which means the "Server" bar represents non-HBM server DRAM (DDR5, LPDDRx for inference servers).
-
 - ## Bear Case: Supply Glut and Price Correction Risk
 
 	- The article headline explicitly flags two risks alongside the bullish forecast:

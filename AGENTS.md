@@ -66,17 +66,30 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 **Optional but common elements:**
 - `**Thesis**:` — one-line investment takeaway
 - Data tables using standard Markdown table syntax
-- `## Key Data Points` or `## Stock Read-Throughs` sections
+- `## Key Data Points` or another source-specific section when the evidence warrants it
 - `## X Post` section at top when memo is intended for publishing (use `——` as section dividers, single post format for X Premium)
 
 **Disallowed sections:**
-- Do **not** write a `## Working conclusion` section in memos. Put any final synthesis under a more specific section title such as `## Key Takeaways` or `## Stock Read-Throughs`.
+- Do **not** write a `## Working conclusion` section in memos. State the investment takeaway once in the `**Thesis**:` line or under a source-specific heading.
 - Do **not** write a `## Risks and Caveats` section in memos.
 - Do **not** write an `## Investment Implications` section.
 - Do **not** write a `## Catalysts` section.
 - Do **not** write a `## Risks and Counterarguments` section.
 - Do **not** write a `## What to Monitor` section.
 - Do **not** write a `## Variant Perception` section.
+- Do **not** write a `## Stock Read-Throughs` section.
+- Do **not** write a `## Scenario Framework` section.
+- Do **not** write a `## Key Tests for the Thesis` section.
+- Do **not** write a `## Key Takeaways` section.
+
+## Memo Length and Concision
+
+- Default to a compact memo. Extract the few source-specific facts and insights that can change an investment view; omit generic summaries, obvious restatements, and filler analysis.
+- Do not repeat the same datapoint in a summary, a table, and a concluding section. State it once in the clearest location.
+- Prefer a one-line `**Thesis**:` followed by a small number of descriptive, source-specific sections. Do not add generic synthesis sections merely to make a memo feel complete.
+- For short articles, charts, screenshots, or text blocks, aim for roughly 30-75 lines. For long reports, transcripts, or earnings calls, aim for roughly 75-150 lines. Exceed those ranges only when the source contains enough distinct, investable evidence to justify it or the user explicitly requests exhaustive detail.
+- Use tables for genuinely dense quantitative comparisons, but avoid tables that restate a handful of numbers already clear in prose.
+- When updating an existing memo, add only the incremental evidence and remove stale or duplicative synthesis rather than layering another recap onto the file.
 
 ## Input Handling
 
