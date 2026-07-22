@@ -4,14 +4,6 @@
 	- **Source**: Horace Dediu / Takeshi Narabe & Dylan Weir / Asahi Shimbun interview, April 2026.
 	- **Focus**: Japanese innovation history, why Japan led hardware/manufacturing but struggled with software and interfaces, and how Apple absorbed Japanese manufacturing lessons while developing a different design and market-creation culture.
 -
-- ## Key Takeaways
-	- Japan's postwar innovation strength was born from constraint. Limited capital, land, and resources forced Japanese companies to become lean, precise, and process-driven, producing world-leading capabilities in consumer electronics, automotive, heavy industry, just-in-time production, and the Toyota Production System.
-	- Japan's manufacturing excellence became a global operating model. By the 1990s, Japanese companies were teaching the world how to manufacture better; Apple was one of the students. Steve Jobs admired Japan, and Apple executives saw Sony as the company most likely to beat Apple in the iPod era.
-	- The critical transition Japan missed was software. Dediu frames software as a cultural management problem: software engineers are more independent and need coordination rather than command-and-control management. That culture did not fit well with traditional Japanese corporate structures, and Dediu argues Europe had a similar problem.
-	- Japanese companies over-indexed on quality and under-indexed on market creation. The implicit belief was that a better-made product would eventually win. Apple’s edge was not just quality; it was user-behavior introspection, interface taste, and the ability to create a product category before consumers could articulate the need.
-	- Apple’s product discovery model is anti-survey and anti-focus-group. The Apple method described here is internal inquiry: “What do we dislike about our phones?” and “Why are things hard to use?” This maps closely to jobs-to-be-done thinking: understand what people are trying to accomplish, including needs they cannot or will not state directly.
-	- The “taboo need” point is central. Dediu argues many great consumer products satisfy wants that users would not admit in a survey. Social media did not emerge because users asked to broadcast vanity or status; platforms gave users options and algorithms revealed latent behavior. AI companionship may follow a similar path.
--
 - ## Timeline And Data Points
 	- | Period / event | Data point or observation | Memo read-through |
 	  |---|---|---|

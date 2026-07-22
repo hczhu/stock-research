@@ -35,20 +35,6 @@
 	  | High-value use case | Personal assistant that understands communication, media, commerce and device context | Cross-silo analysis of product telemetry, CRM records, emails and customer calls |
 	  | Likely moat | Distribution plus proprietary consumer graph | Breadth of integrations, trusted permissions, semantic layer and workflow execution |
 
-- ## Stock Read-Throughs
-	- | Company / asset | Relevant data or control point | Bull case from the argument | Risk or limitation |
-	  |---|---|---|---|
-	  | **Alphabet / [[$GOOGL]]** | Android, Gemini, Search, YouTube, Gmail, Meet and advertising graphs | Can combine assistant distribution with consumer intent, media, communications and enterprise endpoints | Regulators may open distribution; outside apps can deny Gemini deep access |
-	  | **Meta / [[$META]]** | WhatsApp, Messenger, Instagram, Facebook and social/recommendation graphs | Owns uniquely rich communication and social context that competing assistants cannot reconstruct from visible outputs | Pressure to grant third-party assistants message access could weaken exclusivity; privacy constraints are acute |
-	  | **Apple / [[$AAPL]]** | iPhone, device permissions, on-device context and Siri distribution | Controls the most important consumer context gateway and can broker app permissions | Does not own every underlying app graph; regulatory opening can erode gatekeeper power |
-	  | **Microsoft / [[$MSFT]]** | Teams, Outlook, Microsoft 365, Azure and enterprise identity | Strong position to connect calls, email, documents and corporate permissions into Copilot | Customer data also sits in Zoom, Salesforce, Google and bespoke applications |
-	  | **Zoom / [[$ZM]]** | Independent repository of enterprise calls and meeting content | Calls are high-signal unstructured data for sales, churn, support and management intelligence; independence makes Zoom a potential partner or strategic asset | Teams and Meet can bundle similar data inside larger ecosystems; transcription access can commoditize the endpoint |
-	  | **Salesforce / [[$CRM]]** | CRM system of record, customer history and workflows | Can anchor enterprise-agent identity and actions while absorbing call, email and telemetry signals | CRM records alone are incomplete; value may migrate to the assistant or semantic layer that connects every system |
-	  | **Snap / [[$SNAP]]** | Visual communication, social graph and camera-centric behavioral data | Distinctive repository of implicit consumer context could have partnership or strategic value | Smaller scale and weaker cash generation than larger graph owners; acquisition logic is speculative |
-	  | **Amazon / [[$AMZN]]** | Commerce intent, transactions, ads, Prime and media graph | Merchant data supports high-value ad targeting and could make Amazon a critical commerce context provider to assistants | Third-party assistants may disintermediate product discovery; the platform must decide how much data to expose |
-	  | **Walmart / [[$WMT]]** | Omnichannel purchase history, stores, memberships and retail-media inventory | Can monetize first-party purchase signals and use the graph for personalization, suppliers and strategic partnerships beyond commerce | Data advantage is strongest where customer identity can be resolved across online and offline transactions |
-	  | **Instacart / [[$CART]]** | Cross-retailer grocery intent and transaction data | Advertising demonstrates that the data graph may be more valuable than the low-margin fulfillment layer | Retailers may withhold data, build their own media networks or resist platform dependence |
-
 - ## Key Claims and Data Points
 	- | Claim from the excerpt | Significance |
 	  |---|---|

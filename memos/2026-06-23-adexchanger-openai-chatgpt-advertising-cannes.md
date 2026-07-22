@@ -128,16 +128,6 @@
 	- **CPC majority share is encouraging but incomplete**: it shows buying preference, not absolute platform scale, conversion quality, advertiser retention, or auction liquidity.
 	- **Cannes presence is a go-to-market signal**: hiring a 12-year Meta veteran to lead global ads solutions and appearing at the industry's flagship event indicate OpenAI is recruiting agencies and brands as ecosystem partners, not merely experimenting with a small consumer feature.
 
-- ## Stock Read-Throughs
-	- **[[$GOOG]] — clearest strategic exposure**: ChatGPT can intercept product research and upper-funnel commercial questions before they become Google searches. Google's defense is its mature advertiser market, merchant data, distribution, and ability to integrate Gemini into search.
-	- **[[$META]] — creative and budget competition**: OpenAI competes for performance budgets and offers brands new creative-production tools. Meta retains stronger attention supply, identity, advertiser tooling, and closed-loop optimization across its apps.
-	- **[[$AMZN]] — purchase data remains a moat**: ChatGPT may shape consideration, but Amazon can connect exposure to actual transactions. Retail-media economics remain difficult to displace without checkout visibility.
-	- **[[$MSFT]] — potential indirect beneficiary with unclear capture**: OpenAI ad growth can support Azure usage and may complement Microsoft's advertising assets, but the article provides no revenue-sharing or inventory arrangement.
-	- **[[$TTD]] — partnership opportunity versus walled-garden risk**: integration could create premium new supply for agencies; exclusion would move more commercial intent into a platform inaccessible to independent DSPs.
-	- **[[$OMC]] and agency groups — mix shift rather than immediate elimination**: AI expands asset volume and implementation work but compresses routine production. Durable value moves toward strategy, proprietary workflows, governance, and outcome measurement.
-	- **Ad-tech vendors — measurement is the wedge**: conversion tracking, incrementality, brand safety, identity resolution, and privacy-safe data collaboration become valuable as OpenAI builds an immature stack.
-	- **Consumer internet — a new monetization benchmark**: if OpenAI proves high revenue per commercial conversation without maximizing time spent, it could weaken the assumption that consumer platforms must optimize engagement to build large ad businesses.
-
 - ## Open Questions and Falsifiers
 	- | Thesis or claim | Evidence that would support it | Evidence that would weaken it |
 	  |---|---|---|

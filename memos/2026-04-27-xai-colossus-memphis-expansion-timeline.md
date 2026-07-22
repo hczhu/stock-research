@@ -37,12 +37,6 @@
 	| Capacity multiple from initial configuration to January 2026 announced capacity | `5.55x` | `555,000 / 100,000` | Captures how much larger the campus plan is versus the starting point |
 	| Power capacity increase from initial draw to January 2026 campus capacity | `~13.3x` | `2,000MW / 150MW` | Shows power scaling required to support the broader buildout |
 
-- ## Key Takeaways
-	- xAI moved from `100,000` GPUs at roughly `150MW` to `200,000` GPUs at roughly `250MW` in only `92` days, which is the clearest time-based disclosure in the chronology.
-	- The quality of the cluster also improved, not just the size: the `200,000`-GPU configuration already included `50,000` `H200` units, and by early `2026` Colossus 1 alone included more than `30,000` `GB200 Blackwell` chips.
-	- The January `2026` announcement shifts the discussion from a single cluster to campus-scale infrastructure: `555,000` Nvidia GPUs, `2GW` of power capacity, and an estimated `$18B` of GPU investment alone.
-	- The March `5`, `2026` filing adds the supporting infrastructure details that matter for execution: direct liquid cooling, Tesla Megapacks, a `79-acre` expansion parcel, and an on-site gas-fired plant sized for the full `2GW` load.
-
 - ## Caveats
 	- The source text mixes historical snapshots, an announcement, and a later filing, so not every row is directly comparable.
 	- `Colossus 1` and the broader Memphis facility are not the same scope; the memo keeps those references separate instead of forcing them into one series.

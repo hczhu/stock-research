@@ -37,10 +37,3 @@
 	| IDMs | Infineon (FYE Sep.) | 2.6 | 2.0 | 3.1 | -23% | 55% |
 	| IDMs | Others | 20.0 | 15.3 | 12.1 | -24% | -21% |
 	| Total | Total | 155 | 166 | 200 | 7% | 20% |
-
-- ## Key Takeaways
-	- Total semiconductor capex rises from `US$155B` in `2024` to `US$200B` in `2026`, with industry growth of `7%` in `2025` and `20%` in `2026`.
-	- Memory companies show the largest absolute increase, adding `US$35.4B` of capex from `2024` to `2026`.
-	- [[$TSM]] is the biggest single foundry driver, moving from `US$29.8B` in `2024` to `US$54.0B` in `2026`.
-	- [[$MU]] and [[$000660.KS]] have the fastest named memory-company growth rates in the table, reflecting the memory upcycle and AI-related demand.
-	- The IDM bucket contracts from `US$55.0B` in `2024` to `US$37.5B` in `2026`, with notable declines at [[$INTC]] and [[$TXN]].

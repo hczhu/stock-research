@@ -2,13 +2,6 @@
 
 - **Source**: User-provided chart, 2026-06-08, comparing HBM3e and DDR4 cost per capacity and bandwidth over time.
 
-- ## Key Takeaways
-	- The chart shows a sharp divergence between HBM and commodity DDR economics:
-		- **HBM3e $/GB capacity and $/GBps bandwidth trend upward from 2023-2025**.
-		- **DDR4 $/GB capacity and $/GBps bandwidth trend downward from 2022-2025**, despite cyclical spikes.
-	- The contrast matters for memory investing because HBM is behaving less like commodity DRAM and more like a scarce, qualified, packaging-constrained AI component.
-	- My explanation: DDR benefits from mature-process yield learning, commodity oversupply, standard modules, fungible customers, and price competition; HBM faces AI demand shock, limited qualified suppliers, advanced packaging bottlenecks, stack-yield penalties, custom qualification, and a performance bottleneck that customers are willing to pay through.
-
 - ## Extracted Chart Data
 	- Exact point values are estimated visually from the provided chart, so treat them as directional rather than source-grade measurements.
 
