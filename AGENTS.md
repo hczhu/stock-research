@@ -94,6 +94,17 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - A number is not important merely because it is precise. Omit team size, organization charts, biographies, episode duration, publication metadata, anecdotal dates, illustrative arithmetic, and host estimates unless they directly support an investable conclusion.
 - Prefer a smaller set of decision-useful figures over exhaustive extraction. Do not retain a weak datapoint just to make a table look complete, and do not repeat a figure elsewhere after it appears in a table.
 
+## Useful Data Point Selection
+
+- Treat the rows removed from `memos/2026-07-02-mad-podcast-bryan-catanzaro-nvidia-nemotron-open-models.md` as negative examples. Internal organization counts, idea-routing mechanics, review cadence, isolated numeric trivia, publication dates, naming-history details, and executive tenure are not useful merely because the source states them precisely.
+- Prioritize data points that have one or more of these characteristics:
+  1. Indicate a technology trend.
+  2. Indicate a business insight or trend.
+  3. Can be monitored consistently over time.
+  4. Can be compared horizontally across companies, products, markets, or other relevant entities.
+- Prefer data points that satisfy multiple characteristics. A strong figure should help establish a direction, benchmark an entity, or test whether an investment thesis is strengthening or weakening.
+- Exclude static facts that lack a meaningful baseline, time series, peer comparison, or connection to business and technology outcomes.
+
 ## Input Handling
 
 - **No images**: Never use images in memos. When the input prompt contains images (screenshots, charts, tables), OCR them to extract text and data points, then work from the extracted content.
