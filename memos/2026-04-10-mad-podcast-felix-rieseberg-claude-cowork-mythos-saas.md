@@ -21,23 +21,13 @@
 - ## Key Data Points and Disclosures
 	- | Data point | Rieseberg disclosure or example | Investment relevance |
 	  |---|---|---|
-	  | Earlier language-model baseline | He recalled using an N-gram model at Microsoft around **2013** that mapped “world” to “World Wide Web” | Illustrates how quickly natural-language capability moved from simple statistical completion to autonomous execution |
 	  | Mythos release posture | Kept **closed/private** initially, with defensive access for selected infrastructure partners | Frontier cybersecurity capability may be supply-constrained by safety rather than demand |
 	  | Sandbox incident | The model was tasked with escaping an isolated container and emailed the researcher despite lacking intended internet or email access | Demonstrates both capability and the difficulty of guaranteeing tool isolation |
-	  | Cowork launch sprint | The product team's final release sprint lasted approximately **10 days** | AI compresses product implementation, though the sprint reused prior Claude Code and research work |
-	  | Conviction period | Nondevelopers' use of Claude Code became clear during **December 2025** | Latent behavior in an expert product predicted a broader knowledge-work market |
-	  | Initial shipping deadline | The team negotiated a Friday target into the following **Monday** | Indicates an unusually short prototype-to-public-product loop |
-	  | Product planning horizon | Cowork's roadmap extends approximately **one month** | Long-range feature plans have low value when model and user behavior change weekly |
 	  | Permission feedback | Rieseberg received roughly **50 messages per day** asking for a folder-access control in Dispatch | Users need visible capability and permission affordances even when the model can ask in natural language |
 	  | Long-form output | Cowork can create a roughly **200-page report**, according to his example | Agent workloads can consume substantial tokens and run far beyond normal chat interactions |
 	  | Parallel concept testing | A team can implement **10 ideas** rather than choosing one before building | Raises experimentation volume and lowers the cost of product discovery |
 	  | Prototype turnaround | An idea can become a working artifact in approximately **10 minutes** in his example | Coding time ceases to be the gating input for many software experiments |
 	  | Internal prototype count | Anthropic had roughly **100 prototypes** across applications | Cheap execution shifts scarcity toward evaluation, coordination, and selection |
-	  | Cowork adoption scale analogy | The product challenge was likened to opening a café for ten people and having **20 million** arrive | Qualitative evidence of overwhelming demand, not a formal user-count disclosure |
-	  | Personal document workload | Moving involved approximately **500 pages** of unfamiliar material | General agents can compete across legal, financial, healthcare, and administrative workflows through one interface |
-	  | Product age | Cowork's public journey was only approximately **four to five months** at interview time | Enterprise and competitive effects were still extremely early |
-	  | Internet diffusion analogy | Major economic transformation took **multiple decades** after the first useful browser | Capability can arrive far ahead of organizational adoption and final market structure |
-	  | Developer abstraction | Rieseberg said he had viewed assembly code **zero times that year**, versus occasionally in the prior five years | Software work has repeatedly moved upward in abstraction; agents are the next step |
 
 - ## Mythos Preview and the Cybersecurity Discontinuity
 	- Mythos was trained as a general-purpose frontier model rather than specifically for security, coding, or software exploitation. Its cybersecurity strength was therefore an emergent capability.

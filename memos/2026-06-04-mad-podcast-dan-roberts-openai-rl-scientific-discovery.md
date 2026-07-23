@@ -20,16 +20,9 @@
 - ## Key Data Points and Forecasts
 	- | Data point | Context and confidence | Industry or stock relevance |
 	  |---|---|---|
-	  | **4 June 2026** | Episode publication date | Places the comments after the recent OpenAI, Google DeepMind, and Anthropic work on Erdős problems |
-	  | **49 minutes, 6 seconds** | Published episode duration | Source metadata rather than an operating metric |
 	  | **Hours of model reasoning** | Roberts recalls the OpenAI model working for “hours and hours” on the Erdős problem, without an exact duration | High-value research can consume orders of magnitude more inference than a standard chat response |
 	  | **Next six months** | Roberts expects more mathematical and scientific breakthroughs and more use of AI in AI research | Near-term test for whether the result is repeatable rather than anecdotal |
 	  | **Less than 1 useful bit per 10,000 tokens** | A critique raised in the interview about binary rewards on long rollouts; Roberts accepts the intuition but argues empirical gains show RL still works | Sparse feedback can require very large generation volumes, benefiting compute suppliers if scaling remains productive |
-	  | **Roughly 32-player poker tournament** | Roberts's self-play anecdote: an equilibrium-oriented agent lost a multi-round event to an exploitative strategy, then beat it head-to-head | Optimizing average performance or equilibrium behavior does not guarantee victory under every evaluation format |
-	  | **2015 DQN; 2016 AlphaGo** | Historical milestones used to explain RL and self-play | Modern LLM reasoning builds on a decade of algorithmic development rather than appearing from nowhere |
-	  | **Eight years for Einstein's general-relativity work** | Input to Roberts's deliberately playful extrapolation | Illustrates the danger of converting autonomous-task-duration curves directly into AGI dates |
-	  | **Nine years to “Einstein-level AI”** | Roberts's joking forecast from a prior year, not a serious company prediction; he expects the extrapolation to break first | Do not use as a valuation timeline |
-	  | **Years of test-time thinking** | Conceptual upper bound: a fixed model could reuse its weights while thinking for years | Implies inference compute per task has no obvious architectural ceiling, though economics and diminishing returns impose practical limits |
 
 - ## The Scientific-Discovery Signal
 	- The central example is an Erdős problem concerning unit distances. The model took a contrarian branch: instead of trying to prove the conjecture, it assumed the claim was false and searched for a counterexample.

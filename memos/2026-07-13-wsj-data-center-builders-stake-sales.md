@@ -25,8 +25,6 @@ tags:: [[data-center]], [[AI infrastructure]], [[M&A]], [[private-equity]], [[po
 	  | QTS | [[$BX]] acquired it for approximately **$10B** in 2021 | Demonstrates the large value creation possible from acquiring a platform before the AI-capacity acceleration |
 	  | Aligned Data Centers | Approximately **$40B** acquisition agreed in 2025 | BlackRock GIP and MGX consortium; described as the largest data-center deal to date |
 	  | AirTrunk | Approximately **$16B** acquisition in 2024 | Prior record before Aligned; illustrates rapid step-up in transaction size |
-	  | EdgeCore bidding | Offers requested during the week before publication | A live test of appetite for a developer serving large cloud providers in Virginia, Arizona, and other markets |
-	  | Current buyer candidate | [[$KKR]]'s Helix Digital Infrastructure | Shows large alternative-asset managers are forming dedicated vehicles to evaluate the opportunity |
 - ## Assets and Sellers in the Current Pipeline
 	- | Platform | Current owner or sponsor | Reported process | Strategic asset characteristics |
 	  |---|---|---|---|

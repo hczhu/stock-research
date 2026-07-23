@@ -26,36 +26,26 @@
 	  |---|---|---|
 	  | Historical bot share | Approximately **20% of internet traffic** for much of Cloudflare's history | Establishes the pre-agent baseline |
 	  | Bot crossover | Bot traffic passed human traffic in **1H 2026** | Machine requests are now core traffic, not a niche workload |
-	  | Original crossover forecast | **End of 2027**, estimated in fall 2025 | Actual change arrived roughly 18 months earlier than expected |
-	  | Revised forecast | **1H 2027**, estimated at SXSW in March 2026 | Even the revised forecast proved too conservative within months |
 	  | Research-intent example | Human visits **five sites**; agent visits **5,000** | Approximately **1,000x request amplification** for one task |
 	  | Five-year traffic scenario | Bot traffic becomes **1,000x human traffic**; Prince would take the over | Convex infrastructure upside, but no disclosed forecast model |
 	  | Implied annual multiplier | Approximately **4x per year** for five years to reach 1,000x from parity, derived | Shows how aggressive the forecast is and why it should not be a base case |
-	  | COVID comparison | Internet traffic doubled in roughly **two weeks** | Demonstrates networks can absorb sudden step changes, though not sustained 1,000x growth |
 	  | Global footprint | More than **350 cities** and **1,000 data centers** | Distribution moat for performance, security, inference, and sovereignty |
-	  | Launch footprint | **Five cities**, with Tokyo intermittently disabled for routing reasons | Highlights operational learning accumulated over 15+ years |
 	  | Root-server infrastructure | Cloudflare supports **two of 13** DNS root-server identities | Helps earn placement inside ISP networks; technical and governance claims need nuance |
 	  | Customer portability | Approximately **five minutes to join** and **10 seconds to leave**, per Prince | Low switching friction forces continuous product value |
 	  | Agent compute estimate | One agent per global knowledge worker would require **40x current annual CPU production** using traditional containers | Directional argument for more efficient runtimes; methodology not provided |
-	  | WordPress operating example | Approximately **\$3–4** at current traffic could become **\$3K–4K** at 1,000x traffic | Legacy software economics break without efficiency gains |
 	  | Security shock forecast | A Log4j-like vulnerability every week for **104 weeks**, or two years | Very bullish near-term demand signal for security, but intentionally provocative |
-	  | Reliability claim | Uptime, reliability, and performance improved by an **order of magnitude** over one year | First-party qualitative claim without standardized metric |
 	  | R&D AI adoption | Host cites approximately **93%**, while Prince later says **92%** | Near-universal engineering use, but transcript inconsistency warrants caution |
 	  | Internal AI users | Host cites **3,683** | Shows adoption beyond a small pilot |
 	  | Internal tokens | Host cites **241B tokens** | Large internal inference load and evidence for AI Gateway cost control |
-	  | “Magic agent” discovery team | Approximately **20 people**, staffed 24/7 | Human concierge identified real workflows before full automation |
 	  | IR process | Reduced from **two weeks to three minutes** | Strong task-level productivity example; accuracy and total labor inputs not quantified |
 	  | Internal audit | **105 risk areas**; previously **6–10 per quarter**, now moving toward continuous review of all | AI can expand control coverage instead of only cutting labor |
 	  | Workforce reduction | More than **20% of employees** | Management acted on its productivity thesis before long-run evidence matured |
 	  | Corporate forecast | Most companies cut teams within **six to 12 months** | Prince expects a broad labor reset, not a Cloudflare-specific event |
 	  | Management span | Cloudflare target rises from **6:1 to 12:1**; Meta cited at **50:1** | AI could flatten organizations and reduce middle management |
-	  | Intern class | **1,111 interns** in summer 2026 | Cloudflare is still investing in AI-native junior talent despite restructuring |
 	  | Network request volume | Approximately **500M requests per second** | Enormous potential transaction surface and infrastructure responsibility |
 	  | Monetizable request share | Estimated **1–10%** | Arithmetic implies roughly **5–50M potential paid events per second** today |
 	  | Target payment capacity | Prince suggests roughly **10M TPS initially**, ramping toward **100M TPS** | Requires systems far beyond conventional payment-network throughput |
 	  | Visa comparison | Fewer than **100K transactions per second**, per Prince | Machine micropayments need two to three orders of magnitude more throughput |
-	  | Spotify creator payments | Approximately **\$12B** in the prior year, per Prince | Example of a new distribution model restoring creator economics after piracy |
-	  | Local-paper economics | Prince expects AI licensing to exceed display-ad revenue in 2026 | Anecdotal evidence that unique local information may gain value in AI licensing |
 
 - ## Machine Traffic Changes the Internet's Unit Economics
 	- Traditional internet demand begins with a human action. Agentic demand begins with a human objective and can create thousands of automated subrequests before returning one answer.
@@ -148,7 +138,7 @@
 	- Cloudflare moved from cautious experimentation to broad engineering adoption after a perceived capability inflection around November 2025.
 	- A senior engineer who set out to disprove AI coding's value returned claiming 100x personal productivity after a month. This is a vivid anecdote, not a measured organization-wide outcome.
 	- Cloudflare OS extends agents beyond engineering through a secure harness connected to ERP, sales, workplace, and other systems of record. An agent inherits the requesting employee's access rights.
-	- The company used a human concierge disguised as a “magic AI agent” to discover workflows employees actually wanted. Roughly 20 people staffed it around the clock, then encoded repeated requests into skills.
+	- The company used a human concierge disguised as a “magic AI agent” to discover workflows employees actually wanted, then encoded repeated requests into skills.
 	- Examples include:
 		- IR document preparation reduced from two weeks to three minutes.
 		- All 105 audit areas moving toward continuous review, versus six to ten deep dives per quarter.
@@ -165,7 +155,7 @@
 	- His view is that AI raises the return on more builders and sellers because it removes drudgery, while many measuring and middle-management roles can be automated.
 	- Cloudflare cut more than 20% of staff despite a healthy business, increased its target span of control from six to 12 reports, and says it does not expect another comparable reduction for the foreseeable future.
 	- Prince forecasts that almost every company will conduct similar reductions within six to 12 months, potentially flooding the labor market.
-	- The counterevidence is Cloudflare's hiring of 1,111 interns and continued desire for more productive engineers and salespeople. The prediction is role-mix deflation, not necessarily permanent total-headcount decline.
+	- Continued hiring for productive engineers and salespeople suggests the prediction is role-mix deflation, not necessarily permanent total-headcount decline.
 	- **SaaS implication**: AI can raise operating-margin ceilings while preserving growth investment, but workforce disruption, control failures, and lost institutional knowledge are material transition costs.
 
 - ## Content Independence and the End of the Advertising Web

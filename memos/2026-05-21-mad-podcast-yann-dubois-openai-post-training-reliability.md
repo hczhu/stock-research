@@ -27,7 +27,6 @@
 	  | Model iteration cadence | Upstream training can take **months**, while late post-training iterations can take **days** | More value and release speed move toward the downstream training stack |
 	  | GPT-5.5 speed | Most tasks can be performed approximately **2x faster** | Better capability need not mean proportionally higher latency or cost |
 	  | Pro reasoning time | High-value academic tasks may run for **one to two hours** | Reasoning products create premium, variable inference demand |
-	  | Overnight reasoning window | A user may allow approximately **eight hours** when latency does not matter | The upper bound on inference per task expands with autonomous workflows |
 	  | Test-time scaling | Approximately **2x more compute** can produce only a small performance gain | Returns are positive but logarithmic; routing by task value is essential |
 	  | Stanford Alpaca data | Approximately **50,000 supervised fine-tuning examples** | Early post-training was small and primarily behavior cloning |
 	  | Public modern RL scale | DeepSeek/Kimi-style efforts were described as approaching **one million data points** | Post-training data and rollout demand expanded by roughly an order of magnitude or more |

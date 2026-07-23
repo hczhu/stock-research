@@ -34,17 +34,10 @@
 	  | Agent docs traffic | More than **10x year over year** and about **40% of all Stripe docs traffic** | Agents are becoming developers and integration decision-makers |
 	  | CLI agent share | Approximately **70% of API-resource requests** | Machine users already dominate a core developer interface |
 	  | Agentic Commerce Protocol | Launched around **September 2025** with OpenAI | Commerce interoperability moved from concept to deployed standard |
-	  | Shared payment token | Built approximately **six months** before the interview | New primitive for scoped, processor-agnostic delegation |
-	  | First meaningful agent volume | Perplexity shopping used one-time virtual cards | Early implementation reused proven marketplace infrastructure |
-	  | U.S. solo businesses | Approximately **5M people** earning a living from solo companies | AI may expand the economically viable one-person firm |
-	  | High-income solopreneurs | Hundreds of thousands clearing **\$1M annually**, per Sands's cited data | Directional evidence of business scale without employees; needs source verification |
-	  | Business registrations | Approximately **+40% Netherlands, +70% Finland, +80% France** | Entrepreneurship is rising across advanced economies, not only the U.S. |
 	  | Stripe launch pace | New businesses launching at roughly **2x** the pace of a year earlier | AI lowers creation and deployment barriers |
 	  | Stripe Atlas 2026 cohort | Tracking toward approximately **5x the revenue** of the 2025 cohort at the same age | New companies are reaching first revenue and scaling faster |
-	  | Emergent Labs mix | Approximately **70% international revenue** and material activity in **16 countries** | AI-native startups can launch globally from inception |
 	  | Typical large-company token spend | Approximately **2–4% of headcount cost**, in Sands's rough framing | AI spend is material but not existential for well-capitalized adopters |
 	  | Potential inefficient token spend | Approximately **30–40%** of token cost in the example | Routing, observability, and controls can produce meaningful savings |
-	  | Forecast horizon | **12 months** for early agent-run micro-firm examples | Specific near-term test of autonomous economic activity |
 
 - ## Agentic Commerce Is a Spectrum
 	- Stripe describes several levels analogous to autonomous driving:
