@@ -1,0 +1,69 @@
+- tags:: [[$TEAM]] [[Atlassian]] [[Jira]] [[Rovo]] [[RovoDev]] [[Confluence]] [[Teamwork-Graph]] [[AI-agents]] [[developer-tools]] [[enterprise-software]]
+-
+- ## Atlassian: Jira and Rovo agentic-workflow field notes
+	- **Source**: User-provided Atlassian news and community feed, primarily July 13–21, 2026. It combines Atlassian product posts, an Atlassian-published Axel Springer case study, sponsored research, trade press, and individual Reddit reports.
+	- **Thesis**: Atlassian is repositioning Jira from a passive record of work into the delegation, governance, and audit layer for work performed by humans and AI agents. The strongest product advantage is not the coding model itself but the context and workflow connecting Jira, Confluence, GitHub, Compass, and third-party agents. Early customer and employee experience supports the direction, though most positive evidence is first-party and isolated community reports still show material product and administrative friction.
+-
+- ## Jira is becoming an agent control plane
+	- Jira Planner brings spec-driven development into Jira by using Jira and Confluence history to turn requirements and context into implementation specifications.
+	- Jira Coding Agent, formerly Rovo Dev in Jira, is generally available in Jira and included in every paid plan. It can turn a work item into a ready-to-review pull request without requiring a local development environment.
+	- Jira can assign work to Atlassian's agent and third-party coding agents including Claude Code, Cursor, and GitHub Copilot. Automation rules and an agentic engineering template can route work through these agents.
+	- `@Jira` in Slack can create work items from conversations and synchronize the work back to Jira, reducing the loss of decisions made outside the system of record.
+	- The strategic shift is from **tracking completed human work** to **planning, delegating, reviewing, and measuring human and agent work**. Jira remains relevant even if agents perform more implementation because enterprises still need requirements, ownership, approvals, status, and audit history.
+	- Atlassian is addressing bottlenecks that faster code generation does not solve: unclear requirements, missing context, handoffs, environment setup, documentation, review, and governance.
+-
+- ## First-hand Atlassian employee experiment
+	- An Atlassian employee used a real Forge app feature—not a toy demo—to test a four-stage workflow: Research → Planning → Implementation → Review.
+	- Four specialized Rovo Studio agents were mapped to Jira board columns. Moving the issue into a column delegated that stage to its agent; the employee reviewed each result before advancing the issue.
+	- Agent outputs were saved as Jira comments, creating persistent context for the next agent and an audit trail of research, plans, implementation decisions, and review.
+	- Rovo MCP created the initial Jira work item from a one-sentence feature description. The research agent then surfaced related Jira issues, Confluence pages, implementation guidance, blockers, and knowledgeable stakeholders.
+	- The author's opinion was that this was one of the smoothest development workflows tried. The main benefit was **reduced ambiguity**, not raw speed: by the coding stage, the agent had approved research, organizational context, and an implementation plan.
+	- The human role shifted from gathering context and manually invoking tools to describing intent, evaluating agent output, and approving transitions.
+	- The workflow still depended heavily on clear initial intent and retained a human gate at every stage. The author's practical recommendation was to begin with one narrow stage, agent, and ticket, then expand after trust develops.
+	- Evidence quality: useful product dogfooding and genuine first-hand experience, but still an Atlassian employee account rather than independent customer validation.
+-
+- ## Axel Springer Rovo Dev pilot
+	- Axel Springer tested Rovo Dev with four engineering teams of differing AI maturity after narrowing more than 30 potential use cases to a small set of high-friction workflows.
+	- The customer estimated that reading Jira and Confluence, locating prior implementation, and identifying relevant files consumes **30–45 minutes of context loading per story** before coding begins.
+	- The largest reported gains came from planning, documentation, understanding unfamiliar code, and debugging—not code generation.
+	- | Pilot result | Reported outcome |
+	  |---|---|
+	  | Code-review suggestions acted upon | **50%** |
+	  | Active development time per pull request | **30% lower** |
+	  | Time saved per engineer | About **2.5 hours per week** |
+	  | Engineers spending less time on repetitive tasks | **87%** |
+	- Every pilot team adopted Rovo Dev, although usage depth varied by team and individual.
+	- A GitHub Action used Rovo Dev after every merge to generate both technical Markdown and a higher-level Confluence page, turning documentation into an automatic output of development.
+	- Security workflows connected Snyk and Wiz findings to Jira; Rovo Dev gathered service, dependency, vulnerability, and ownership context, drafted a fix, and opened a pull request for human approval.
+	- Other production workflows included implementation planning from a Jira issue, automated sprint summaries, standardized pull-request descriptions, and Compass service-map updates after code changes.
+	- Axel Springer treated model selection and cost as governance questions. Its rollout required team champions, shared practices, reusable prompt and skill files, and continuous enablement—not merely access to the product.
+	- Evidence quality: this is a named customer with quantified outcomes and credible workflow detail, but the case study was published by Atlassian and was not a controlled experiment.
+-
+- ## Teamwork Graph and ecosystem positioning
+	- A GitHub connector makes eligible pull requests, issues, commits, branches, and comments available through Teamwork Graph alongside Jira and Confluence context.
+	- Rovo can reconcile Jira status with actual GitHub activity, summarize shipped work and open follow-ups, and prioritize reviews using sprint commitments, blockers, plans, and customer-readiness signals.
+	- Atlassian is not trying to replace GitHub or every coding agent. Its stated advantage is the teamwork layer around software delivery: Jira holds the work record, Confluence the knowledge, GitHub the implementation, Teamwork Graph the relationships, and Rovo the reasoning and action layer.
+	- Integrations with third-party agents make an open orchestration strategy more credible and reduce dependence on Atlassian having the best standalone coding model.
+	- Community-built n8n and Bitbucket/Jira tools show ecosystem activity and support Jira's system-of-record role. They also expose integration friction around project-specific transitions, custom-field IDs, required fields, API versions, and rate limits.
+-
+- ## Team-level AI adoption data
+	- Atlassian's State of Teams research surveyed **12,000 knowledge workers** and interviewed roughly **200 Fortune 1000 executives**.
+	- **89%** of executives said individuals were becoming faster with AI, but only **6%** could identify clear examples of ROI.
+	- Only about **14% of teams** had translated AI use into meaningful value.
+	- Atlassian attributes the gap to three factors: shared organizational context, redesigned end-to-end workflows, and a culture that supports experimentation.
+	- Teams using explicit AI working agreements—shared decisions about approved uses, exclusions, agents, and skills—reportedly used AI more, moved faster, made better decisions, and produced higher-quality work.
+	- The data supports Atlassian's product positioning: isolated assistants accelerate tasks, whereas Jira, Confluence, and Teamwork Graph can coordinate team-wide workflows. However, the research and interpretation are Atlassian-sponsored.
+-
+- ## Independent product-friction signals
+	- One Jira Cloud user reported that the replacement CSV importer failed after mapping only Summary and Description, produced no diagnostic report, and did not support team-managed projects.
+	- A free-plan user reported being unable to delete an Atlassian organization because the portal incorrectly flagged subscriptions and required support to remove Rovo, creating an unresolved support loop.
+	- A Rovo user building a meeting-notes agent reported inconsistent native mentions: the output returned links most of the time and only sometimes produced the expected Atlassian document-format user reference.
+	- A Pipedrive-to-Jira handoff example showed that critical CRM custom fields and presales notes did not reach Jira, leaving delivery teams with incomplete onboarding issues.
+	- These are single-user reports rather than representative satisfaction data, but they highlight a recurring gap between Atlassian's integrated-context vision and the reliability of everyday administration, imports, formatting, and cross-system data flow.
+-
+- ## Stock view
+	- Incrementally positive for [[$TEAM]]: Jira has a credible path to remain the control plane as software work shifts toward agents, and bundling Jira Coding Agent into every paid plan creates broad distribution for the new workflow.
+	- The Axel Springer pilot is the strongest new proof point because benefits appeared in context loading, documentation, security, and coordination—the areas where Atlassian's installed data and workflow position should matter most.
+	- Teamwork Graph can become a durable advantage if connected work context produces better agent decisions and keeps Jira and Confluence central even when customers choose third-party models.
+	- The evidence is not yet strong enough to establish broad monetization or durable ROI: most favorable claims come from Atlassian, its employees, sponsored research, or a vendor-published customer case study.
+	- Independent anecdotes show that basic reliability and administration can still undermine trust. Atlassian must make routine workflows as dependable as its agentic product narrative is ambitious.
