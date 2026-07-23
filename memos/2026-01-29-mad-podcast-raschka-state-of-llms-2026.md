@@ -20,7 +20,6 @@
 - ## Key Data Points
 	- | Data point | Raschka disclosure or example | Investment relevance |
 	  |---|---|---|
-	  | Transformer age | Introduced in **2017**, roughly eight to nine years before the interview | Longevity shows the architecture has become a durable platform rather than a short research cycle |
 	  | Diffusion generation | A text diffusion model might use roughly **16 denoising steps** versus approximately **2,000 sequential token steps** for a long autoregressive answer | Parallel generation can be cheaper and faster, but may be less compatible with sequential reasoning and tool use |
 	  | DeepSeek V3 scale | Approximately **670 billion parameters** in the transcript | Illustrates how MoE expands total capacity without activating every parameter on every token |
 	  | Large MoE extension | Kimi was described as scaling a similar architecture toward approximately **one trillion parameters** | Open-model competition is converging on proven efficient scaffolds rather than wholly new architectures |
@@ -29,11 +28,8 @@
 	  | Raschka RLVR experiment | Approximately **15% to 50% MATH-500 accuracy after only 50 RL steps** on a Qwen3-based model | Suggests post-training can unlock latent capability rather than create all knowledge from scratch |
 	  | Reported DeepSeek pre-training cost | DeepSeek V3 was associated with an estimated **\$5 million** training figure based on assumed GPU-hour pricing | Useful only as a relative public estimate; it excludes broader R&D, infrastructure, and failed runs |
 	  | Reported DeepSeek R1 post-training cost | Approximately **\$300,000** in the cited paper, or more than **10x cheaper** than the V3 pre-training estimate | Supports reallocating marginal research budget toward RL post-training |
-	  | Best-of-five inference | Running a prompt **five times** and choosing an answer costs approximately **5x** a single sample | Capability can rise through inference spending without any weight update |
-	  | Longer reasoning | Twice as many generated tokens costs roughly **2x** as much under a simple token model | Reasoning creates variable cost per task and supports value-based routing or pricing |
 	  | Tool-use uplift | Raschka recalls approximately **1.2x benchmark performance** for GPT-OSS with tools enabled versus disabled | System design can add meaningful capability to an unchanged base model |
 	  | Benchmark decay | Models evaluated on refreshed data were described as approximately **5–10% worse**, while relative rankings remained similar | Absolute scores overstate real-world generalization even when rankings retain some information |
-	  | Model architecture survey | Raschka's comparison had grown to approximately **13,000 words** because production models use many small variants | The competitive frontier is a large collection of incremental design choices rather than one universal recipe |
 	  | Continual-learning timing | Raschka sees no major breakthrough in **2026** and treats even **2027** as speculative | Personalizing weights continuously is not yet a near-term assumption for model economics |
 
 - ## Architecture: Stable Core, Expanding Efficiency Layer

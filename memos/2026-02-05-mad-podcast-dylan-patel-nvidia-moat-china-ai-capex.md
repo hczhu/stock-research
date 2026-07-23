@@ -26,7 +26,6 @@
 	  | Agent task horizon | Codex was described as handling approximately **9–10 hour** refactoring tasks | Long-running agents multiply context, KV-cache, storage, and inference demand |
 	  | Coding context | Repository contexts are often **30K–50K tokens** and are heading toward hundreds of thousands | Prefill and cache management become larger cost components |
 	  | Illustrative token pricing | Approximately **\$10 per million output/decode tokens** and **\$3 per million input/prefill tokens** | Repeated large contexts can make lower-priced prefill the majority of total cost |
-	  | Inference benchmarking pool | SemiAnalysis says inferenceMAX uses roughly **\$60 million of donated GPUs** | Shows the scale and complexity required to compare rapidly changing hardware/software combinations |
 	  | AMD share forecast | Patel expects a **single-digit percentage** of the accelerator market | Small share can still be large in dollars, but does not imply parity with NVIDIA |
 	  | Startup success odds | Patel assigns specialized accelerator startups **less than 1%** odds individually | Technical differentiation is necessary but insufficient against supply-chain and software incumbency |
 	  | China share of NVIDIA | Approximately **10–12%** of revenue in one cited period, and above **20%** in some quarters by Patel's recollection | Export rules can move reported geographic mix and accelerate domestic substitution |
@@ -38,7 +37,6 @@
 	  | OpenAI ARR scenario | Approximately **\$45–50 billion** | Aggressive forecast and a key utilization assumption, not disclosed guidance |
 	  | Anthropic ARR scenario | Approximately **\$35–40 billion** | Implies extraordinary continued coding-agent and enterprise growth |
 	  | China AI revenue gap | Approximately **10x lower** than the West in Patel's estimate | Hardware constraints and weaker commercialization may compound into an economic gap |
-	  | ChatGPT usage | Roughly **one billion users** | Consumer distribution makes Western model usage a geopolitical and economic advantage |
 	  | CHIPS Act support | Approximately **\$50 billion** over a long program | Material but small relative to the scale of the semiconductor supply chain |
 	  | China chip support | Roughly **\$150 billion per year** in Patel's broad subsidy estimate | Sustained industrial policy can fund catch-up despite poor near-term returns |
 	  | Taiwan cumulative chip capex | More than **\$500 billion** across the industry | Demonstrates why full supply-chain duplication cannot be purchased with one subsidy package |
@@ -50,7 +48,6 @@
 	  | Global software wages | Approximately **\$2 trillion** | Large economic pool against which agent pricing can be measured |
 	  | Gigawatt build cost | Roughly **\$50 billion** across chips, networking, and data-center infrastructure | Highlights the financing scale and timing mismatch in AI infrastructure |
 	  | US data-center power share | From approximately **2% to 10% of US electricity** within a handful of years, around 2027–2028 | Power availability becomes a binding site-selection and deployment constraint |
-	  | AI water share | Less than **0.1% of US water use** by decade-end in Patel's estimate | Water opposition can still delay projects, but aggregate consumption is not his base-case bottleneck |
 	  | Meta Louisiana campus | Approximately **4–5 GW** when fully developed | Illustrates the unprecedented scale and local political exposure of new campuses |
 	  | Nuclear timing | Even China requires approximately **five years** to build a plant | New nuclear is poorly matched to the immediate AI deployment window |
 	  | OpenAI-style cluster contract | Illustrative **\$65 billion over five years** for a roughly **4 GW** build | Shows how a customer can commit far beyond current cash and rely on future growth or resale value |

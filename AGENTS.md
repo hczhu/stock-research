@@ -90,6 +90,9 @@ All memos use Logseq outliner Markdown — every line starts with `- ` and nesti
 - For short articles, charts, screenshots, or text blocks, aim for roughly 30-75 lines. For long reports, transcripts, or earnings calls, aim for roughly 75-150 lines. Exceed those ranges only when the source contains enough distinct, investable evidence to justify it or the user explicitly requests exhaustive detail.
 - Use tables for genuinely dense quantitative comparisons, but avoid tables that restate a handful of numbers already clear in prose.
 - When updating an existing memo, add only the incremental evidence and remove stale or duplicative synthesis rather than layering another recap onto the file.
+- Apply an investment-relevance filter to every datapoint. Keep figures that change the view on demand, revenue, pricing, unit economics, adoption, capacity, market share, competitive advantage, risk, or execution; delete figures that merely add color.
+- A number is not important merely because it is precise. Omit team size, organization charts, biographies, episode duration, publication metadata, anecdotal dates, illustrative arithmetic, and host estimates unless they directly support an investable conclusion.
+- Prefer a smaller set of decision-useful figures over exhaustive extraction. Do not retain a weak datapoint just to make a table look complete, and do not repeat a figure elsewhere after it appears in a table.
 
 ## Input Handling
 

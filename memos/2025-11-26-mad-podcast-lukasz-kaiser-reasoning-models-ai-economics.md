@@ -24,8 +24,6 @@
 	  | Pre-training law | Loss still declines approximately log-linearly as compute increases | Frontier training remains productive even if marginal capability per dollar has slowed |
 	  | ChatGPT scale | Kaiser referred to roughly **one billion users** | Serving economics and inference capacity now influence model architecture and research priorities |
 	  | Cost improvement | GPT-4-to-GPT-5 economics improved by orders of magnitude; the transcript references roughly **1,000x** but the wording is ambiguous | Model efficiency can expand usage dramatically, but does not remove aggregate infrastructure demand |
-	  | Google Brain scale | Roughly 40 people when Kaiser joined versus approximately 3,000–4,000 when he left | Illustrates how frontier research organizations become coordination-heavy as they industrialize |
-	  | RL sampling example | A model might attempt a task 100 times and produce 30 correct solutions that reinforce better reasoning patterns | Training demand includes repeated rollouts, not only one pass through static data |
 	  | Hidden reasoning | ChatGPT shows users a summary produced from the full chain of thought rather than the raw internal trace | Reasoning observability and faithfulness remain separate product and safety questions |
 	  | Reasoning control | GPT-5.1 can be steered to think longer; more reasoning tokens increase capability on supported tasks | Creates variable inference cost and opportunities for tiered pricing/routing |
 	  | Jagged visual reasoning | GPT-5.1 and Gemini 3 solved one dot-counting example but failed a nearly identical follow-up | Benchmark strength does not guarantee local generalization or workflow reliability |
@@ -33,8 +31,6 @@
 	  | Codex Max context | Compaction supports operation across multiple context windows totaling millions of tokens | Long-horizon agents expand token, memory, retrieval, and verification demand |
 	  | Desired agent horizon | Research implementation tasks can require a week of running experiments, reading results, and fixing bugs | Autonomous knowledge work needs persistence far beyond current chat sessions |
 	  | OpenAI agent ambition | Kaiser interpreted the goal as reaching an “AI intern” around the end of the following year | Concrete near-term aspiration, not a guaranteed product milestone |
-	  | Human verification cost | He used approximately **\$50** as an example of paying a translator to review output shown to a very large audience | Small human-review costs remain rational when failure exposure is large |
-	  | Robot timing | Meaningful progress could arrive the following year or take several years; hardware may be ready when models improve | Robotics is plausible but highly uncertain and deployment-limited by physical safety |
 
 - ## Why the “AI Slowdown” Narrative Is Misleading
 	- **Aggregate progress can stay smooth while individual techniques saturate**: pre-training may be on the upper part of its scientific S-curve, while reasoning is on the steep early section of a newer curve.

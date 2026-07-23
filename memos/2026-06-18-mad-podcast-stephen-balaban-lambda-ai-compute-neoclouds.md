@@ -37,15 +37,8 @@
 	  | Geographic footprint | Lambda operates in the **U.S., Canada, Mexico**, and through a Seoul partnership; focus remains North America and especially the U.S. | Asynchronous inference weakens latency-driven regional needs, while sovereignty can restore them |
 	  | H100 vintage | **2023 H100s** now lease at higher rates than at original deployment, per Lambda | Contradicts simple straight-line economic obsolescence during a tight market |
 	  | Accounting life | Many operators use roughly a **six-year depreciation schedule**; Balaban says usable life is longer | Extending useful life can support margins but raises residual-value and impairment judgment |
-	  | DreamScope usage | Approximately **1M users** and perhaps **15M images** processed | Historical demand that pushed Lambda from applications into infrastructure |
-	  | DreamScope cloud cost | Approximately **\$40K per month** on AWS | Origin of Lambda's build-versus-rent decision |
-	  | Initial owned cluster | Approximately **\$60K capex** with a claimed **1.5-month payback** | Extreme early example of savings from owning highly utilized compute |
-	  | Early revenue | Approximately **\$3M in 2017**, **\$10M in 2018**, and **\$30M in 2019** | Shows the workstation business funding the later cloud pivot |
-	  | Hardware peak | Approximately **\$200M run rate** before exit | Lambda deliberately shifted from product sales toward recurring cloud economics |
 	  | Current cloud scale | A little under **\$1B revenue run rate**, per Balaban | Places Lambda among scaled neoclouds, but this is not audited revenue |
 	  | Rapid deployment benchmark | xAI achieved roughly **200-something days**; Lambda aims to match or beat it repeatably | Deployment velocity can turn scarce chips and power into revenue sooner |
-	  | AI factory definition | **1 GW = 1,000 MW = 1B watts** | Useful common unit for comparing power, facility, and server announcements |
-	  | New York City comparison | Approximately **5 GW**, per Balaban | Illustrates the physical scale of a gigawatt AI site, not a precise demand comparison |
 	  | Neural-software adoption | Prototypes today; mass adoption in roughly **10–15 years** | Long-duration optionality, not a near-term revenue assumption |
 
 - ## Why GPU Compute Is Not a Commodity
@@ -200,13 +193,3 @@
 	- The appeal is extreme flexibility. The interface can generate a requested feature dynamically rather than waiting for a release.
 	- The challenge is that “no bugs, only prompt misunderstandings” does not remove failure; it makes behavior probabilistic, harder to reproduce, and more difficult to certify.
 	- Balaban says Lambda and others have prototypes but expects mass adoption only in roughly 10–15 years. This is strategically interesting but too distant for near-term earnings models.
-
-- ## Lambda Operating History
-	- Lambda began in 2012 as a facial-recognition software company, then moved through an API, on-device computer vision, the camera-equipped Lambda Hat, and DreamScope image generation.
-	- A high AWS bill prompted a $60K owned-cluster purchase. The claimed 1.5-month payback revealed that Lambda was saving more on compute than it earned from its application, leading to workstation, server, and cloud products.
-	- Revenue grew from roughly \$3M in 2017 to \$10M in 2018 and \$30M in 2019; the hardware business later reached around a \$200M run rate.
-	- Lambda has since exited hardware sales and says its cloud business is approaching a $1B revenue run rate.
-	- The founding path illustrates three durable lessons:
-		- Application pain can reveal an infrastructure opportunity.
-		- Owning compute is compelling only when utilization is high enough.
-		- Hardware, data-center, software, and capital expertise accumulated over many pivots is difficult to reproduce quickly.
