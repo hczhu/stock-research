@@ -22,28 +22,18 @@ tags:: [[$NVDA]], [[Nemotron]], [[open-source]], [[open-weight-models]], [[AI]],
 - ## Key Data Points and Disclosures
 	- | Data point | Catanzaro disclosure or interview context | Investment relevance |
 	  |---|---|---|
-	  | Nemotron organization | Hundreds of researchers; host frames the effort as approximately **500 people** | NVIDIA is absorbing meaningful model-lab expense to improve its platform |
-	  | Cross-company participation | Roughly **10 NVIDIA teams** have significant involvement | Model research informs GPU, systems, enterprise software, and AI software groups |
-	  | Technical workstreams | Ideas route to **25 leads** | Shows breadth and formalization of the internal program |
-	  | Compute allocation | Reviewed on a **two-week cycle** | Scarcity forces continuous portfolio management even inside NVIDIA |
 	  | Researcher demand | Every promising idea could ask for **1,000x more GPUs**, according to Catanzaro | Frontier research remains compute-constrained rather than supply-satiated |
 	  | Nemotron 3 Nano | **30B total parameters; 3B active** | Small deployment tier optimized for lower cost |
 	  | Nemotron 3 Super | **120B total; 12B active** | Described as the most popular balance of intelligence and cost |
 	  | Nemotron 3 Ultra | **550B total; 55B active** | Highest-capability tier with only one-tenth of parameters active per token |
 	  | Low-precision pre-training | Super and Ultra trained in **NVFP4** | Validates Blackwell Ultra's four-bit hardware for training, not only inference |
-	  | Four-bit value space | **16 representable values** before block scaling; groups also use an 8-bit scale | Illustrates the numeric difficulty and bandwidth advantage |
-	  | Hybrid architecture research | Published in **2024** | NVIDIA claims early evidence for mostly state-space layers plus limited attention |
 	  | NVL72 fabric | Up to **72 GPUs** read and write one another's memory at high speed | MoE makes rack-scale interconnect part of the inference product |
 	  | Latent MoE | **4x the experts at the same inference cost**, per Catanzaro | Compression converts saved bandwidth into model capacity |
 	  | Context length | **1M tokens** for Nemotron 3 Ultra | Supports large codebases, instructions, memory, and agent histories |
 	  | Multi-token prediction | Example predicts **five tokens** at once and can produce roughly **4x speedup** | Exploits otherwise idle arithmetic when inference is memory-bound |
 	  | Specialist teachers | Approximately **10–15** in Nemotron 3 Ultra post-training | Multiple domains can be combined into one production model |
-	  | Original joint model | Approximately **530B parameters**, trained with Microsoft and released around 2021 | Nemotron's lineage predates the recent open-model push |
-	  | 2024 model | A **340B-parameter** Nemotron 4 was released, creating a naming conflict with the next generation | Product naming is less stable than the underlying research program |
 	  | NVIDIA model horizon | CUDA and Nemotron discussed as **10+ year commitments** | Signals a durable platform strategy rather than a launch-cycle experiment |
 	  | DLSS efficiency | Approximately **10x** | Concrete precedent for AI algorithms expanding effective GPU performance |
-	  | DLSS generated pixels | **23 of every 24 pixels**, per Catanzaro | AI increasingly substitutes inference for deterministic graphics computation |
-	  | NVIDIA CEO tenure | **33 years** | Unusually long leadership horizon supports multi-cycle research bets |
 - ## Why NVIDIA Builds Models
 	- Nemotron's first job is product discovery. When simple transistor shrinkage no longer guarantees economic improvement, NVIDIA must understand the workload deeply enough to remove waste across:
 		- Numerical formats.
