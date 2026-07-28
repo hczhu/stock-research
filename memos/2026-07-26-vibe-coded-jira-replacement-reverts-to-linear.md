@@ -2,6 +2,7 @@
 
 - ## Vibe-Coded Jira Replacement Reverts to Linear
 	- **Source**: User-provided screenshot of a July 26, 2026 X post by Neha Kalani ([@thericebowlgirl](https://x.com/thericebowlgirl)), updating a March 14 post. The account is second-hand: Kalani describes a startup where her sister works.
+	- **Companion memo**: [[2026-07-27-vibe-coding-demand-destruction-vs-saas-operating-cost]] records the first-party operator argument for why maintenance, not authoring, is the binding cost.
 	- **Thesis**: AI coding can collapse the initial cost of reproducing a SaaS interface without eliminating the recurring cost of operating the product. This anecdote is positive for the durability of workflow-software spending, but mixed for [[$TEAM]] specifically: the startup abandoned its internal replacement yet returned to Linear rather than Jira.
 
 - ## The Adoption-and-Reversion Cycle
