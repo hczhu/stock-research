@@ -2,6 +2,7 @@
 
 - ## AI Agents Compress Both Discovery and Demand for Small Software
 	- **Source**: User-provided screenshots of X posts by Jon Yongfook ([@yongfook](https://x.com/yongfook)), Pieter Levels ([@levelsio](https://x.com/levelsio)), Oskar ([@oskarglauser](https://x.com/oskarglauser)), Adam Wathan ([@adamwathan](https://x.com/adamwathan)), and Jerry Chu ([@PMDBT](https://x.com/PMDBT)). Yongfook's post is dated July 25, 2026; the other screenshots show relative timestamps only.
+	- **Companion memo**: [[2026-07-27-vibe-coding-demand-destruction-vs-saas-operating-cost]] weighs which of the two pressures below is dominant and bounds the demand-destruction case.
 	- **Thesis**: The anecdotes point to two simultaneous pressures on low-end SaaS. AI answers reduce Google referrals and weaken SEO-led customer acquisition, while coding agents directly solve narrow problems or generate custom internal tools, eliminating some searches and purchases altogether. The most exposed products are low-priced, single-function utilities with little proprietary data or workflow depth; durable software must own recurring business processes, differentiated data, trust, or distribution that an agent cannot cheaply reproduce.
 
 - ## Decision-Useful Evidence
