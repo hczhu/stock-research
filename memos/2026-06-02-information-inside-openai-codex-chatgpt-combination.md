@@ -14,9 +14,11 @@
 	  | **Anthropic annualized revenue** | **>\$47B as of May 2026 — 5× the start-of-year level**, propelled by Claude Code | The Information |
 	  | OpenAI annualized revenue | \$25B (last disclosed, March) → **passed \$30B** | The Information reporting |
 	  | ChatGPT consumer base | **900M+ users** (the superapp distribution target) | Article |
+	  | ChatGPT weekly active users | **Nearing 1B**, seven months after the target date | The Information headline; user-provided screenshot, July 2026 |
 	  | Google search volume | Codex searches **spiked past Claude Code mid-May** (peak ~100 vs ~60 indexed) | Google Analytics chart, Jun-25→May-26 |
 	  | Claude Code / Cowork users | Not disclosed; **paying users only** (no free tier) | Article |
 	  | Anthropic coding-product revenue | "Likely greater than Codex's today" | Article's judgment |
+	- **Scale with target slippage**: Nearing 1B WAU confirms ChatGPT's unmatched global consumer distribution, but arriving seven months after the stated target tempers the growth narrative. The screenshot does not show the exact WAU, target date, or article body, so it cannot support a precise growth-rate calculation from the earlier 900M+ figure.
 
 - ## July 2026 Adoption Update — ChatGPT Work + Codex
 	- **Source**: User-provided OpenAI-branded chart, “The agentic breakout,” covering March-July 2026. The image does not include a publication URL, underlying dataset, geographic scope, or user-count methodology, so the labels below are transcribed as presented rather than independently verified.
