@@ -2,6 +2,7 @@
 
 - ## Stratechery: Microsoft earnings, Microsoft vs. Meta, and the efficiency payoff
 	- **Source**: Stratechery Update, Ben Thompson, "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff," August 4, 2026. Covers Microsoft's FY2026 Q4 (June quarter) call and contrasts it with [[META-2026-Q2]].
+	- **Primary record**: [[MSFT-2026-Q2]] — notes taken directly from the call transcript. Thompson's reading of the ASC 842 mechanics is confirmed by Hood verbatim: the change affects "only the timing of future depreciation," has a "minimal benefit to FY27 operating income," and calendar-2026 CapEx **investment expectations are unchanged** with only the reported figure moving to ~\$175B.
 	- **Thesis**: Microsoft's print was rewarded because it separated **AI demand from frontier-model cost** — it sells inference and middleware rather than chasing the frontier, so Azure can grow 43% while still throwing off ~\$20B of FCF. The overlooked item is an accounting change: extending data-center useful life from 15 to 25 years reclassifies future **finance leases into operating leases**, cutting reported CapEx by ~\$15B without cutting the obligation.
 
 - ## The ASC 842 reclassification — the most investable detail in the piece
