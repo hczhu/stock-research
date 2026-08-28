@@ -71,6 +71,49 @@ tags:: [[SemiAnalysis]], [[$NVDA]], [[inference]], [[Cerebras]], [[Groq]], [[Sam
 	- **Batch sizes 2, 4, and 8** will be benchmarked to map the throughput–interactivity Pareto frontier and locate where the persistent kernel's latency advantage flattens. If it holds past batch 1, the aggregate-throughput penalty shrinks and the economics improve sharply.
 	- **Committed submissions**: NVIDIA has committed verifiable **Vera Rubin** numbers to InferenceX; **Google TPUv7** results are expected soon; **AMD MI455X UALoE72** this year.
 	- **A quiet competitive datapoint**: the article refers to frontier labs including OpenAI evaluating *"Cerebras and NVIDIA Groq LPUs,"* and the SemiAnalysis Accelerator Model now tracks quarterly *"NVIDIA LPU30, LPU40, Cerebras WSE-3 and WSE-4 shipments."* **NVIDIA appears to have its own LPU line** — which would mean the ultra-low-latency segment is being attacked by NVIDIA from both directions at once, in software via the GPU fleet and in hardware via dedicated parts.
+- ## Glossary
+	- **Metrics**
+		- **Interactivity** (tok/s/user) — how fast a single user receives tokens; the inverse of TPOT. Decides whether a response feels snappy.
+		- **TPOT** — time per output token. Sub-millisecond TPOT is where kernel launch and teardown overhead starts to dominate.
+		- **Throughput** (tok/s/GPU) — total tokens produced across all users per GPU. Largely determines cost per token.
+		- **TTFT** — time to first token; dominated by prefill. TileRT's is "good but not exceptional."
+		- **Decode tail** — time to finish generating after the first token. Where TileRT's advantage concentrates (3.01s vs 6.54s).
+		- **8k/1k, 1k/1k** — input/output token lengths per request; see the Notation note above the performance table.
+		- **Iso-cost** — comparing configurations at equal cost per token rather than equal speed. The basis of the "+1% cost for 1.9× interactivity" claim.
+		- **TCO** — total cost of ownership; the capex-plus-opex model behind every \$/M-token figure here.
+	- **Inference phases and serving**
+		- **Prefill** — processes the whole input prompt in one parallel pass. **Compute-bound.**
+		- **Decode** — generates output tokens one at a time, re-reading a growing KV cache. **Memory-bandwidth-bound.**
+		- **PD** — prefill/decode. **PD disaggregation** puts the two phases on separate node pools; the **PD ratio** is how a fleet is split between them, which is a software setting on GPUs and a hardware commitment on ASICs.
+		- **KV cache** — stored keys and values for all prior tokens. Grows linearly with context and must be read at every decode step, which is why it is the central bandwidth problem.
+		- **MTP** — multi-token prediction; emits several tokens per step to raise effective interactivity. Appears as "+MTP" in benchmark labels.
+		- **Speculative decoding** — a cheap draft model proposes tokens that the full model verifies in parallel.
+		- **Concurrency** — in-flight requests per node. TileRT v0.1.5 runs at concurrency 1, which is the source of its throughput penalty.
+		- **RDMA / Mooncake / NIXL** — the one-sided-write transport and transfer engines that move KV cache from prefill nodes to decode nodes.
+	- **GPU execution model**
+		- **Kernel** — a GPU program launched from the host. Traditional engines launch thousands sequentially per token.
+		- **CUDA graph** — replays a captured graph of kernel launches in one call. Reduces launch cost but **keeps kernel boundaries**, so on-chip state is still wiped at each one.
+		- **Persistent Engine Kernel** — TileRT's single resident kernel holding the entire decode graph; the host launches once and execution stays resident.
+		- **AoT compilation** — ahead-of-time. The schedule is fixed at compile time, which is exactly why the supported model catalog is small.
+		- **Warp / warp specialization** — a warp is a group of threads executing together; specialization assigns different warp groups to data movement, computation, and communication so they overlap.
+		- **CTA** — cooperative thread array (a thread block). TileRT turns each into a "heterogeneous factory" rather than a uniform **SIMT** (single instruction, multiple threads) worker.
+		- **MLA** — multi-head latent attention, the attention variant in GLM-5.x whose work TileRT splits across GPUs 1–7 while GPU 0 runs the sparse indexer.
+	- **Hardware and rooflines**
+		- **HBM** — high-bandwidth memory stacked beside the GPU die. Large capacity and high bandwidth, but **latency has been flat for a decade**.
+		- **SRAM** — on-chip memory; far faster and far smaller. The basis of dataflow accelerators.
+		- **Roofline** — the performance ceiling as a function of arithmetic intensity: a sloped bandwidth-bound region, then a flat compute-bound region.
+		- **Arithmetic intensity** — FLOPs performed per byte read. Batch-1 decode sits at ~1–2, deep in the bandwidth-bound region, which is why software cannot raise the ceiling.
+		- **Roofline ridge** (ridge point) — the arithmetic intensity where the sloped bandwidth-bound region meets the flat compute-bound region, i.e. **peak compute ÷ peak memory bandwidth**. Below the ridge a workload is bandwidth-bound; above it, compute-bound. It is the "Roofline ridge (AI)" column in the hardware table above — Cerebras WSE-3 ≈ 6, SambaNova SN40L ≈ 4, Groq LPU ≈ 2.4, with B200 far off-chart.
+			- **Why the B200's ridge sits so far right**: enormous FP8 compute against 8 TB/s of HBM. Since batch-1 decode runs at an arithmetic intensity of only ~1–2, **every one of these systems is bandwidth-bound at batch 1** — but the GPU is bandwidth-bound by the widest margin, which is the quantitative form of "the vertical gap is silicon." A lower ridge is not a weakness here; it means the machine reaches its compute ceiling at a workload shape that decode actually has.
+		- **Dataflow / spatial architecture** — weights stay resident on chip and activations flow through, versus a GPU refetching every weight from HBM every layer, every token.
+		- **LPU / WSE / RDU** — Groq's Language Processing Unit, Cerebras's Wafer Scale Engine, SambaNova's Reconfigurable Dataflow Unit.
+		- **NVL72** — a 72-GPU NVLink scale-up domain. Notable here because TileRT's results come from a plain 8-GPU node instead.
+		- **FP8 / FP4 / NVFP4 / MXFP8** — reduced numeric precisions. Fewer bytes per parameter means less decode bandwidth, which is why FP4 results are normally faster.
+	- **Software and benchmarks**
+		- **vLLM / SGLang** — the dominant open-source serving engines. Here vLLM keeps prefill plus the whole serving layer, and only latency-critical decode moves to TileRT.
+		- **MultiConnector** — the vLLM API that lets the TileRT connector claim only marked requests and no-op on everything else, so both traffic classes share one prefill pool.
+		- **TileLang / TileOps** — the DSL built by TileRT's maintainer organization, and the operator-manifest system intended to reduce per-model tuning effort.
+		- **InferenceX** — SemiAnalysis's open, vendor-neutral benchmark platform (formerly InferenceMAX). **AgentX** is the agentic successor scenario replaying real Claude Code and Codex traces.
 - ## Charts & Diagrams
 - ![](https://substackcdn.com/image/fetch/$s_!tpk5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0124db3-2df8-46ff-becd-26a1a433773f_1578x1410.png){:height 1123, :width 1248}
 -
