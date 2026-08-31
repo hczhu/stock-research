@@ -30,3 +30,6 @@ tags:: [[Anthropic]], [[OpenAI]], [[enterprise]], [[model-adoption]], [[data-ret
 	- **What would falsify it**: Fable adoption remaining flat after a retention change, which would point back to Casado's other candidates — most plausibly cost, domain refusals, or simple displacement by Opus 5 within the same vendor.
 	- **The confound to keep in view**: Fable and Opus 5 are **both Anthropic products**. Share moving between them is not necessarily lost business — it may be internal cannibalization on a launch, which is a different and much less concerning fact than losing enterprise seats to a competitor.
 	- **The datapoint I would most want** is Fable adoption split by **regulated versus unregulated verticals**. If the shortfall concentrates in finance, healthcare, and legal, ZDR is almost certainly the cause; if it is uniform across sectors, it is not.
+- ## Charts & Diagrams
+- **FT: spend split across Anthropic models, indexed to June.** July growth is carried by Opus 5 rather than Fable 5.
+- ![](https://substackcdn.com/image/fetch/$s_!VTvm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b720a6f-4d4e-48c4-bdb3-2349005e0cf9_1600x1097.jpeg)
