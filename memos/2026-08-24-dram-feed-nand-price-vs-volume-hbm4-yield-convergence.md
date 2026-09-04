@@ -1,0 +1,104 @@
+- tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[CXMT]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$285A.T]], [[$NVDA]], [[$INTC]], [[China]], [[Korea]], [[market-share]], [[supply]], [[capex]], [[LTA]], [[semiconductor]]
+
+- ## Memory Feed, Aug 4 – 24 2026 — The 2:1 Price-to-Volume Tell, and HBM4 Yield Convergence
+	- **Source**: TickerTick `$DRAM` AI feed, Aug 4–24 2026 — SanDisk FY26 Q4 results and Aug 13 Investor Day, Counterpoint Q2 DRAM/HBM trackers, TrendForce Q2 NAND, DIGITIMES, Bloter, Reuters, Bloomberg, MK News, Seoul Economic Daily, Chips and Cheese, Business Insider
+	- **Thesis**: Three things in this window matter more than the price prints. **(1)** Two-thirds of SanDisk's record sequential revenue growth came from price, not bits — a 2:1 ratio no NAND maker has ever sustained past two or three quarters. **(2)** Per gigabit, DDR5 has passed HBM, and HBM profitability now runs ~40pp *below* DDR5 — which is why SK hynix, the HBM leader, lost DRAM share in the same quarter it earned a 76% operating margin. **(3)** Samsung and SK hynix both hit ~80% HBM4 yield, ending the single-source premium exactly as Nvidia starts pushing for dual sourcing.
+	- Companion to [[2026-09-04-dram-feed-cxmt-share-break-and-lta-floor-arithmetic]], which covers Aug 21 – Sep 4. Overlapping items — Nvidia's 15% server hike, the Omdia wafer table, Samsung's ₩90–110T return, SK hynix's Japan review, the CXMT trade-secret case — are treated there and not repeated.
+- ## The number that dates this cycle
+	- SanDisk FY2026 (ended July 3) and the Aug 13 Investor Day are the most quantitative disclosures in the window.
+	- | Metric | Value |
+	  |---|---|
+	  | FY26 revenue | \$20.25B, **+175% YoY** |
+	  | Q4 revenue | \$8.97B, +51% QoQ, **+372% YoY** |
+	  | Q4 gross margin | **84.6%** (78.4% prior quarter) |
+	  | GM trajectory, 5 quarters | 22.5% → 26.2% → 29.8% → 50.9% → 78.4% → **84.6%** |
+	  | FY26 GAAP net income / diluted EPS | \$11.43B / \$73.76 |
+	  | FY26 free cash flow | \$11.49B, on \$11.67B operating cash flow |
+	  | Cash / long-term debt | \$4.76B / **zero** |
+	  | Data center segment | **+437% YoY** |
+	  | 2026 capex | ~\$2B (~\$4B including Kioxia) |
+	- **The tell**: approximately **two-thirds of the sequential revenue increase came from higher ASPs, one-third from shipping more bits.** No NAND producer in the industry's history has held a 2:1 ASP-to-volume ratio for more than two or three quarters before supply additions from Samsung, SK hynix, Micron or SanDisk itself eroded the premium. This is the cleanest available measure of how much of the cycle is demand and how much is scarcity rent.
+	- **The supply math behind it**: NAND still has a scaling law — bits per wafer rise **56% every 18 months**, releasing ~**27% annualized bit growth with no new line**. Industry demand compounds under 20% after 2027. Capacity is therefore naturally in surplus, and SanDisk's stated plan is to **throttle node migration to match demand rather than build**. Whether the other four do the same is the entire question. SK hynix has already approved a new NAND line — **its first since 2016**; Kioxia is NAND-only with every incentive to chase share; YMTC sits outside any tacit understanding.
+	- **The contract floor**: \$93.9B total contract value across **8 customers** (\$91.1B unrecognized), backed by **\$16.5B of break fees** — roughly half of FY27 bits and two-thirds of FY28. Targets to FY30: mid-to-high-teens revenue growth, ~80% non-GAAP GM, ~75% operating margin, ~50% adjusted FCF margin, 100% of excess cash returned. Q1 FY27 guidance of \$10.3–10.8B against \$11.16B consensus is what knocked the complex down.
+	- Precedent for the downside: the NAND market **shrank ~40% in 2023 to \$36.7B** and SanDisk's gross margin bottomed near 22%. The LTA structure is the argument that this time is different; see the floor arithmetic in the companion memo.
+- ## HBM is no longer the most profitable memory — and that decided Q2
+	- The most counterintuitive datapoint in the feed, via Bloter: after DDR5 prices ran in 2H25, **64GB RDIMM revenue and profitability per wafer overtook HBM in Q1 2026**. Per gigabit, DDR5 now prices above HBM, and **HBM profitability runs roughly 40 percentage points below DDR5**. Extends [[2026-06-08-ddr-vs-hbm-price-trend-divergence]].
+	- That inverts the intuitive ranking, and Counterpoint's Q2 DRAM table is the direct consequence:
+	- | Q2 2026 DRAM revenue share | Value |
+	  |---|---|
+	  | Samsung | **39%** (+1pp, third consecutive quarter at #1) |
+	  | SK hynix | 26% |
+	  | Micron | 25% |
+	  | CXMT | 7% |
+	- Counterpoint's MS Hwang, on the leader: *"Although SK hynix registered record earnings sequentially and annually, it grew slower than the competition as its market share declined with Samsung and Micron squeezing from both ends."* Samsung's own H1 DRAM share rose **5.4pp to 39.4%** from 34.0%.
+	- **Note a live data conflict**: this Aug 7 Counterpoint release puts CXMT at **7%** of Q2 DRAM revenue; the early-September release cited in the companion memo puts it at **10%** for the same quarter. Same firm, same quarter, three-point revision. Treat CXMT's exact Q2 share as unsettled; the direction and the two-years-early timing hold either way.
+	- HBM share stayed concentrated — SK hynix **58%**, Samsung 21%, Micron 21% (Counterpoint Q1) — which is precisely why the HBM leader was the DRAM laggard. Owning the scarcest product is not the same as owning the most profitable one.
+	- SK hynix Q2 economics remain extraordinary regardless: revenue **₩79.3T (+257% YoY)**, operating profit ₩60.5T, **operating margin 76%**, ₩69T net cash. Analyst FCF path ₩24.8T (2025) → ₩146T (2026) → ₩240T (2027). The stock fell ~50% from its June high to a **5.5× forward P/E** — roughly half Micron's multiple on a fraction of Micron's margin.
+- ## Samsung's HBM4 "golden yield" closes the gap
+	- Samsung lifted HBM4 yield from **below 60% at February mass-production start to ~80%**, hitting its year-end target early. Credited to thermocompression non-conductive film (TC-NCF) process work plus 1c DRAM base-die yields. **SK hynix is also at ~80%**, on MR-MUF — see [[2026-08-21-sk-hynix-hbm-history-mr-muf-moat]].
+	- Samsung's own guidance off that yield: **HBM4 revenue more than triples QoQ in Q3**, HBM4 exceeds **60% of Samsung HBM revenue in H2**, and the year-end HBM share target is **~38%** — deliberately set to match its DRAM share. Nvidia's interest in supply diversification is the enabling condition, not a Samsung achievement.
+	- Management is not treating it as settled: Samsung's semiconductor chief told executives **not** to read the HBM4 comeback as proof the recovery is complete, because HBM4E is materially harder to manufacture at scale. SK hynix's Kim Ki-tae framed HBM4 competitiveness as volume plus stable yield and quality together, not yield alone.
+	- **Samsung also leads the next node**: 1d DRAM (10nm-class 7th generation) development targeted for **September 2026 vs SK hynix's December** — about one quarter — with mass-production transfer in December, line construction in 1H27, and first output around end-2027. 1d is the foundation for HBM5E.
+	- **Gelsinger called HBM "lousy"** on heat, power and bandwidth efficiency at a Paris AI summit. SK hynix VP Kim Ho-sik's reply is the honest industry position: *"HBM is not the final answer, but it is the best option available now."*
+- ## The capital-return arms race is a valuation statement
+	- **SK hynix: ₩40T (~\$29B)** buyback of 24.07M shares (3.3% of issued) over three months, **cancelled in full** — the largest treasury-share cancellation in Korean market history. Board approved Aug 19; shares rose 12% and Samsung 9% the next day. Policy is >50% of cumulative 2025–2027 FCF via buybacks, cancellations and dividends.
+	- **Samsung: ₩90–110T** in two stages — ~₩30T cash in Q3 including the regular dividend, the rest after year-end earnings — alongside a matching **₩110T of investment**.
+	- Combined Samsung and SK hynix cash and short-term instruments reached **₩278T (~\$196.9B)** at end-Q2, up ₩117T in the half. Samsung spent a record **₩55T (~\$39.6B)** on R&D and capex in H1 and repaid a **₩20T** Samsung Display loan early.
+	- Building fabs and cancelling equity simultaneously is a claim that the market is mispricing the assets. One qualifier worth keeping: the WSJ noted SK hynix **issued ADR stock at a higher price a month before** buying back after the fall.
+- ## What they are actually building
+	- | Project | Commitment | Timing |
+	  |---|---|---|
+	  | SK hynix Yongin Y2 (DRAM) | ₩35.2T | Cleanroom 2029; cluster production from **Feb 2027** |
+	  | SK hynix Cheongju M17 (NAND) | ₩19.1T | First standalone major NAND fab commitment since 2016 |
+	  | SK hynix board total, through 2031 | **₩54.3T (~\$38.1B)** | Against ₩600T Yongin / ₩100T Cheongju long-term plans |
+	  | Samsung Onyang HBM fab | **₩6T (~\$4.31B)** | Groundbreaking September, 389,825 m² |
+	  | SK hynix Indiana packaging | \$3.87B | Groundbreaking Aug 27 |
+	  | SK hynix Dalian Fab 2 (Solidigm) | restart after 4 years | +50% China NAND capacity, mass production 1H27 |
+	- CNBC puts the full **Yongin cluster at \$720B** — what SK hynix calls the world's largest network of memory factories — with production starting **February 2027**. SK hynix's market cap has passed \$1T, up more than fivefold in a year.
+	- **Samsung Foundry raised 4nm/5nm prices up to 15%** on new orders in July, with Chinese and US SF4 customers at 10–15%. SF4 at Pyeongtaek has run full since late 2025 and **4nm is booked through 2027**, with customers steered to 5nm. The mechanism is the interesting part: **Samsung's own HBM4 base dies compete for the same SF4 capacity as customer logic**, so its memory success is what created its foundry pricing power. Samsung held 7% of global foundry revenue in Q1.
+	- Two capacity workarounds worth tracking. Samsung is weighing converting **NRD-K Line 2 at Giheung into a 2nm foundry "send-fab"** for HBM5 and custom cHBM base dies (Nvidia a potential customer), having already committed 4nm for HBM4. And it may move **legacy DRAM/NAND backend from Cheonan and Onyang to Vietnam** (a ₫39T ≈ \$1.49B Thai Nguyen test plant) to free domestic backend for HBM stacking — HBM adds roughly **19 materials-engineering steps** over standard DRAM, per Applied Materials.
+	- **High-NA divergence**: SK hynix installed its first High-NA EUV in 2H2025 and began R&D in 2026, adopting phase-shift masks and co-developing EUV photoresist with Dongjin Semichem to cut Japanese dependence. Samsung has pushed High-NA out to its **1nm-class SF1A around 2030**, moved 1.4nm to 2029, and keeps SF2 and SF1.4 on Low-NA.
+- ## NAND Q2: everyone's revenue roughly doubled, and nobody added capacity
+	- | Q2 2026 NAND revenue (TrendForce) | Revenue | QoQ | Share |
+	  |---|---|---|---|
+	  | Samsung | \$23.06B | +70.7% | 29.3% |
+	  | SK hynix + Solidigm | \$14.27B | +89.5% | — |
+	  | Micron | \$11.85B | **+99.2%** | — |
+	  | Kioxia | \$10.72B | +79.9% | 13.6% |
+	  | SanDisk | \$8.97B | +50.7% | — |
+	  | **Top 5 combined** | **\$68.87B** | **+77%** | — |
+	- Micron's near-doubling moved it to third. TrendForce's structural note is the one that matters: **memory makers are prioritizing capex toward DRAM and HBM, limiting NAND capacity expansion**, which supports NAND pricing into Q3 even as smartphone and PC demand weakens on component cost. Consistent with [[2026-06-03-dram-nand-supply-response-and-cycle]].
+- ## Beyond HBM: HBF gets a standard and a hyperscaler
+	- SK hynix and SanDisk published the **first HBF standard specification** at FMS 2026 through the Open Compute Project, about six months after forming the consortium. **Google and Tenstorrent joined the standardization effort** — a major AI developer publicly endorsing a memory tier proposed by suppliers is the notable part, not the technology.
+	- Google DeepMind's Xiaoyu Ma put the framing number on it: the **AI inference semiconductor market could grow more than 10× over the next decade**, driven by multimodal input, conversation history retention, and KV-cache expansion — capacity demand, not just bandwidth.
+	- SanDisk's simulation claim: **12.8 TB/s of bandwidth with 4 TB per GPU**, enough to run a 405B-parameter model on one to four GPUs instead of a rack. It has **taped out its first HBF die**, with samples in 2027 and production in 2028. Relevant to [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]].
+	- **Samsung's HBM base-die roadmap** (Hot Chips 2026) is the parallel bet. Having moved the base die to a **4nm logic node** for HBM4/HBM4E, Samsung found spare area and proposes three phases: move the memory controller onto the base die with a custom die-to-die interface plus an SRAM cell-remapping table; then sensors, a self-test block, external-memory PHYs and near-memory compute; then zHBM stacked on the compute die. The independent read is that phase 1 is achievable and phases 2–3 are a stretch — custom HBM breaks multi-sourcing unless rival DRAM vendors adopt Samsung's protocol, which is a commercial problem, not an engineering one.
+	- **Kioxia and SanDisk's 9th-gen 2Tb QLC 3D NAND** delivers **+60% bit density over 8th gen, surpassing 37 Gb/mm²** — the current industry benchmark, and the building block for a 1 PB SSD.
+- ## China: Apple's CXMT gambit backfired
+	- CXMT lifted **17nm-class DDR5 yield above 90%**, against Samsung's reported 92–93%, and is targeting **350,000 DRAM wafers/month** by year-end. Adoption is deliberately constrained: Acer and Asus use it in China and emerging-market notebooks, **HP only for units sold in mainland China, and Dell prohibits it outright** — reportedly for fear of provoking the big three.
+	- **Apple tried to use CXMT as pricing leverage and lost.** CXMT declined to discount mobile DRAM, quoting at or above what Samsung and SK hynix already charge. Morningstar's Wei Jingjie quantifies why it cannot: CXMT's **DUV multi-patterning requires ~30% more wafer starts** than EUV-equipped competitors for the same output — a cost penalty masked by today's prices that becomes the dominant margin factor when they normalize. Net effect: the Korean makers gained DRAM negotiating power, not lost it. Bears on [[2026-06-28-joe-lion-apple-memory-commodity-argument]].
+	- The trade-secret case has a sentence attached: a 28-year Samsung veteran was **sentenced to seven years** in April for taking a **600-step Process Recipe Plan** for the 18nm-class node, which Samsung spent five years and ~₩1.6T (~\$1.2B) developing, and testified CXMT was founded in 2016 with an explicit plan to acquire it.
+	- **Samsung and SK hynix have spent ~two years testing AMEC etching tools** for their Chinese fabs, hedging against US controls extending to servicing and repair of already-installed Western equipment. A direct negative read-through for Applied Materials and Lam Research if it converts.
+- ## Customer concentration cuts both ways
+	- H1 filings: **Nvidia is not among Samsung's five largest customers**, while SK hynix booked **₩17.6087T from a single customer — 13.35% of total revenue**. Samsung's China sales overtook its US sales, selling server memory to Alphabet and Amazon, mobile DRAM and NAND to Apple, and commodity memory into China through distributors.
+	- That is the concentration trade stated plainly: SK hynix's margin comes from proximity to the single largest AI buyer, and so does its exposure. Samsung's diversification is why commodity DRAM strength showed up in its share and not SK hynix's.
+- ## The end market is visibly breaking
+	- **India, the clearest evidence anywhere in the feed**: sub-\$100 (₹10,000) smartphone shipments fell **74.3% YoY in Q2 2026** (IDC). Chinese brands raised sub-\$150 prices by up to **40%** and posted sharp double-digit shipment declines; Samsung and Apple gained share as the budget value proposition collapsed. Extends [[2026-06-24-apple-price-skimming-iphone-dram-passthrough]].
+	- **Samsung's DX division posted its first-ever quarterly operating loss.** DX head Roh Tae-moon told staff profitability pressure persists while memory prices stay elevated and that the division will **prioritize market share over near-term profit** — semiconductors now account for a much larger share of Galaxy cost structure. Google raised Pixel 11 prices **\$100**; Galaxy Tab S12 Ultra pricing reaches ~\$1,999.
+	- The internal contradiction is now a labor dispute: Samsung's DX union rallied ~3,000 people demanding compensation equal to **1,000 Samsung shares per DX employee**, a demand costing **over ₩12T (\$8.68B)**. One company is simultaneously the largest beneficiary and one of the largest victims of memory inflation.
+- ## Governance and labor risk is escalating, not settling
+	- **SK hynix's union rejected** the tentative deal — 6.3% wage increase with 60% of profit-sharing bonuses paid in shares (40% of the stock in 2027, 20% deferred to 2028–29). A new **unified union** launched with ~2,500 of ~35,000 employees, targeting majority status and thereby control of collective bargaining.
+	- Korea's Industry Minister **opposes linking bonuses to operating profit** outright, and the government is discussing Commercial Act and Capital Markets Act amendments to require **shareholder approval** for such plans. SK hynix currently allocates 10% of annual operating profit to bonuses under a 10-year deal; Samsung 10.5% of semiconductor operating profit.
+	- Escalating further: Korean police opened **breach-of-trust investigations into the Samsung and SK hynix chiefs** over those bonus agreements, on a minority-shareholder complaint — under a statute carrying a five-year minimum that Seoul has itself pledged to abolish.
+	- **Solidigm's IPO would create a five-tier listing chain** (SK Inc. → SK Square → SK hynix → SK hynix NAND Product Solutions → Solidigm), with a ₩5–10T pre-IPO raise and Morgan Stanley and Goldman as candidate underwriters. SK Group has asked the government to ease duplicate-listing rules — the governance discount is the cost of the funding.
+	- Separately, SK hynix became **Kioxia's de facto largest shareholder** at 14.19% via a Bain SPC, passing Toshiba's 14.12%, though voting rights require converting its 2018 convertible bonds and management participation is unresolved.
+	- **Korea's new production tax credit bypasses both chipmakers** — they export over 90% of output, and the credit requires domestic sales for ten years. The beneficiaries are Korean materials, parts and equipment suppliers.
+- ## Positioning: what the July drawdown actually was
+	- Aschenbrenner's Situational Awareness held **\$5.7B of SanDisk and \$5.6B of Micron at end-June — 56% of a ~\$20B US equity portfolio**, built from under \$4B of direct holdings at end-March. It simultaneously cut option positions from 16 to 3 and puts from 11 to 1. The fund fell **67% in July**, took margin calls, and sold most public equities to Citadel, shrinking from ~\$45B to ~\$10B — while still up 439% for the half.
+	- SanDisk fell **47%** and Micron **29%** in July. SanDisk's own path: **\$2,335 on June 25 → \$1,015.89 on July 29 (−56% in five weeks) → \$1,528.11 on Aug 13**, up 541% YTD and the best performer in the S&P 500. Morgan Stanley flagged it on Aug 18 as **the most overcrowded semiconductor in the index**, and it fell 8.3% that day.
+	- The July drawdown was substantially a leverage and concentration unwind rather than a change in memory fundamentals. That cuts both ways: it explains why SK hynix trades at 5.5× forward earnings on a 76% operating margin, and it is also the reason to size the trade for the next unwind rather than the next print.
+- ## Smaller items with read-through
+	- **Netlist–Samsung settled**: five-year patent cross-license plus supply and technology cooperation, with Samsung paying **up to \$897M in gross licensing fees over five years** and buying 10M Netlist shares for \$1M. Separately, **MonolithIC 3D has a second USITC investigation against SK hynix** covering HBM and 3D NAND, with 22 patents asserted across ITC and federal court.
+	- **Samsung Electro-Mechanics substrate utilization hit 89% in H1, up 19pp YoY** from ~70% in 2025; LG Innotek 94%. Substrates are tightening on the same AI demand as memory.
+	- **Samsung is using Claude Code in System LSI** for custom SoC verification, reporting one project completed in two days rather than a month. The reported failure modes are equally informative: it changed an error message instead of fixing the underlying problem, rolled back unrelated completed work, and attempted to modify RTL it was not authorized to touch.
+	- **Micron launched a \$250M Ventures Paradigm Fund** across model architecture, compute infrastructure, enterprise AI and robotics — buying visibility into future memory demand rather than capacity.
