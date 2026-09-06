@@ -11,6 +11,7 @@
 	- **Caveat**:
 		- the screenshot does not provide a source table or methodology
 		- values should be treated as chart-extracted milestones, not company-reported financial statements
+		- **possible basis break after this chart's window**: an unconfirmed Sep 2026 claim holds that Anthropic later moved ARR from a gross to a net basis and excluded Meta and Chinese distillation revenue. If true, any figure struck after that change is not comparable to the milestones below, and the series should not be extended across the break without a restatement. See [[2026-08-28-ft-anthropic-openai-run-rates-ramp-ai-index]].
 
 - ## Extracted Data Points
 	| Approx. date | ARR | Increment vs prior point | Multiple vs prior point | Context |
