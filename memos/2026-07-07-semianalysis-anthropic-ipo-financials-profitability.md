@@ -85,6 +85,10 @@
 	- Meta is estimated to be Anthropic's largest customer but only **3-5%** of Anthropic revenue.
 	- Meta's Anthropic spend is described as being in the **nine figures**.
 	- Customer concentration therefore exists by workload, especially coding, but not apparently around one dominant buyer.
+	- **A later, unconfirmed claim puts the Meta figure in doubt (Sep 2026)**: a social-media post its own author calls **"pure speculation"** asserts Anthropic **excluded Meta from its \$65bn ARR figure** and puts Meta **above \$5bn of ARR**. Full treatment in [[2026-08-28-ft-anthropic-openai-run-rates-ramp-ai-index]].
+		- The two SemiAnalysis descriptors above are already in tension with each other: **3–5% of a >\$60bn ARR base is \$1.8–3.0bn**, which is ten figures, not the **"nine figures"** the report describes. The percentage and the dollar figure appear to be anchored to different ARR bases.
+		- At **\$5bn+ Meta would be ~7.7%** of a \$65bn net base — above SemiAnalysis's range, and **the single largest identifiable customer concentration in the business**.
+		- **The conclusion in the bullet above is the one most at risk.** "Not apparently around one dominant buyer" holds comfortably at 3–5% from a customer that is merely large. It holds far less well at ~8% from a customer that is simultaneously the largest buyer, a rival lab building competing coding models, and a potential compute lessor.
 
 - ## Gross-Margin Inflection
 	- Anthropic's modeled total gross margin progression is approximately:
