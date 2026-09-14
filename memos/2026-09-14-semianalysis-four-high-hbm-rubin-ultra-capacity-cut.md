@@ -60,3 +60,30 @@
 		- [[2026-06-01-memory-super-cycle-x-thread-and-memo]] — "Rubin Ultra (2027): 1 TB," and again in its table
 		- [[2026-06-03-hbm-demand-scaling-crowding-out-conventional-dram]] — "Rubin Ultra roadmap increases per-GPU capacity to 1TB"
 	- **The error is 5.3× on a per-package capacity input**, and it runs the wrong way for HBM bit demand while running the *right* way for cube counts. Any model built on those memos overstates HBM gigabyte demand per Rubin Ultra package and understates the number of packages a given HBM supply can dress.
+- ## Glossary
+	- **Stack construction**
+		- **x-high** (4-high, 8-high, 12-high, 16-high) — **the number of DRAM dies stacked vertically inside one HBM cube.** An HBM part is a tower, not a flat chip. Capacity scales linearly with height; **bandwidth does not scale at all.** This asymmetry is the entire argument of the memo.
+		- **Cube / stack** — one complete HBM unit: a base die with DRAM dies stacked on top. Several cubes sit beside the compute die on the same package. Used interchangeably in the source.
+		- **Base die** — the logic die at the bottom of the stack that interfaces to the compute chip. From HBM4 it is fabricated on a logic node rather than a DRAM node — see [[2026-09-04-hbm-base-die-becomes-a-foundry-business]].
+		- **TSV** — through-silicon via. The vertical wiring that connects stacked dies to each other and to the base die.
+		- **Die density** — capacity of a single DRAM die, quoted in **gigabits**. 24Gb = 3GB (HBM4); 32Gb = 4GB (HBM4E). The source says "GB" where it means Gb; the memo converts.
+		- **Package capacity** — stacks × height × die capacity. Rubin Ultra revised: 8 × 8 × 3GB = 192GB.
+	- **Why height does not buy bandwidth**
+		- **Data wires / signal wires** — the parallel interface between a cube and the compute die. HBM4 and HBM4E use **2,048 data wires**, and each DRAM die can carry up to **512** of them.
+		- **Four-die saturation** — 2,048 ÷ 512 = **4**, so four dies already use every wire. Dies five through twelve add storage behind an interface that is already full: capacity up, **bandwidth unchanged**.
+		- **Dollar per gigabyte vs dollar per bandwidth** — suppliers price HBM on **capacity**; inference buyers value **bandwidth**. A 12-high cube costs roughly 3× a 4-high one and moves data no faster, so dollar-per-bandwidth is best at 4-high. The mismatch is the arbitrage Nvidia is closing.
+		- **Stack yield compounding** — every bonding layer multiplies its own yield loss, so tall stacks lose more. At 99% per layer: 96.1% at 4-high, 92.3% at 8-high, 88.6% at 12-high. This is why 4-high yields **more** than double the cubes of 8-high (2.08×), not exactly double.
+		- **Harvestable cubes** — finished good cubes obtainable from a given DRAM wafer supply. The metric that matters when wafers, not designs, are the constraint.
+	- **System and product terms**
+		- **HBM4 / HBM4E** — sixth- and seventh-generation High Bandwidth Memory. HBM4E carries denser dies (32Gb vs 24Gb) and arrives later.
+		- **Rubin / Rubin Ultra** — Nvidia generations. Rubin is shipping and installing now at 288GB; **Rubin Ultra is the generation after it** — "if there was an R200, it would be the R300." The capacity cut applies only to Rubin Ultra.
+		- **Scale-up domain** — the set of accelerators connected coherently enough to be treated as one pooled memory system. **Aggregate capacity across the domain, not per-package capacity, is what a model must fit into.**
+		- **NVL72 / NVL576** — scale-up domains of 72 and 576 GPUs. NVL72 at 288GB each is 20.7TB of pooled HBM; Rubin Ultra moves to NVL576, another ~8× step.
+		- **HGX** — Nvidia's 8-GPU baseboard, the pre-rack unit. A Hopper HGX node held 8 × 80GB = 640GB, the baseline for the capacity-pressure comparison.
+		- **De-specced** — reducing per-socket server DRAM because supply is short. Currently happening because DRAM wafers are being cannibalized for HBM.
+	- **Workload terms that decide the trade-off**
+		- **KV cache** — per-user conversational state held in HBM alongside the weights. The main consumer of capacity beyond the model itself, and what sets the batching ceiling.
+		- **Batching economics** — with batching the weights are read **once per batch**, so the larger the weights, the more throughput each extra gigabyte of capacity buys. This is the mechanism behind the counter-argument: if models get much bigger, 8-high wins again.
+		- **Quantization (FP8, MXFP4)** — bits used per parameter. Moving FP8 → MXFP4 **halves** the capacity a given model needs, and is half the reason capacity stopped binding.
+		- **Looped transformer** — adds capability by passing input through the same layers repeatedly, buying **compute depth instead of parameter count**. Reportedly used by GPT-6 Astra, and a direct reason parameter counts have stopped scaling.
+		- **Tokens per HBM wafer** — the source's framing, by analogy to tokens per dollar. If HBM wafers are the scarce input, the right objective is aggregate tokens per wafer, which favours shorter stacks.
