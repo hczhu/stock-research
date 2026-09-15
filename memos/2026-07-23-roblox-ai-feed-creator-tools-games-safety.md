@@ -1,8 +1,48 @@
 - tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[AI]], [[creator-economy]], [[consumer-internet]], [[subscriptions]], [[advertising]], [[regulation]]
 
 - ## Roblox Feed: AI Creation, Game Supply, Discovery, and Trust
-	- **Source**: Seven user-provided exports of an aggregated Roblox AI Feed covering July 4–23, 2026. They mix company announcements, press reports, game guides, investment commentary, videos, and anonymous Reddit posts. Quantitative claims below are attributed to the item that supplied them; the feed itself is not primary-source verification.
-	- **Thesis**: Roblox is widening its moat at both ends of creation—prompt-to-game tools for novices and AI-rendered photorealism for ambitious studios—but the feed suggests content abundance is already outrunning discovery, originality, support, and safety. AI strengthens the platform if it produces more durable games; it weakens it if low-effort clones and prototypes crowd out creators while age checks and moderation erode trust.
+	- **Source**: Ten user-provided exports of an aggregated Roblox AI Feed covering July 4–23 and August 15–September 14, 2026. They mix company announcements, press reports, game guides, investment commentary, videos, and anonymous Reddit posts. Quantitative claims below are attributed to the item that supplied them; the feed itself is not primary-source verification.
+	- **Thesis**: Roblox is evolving from a closed UGC app into a broader creation, distribution, and infrastructure layer spanning standalone apps, browsers, offline play, AI development tools, and creator payments. This expands reach and platform utility, but also extends the safety perimeter just as litigation and enforceable regulation are intensifying.
+
+- ## Late-August Update — Creator Economics and Platform Quality
+	- Roblox said creators earned **\$1.5B in 2025**. A Nordicity study estimated U.S. creator activity generated **\$752M of GDP**, up **69% year over year**, across 5,257 ZIP codes.
+	- Two-thirds of U.S. creator payments reportedly reached communities with below-average technology employment, although the median Developer Exchange participant earned only **\$1,500**. The platform creates broad opportunity, but earnings remain highly concentrated.
+	- Among surveyed EU creators, **84%** said Roblox increased their interest in game-development careers and **75%** reported receiving gaming-industry job opportunities.
+	- **Emissive Items** showed rapid marketplace adoption: more than **1,500 creators applied within 24 hours**, Roblox expanded the pilot to all eligible creators after three days, and more than **900 items** were available by then.
+		- Creators can upload one Emissive Item per day for **500 Robux**. Roblox quickly added limits and automated validation after users produced disruptive full-body effects, illustrating both creator responsiveness and the governance burden created by new tools.
+	- New analytics and LiveOps tools add player-segment dashboards, A/B experiments, easier movement of configurations between environments, and early warnings when a change harms playtime, ARPU, or conversion.
+	- Roblox plans to open-source three safety models through ROOST: an updated personal-information classifier, Sentinel for early child-endangerment detection, and a real-time voice-safety classifier.
+		- Roblox said Sentinel identified nearly **70%** of its child-endangerment cases through early detection. The feed does not disclose precision, false-positive rates, or the total number of confirmed cases.
+	- Roblox's federated privacy system illustrates the operational burden of its scale: one deletion request can trigger more than **600 subtasks** across hundreds of internal and third-party systems, while privacy-related requests increased **3.5× year over year**.
+	- Roblox previewed ten higher-fidelity third-party games spanning shooters, racing, RPGs, and horror. Participation by experienced talent from outside Roblox suggests the engine and distribution model are moving beyond their amateur-development roots.
+	- A public example claimed Claude generated a playable browser-based, procedurally rendered taxi game from one prompt in **two hours**. This is anecdotal, but reinforces that game-prototype supply is becoming cheap while taste, live operations, discovery, and monetization remain scarce.
+	- A planned Fortnite crossover with a Roblox-originated game suggests successful Roblox IP can travel beyond the platform, opening licensing opportunities while making creators less dependent on Roblox distribution.
+
+- ## Engagement Integrity and Content Policy
+	- Roblox launched broader bot-network detection and said visits, followers, votes, and other public metrics tied to removed accounts would be rolled back.
+	- Cleaner metrics improve discovery and advertiser trust, but could reveal inflated branded-experience performance and reduce matchmaking liquidity in games whose apparent audience included bots.
+	- One community post claimed Murder Mystery 2 concurrent users fell from roughly **1M to 220K** after anti-bot changes. The figure is unaudited, but illustrates the potential magnitude of metric inflation and why historical CCU comparisons may need adjustment.
+	- Effective August 25, games are excluded from Roblox Kids and Select when they combine media feeds, autoplay or infinite scrolling, and rewards for continued viewing.
+	- Roblox still permits opt-in rewarded video ads with rate limits. The distinction protects an advertising format while restricting engagement loops it considers inappropriate for younger users.
+	- The Ninth Circuit separately rejected Roblox's attempt to compel arbitration in one online-safety case because the company had litigated before seeking arbitration. This raises the probability that at least some claims proceed publicly, but it was a case-specific waiver decision rather than a universal invalidation of Roblox's terms.
+
+- ## September 2026 Update — Distribution Expands as Safety Obligations Harden
+	- **Roblox Everywhere** will let creators distribute standalone apps across mobile, PC, and consoles while Roblox continues supplying the underlying technology and services. No exact launch date or storefront list was given.
+	- Roblox plans one-click play from Experience Details Pages in **Chrome by year-end 2026**, allowing links from search, video, social media, and email to bypass app installation; more browsers are planned later.
+	- Creators are due to gain optional offline solo play by **mid-2027**, plus new support for 2D, puzzle, and asynchronous turn-based games.
+	- **Build**, Roblox's prompt-to-game creation tool, entered public alpha in Serbia and Singapore. **Scene Generator** is scheduled for later in 2026.
+	- A multiplayer **Playtest Agent** can simulate roughly **100 player-like NPCs** and return session analytics, lowering the cost of testing multiplayer experiences.
+	- **Roblox Reality** uses a video model to change lighting, weather, and visual style without altering underlying game code, while autonomous NPC technology targets hundreds of intelligent characters.
+	- **Roblox Wallet** will initially pay creators automatically each day in U.S. dollars and support transfers to Roblox accounts or banks; more countries and local-currency payouts are planned in 2027.
+	- A secondary report says **Steal a Brainrot exceeded 25M concurrent users**, making it the platform's second experience above 20M CCU after Grow a Garden. This illustrates blockbuster reach but remains a feed-sourced claim.
+	- Platform expansion coincides with harder safety obligations:
+		- Nearly **200 federal child-exploitation lawsuits** were reportedly consolidated in multidistrict litigation, with bellwether trials expected. Three U.S. senators opposed efforts to force relevant claims into arbitration.
+		- Senators Josh Hawley and Dick Durbin opened a formal investigation and directed Roblox to preserve records covering safety, abuse, bullying, and financial exploitation of minors.
+		- The EU designated Roblox a **Very Large Online Platform** after it reported **46.6M average monthly EU users** over three months, triggering enhanced risk, transparency, audit, recommendation-system, and child-protection obligations by January 2027.
+		- Australia's eSafety Commissioner gave Roblox **three months** to prevent unknown adults from contacting children without parental consent, tighten child-account privacy, and submit its protections—including age estimation—to independent audit. The Philippines separately gave Roblox until October 2026 to establish a local office and integrate age verification with the national ID system.
+		- Facial age estimation is required for chat access. Family Zone, which teaches parents and children about controls and online threats, reached **11M plays in roughly three months** and is available in 15 languages.
+	- **Interpretation**: Removing installation and storefront barriers can improve acquisition and make Roblox infrastructure more valuable to creators. It also distributes Roblox experiences into more surfaces while leaving Roblox responsible for identity, moderation, payments, and safety.
+	- AI lowers creation and testing costs, but discovery, trust, and durable engagement—not game supply—remain the binding platform constraints.
 
 - ## Decision-Useful Data Points
 	- | Signal | Feed data point | Context and interpretation |
@@ -19,11 +59,11 @@
 	  | Viral clone demand | Roblox Meccha Chameleon-inspired games reportedly drew **~150K–200K+ combined players**, versus **~55K** then playing the Steam original; original record was **340,534** | Roblox can reproduce and distribute a viral game loop extremely quickly, demonstrating reach while heightening IP and quality risk. |
 	  | Hit-game milestone | Anime Expeditions codes referenced **100M visits** and **200K CCU** milestones | Code names are not audited metrics, but they indicate the scale around which the developer markets the game. |
 	  | Roblox-native breakout | Animal Hospital rose from a cited **736,948 peak CCU** on July 7 to **1.2M+** after its July 11 update—roughly **+63%** in days | New lore, items, and class visual upgrades drove blockbuster engagement without relying on an external franchise. |
-	  | Brand-event reach | NME said **11M+ users** registered interest in the bbno$ concert; Bruno Mars held the cited record at **12.8M peak concurrents** | Virtual music events can deliver broadcast-scale reach; registrations are not the same as attendance. |
+	  | Brand-event reach | Music Ally reported **28M unique viewers** for the bbno$ concert over one weekend, including an **8.5M peak**; Bruno Mars held the cited record at **12.8M peak concurrents** | Virtual music events can deliver broadcast-scale reach and repeatable brand inventory. |
 	  | Mobile acquisition | Appmagic estimated **~19M Roblox downloads** in June, versus **~23M** for Free Fire Max and **8.6M** for Fortnite | Roblox appeared to be growing again after a download “blip” and retained exceptional organic distribution. |
 	  | Young-adult migration | A Gamesbrief summary cited **+50% YoY** growth for Roblox users aged 17–24; users 13+ were roughly **two-thirds of DAUs and hours** | The same piece said 18–24-year-olds fell from 10% to **3% of U.S. game-hardware purchases** in three years, suggesting time is shifting from consoles toward persistent platforms. |
 	  | Parent-information market | A related Blox Guardian report cited **380M+ MAUs** and a newsroom staffed by **seven full-time journalists** who play Roblox for parents | A third-party information layer is emerging because parents cannot practically vet a catalog containing gambling-like mechanics, violence, and jump scares themselves. |
-	  | Safety settlements | One report put settlements at **~\$54M**: Alabama **\$12.2M**, Nevada **\$12M**, Virginia **\$11M**, Mississippi **\$9M**, and nearly **\$10M** over four years for South Dakota, with another **\$5.4M** conditional | Safety failures are producing tangible cash costs; the report also cited **160+** consolidated exploitation suits and nine more states with cases in progress. |
+	  | Safety settlements and litigation | One report put settlements at **~\$54M**; the September feed said nearly **200 federal exploitation suits** were consolidated in multidistrict litigation | Safety failures are producing tangible cash costs and moving toward coordinated bellwether proceedings. |
 	  | UK incident trend | ITV cited **350+ police reports** involving Roblox in England and Wales in 2025, up **75% YoY**; the youngest alleged victim was five and age 11 appeared most frequently | The data measure allegations mentioning Roblox, not platform-attributable offenses, but the trend increases regulatory and parental pressure. |
 
 - ## Creation Stack: Wider Funnel, Higher Ceiling
