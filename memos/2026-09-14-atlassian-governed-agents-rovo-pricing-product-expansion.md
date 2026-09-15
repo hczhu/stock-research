@@ -1,0 +1,64 @@
+- tags:: [[$TEAM]] [[Atlassian]] [[Jira]] [[Rovo]] [[Confluence]] [[Teamwork-Graph]] [[agents]] [[developer-tools]] [[enterprise-software]] [[SaaS]]
+-
+- ## Atlassian: governed agents, Rovo monetization, and product expansion
+	- **Source**: User-provided Atlassian AI/news feed covering August 14–September 14, 2026. Sources include Inside Atlassian, company announcements, trade press, partner posts, and community reports.
+	- **Thesis**: Atlassian is extending its AI strategy from contextual search into governed, long-running work execution. Jira is becoming the control and measurement layer for human-agent workflows, while Rovo's usage-based pricing creates a direct monetization path. The strategic direction is credible, but customer evidence remains mixed and Atlassian's published productivity claims lack enough methodology to underwrite at face value.
+-
+- ## Jira moves from agent assignment to governed execution
+	- New Jira and DX capabilities are designed to coordinate, govern, and measure agent work across the software-development lifecycle.
+	- Jira will continuously identify well-defined, unassigned work items that can be delegated to Jira Coding Agent, which produces pull requests for human review.
+	- This advances the July product direction from manually assigning an agent to a ticket toward an **always-on work queue** in which agents find executable tasks themselves.
+	- Jira's durable role is increasingly the control plane rather than the coding surface: it holds approved intent, assignment, status, approvals, and an audit trail while agents operate in code repositories.
+	- The enterprise opportunity is governance. Faster coding models are broadly available, but enterprises still need permission boundaries, shared context, validation, and accountable human approval.
+	- The feed's detailed claims about policy files, read/write boundaries, and production-branch controls came from third-party analysis rather than Atlassian documentation and should not be treated as confirmed product specifications.
+-
+- ## Jira Planner addresses the intent bottleneck
+	- Jira Planner entered early access for Jira Cloud customers with Rovo, Teamwork Graph, and Confluence connected.
+	- It turns rough ideas into collaborative specifications grounded in source code, prior decisions, ownership, and Teamwork Graph context; finalized plans become sequenced Jira work items with dependencies and acceptance criteria.
+	- Atlassian says **60% of engineering leaders** report movement toward spec-driven development, but **fewer than 15%** have a structured framework for it.
+	- Planner targets the failure mode created by faster agents: incomplete requirements cause models to execute quickly in the wrong direction, increasing rework and token consumption.
+	- Requiring Jira, Confluence, Rovo, and Teamwork Graph together strengthens suite attachment, but the early-access status means customer adoption and output quality are not yet established.
+-
+- ## Rovo becomes an execution platform
+	- Rovo Chat has expanded from internal search to more than **50 third-party data sources** and is being redesigned for long-running, cross-application workflows.
+	- Atlassian's new agent harness separates the persistent control layer from isolated compute sandboxes, allowing tasks to survive sandbox failures and use different compute sizes based on workload.
+	- Programmatic tool calling lets Rovo process large Jira datasets through code rather than asking a model to paginate through sequential tool calls.
+	- | Atlassian internal evaluation of complex Jira queries | Result versus a standard tool-calling harness |
+	  |---|---|
+	  | Latency | **More than 50% lower** |
+	  | Token consumption | **55% lower** |
+	  | Accuracy | **30% higher** |
+	- The architecture also supports durable background sub-agents, checkpointed recovery, permission validation for external tool calls, and dynamic model selection.
+	- This is a meaningful technical response to the economics and reliability problems of enterprise agents: reduce expensive model/tool round trips, preserve state, and recover without duplicating side effects.
+	- The evaluation is first-party and lacks sample size or query distribution; it demonstrates internal progress, not independently verified customer ROI.
+-
+- ## AI monetization becomes explicit
+	- Beginning **December 3, 2026**, Atlassian plans to enforce monthly allowances and charge for excess Rovo credits and Automation steps.
+	- Paid cloud plans include allowances; extra usage is enabled by default, while organization and billing administrators can cap spending, disable overages, or buy additional capacity.
+	- Rovo credits cover higher-value actions such as Rovo Chat, Confluence AI slides, Jira Coding Agent, and Teamwork Graph queries. Basic summarization, rewriting, and Rovo Search remain free.
+	- The model creates a direct link between agent adoption and revenue beyond seats, while free search and editing preserve low-friction distribution.
+	- The trade-off is budget uncertainty: community questions about MCP and Teamwork Graph costs show customers do not yet clearly understand what usage will consume credits.
+-
+- ## Distribution and expansion beyond software teams
+	- Rovo is now available inside Microsoft 365 Copilot and Teams. Users can search Jira, Confluence, SharePoint, and connected data, then create or update Jira work without leaving Microsoft collaboration surfaces.
+	- More than **1 million users** already use the Jira Cloud for Microsoft Teams app; natural-language `@Jira` actions give Rovo an installed distribution channel inside Microsoft accounts.
+	- Rovo MCP v2 expands the products and actions available to external agents. The Gamma integration can turn Jira and Confluence context into presentations and create follow-up Jira tasks from the resulting work.
+	- These integrations support an open-platform strategy: Atlassian can remain the context and workflow system of record even when the user interface or model belongs to Microsoft, Gamma, Anthropic, or another vendor.
+	- Jira added individual capacity planning, formula fields, and live space insights. Capacity planning is available on Premium and Enterprise; Rovo can update plans, write formulas, and generate dashboards using natural language.
+	- The additions broaden Jira from engineering issue tracking into project budgeting, resource allocation, reporting, marketing, and hiring, while contributing more structured data to Teamwork Graph.
+	- Confluence Slides similarly expands Confluence from documentation into AI-generated presentations grounded in connected company knowledge and governed by existing Confluence permissions.
+-
+- ## Evidence on product quality and customer trust
+	- Atlassian claims Rovo Dev reduced pull-request cycle time by as much as **45% internally** and **32% for customers**. The feed's independent critique notes that Atlassian did not disclose the baseline, sample, reviewer mix, PR-size distribution, or median-versus-tail outcomes.
+	- The figures should therefore be treated as directional evidence that automated review reduces queue time, not proof that Rovo improves complex review work by the same percentage.
+	- Community feedback remains uneven: one Jira Cloud user preferred GitHub Copilot or Claude for creating and modifying Jira tickets, while another described Atlassian agents as extremely unreliable.
+	- Atlassian's official VS Code extension reportedly had **3.3 million installs** but only a **2.55-star rating across 231 reviews**, with recurring authentication and disconnection complaints. Large distribution has not translated into strong developer satisfaction.
+	- Administrators also reported silent automation failures, a universal 180-day audit-log limit, and difficulty forecasting Rovo MCP costs—friction that matters more as Jira becomes an autonomous-work control plane.
+	- Reported AI data-contribution settings create a trust risk: in-app data defaults on for Free and Standard but off for Premium and Enterprise, while metadata contribution reportedly defaults on for all tiers and can be disabled only on Enterprise.
+	- Atlassian's Data Center end-of-support date of **March 28, 2029** continues to create a cloud-migration opportunity, but competitors such as YouTrack are using the deadline, AI-data concerns, and pricing to recruit self-hosted customers.
+-
+- ## Stock view
+	- The clearest positive change is that Atlassian now has both a product architecture and a pricing mechanism for agent-driven consumption: Teamwork Graph supplies context, Jira governs execution, and Rovo credits monetize activity.
+	- The Microsoft and MCP strategy makes Atlassian less dependent on owning the winning chat interface or foundation model; its asset is the structured work graph and permissioned action layer.
+	- Jira Planner and governed work discovery could increase suite attachment and make Jira more important as coding itself commoditizes.
+	- The central execution gap is trust. Agent reliability, opaque productivity measurement, developer-tool friction, privacy settings, and unpredictable usage costs can slow adoption precisely among the large enterprises Atlassian is targeting.
