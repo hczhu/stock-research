@@ -1,7 +1,7 @@
 - tags:: [[$NVDA]], [[HBM]], [[DRAM]], [[memory]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$TSM]], [[$AMD]], [[$META]], [[SemiAnalysis]], [[AI-ASIC]], [[inference]], [[bandwidth]], [[supply]], [[advanced-packaging]], [[substrates]], [[semiconductor]], [[token-economics]]
 
 - ## SemiAnalysis — Why 4-High HBM Wins, and Rubin Ultra Falls From 1TB to 192GB
-	- **Source**: SemiAnalysis podcast (Semi Weekly), discussing their own article on 4-high HBM. Analyst commentary is Myron's; the host presses on the supply-chain consequences. Memory-supplier specifics were kept behind their paywall and are absent here.
+	- **Source**: SemiAnalysis — the **article** "The Optimal Mix of Bandwidth and Capacity" (added Sep 16 2026, with its three charts), and the **Semi Weekly podcast episode** discussing it. Analyst commentary is Myron's; the host presses on the supply-chain consequences. Memory-supplier specifics were kept behind their paywall and are absent here.
 	- **Thesis**: HBM is **priced per gigabyte but bought for bandwidth**, and bandwidth per stack is fixed at four dies. That mismatch was tolerable while models strained capacity; it no longer is. The result is the first capacity *regression* in an Nvidia flagship — **Rubin Ultra cut from a previewed 1TB to 192GB, an 81% reduction and a third below what ships today** — driven by supply rationing rather than design preference. The second-order effects on cube output, commodity DRAM and the next bottleneck matter more than the headline.
 - ## The revision, and the arithmetic behind it
 	- | | Previewed at GTC | Now expected |
@@ -20,6 +20,46 @@
 	- **HBM bandwidth is fixed per stack regardless of height.** HBM4 and HBM4E run **2,048 data wires** between cube and compute die, and each die supports up to **512 signal wires** — so **four dies saturate the interface.** Dies five through twelve add capacity and **exactly zero bandwidth**.
 	- **But suppliers price per gigabyte.** An 8-high cube costs roughly 2× and a 12-high roughly 3× a 4-high cube **for identical bandwidth.** The conclusion is mechanical: "the dollar per bandwidth is much better for 4-high... if you're really bandwidth-focused, paying for 4-high only when all you really need is that bandwidth is almost a free lunch."
 	- **This is the structural insight and it generalizes past this product cycle.** A component sold on one axis and valued on another creates an arbitrage that rational buyers will close. Nvidia is closing it. The read-through for memory suppliers is that **per-gigabyte pricing power is strongest exactly where the gigabytes are least useful**, which is not a stable arrangement.
+- ## Stack reads per token — the unit that makes the mismatch measurable
+	- The article supplies the metric the podcast only gestured at. **Bandwidth budget per token** = stack bandwidth ÷ tokens per second. **Stack reads per token** = that budget ÷ stack capacity. Illustrative table, HBM4 at 2.56 TB/s per stack:
+	- | Interactivity | Bandwidth budget per token | 4-Hi (12GB) | 8-Hi (24GB) | 12-Hi (36GB) |
+	  |---|---|---|---|---|
+	  | 100 tok/s | 25.6 GB/token | **2.13** | 1.07 | 0.71 |
+	  | 200 tok/s | 12.8 GB/token | 1.07 | 0.53 | 0.36 |
+	  | 400 tok/s | 6.4 GB/token | 0.53 | 0.27 | 0.18 |
+	- **How to read the ratio**, and it is the cleanest framing of the whole argument:
+		- **= 1** — capacity and bandwidth are matched exactly. One token has precisely enough bandwidth to read the entire working set once, no more and no less.
+		- **> 1** — bandwidth is nominally over-provisioned, but it is **rarely wasted**, because the surplus budget converts directly into more tokens per second.
+		- **< 1** — the token cannot read all the installed capacity. The working set must then be smaller than physical memory, and **the difference is stranded.**
+	- **The asymmetry is the investable conclusion**: *"bandwidth can normally be used up in its entirety, while spare capacity can not always be used up, whilst also carrying a cost that is only getting higher."* Over-provisioned bandwidth is latent throughput; over-provisioned capacity is dead weight on the BOM.
+	- **And it worsens with speed.** Raising tokens per second lowers the budget per token, which lowers stack reads per token, which strands more capacity. Every increase in interactivity makes tall stacks less defensible — note the 12-Hi column never reaches 1.0 at any speed in the table.
+	- Separate worked example in the text uses HBM4E: 2,048 pins × 13 Gbps = **3,328 GB/s** per stack, and 32Gb core dies give **16 / 32 / 48GB** at 4-, 8- and 12-hi. **Do not mix the two illustrations** — the table is HBM4 with 24Gb dies, the case study below is HBM4E with 32Gb dies.
+- ## Batching, and the only condition under which capacity pays
+	- The single-sequence analysis ignores batching, which is where inference economics actually live. **The saving from batching is amortizing one read of the weights across many users' requests** — every step reads the weights once regardless of batch size.
+	- But concurrency consumes capacity, because **each user's KV cache must be resident**. So "increasing batch size is often how inference workloads become memory capacity bounded rather than bandwidth bounded."
+	- **Concurrency is the lower of two ceilings**: capacity-bound (how many KV-cache sets fit in memory) and bandwidth-bound (how many users can be served at the minimum interactivity). Throughput = users × tokens/s/user.
+	- **The condition for capacity to be worth buying is therefore specific**: once HBM comfortably holds the weights, extra capacity buys throughput **only through more batching** — and **the larger the weight footprint, the more each additional concurrent user unlocks.** Bigger models shift every breakeven to the right; this is the same batching mechanism behind the counter-argument recorded further down.
+	- **One subtlety that flatters 4-hi and is easy to miss**: the per-user SLA is a **minimum**, not the delivered rate. When concurrency is capped by capacity, spare bandwidth remains, and it is spent on faster tokens per user. So 4-hi's lower batch size is "wholly or partially offset" by higher interactivity.
+- ## The Kimi K3 roofline: where taller stacks stop adding tokens
+	- Setup: **Rubin Ultra NVL576**, HBM4E at 13 Gbps, **8 stacks per GPU** — so 4-hi = **128GB**, 8-hi = **256GB**, 12-hi = **384GB** per GPU. Kimi K3 at **2.78T parameters**, **W = 16.8GB of weights per GPU** (2.1GB per stack), **K = 4.01GB of KV cache per user at 274k tokens**.
+	- | Stack | Capacity/GPU | Users at capacity | SLA where capacity fills | Throughput |
+	  |---|---|---|---|---|
+	  | 4-hi | 128GB | **27** | **213 tok/s/user** | 5,749 tok/s per GPU |
+	  | 8-hi | 256GB | **59** | **105 tok/s/user** | 6,202 tok/s per GPU |
+	  | 12-hi | 384GB | **91** | **70 tok/s/user** | 6,350 tok/s per GPU |
+	- **The user counts are reproducible from first principles**: (capacity − 16.8GB of weights) ÷ 4.01GB per user gives 27.7, 59.7 and 91.6 — matching the chart exactly. The model is internally consistent and can be re-run against other models.
+	- **The breakevens are the headline.** At **105 tok/s/user**, 12-hi stops beating 8-hi. At **213 tok/s/user**, nothing beats 4-hi — *"right of the 4-hi point every stack height serves the same users at the same speed: the extra capacity of 8-hi and 12-hi sits idle."*
+	- **Peak throughput gains are small**: 8-hi **+7.9%** and 12-hi **+10.5%** over 4-hi, at their best. Against that, accepting 4-hi's ceiling buys **more than double the interactivity** — 213 tok/s versus 105, or **3.0×** versus 12-hi's 70.
+- ## The cost test, which is where the argument closes
+	- Modelled as the BOM increase an end owner pays against a 4-hi HBM4E Rubin Ultra NVL576 baseline, using all-in system cost as a TCO proxy:
+	- | Stack | System cost per GPU | Premium vs 4-hi | Best throughput gain | Verdict |
+	  |---|---|---|---|---|
+	  | 4-hi | \$120,350 | — | — | baseline |
+	  | 8-hi | \$134,869 | **+12.1%** | +7.9% (SLA ≤105) | **short by 4.2 points at every SLA** |
+	  | 12-hi | \$151,965 | **+26.3%** | +10.5% (SLA ≤70) | **short by 15.8 points at every SLA** |
+	- **Neither taller stack ever pays.** The throughput gain comes in below the cost increase at *every* interactivity point, so at current memory prices — "along with Nvidia's margin stack" — **8-hi and 12-hi deliver a higher cost per token than 4-hi.** This is the quantitative form of the podcast's qualitative claim, and it is a stronger result than "4-high is cheaper per unit bandwidth": it says tall stacks lose on the metric buyers actually optimize.
+	- **And the comparison is generous to tall stacks**, because it comes *before* KV-cache offloading to lower memory tiers, which reduces the resident capacity requirement further and pushes the breakevens left again. See [[2026-07-16-weka-kv-cache-nand-inference-memory-podcast]].
+	- **Their own caveats, which mostly reinforce the conclusion.** This is a **roofline** analysis on peak bandwidth; achieved bandwidth is "significantly lower," which shifts the breakeven interactivity thresholds **left** — so tall stacks fare *worse* in reality, not better. It also covers **only the decode pool in a disaggregated prefill/decode setup.** The one caveat that cuts the other way is theirs too: shifted far enough left, the breakevens "could push into the speeds that users find unacceptably low," i.e. the regime where 4-hi wins may sit below a usable SLA.
 - ## Why capacity stopped binding — and the arithmetic reconciles
 	- The comparison is the cleanest quantitative argument in the episode:
 		- **Hopper era**: an HGX node held 8 × 80GB = **640GB**. Llama 3.1 405B quantized at FP8 needed **405GB — about 63% of the node.** Capacity was the binding constraint, which is why HBM3E's density uplift on H200 mattered so much.
