@@ -1,0 +1,56 @@
+tags:: [[OpenAI]], [[Codex]], [[ChatGPT]], [[agents]], [[developer-tools]], [[enterprise-software]], [[software-engineering]], [[observability]], [[inference]], [[cloud-computing]]
+
+- ## OpenAI's Agentic Software Factory - A Prototype for the AI-Native Company
+	- **Source**: Gergely Orosz, The Pragmatic Engineer, "Inside OpenAI's agentic software factory", September 15, 2026; based on interviews with seven OpenAI engineering leaders and engineers; user-provided PDF.
+	- **Thesis**: OpenAI is a useful prototype for a new generation of software company in which agents are not an employee productivity add-on but the operating substrate. Humans define outcomes, priorities, risk tolerance, and quality; agents gather institutional context, produce artifacts, run tests, review changes, manage deployments, build observability, and feed production failures back into development. The model can sharply increase output per employee, but it also transfers the bottleneck from writing code to context architecture, evaluation, deployment capacity, and compute economics.
+	- OpenAI is an unusually favorable test environment: it has frontier models, an internal Codex connected to nearly every system, and effectively unlimited employee token budgets. The specific adoption rate should not be generalized blindly, but the workflow architecture is likely to diffuse as inference costs fall.
+- ## Codex Became the Company's Work Interface
+	- In four months, finance, recruiting, and legal reportedly went from approximately **0% to about 90% Codex usage**. By June 2026, the departmental chart showed engineering at 99%, finance at 91%, recruiting at 89%, and legal at 88% of monthly output tokens generated through Codex.
+	- Adoption was bottom-up rather than mandated. Non-engineers used the initially code-centric Mac app to research and create presentations, documents, spreadsheets, and other artifacts because the agent could complete longer, multi-step work.
+	- The `/goal` workflow drove another usage step-up: between April and May, usage rose from roughly **60% to 90%** as employees began leaving threads running for hours or days while the lead agent delegated to subagents.
+	- Role-specific skills and plugins turned a general agent into a finance, recruiting, legal, or presentation workflow. OpenAI also embeds domain experts in ChatGPT Work engineering teams so product quality reflects professional standards that software engineers may not possess.
+	- OpenAI has become operationally dependent on Codex and ChatGPT Work: employee reports of even minor outages can reach the product teams as quickly as automated alerts because day-to-day work now runs through the shared harness.
+- ## The Agentic Software Factory
+	- | Stage | Agent role | Human control point |
+	  |---|---|---|
+	  | Define | Human builder specifies the problem, desired outcome, and quality bar | Judgment, prioritization, and taste remain human inputs |
+	  | Gather context | Codex reads source code, colocated documentation, GitHub, Slack, Notion, Databricks, Datadog, logs, and internal skills | Permissions and context design determine what the agent can know |
+	  | Implement and verify | Codex edits code, runs tests, fixes failures, opens a PR, and babysits CI until green | Humans choose which outcomes are worth pursuing |
+	  | Review | Multiple domain-specialist agents review from security, cloud, data, and compliance perspectives | Risk classification can require human approval for high-risk changes |
+	  | Deploy | A dedicated agent identifies rollout signals, creates its own dashboard, watches the release, and handholds feature flags | A human currently approves production deployment |
+	  | Improve production | Perf Factory deduplicates alerts, identifies latency regressions, root-causes them, and proposes code fixes | Production evidence becomes a continuous development input |
+	  | Respond to incidents | Sevbot collects context, proposes mitigations, and answers engineers in the incident channel | It does not execute mitigations without instruction today |
+	- Low-risk areas can opt into agent auto-approval, while high-risk changes receive more agent reviews or mandatory human review. The operating principle is **risk-weighted autonomy**, not identical controls for every change.
+	- The long-term endpoint is a **per-change autonomous SRE**: each software change carries its own agent through rollout and monitoring, while routine incidents are mitigated automatically and reviewed by humans later.
+- ## Productivity Appears as Throughput, Then Reappears as Infrastructure Load
+	- Pull requests per engineer are rising at a "hockey-stick" rate. Some build-test-deploy systems absorbed roughly a **10x load increase in six months**, versus the two or three years such growth might take at a conventional company.
+	- More code does not remove the delivery constraint; it exposes it. Version control, CI, testing, review, release infrastructure, and native mobile app approval all become bottlenecks when code generation accelerates by an order of magnitude.
+	- OpenAI says every part of its infrastructure has experienced a **10x load increase every 9-18 months for four years**. Demand has also become heavier per user as usage moved from Q&A to reasoning and then to agents with persistent connections, longer contexts, more tokens, and repeated tool calls.
+	- The company buys vendor solutions first and internalizes them after product-market fit makes the vendor the bottleneck. Advanced Voice followed this path: OpenAI initially used an outside audio stack, then hired WebRTC's author and brought the stack in-house in six months.
+	- OpenAI delays allocation of GPU capacity until clusters are installed, preserving flexibility across fast-changing research and product demand. It runs across Azure, AWS, Oracle, CoreWeave, Cerebras, and its own Stargate infrastructure in dozens of regions.
+- ## Harness Efficiency Becomes a Core Operating Metric
+	- OpenAI evaluates harness efficiency through **token consumption, task success, and latency**. Better tools reduce round trips; selective context avoids wasteful exploration; and model training absorbs successful harness strategies over time.
+	- Context architecture is both a capability and a cost lever. Keeping reusable context in the KV cache lowers latency and inference expense, while loading every plugin and instruction can cause the model to spend more tokens deciding what to inspect.
+	- OpenAI moved documentation into source repositories and connected Codex to operational data. This turns institutional knowledge into machine-readable context and lets new engineers ask Codex rather than support channels, freeing infrastructure teams for higher-leverage work.
+	- Permanent dashboards and narrow internal tools are giving way to reusable agent skills that generate a dashboard or lightweight app when needed. The durable asset shifts from the fixed interface to the permissioned data, workflow definition, and skill used to recreate it.
+- ## Agent Workloads Change Software Economics
+	- Codex runs can exceed **40 tool calls**, with context growing after each command, file read, edit, and test. Retokenizing the full history after every call created quadratic latency and CPU cost.
+	- WebSocket streaming now retains tokenized context and processes only the new delta, cutting median request latency **30% nearly overnight** while reducing CPU usage.
+	- A 100,000-token request can spend about **2.3 seconds on validation and safety checks** before model inference. CPU tokenization, validation, and API orchestration can therefore bottleneck an ostensibly GPU-bound AI product.
+	- OpenAI is migrating its API layer from Python to Rust. **Two engineers using Codex have rewritten about 300,000 lines**, approximately 90% of Codex traffic already uses the Rust path, and migration velocity increased about 3x in consecutive model upgrades.
+	- GPU scaling is not instantaneous either: loading and initializing a model takes **15-20 minutes**, so OpenAI must forecast demand and warm capacity before usage arrives.
+- ## Why This Is a New Software-Company Archetype
+	- The production unit is no longer a developer writing code; it is a **human-directed agent loop** operating against a shared context and evaluation system. Code, documents, spreadsheets, slides, dashboards, and websites are all artifacts produced through the same loop.
+	- Engineering specialization is compressing. OpenAI no longer organizes around dedicated frontend, backend, iOS, or Android roles; a "builder" works at the problem level and delegates implementation details to agents.
+	- Human scarcity moves upward to selecting problems, defining invariants, judging architecture, and recognizing quality. Engineers increasingly resemble product managers, while a new agent-infrastructure layer designs tools, context, permissions, skills, evaluation, and orchestration.
+	- The company becomes more horizontally capable with fewer people per initiative: migrations once expected to need six engineers can be executed by two engineers and many agents. Small teams can attempt rewrites and operational projects that previously failed the staffing hurdle.
+	- This does not imply labor disappears in proportion to code output. Faster creation expands the amount worth building and raises demand for CI capacity, security policy, deployment systems, observability, governance, and compute.
+- ## Competitive Implications
+	- **Enterprise software**: value shifts from human-facing workflow screens toward systems of record, permissions, APIs, and agent-readable context. Products that are easy for agents to query and mutate can remain durable even if employees spend less time in their UI.
+	- **Developer platforms**: higher code volume is a demand tailwind for repositories, CI, testing, security, and release infrastructure, but traditional seat-based pricing becomes a poor proxy when one engineer directs many agents.
+	- **Observability**: agents can generate dashboards and investigate logs, pressuring static dashboard tooling while increasing the strategic value of clean telemetry, queryable event data, and automated remediation interfaces.
+	- **Cloud and inference**: productivity gains create more agent turns, tool calls, CPU preprocessing, persistent connections, storage, and deployment workloads. AI-native software can therefore raise infrastructure intensity even as employee requirements per project decline.
+	- The likely moat is not merely access to a strong model. It is the integrated operating system around the model: proprietary context, permissions, task-specific skills, evaluations, risk classification, production feedback loops, and the organizational willingness to let agents act on them.
+- ## Diagrams
+	- ![OpenAI agentic software factory](https://substackcdn.com/image/fetch/$s_!Eiw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e73721e-e4d8-473f-a5a1-b6211c14f6ca_2048x1762.png){:height 542, :width 624}
+- ![xxx](https://substackcdn.com/image/fetch/$s_!li0v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadeb0bc1-85a8-4f75-9d92-1685c756ed29_1210x1300.png){:height 654, :width 605}
