@@ -1,4 +1,5 @@
 tags:: [[AI]], [[agents]], [[developer-tools]], [[inference]], [[GPU]], [[SaaS]], [[enterprise]], [[AI infrastructure]], [[semiconductor]]
+file-created-at:: 2026-06-03
 
 - **Source**: Podcast interview — Dax Raad (co-founder, Opencode), "Pragmatic Engineer" show, ~June 2026
 - **Context**: Opencode is the most popular open-source AI coding harness; ~8M monthly active users reached in <1 year from June 2025 launch; Opencode Zen inference service hit **$50M ARR within 5–6 months**

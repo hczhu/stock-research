@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[$AMD]], [[Cerebras]], [[Groq]], [[inference]], [[agents]], [[HBM]], [[DRAM]], [[data-center]], [[power]], [[unit-economics]], [[open-weights]], [[TSMC]], [[$INTC]]
+file-created-at:: 2026-08-29
 
 - ## Neil Movva (Sail Research) on Invest Like The Best: the throughput bet and the scavenger strategy
 	- **Source**: *Invest Like The Best*, Patrick O'Shaughnessy with **Neil Movva**, founder of **Sail Research** — a "token factory" serving open-weight models with the stated goal of the lowest cost per token in the industry, plus "sail boxes," long-running agent VMs. Movva previously worked on GPU kernels at NVIDIA.

@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI-infrastructure]], [[data-center]], [[advanced-packaging]], [[silicon-photonics]], [[EDA]], [[HBM]], [[neocloud]], [[inference]], [[agents]], [[capex]], [[$NVDA]], [[$TSM]], [[$MU]], [[$SKHY]], [[$GOOGL]], [[$CRWV]], [[$NBIS]]
+  file-created-at:: 2026-09-14
 
 - ## AI Infrastructure: Chipmaxing Now, Possible Compute Glut in 2027
 	- **Source**: User-provided transcript of an Asianometry video based on conversations around Hot Chips 2026, Semicon Taiwan, and the Bay Area.

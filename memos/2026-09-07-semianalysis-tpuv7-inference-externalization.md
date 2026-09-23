@@ -1,4 +1,5 @@
 - tags:: [[$GOOGL]], [[$NVDA]], [[TPU]], [[ASIC]], [[inference]], [[AI infrastructure]], [[TCO]], [[agents]]
+  file-created-at:: 2026-09-07
 
 - ## TPUv7 Inference Externalization - Google Takes Aim at Nvidia's Software Moat
 	- **Source**: Alec Ibarra, Cam Quilici, Bryan Shan, and four others, SemiAnalysis, "TPU Inference Externalization Full Steam Ahead - InferenceX", September 7, 2026; user-provided PDF.

@@ -1,4 +1,5 @@
 - tags:: [[EV]], [[electric-vehicles]], [[hybrid]], [[Europe]], [[China]], [[automotive]], [[software-defined-vehicle]], [[$TSLA]], [[BYD]], [[SAIC]], [[Geely]], [[Volkswagen]]
+  file-created-at:: 2026-07-19
 
 - **Source**: User-provided text block; figures cross-checked against ACEA May 2026 registrations, Citi analysis reported by the South China Morning Post, Volkswagen's 2026 Annual General Meeting materials, and July 2026 reporting on Volkswagen's restructuring.
 

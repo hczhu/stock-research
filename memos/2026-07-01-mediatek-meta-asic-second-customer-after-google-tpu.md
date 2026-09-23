@@ -1,4 +1,5 @@
 - tags:: [[$2454.TW]], [[MediaTek]], [[ASIC]], [[custom silicon]], [[Google]], [[$META]], [[Qualcomm]], [[$QCOM]], [[$AVGO]], [[Broadcom]], [[TPU]], [[AI infrastructure]], [[hyperscaler capex]]
+  file-created-at:: 2026-07-01
 
 - **Source**: Trade-press / supply-chain report — "MediaTek Reportedly Secures Meta as ASIC Customer After TPU." Supply-chain sourcing; MediaTek per policy does not comment on products/customers/rumors. Treat customer names and codenames as **reported, not confirmed**.
 - **Thesis**: MediaTek is on track to add a **second major cloud ASIC customer (reportedly Meta)** on top of an already-deepening **Google TPU** franchise, putting a **$10B cloud-AI revenue level "only a matter of time."** Google remains the reliable earnings anchor; Meta would be upside. Corroborates the [[MediaTek]] 2026Q1 earnings note (ASIC guide doubled; "Google first project, Meta second project").

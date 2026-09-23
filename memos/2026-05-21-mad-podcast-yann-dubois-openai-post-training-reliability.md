@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[GPT-5.5]], [[Codex]], [[AI]], [[reasoning-models]], [[post-training]], [[reinforcement-learning]], [[pre-training]], [[mid-training]], [[inference]], [[test-time-compute]], [[agents]], [[coding-agents]], [[evals]], [[continual-learning]], [[enterprise-AI]], [[AI infrastructure]], [[$MSFT]], [[$NVDA]], [[$ORCL]], [[$CRM]], [[$NOW]], [[$SNOW]], [[$DDOG]], [[$GTLB]], [[$TEAM]]
+  file-created-at:: 2026-05-21
 
 - ## OpenAI Post-Training: From Competition Benchmarks to Useful Agents
 	- **Source**: [The MAD Podcast with Matt Turck — “OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real”](https://pod.wave.co/podcast/the-mad-podcast-with-matt-turck/openais-yann-dubois-why-ai-progress-suddenly-feels-real), published 21 May 2026; user-supplied transcript.

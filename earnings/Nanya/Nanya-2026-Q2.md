@@ -1,4 +1,5 @@
 tags:: [[Nanya]], [[DRAM]], [[memory]], [[commodity-DRAM]], [[DDR4]], [[DDR5]], [[LPDDR4]], [[AI infrastructure]], [[capex]], [[earnings]], [[$MU]]
+file-created-at:: 2026-07-10
 
 - **Source**: Nanya Technology 2026 Q2 (CQ2 / Jun-26 quarter) earnings summary + SemiAnalysis/company revenue & gross-margin chart
 - **Quarter covered**: Calendar 2026 Q2

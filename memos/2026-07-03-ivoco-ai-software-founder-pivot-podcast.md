@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI-products]], [[consumer-internet]], [[SaaS]], [[AI-agents]], [[product-led-growth]], [[consumer-software]], [[founder-lessons]]
+  file-created-at:: 2026-07-02
 
 - **Source**: User-provided Chinese podcast transcript, apparently an interview with Mengqi, founder of Ivoco, about one year of AI software entrepreneurship, moving from vertical B2B agents to consumer software, product craft, model anxiety, and founder psychology. The transcript is machine-generated / noisy; product names such as `Ivoco`, `Manus`, `Claude Code`, `Cursor`, `Whisper Flow`, `Tabless`, `Click`, and `Reddit` are preserved or normalized from context where possible.
 - ## Executive Summary

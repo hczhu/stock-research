@@ -1,4 +1,5 @@
 - tags:: [[$CBRS]], [[Cerebras]], [[Qwen]], [[inference]], [[AI-accelerators]], [[open-weight-models]], [[agents]], [[prompt-caching]], [[pricing]], [[$NVDA]]
+  file-created-at:: 2026-09-16
 
 - ## Cerebras Qwen 3.8 27B: Headline Speed Meets Workflow Friction
 	- **Source**: User-provided summary and highlights of Hacker News comments about the Qwen 3.8 27B release on Cerebras. The comments are anecdotal and the service details were not independently verified.

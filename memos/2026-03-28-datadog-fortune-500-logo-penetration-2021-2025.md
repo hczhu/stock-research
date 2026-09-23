@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Datadog Fortune 500 Logo Penetration (2021-2025)
 
 Source: user-provided screenshot titled `Datadog Fortune 500 logo penetration`.

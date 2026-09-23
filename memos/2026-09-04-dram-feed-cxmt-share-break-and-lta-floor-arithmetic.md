@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[CXMT]], [[YMTC]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$NVDA]], [[$285A.T]], [[China]], [[Korea]], [[LTA]], [[market-share]], [[supply]], [[capex]], [[semiconductor]]
+  file-created-at:: 2026-09-04
 
 - ## Memory Feed, Aug 21 – Sep 4 2026 — CXMT Breaks 10%, and What LTAs Actually Cost the Sellers
 	- **Source**: TickerTick `$DRAM` AI feed, ~2 weeks to Sep 4 2026 — Counterpoint via Seoul Economic Daily / TechPowerUp, DIGITIMES, TrendForce, Omdia via ChosunBiz, Gartner, Bristlemoon Capital (SanDisk Investor Day analysis), MK News, Tech Times, Nikkei/Reuters

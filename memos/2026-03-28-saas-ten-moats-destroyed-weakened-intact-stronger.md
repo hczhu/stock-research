@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # The Ten SaaS Moats: Destroyed/Weakened vs Intact/Stronger
 
 There are 10 SaaS moats. Some are destroyed, some are weakened, and others are reinforced.

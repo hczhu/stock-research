@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 - LLM without reasonsing
   logseq.order-list-type:: number
 	- A lot of compute for training

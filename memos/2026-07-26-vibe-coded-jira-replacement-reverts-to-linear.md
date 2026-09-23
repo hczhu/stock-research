@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]], [[Atlassian]], [[Jira]], [[Linear]], [[SaaS]], [[vibe-coding]], [[AI-coding]], [[developer-tools]], [[enterprise-software]], [[switching-costs]]
+  file-created-at:: 2026-07-26
 
 - ## Vibe-Coded Jira Replacement Reverts to Linear
 	- **Source**: User-provided screenshot of a July 26, 2026 X post by Neha Kalani ([@thericebowlgirl](https://x.com/thericebowlgirl)), updating a March 14 post. The account is second-hand: Kalani describes a startup where her sister works.

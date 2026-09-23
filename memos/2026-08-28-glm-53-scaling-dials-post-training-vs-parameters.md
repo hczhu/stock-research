@@ -1,4 +1,5 @@
 tags:: [[GLM]], [[scaling]], [[MoE]], [[post-training]], [[RL]], [[open-weights]], [[data]], [[inference]], [[AI]], [[DRAM]]
+file-created-at:: 2026-08-28
 
 - ## "Thoughts About Scaling Law" — the GLM-5.3 release note as a scaling argument
 	- **Source**: First-party blog post accompanying the **GLM-5.3** release (the GLM line is Z.ai's; GLM-5.x is also the benchmark model in [[2026-08-09-semianalysis-tilert-inferencex-gpu-vs-dataflow-asic]]). **Read it as a vendor argument, not neutral analysis** — the piece exists to explain why a release with *no increase in parameters* should be taken seriously. The literature it cites is real and checkable; the conclusion it draws about its own product is not independently verified, and the post reports **no benchmark numbers at all**.

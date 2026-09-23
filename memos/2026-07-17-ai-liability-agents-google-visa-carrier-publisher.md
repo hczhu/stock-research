@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[agents]], [[liability]], [[regulation]], [[$GOOG]], [[$V]], [[OpenAI]], [[Section-230]], [[legal-risk]], [[consumer-internet]], [[AI-safety]]
+  file-created-at:: 2026-07-17
 
 - **Source**: Opinion essay "AI and Liability" (Schneier-style; author not stated in excerpt), ~July 2026. Argues AI-generated outputs make deployers legally liable as *publishers/agents*, not *carriers*, using a recent German ruling against Google's AI Overviews as the anchor. Investment framing is mine. Companion to [[2026-07-13-apple-openai-lawsuit-ai-strategic-vulnerability]] and the agentic-commerce read-throughs in [[2026-07-16-openai-superapp-chatgpt-codex-whither-chat-stratechery]].
 

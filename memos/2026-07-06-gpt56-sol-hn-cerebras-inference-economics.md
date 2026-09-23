@@ -1,4 +1,5 @@
 - tags:: [[$CBRS]], [[Cerebras]], [[OpenAI]], [[$NVDA]], [[Nvidia]], [[HBM]], [[DRAM]], [[inference]], [[AI-accelerators]], [[Taalas]], [[Tenstorrent]], [[open-weight-models]], [[DeepSeek]], [[Anthropic]], [[pricing]], [[semiconductors]]
+  file-created-at:: 2026-07-06
 
 - **Source**: Hacker News thread on "Previewing GPT-5.6 Sol: a next-generation model" (openai.com), 1136 points / 743 comments, ~Jun 26 2026 announcement (thread read Jul 6 2026). Investment framing is mine. Companion to [[2026-07-06-openai-broadcom-jalapeno-hn-cerebras-hbm-readthrough]] (same-week OpenAI custom-silicon news), [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]], and [[DRAM-memory-ssd-index-thesis]].
 

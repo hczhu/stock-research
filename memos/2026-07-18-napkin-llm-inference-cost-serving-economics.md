@@ -1,4 +1,5 @@
 - tags:: [[inference]], [[LLM-serving]], [[AI-economics]], [[unit-economics]], [[$NVDA]], [[HBM]], [[DRAM]], [[gross-margin]], [[AI-capex]], [[Anthropic]], [[OpenAI]], [[semiconductors]]
+  file-created-at:: 2026-07-18
 
 - **Source**: injuly.in, "Napkin math for LLM inference cost" ([link](https://injuly.in/blog/napkin-inference-cost/index.html)). A roofline/first-principles walkthrough estimating what it costs to serve one user of a 32B FP8 model on a single Nvidia B200, working backward from GPU compute/bandwidth to concurrent users to per-user cost. Investment framing is mine; these are the author's illustrative assumptions, not a vendor P&L. Companion to [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]] (token-efficiency), [[2026-07-07-interconnect-first-inference-latency-over-bandwidth-lpddr]] (memory-bound decode), [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]], and [[DRAM-memory-ssd-index-thesis]].
 

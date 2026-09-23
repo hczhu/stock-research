@@ -1,4 +1,5 @@
 - tags:: [[SemiAnalysis]], [[HBM]], [[DRAM]], [[pricing]], [[margins]], [[semiconductor]], [[AI infrastructure]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[$NVDA]], [[$AMD]], [[$AVGO]], [[$AMZN]], [[$GOOGL]]
+  file-created-at:: 2026-09-18
 
 - ## HBM4 Pricing — Nvidia's Strategic Discount and Samsung's Margin Catch-Up
 	- **Source**: User-provided excerpt from SemiAnalysis commentary linked to its *Accelerator and HBM Model*; the excerpt does not include the article title or publication date. All 2027 prices, increases and margin comparisons are the author's estimates rather than disclosed contracts.

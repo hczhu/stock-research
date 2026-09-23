@@ -1,4 +1,5 @@
 - tags:: [[AI infrastructure]], [[data-center]], [[OpenAI]], [[Anthropic]], [[capex]], [[HBM]], [[GPU]]
+  file-created-at:: 2026-05-24
 
 - ## AI Data Center Buildout Capacity And Spend Scenario
 	- **Source context**:

@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]], [[Atlassian]], [[Jira]], [[developer-tools]], [[SaaS]], [[moat]], [[switching-costs]], [[competitive-landscape]], [[AI]], [[$MSFT]]
+  file-created-at:: 2026-07-04
 
 - **Source**: PhD dissertation on Issue Tracking Ecosystems (ITEs), ~2024. Empirical study of 26 practitioner interviews + archival analysis of 16 public Jira repositories (2.7M issues, 30M+ evolutions). Non-financial academic source; investment framing is mine. See [[Atlassian-TEAM-thesis]].
 

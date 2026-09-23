@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Datadog Platform Scale Metrics (2015, 2020, 2025) - Extracted from Screenshot
 
 Source: user-provided screenshot with three time points (`2015`, `2020`, `2025`).

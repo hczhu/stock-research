@@ -1,3 +1,5 @@
+file-created-at:: 2026-06-26
+
 - ## Source
 	- Brian Armstrong post on X, June 26, 2026
 	- Core claim: Coinbase cut AI spend nearly in half while token usage kept growing, driven by better defaults, routing, caching, leaner context, and better visibility

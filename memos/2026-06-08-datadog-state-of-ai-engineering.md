@@ -1,4 +1,5 @@
 tags:: [[$DDOG]], [[Datadog]], [[AI]], [[LLM]], [[agents]], [[inference]], [[enterprise-AI]], [[observability]], [[AI infrastructure]], [[OpenAI]], [[Anthropic]], [[$GOOGL]]
+file-created-at:: 2026-06-08
 
 - **Source**: Datadog, [State of AI Engineering](https://www.datadoghq.com/state-of-ai-engineering/), 2026
 - **Dataset**: LLM telemetry from more than a thousand Datadog customers using Datadog LLM Observability; results are biased toward Datadog's customer base, which skews cloud-native and infrastructure-mature.

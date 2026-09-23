@@ -1,4 +1,5 @@
 - tags:: [[Stripe]], [[agentic-commerce]], [[agents]], [[payments]], [[fraud]], [[token-economics]], [[usage-based-pricing]], [[stablecoins]], [[ecommerce]], [[developer-tools]], [[SaaS]], [[AI]], [[future-of-work]], [[$V]], [[$MA]], [[$PYPL]], [[$COIN]], [[$CRCL]], [[$SHOP]], [[$WIX]], [[$BIGC]], [[$GOOGL]], [[$MSFT]], [[$META]], [[$AFRM]], [[$ADYEY]]
+  file-created-at:: 2026-07-09
 
 - ## Stripe and the Financial Stack for Agentic Commerce
 	- **Source**: [The MAD Podcast with Matt Turck — “Stripe's AI Chief: How AI Agents Will Buy, Sell, and Pay”](https://podaxion.com/episodes/mad-podcast-6ed1baecb31b), published 9 July 2026; user-supplied transcript.

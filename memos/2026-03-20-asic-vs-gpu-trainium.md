@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-20
+
 - **Source**: Twitter/X @iamai_eth & @m0d8ye, 2026-03-20
 - **Topic**: ASIC vs GPU — Amazon Trainium, NVIDIA
 - **@iamai_eth**:

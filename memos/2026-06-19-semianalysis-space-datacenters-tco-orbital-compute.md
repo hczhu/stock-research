@@ -1,4 +1,5 @@
 - tags:: [[space-datacenter]], [[SpaceX]], [[orbital-compute]], [[Elon-Musk]], [[data-center]], [[AI-compute]], [[TCO]], [[semiconductor]], [[$TSM]], [[HBM]], [[DRAM]], [[Starship]], [[SemiAnalysis]], [[capex]], [[power]]
+  file-created-at:: 2026-06-19
 
 - **Source**: SemiAnalysis — "To Boldly Go: The Case for Space Datacenters" (Daniel Nishball, Pranav Myana, Ellie Holbrook + 7 others), Jun 3, 2026. Paid; launches the AI Space Datacenter TCO Model (spans 2026–2050).
 

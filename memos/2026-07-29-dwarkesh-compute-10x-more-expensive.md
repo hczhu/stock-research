@@ -1,4 +1,5 @@
 - tags:: [[compute]], [[GPU]], [[inference]], [[Anthropic]], [[AI-capex]], [[unit-economics]], [[Epoch-AI]], [[SemiAnalysis]], [[Dwarkesh]], [[semiconductor]]
+  file-created-at:: 2026-07-29
 
 - ## Dwarkesh Patel: why compute might get 10x+ more expensive
 	- **Source**: Dwarkesh Patel, "Why compute might get 10x+ more expensive in coming years," July 29, 2026. The author states it is a **deliberately time-boxed 2-hour post** and that he cannot nail down important sub-questions — treat the estimates as reasoned conjecture, not research output. One margin figure is self-labeled a "total vibe claim."

@@ -1,4 +1,5 @@
 - tags:: [[AI-ASIC]], [[TPU]], [[Google]], [[HBM]], [[DRAM]], [[semiconductor]], [[AI-compute]], [[datacenter]], [[training]], [[memory-bandwidth]]
+  file-created-at:: 2026-06-20
 
 - **Source**: Jouppi, Lakshmanamurthy, Young, Patterson (Google LLC) — "Google's Training Supercomputers from TPU v2 to Ironwood: Architectural Stability, Scale, Resilience, Power Efficiency, and Sustainability Across Five Generations." To appear in IEEE Micro, Jul/Aug 2026.
 

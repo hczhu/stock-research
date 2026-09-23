@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[China]], [[DeepSeek]], [[GLM]], [[$BABA]], [[gray market]], [[token economics]], [[AI infrastructure]], [[model distillation]]
+  file-created-at:: 2026-06-25
 
 - **Source**: Hacker News comment by user *tristanj* (Jun. 2026), on the thread "Anthropic says Alibaba illicitly extracted Claude…". Links cited: a reseller [yunwu.ai/pricing?provider=Anthropic](https://yunwu.ai/pricing?provider=Anthropic) and a ChinaTalk piece "How to buy cheap Claude tokens." **Unverified single-source claim** — treat fraud/volume specifics as allegation, not established fact.
 - **Thesis**: A large gray market resells Claude access in China at 70–90% (up to 93%) below official API prices. It distorts perceived China model economics, is partly funded by fraud, and — most relevant for investors — allegedly **resells Claude outputs & reasoning chains to Chinese labs**, tying directly into the Anthropic–Alibaba "illicit extraction"/distillation dispute.

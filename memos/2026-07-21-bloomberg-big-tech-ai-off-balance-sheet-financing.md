@@ -1,4 +1,5 @@
 - tags:: [[Bloomberg]], [[hyperscalers]], [[AI infrastructure]], [[data-center]], [[capex]], [[accounting]], [[leases]], [[private-credit]], [[shadow-borrowing]], [[purchase-commitments]], [[debt]], [[$GOOGL]], [[$META]], [[$MSFT]], [[$ORCL]], [[$NVDA]], [[$OWL]]
+  file-created-at:: 2026-07-21
 
 - ## Big Tech AI Financing Reopens Off-Balance-Sheet Accounting Questions
 	- **Source**: Amanda Iacone, “Big Tech AI Spree Revives Accounting Devices That Toppled Enron,” Bloomberg Tax deep dive, July 21, 2026; graphics by Irfan Uraizee. User-provided 14-page PDF.

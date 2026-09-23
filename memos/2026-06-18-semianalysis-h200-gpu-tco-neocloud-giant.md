@@ -1,4 +1,5 @@
 - tags:: [[GPU]], [[$NVDA]], [[neocloud]], [[AI-compute]], [[data-center]], [[TCO]], [[H200]], [[capex]], [[SemiAnalysis]], [[AI]], [[inference]]
+  file-created-at:: 2026-06-18
 
 - **Source**: SemiAnalysis AI TCO Model — H200 SXM (InfiniBand), "Neocloud Giant" customer profile.
 

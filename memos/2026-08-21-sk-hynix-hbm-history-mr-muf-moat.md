@@ -1,4 +1,5 @@
 tags:: [[$000660]], [[SK-Hynix]], [[Samsung]], [[$MU]], [[DRAM]], [[HBM]], [[packaging]], [[advanced-packaging]], [[semiconductor]], [[Korea]], [[capital-allocation]]
+file-created-at:: 2026-08-21
 
 - ## SK Hynix: how a basket case became the HBM monopolist
 	- **Source**: Long-form video/podcast transcript on SK Hynix's history, occasioned by the **July 2026 NASDAQ ADR listing**. The narrator's cited primary source is the 2026 book **"Super Momentum."** Two caveats: the transcript is machine-generated and garbles proper nouns (Morris Chang, Elpida, Qimonda, Bryan Black, Towa, Namics, JEDEC, Park Sung-wook, Chey Tae-won all appear mangled — silently normalized below); and a book built on chairman interviews frames a decade of losses as visionary patience. **Treat the narrative as company-friendly; the dates, process details, and figures are the usable part.**

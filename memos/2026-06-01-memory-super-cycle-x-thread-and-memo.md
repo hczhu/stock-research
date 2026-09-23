@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[$NVDA]], [[CoWoS]], [[$TSM]], [[X-thread]]
+  file-created-at:: 2026-06-01
 
 - ## X Post (paste directly — single post, X Premium)
 

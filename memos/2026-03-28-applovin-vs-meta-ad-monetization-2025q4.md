@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # AppLovin vs. Meta Ad Monetization
 
 Source: `2025 Q4 AppLovin earnings call`.

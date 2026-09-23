@@ -1,4 +1,5 @@
 - tags:: [[$CPNG]], [[e-commerce]], [[South-Korea]], [[Taiwan]], [[1P]], [[3P]], [[FLC]], [[advertising]], [[fintech]], [[Coupang-Eats]], [[Coupang-Play]], [[Sea-Limited]], [[$SE]], [[Naver]], [[marketplace]], [[unit-economics]]
+  file-created-at:: 2026-06-23
 
 - **Source**: The Synopsis podcast (AlphaSense webinar). Drew Cohen interviews the former VP and Head of E-commerce Finance and Strategy at Coupang (Gungjung Bartia) — 4 years at Coupang from mid-Covid through IPO buildout phase. Recorded ~5 months before publication; some competitive details on Sea Limited in Taiwan may be slightly dated.
 

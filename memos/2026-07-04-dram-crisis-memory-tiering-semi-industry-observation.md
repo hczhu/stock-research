@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[SSD]], [[CXL]], [[HBF]], [[AI infrastructure]], [[inference]], [[data-center]], [[semiconductor]], [[memory]], [[super-cycle]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$AMD]], [[$AAPL]], [[$MRVL]], [[$SNDK]], [[SK-hynix]]
+  file-created-at:: 2026-07-04
 
 - **Source**: 《天下苦DRAM久矣》, L晨光, 半导体行业观察, July 4, 2026. Extracted from local PDF: `/Users/hc/Downloads/天下苦DRAM久矣.pdf`.
 - **Thesis**: The DRAM shock is no longer just a component-price cycle; it is forcing a systems-architecture response. HBM demand is cannibalizing standard DRAM wafer capacity, pushing server DRAM into extreme scarcity and making pure DRAM scaling economically untenable. The industry response is to push warm/cold data, model weights, and lower-frequency inference state down into NAND/SSD/CXL/HBF tiers, making NAND and memory-controller architecture increasingly strategic.

@@ -1,4 +1,5 @@
 - tags:: [[Cursor]], [[SpaceX]], [[Anthropic]], [[Claude-Code]], [[AI-coding]], [[developer-tools]], [[Elon-Musk]], [[AI]], [[vibe-coding]], [[Grok]]
+  file-created-at:: 2026-06-18
 
 - **Source**: Business Insider — Shubhangi Goel & Charles Rollet, Jun 15–16, 2026 (updated Jun 16 with acquisition announcement)
 

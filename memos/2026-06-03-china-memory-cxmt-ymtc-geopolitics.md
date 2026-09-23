@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[HBM]], [[China]], [[CXMT]], [[semiconductor]], [[supply chain]], [[$TSM]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$ASML]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: US/China Policy Options Don't Offer Near-term Relief
 - **Core argument**: China is an important swing factor for commodity memory but cannot solve the strategic AI-memory (HBM) bottleneck; US/China policy options can mitigate but not solve the shortage, and the direction of policy is toward more, not less, restriction
 - **China's role in global DRAM capacity**

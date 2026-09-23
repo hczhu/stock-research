@@ -1,4 +1,5 @@
 - tags:: [[token economics]], [[unit economics]], [[Anthropic]], [[OpenAI]], [[Claude]], [[ChatGPT]], [[coding-agents]], [[inference]], [[gross margin]], [[subscriptions]]
+  file-created-at:: 2026-06-11
 
 - ## AI Subscription Plan Gross Margin by Utilization (Claude vs ChatGPT/Codex)
 	- **Source**: Provided analytical chart, "Subscription margin by utilization." Models the **provider's gross margin on each consumer/pro plan as a function of the subscriber's average utilization**.

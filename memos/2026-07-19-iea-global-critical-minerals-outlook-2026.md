@@ -1,4 +1,5 @@
 - tags:: [[critical-minerals]], [[mining]], [[copper]], [[lithium]], [[cobalt]], [[rare-earths]], [[nuclear]], [[recycling]], [[China]], [[supply-chain]], [[security]], [[commodity]]
+  file-created-at:: 2026-07-19
 
 - **Source**: International Energy Agency (IEA), *Global Critical Minerals Outlook 2026*, Executive Summary, pp. 7–13 (provided text excerpt).
 - **Thesis**: The critical-minerals trade is shifting from a simple commodity-shortage thesis to a government-backed supply-chain-security cycle. The most durable value may accrue not merely to miners, but to scarce ex-China refining, magnet, smelting, recycling, conversion and processing assets that can secure policy support and long-term offtake.

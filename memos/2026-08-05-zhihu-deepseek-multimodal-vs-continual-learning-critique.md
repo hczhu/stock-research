@@ -1,4 +1,5 @@
 - tags:: [[DeepSeek]], [[China]], [[multimodal]], [[continual-learning]], [[scaling]], [[Kimi]], [[Moonshot]], [[open-weights]], [[research-culture]]
+  file-created-at:: 2026-08-05
 
 - ## 知乎长文：对 DeepSeek 研究文化与技术路线的批评
 	- **Source**: 知乎长文，作者匿名。**信源偏见需前置说明**：作者自称"已成为 DeepSeek 的最大黑子"，并明确承认写此类内容有流量激励（"只要写了类似言论就有流量"）。全文为个人观点，无一手数据，公司内部实验量、算力分配等说法均无佐证。作为**观点框架**阅读，不作为事实。

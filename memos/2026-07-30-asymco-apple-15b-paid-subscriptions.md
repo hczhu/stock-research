@@ -1,4 +1,5 @@
 - tags:: [[$AAPL]], [[Apple]], [[subscriptions]], [[services]], [[$NFLX]], [[$AMZN]], [[$TSLA]], [[Asymco]], [[platforms]]
+  file-created-at:: 2026-07-30
 
 - ## Apple passes 1.5B paid subscriptions (Asymco chart)
 	- **Source**: X post by Horace Dediu ([@asymco](https://x.com/asymco)), July 30, 2026, 14:26 — "Apple surpassed 1.5 billion paid subscriptions!" with his long-running "Subscriber and User Bases by Platform" chart (Jan 2009 → 2026). Figures OCR'd from the chart; mid-series labels overlap heavily, so only the clearly legible anchors are recorded below.

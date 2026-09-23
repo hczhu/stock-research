@@ -1,4 +1,5 @@
 - tags:: [[SemiAnalysis]], [[Dylan-Patel]], [[AI-infrastructure]], [[AI-capex]], [[custom-silicon]], [[data-center]], [[power]], [[export-controls]], [[semiconductor]], [[inference]], [[agents]], [[hyperscalers]], [[$NVDA]], [[$GOOGL]], [[$AMZN]], [[$META]], [[$MSFT]], [[$AAPL]], [[$INTC]], [[$AMD]], [[$TSM]], [[$CRWV]]
+  file-created-at:: 2025-08-19
 
 - ## Dylan Patel on AI Economics, Nvidia's Moat, Custom Silicon, Power, and Big Tech Strategy
 	- **Source**: [a16z podcast — “Dylan Patel: GPT-5, NVIDIA, Intel, Meta, Apple”](https://a16z.com/podcast/dylan-patel-gpt-5-nvidia-intel-meta-apple/), Dylan Patel with Erin Price-Wright, Guido Appenzeller, and Erik Torenberg, published August 19, 2025.

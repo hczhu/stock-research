@@ -1,4 +1,5 @@
 - tags:: [[$UBER]], [[$GOOGL]], [[$TSLA]], [[Waymo]], [[autonomous-vehicles]], [[drones]], [[mobility]], [[marketplace]], [[network-effects]], [[TAM]], [[robotics]], [[China]]
+  file-created-at:: 2026-07-25
 
 - ## Autonomous Mobility as a Heterogeneous Trip Marketplace
 	- **Source**: User-provided X post; author, URL, and publication date were not included in the supplied text.

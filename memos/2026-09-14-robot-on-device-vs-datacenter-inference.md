@@ -1,4 +1,5 @@
 - tags:: [[robotics]] [[humanoid]] [[inference]] [[edge-AI]] [[data-center]] [[networking]] [[GPU]] [[LPDDR]] [[DRAM]] [[TCO]] [[SemiAnalysis]] [[$NVDA]] [[$GOOGL]]
+  file-created-at:: 2026-09-14
 -
 - ## Where Does a Robot Think? On-device versus datacenter inference
 	- **Source**: SemiAnalysis, "A Brain Too Big to Carry - On-Device vs Datacenter Inference," September 14, 2026. The supplied PDF includes company interviews, SemiAnalysis hardware and TCO models, and reader criticism of the TCO assumptions.

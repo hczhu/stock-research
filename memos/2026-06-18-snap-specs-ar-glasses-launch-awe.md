@@ -1,4 +1,5 @@
 - tags:: [[$SNAP]], [[AR]], [[augmented-reality]], [[wearables]], [[hardware]], [[consumer-tech]], [[$META]], [[$GOOGL]], [[AI]]
+  file-created-at:: 2026-06-18
 
 - **Source**: Journalist report from AWE (Augmented World Expo), Long Beach, June 2026 — includes interview with Evan Spiegel on Monday before the event
 

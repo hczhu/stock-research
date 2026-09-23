@@ -1,4 +1,5 @@
 - tags:: [[CI/CD]], [[DevOps]], [[GitOps]], [[progressive-delivery]], [[platform-engineering]], [[feature-flags]], [[Octopus-Deploy]], [[developer-tools]], [[Kubernetes]], [[infrastructure]]
+  file-created-at:: 2026-06-17
 
 - **Source**: The Pragmatic Engineer Podcast — Rob Errors (CI/CD expert, ~10+ yrs; ex-Skype for Web; early engineer #8-9 at Octopus Deploy), interviewed by host (ex-Skype teammate)
 

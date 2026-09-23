@@ -1,4 +1,5 @@
 tags:: [[$2454.TW]], [[ASIC]], [[AI infrastructure]], [[semiconductor]], [[GPU]], [[HBM]], [[packaging]], [[$GOOGL]], [[$META]], [[edge-AI]]
+file-created-at:: 2026-07-01
 
 - **Source**: MediaTek 2026 Q1 earnings call; CEO Rick Tsai
 - **Thesis**: MediaTek is transitioning from a handset chip company into an AI infrastructure company. The ASIC business is accelerating faster than management's original roadmap.

@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[$GOOG]], [[$INTU]], [[$BKNG]], [[$EXPE]], [[AI]], [[agents]], [[consumer-internet]], [[search]], [[SaaS]], [[personalization]]
+  file-created-at:: 2026-09-15
 
 - ## Meta Muse: A Free Personal Agent Compresses Consumer Apps
 	- **Source**: First-hand Reddit post and discussion by `biscuitsbox` in r/AgentsOfAI, supplied by the user, September 15, 2026.

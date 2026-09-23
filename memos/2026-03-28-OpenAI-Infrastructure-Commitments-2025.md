@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # OpenAI's $1.15T Infrastructure Commitments
 
 OpenAI spent 2025 breaking up with Microsoft. The exclusivity ended in January [1]. What followed was a lot of contracts.

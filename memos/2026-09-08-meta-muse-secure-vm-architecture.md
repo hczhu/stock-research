@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[Muse]], [[Muse-Spark]], [[agents]], [[AI]], [[cybersecurity]], [[privacy]], [[confidential-computing]], [[prompt-injection]], [[infrastructure]], [[data-center]], [[CPU]], [[DRAM]], [[payments]], [[Stripe]], [[consumer-internet]]
+  file-created-at:: 2026-09-08
 
 - **Source**: Meta, "Introducing Muse: The World's First Personal AI Agent Built for Everyone," corporate announcement, September 8 2026. **This is marketing copy, not a technical paper** — every architectural claim below is Meta's own, unaudited, and stated without implementation detail. The post links to two deeper write-ups (`security.muse.ai`, `introducing.muse.ai`) that are not in hand. **This memo is a scaffold for the architecture and is expected to be extended** as those sources arrive.
 

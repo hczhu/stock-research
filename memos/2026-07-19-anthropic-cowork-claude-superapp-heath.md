@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[Claude-Code]], [[Cowork]], [[agents]], [[super-app]], [[OpenAI]], [[consumer-AI]], [[product-strategy]], [[enterprise]]
+  file-created-at:: 2026-07-19
 
 - **Source**: Alex Heath, "Anthropic gets closer to an AI super app" (Sources newsletter), Jul 8 2026. Reporting + quotes from Mike Krieger (ex-Anthropic head of product, now Labs) and Cat Wu (product lead for Claude Code & Cowork), plus Anthropic's Cowork-usage study. Companion/mirror to [[2026-07-16-openai-superapp-chatgpt-codex-whither-chat-stratechery]] (the OpenAI side of the same race) and [[2026-06-24-microsoft-copilot-cowork-usage-based-pricing-deepseek-bundling]].
 

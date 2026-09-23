@@ -1,4 +1,5 @@
 - tags:: [[SemiAnalysis]], [[Dylan-Patel]], [[$NVDA]], [[$AMD]], [[$TSM]], [[$ASML]], [[$CRWV]], [[$ORCL]], [[$MSFT]], [[$GOOGL]], [[$AMZN]], [[$META]], [[Groq]], [[Huawei]], [[China]], [[AI infrastructure]], [[AI-capex]], [[inference]], [[GPU]], [[custom-silicon]], [[KV-cache]], [[storage]], [[data-center]], [[power]], [[export-controls]], [[agents]], [[coding-agents]]
+  file-created-at:: 2026-02-05
 
 - ## NVIDIA's New Moat, China's Semiconductor Push, and the AI Capex Test
 	- **Source**: [The MAD Podcast with Matt Turck — “Dylan Patel: NVIDIA's New Moat & Why China is ‘Semiconductor Pilled’”](https://podcasts.apple.com/gb/podcast/dylan-patel-nvidias-new-moat-why-china-is-semiconductor/id1686238724?i=1000748369780), published 5 February 2026; user-supplied transcript.

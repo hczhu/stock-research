@@ -1,4 +1,5 @@
 - tags:: [[$2408.TW]], [[Nanya-Tech]], [[DRAM]], [[AI]], [[inference]], [[edge-AI]], [[advanced-packaging]], [[WoW]], [[capex]], [[semiconductor]]
+  file-created-at:: 2026-03-06
 
 - **Source**: TrendForce News article, "Nanya Tech Reportedly Starts Custom AI Memory Trial, Progress Set to Show in H2 2026," March 6, 2026. The article cites Commercial Times and TechNews, including comments attributed to Nanya Technology president Lee Pei-Ing.
 - **Scope**: Extracted data points, timelines, and operational insights on Nanya Technology's DRAM capacity expansion and custom AI memory roadmap.

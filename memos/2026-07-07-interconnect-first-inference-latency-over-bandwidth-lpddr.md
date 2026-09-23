@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[Nvidia]], [[interconnect]], [[inference]], [[AI-accelerators]], [[HBM]], [[LPDDR]], [[DRAM]], [[NVLink]], [[latency]], [[chip-architecture]], [[$MU]], [[semiconductors]]
+  file-created-at:: 2026-07-07
 
 - **Source**: Long-form technical argument (X post, parts one and two) on why **the interconnect — not memory — is the binding constraint for AI inference**, and why an **interconnect-first, low-latency, LPDDR-based** design can beat Nvidia on decode at a fraction of silicon/power. Includes a companion explainer on **latency > bandwidth for inference**. Investment framing is mine. Companion to [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]], [[2026-07-06-gpt56-sol-hn-cerebras-inference-economics]], [[2026-07-06-openai-broadcom-jalapeno-hn-cerebras-hbm-readthrough]], and [[DRAM-memory-ssd-index-thesis]].
 

@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[Anthropic]], [[open-weights]], [[Kimi]], [[GLM]], [[DeepSeek]], [[Moonshot]], [[evals]], [[benchmarks]], [[commoditization]], [[SemiAnalysis]], [[agents]], [[coding-agents]], [[reasoning-models]], [[AI-labs]], [[compute]], [[capex]], [[data-center]], [[security]], [[$NVDA]], [[China]]
+  file-created-at:: 2026-08-21
 
 - ## SemiAnalysis: Open Models Close the Gap Twice as Fast Every Era — and the Rebuttal Is One Paragraph
 	- **Source**: SemiAnalysis, **"Are Open Models Catching Up?"** — Evan Cloutier, Max Kan, Jordan Nanos, Dylan Patel, **Aug 21 2026**, paid. 21 pages. Benchmarks run first-party on **Prime Intellect's** evaluation stack, with **Artificial Analysis** and Datacurve's **DeepSWE leaderboard** supplying the rest.

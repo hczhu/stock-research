@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[consumer-internet]], [[content-platforms]], [[social]], [[UGC]], [[gaming]], [[ByteDance]], [[Douyin]], [[Xiaohongshu]], [[China]]
+  file-created-at:: 2026-07-02
 
 - **Source**: User-provided Chinese podcast transcript, apparently an interview with Evote / Edward, a Chinese consumer-internet founder who previously worked at ByteDance, built products including `6件盘` and `音遇`, later worked on games, and is now exploring AI plus content. The transcript is machine-generated / noisy; product names and some chronology may contain ASR errors.
 - ## Executive Summary

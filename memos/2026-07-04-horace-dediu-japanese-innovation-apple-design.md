@@ -1,4 +1,5 @@
 - tags:: [[$AAPL]], [[Apple]], [[Japan]], [[Sony]], [[Toyota]], [[innovation]], [[software]], [[design]], [[consumer-electronics]], [[manufacturing]]
+  file-created-at:: 2026-07-04
 -
 - ## Source
 	- **Source**: Horace Dediu / Takeshi Narabe & Dylan Weir / Asahi Shimbun interview, April 2026.

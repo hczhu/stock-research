@@ -1,4 +1,5 @@
 - tags:: [[S-curve]], [[Whale Rock]], [[Alex Sacerdote]], [[Anthropic]], [[AI infrastructure]], [[semiconductors]], [[$NVDA]], [[networking]], [[memory]], [[software]], [[privates]], [[moats]], [[token economics]], [[Celestica]], [[Corning]], [[mega-cap tech]]
+  file-created-at:: 2026-06-09
 
 - ## Whale Rock (Alex Sacerdote) — AI Stack, S-Curves & Hardware De-Commoditization
 	- **Source**: *Invest Like the Best* with Patrick O'Shaughnessy — Alex Sacerdote, Founder of Whale Rock Capital Management (podcast, June 2026)

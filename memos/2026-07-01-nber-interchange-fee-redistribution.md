@@ -1,4 +1,5 @@
 tags:: [[$V]], [[$MA]], [[$AXP]], [[$COF]], [[$JPM]], [[payments]], [[fintech]], [[interchange]], [[regulation]], [[consumer]], [[NBER]]
+file-created-at:: 2026-07-01
 
 - ## NBER: interchange fees move ~\$30B a year from cash and debit users to credit users
 	- **Source**: NBER Digest summary of Working Paper 35067, **"Who Pays for Payments?"** — Mark Egan, Gregor Matvos, Amit Seru, Lulu Wang, Vincent Yao, July 1, 2026.

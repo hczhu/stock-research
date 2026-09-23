@@ -1,4 +1,5 @@
 - tags:: [[Cloudflare]], [[$NET]], [[AI]], [[agents]], [[edge-computing]], [[serverless]], [[developer-tools]], [[SASE]], [[Zero-Trust]], [[cybersecurity]], [[payments]], [[MCP]], [[vibe-coding]]
+  file-created-at:: 2026-07-01
 
 - ## Cloudflare and the Agentic Internet: Workers, SASE, and Act 4
 	- **Source**: HHHYPERGROWTH, “Premium: Agentic waves,” by Muji, 1 July 2026; email copy supplied by the user.

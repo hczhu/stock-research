@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-08
+
 - Source: Avenir — "The Future of SaaS: A Fork in the Road" (January 2026), by Jared Sleeper and Hannah Bao
 
 ## Slide 5: Median Revenue Growth — Avenir SaaS Basket

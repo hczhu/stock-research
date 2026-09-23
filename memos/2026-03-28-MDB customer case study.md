@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 ### **Document Summary**
 
 The provided report outlines an optimistic outlook for MongoDB (MDB) heading into 2026, emphasizing that AI has become a primary growth driver. According to feedback from various channel partners, MDB is experiencing an acceleration in AI-driven Atlas cloud migrations and significant growth in vector database usage. This growth is heavily supported by MDB's integration with VoyageAI, which has enhanced its vector search capabilities and positioned MDB as a preferred platform for AI-native workloads.

@@ -1,4 +1,5 @@
 tags:: [[HBM]], [[DRAM]], [[NAND]], [[$NVDA]], [[AI infrastructure]], [[inference]], [[agents]], [[capex]], [[hyperscalers]], [[semiconductor]]
+file-created-at:: 2026-06-03
 
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Sections: The AI Memory Wall; Appendix: Memory Demand per Gigawatt of AI Data Center Deployment
 - **Core argument**: The bottleneck in AI is increasingly memory, not just compute — and the shift from single-turn chat to agentic AI workflows structurally increases memory intensity at every layer of the AI stack, creating a demand wave not yet in consensus models

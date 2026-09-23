@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[ChatGPT]], [[Codex]], [[Anthropic]], [[agents]], [[$AAPL]], [[$GOOG]], [[$META]], [[$MSFT]], [[Stratechery]], [[Ben-Thompson]], [[product-strategy]], [[advertising]], [[consumer-internet]]
+  file-created-at:: 2026-07-16
 
 - **Source**: Ben Thompson, "The OpenAI Super App, ChatGPT = Codex, Whither Chat," Stratechery Update, July 14, 2026. Quotes Reuters (ChatGPT Work launch), The Information (Stephanie Palazzolo, early June), John Gruber (Daring Fireball), M.G. Siegler (Spyglass), and a Tony Fadell email on the Apple-OpenAI poaching lawsuit. Companion to [[2026-07-06-gpt56-sol-hn-cerebras-inference-economics]] (GPT-5.6 launch mechanics), [[2026-06-24-microsoft-copilot-cowork-usage-based-pricing-deepseek-bundling]] (the Cowork category), [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]], [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]].
 

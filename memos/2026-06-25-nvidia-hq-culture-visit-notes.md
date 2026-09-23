@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[Nvidia]], [[culture]], [[talent retention]], [[AI infrastructure]], [[platform]], [[moat]], [[Jensen Huang]], [[Codex]]
+  file-created-at:: 2026-06-25
 
 - **Source**: Firsthand visitor notes from an NVIDIA HQ visit (social post shared by user, Jun. 2026). One-team anecdote — directional color on culture, not a company-wide survey.
 - **Thesis**: NVIDIA's HQ culture looks like a durable, under-appreciated moat — startup-grade speed and talent gravity inside a public company, plus an ecosystem so central that AI startups keep offices on-site. Culture/execution compounds the hardware+CUDA lead.

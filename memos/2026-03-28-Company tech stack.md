@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 ## OpenAI and Claude coding agents
 - OpenAI’s Codex is written in Rust (as covered in the deepdive, How Codex is built), and so is uv. It seems like the Codex team is bringing in Rust + Python expertise to make Codex even more performant, in the same way that Claude Code is built in TypeScript, so they invested in a team that’s world-class in TypeScript.
 - **Claude Code’s “agentic search” is really just glob and grep — and it outperformed RAG. **The team tried several approaches to make agentic search better: local vector databases, recursive model-based indexing, and other fancy approaches. All had downsides (stale indexes, permission complexity). Plain glob and grep, driven by the model, beat everything. This approach was inspired by how Boris observed engineers at Instagram searched code when the click-to-definition functionality in Meta’s in-house coding editor was broken

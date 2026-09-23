@@ -1,4 +1,5 @@
 tags:: [[Anthropic]], [[OpenAI]], [[enterprise]], [[model-adoption]], [[data-retention]], [[pricing]], [[AI]]
+file-created-at:: 2026-08-24
 
 - ## Anthropic's model mix: Opus 5 drove July growth, not Fable 5 — and the crowd blames data retention
 	- **Source**: Newsletter commentary on an *FT* chart showing the spend split across Anthropic models, **indexed to June**. Chart: [FT spend-split by Anthropic model](https://substackcdn.com/image/fetch/$s_!VTvm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b720a6f-4d4e-48c4-bdb3-2349005e0cf9_1600x1097.jpeg). Includes a **Martin Casado** thread (August 24, 2026) canvassing explanations.

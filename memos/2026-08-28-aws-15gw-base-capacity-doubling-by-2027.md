@@ -1,4 +1,5 @@
 tags:: [[$AMZN]], [[AWS]], [[$MSFT]], [[$NVDA]], [[$AMD]], [[$AVGO]], [[OpenAI]], [[Anthropic]], [[data-center]], [[power]], [[AI-capex]], [[capex]], [[hyperscalers]], [[circular-financing]]
+file-created-at:: 2026-08-28
 
 - ## AWS at ~15 GW in 2025 — putting a base under the "double by 2027" claim
 	- **Source**: Two data points supplied together — an **estimated ~15 GW of AWS capacity in 2025**, described as the largest hyperscaler footprint, alongside Amazon's own statement that it expects to **double capacity from 2025 to 2027**.

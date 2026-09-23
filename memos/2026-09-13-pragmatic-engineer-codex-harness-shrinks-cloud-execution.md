@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[Codex]], [[ChatGPT]], [[agents]], [[coding-agents]], [[cloud-agents]], [[developer-tools]], [[open-source]], [[software-engineering]], [[inference]], [[token-economics]], [[unit-economics]], [[security]], [[enterprise-software]], [[product-strategy]], [[Pragmatic-Engineer]]
+  file-created-at:: 2026-09-13
 
 - ## Tibo Sottiaux on Codex — The Harness Shrinks, and Execution Leaves the Laptop
 	- **Source**: The Pragmatic Engineer podcast, Gergely Orosz interviewing **Thibault "Tibo" Sottiaux**, who leads the Codex team at OpenAI. Career biography omitted as non-investable. Sponsor reads are advertising, not research, and are segregated below.

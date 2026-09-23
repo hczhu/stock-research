@@ -1,4 +1,5 @@
 tags:: [[$WIX]], [[Base44]], [[SaaS]], [[vibe-coding]], [[AI]], [[SMB]], [[website-builders]], [[capital-allocation]], [[buybacks]], [[stock-based-compensation]], [[customer-support]], [[$CRM]], [[$TEAM]], [[$FIG]], [[20VC]], [[podcast]]
+file-created-at:: 2026-07-13
 
 - ## Wix and Base44: SaaS Moats in the Vibe-Coding Era
 	- **Source**: User-provided transcript of `20VC` hosted by Harry Stebbings, featuring Wix co-founder and CEO Avishai Abrahami; source date not included, accessed July 13, 2026. The transcript contains speech-recognition errors, so figures are recorded as approximate management or host statements rather than independently verified disclosures.

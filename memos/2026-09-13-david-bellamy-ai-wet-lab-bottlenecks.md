@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[biosecurity]], [[biotechnology]], [[lab-automation]], [[life-sciences-tools]], [[drug-discovery]], [[physical-world]], [[regulation]]
+  file-created-at:: 2026-09-13
 
 - ## AI Does Not Eliminate Wet-Lab Bottlenecks
 	- **Source**: David Bellamy X thread, September 13, 2026. Bellamy says he has both trained a frontier LLM and personally designed and synthesized custom viruses.

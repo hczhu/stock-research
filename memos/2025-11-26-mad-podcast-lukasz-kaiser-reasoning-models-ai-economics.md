@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[GPT-5]], [[Codex]], [[AI]], [[reasoning-models]], [[reinforcement-learning]], [[pre-training]], [[post-training]], [[distillation]], [[inference]], [[agents]], [[multimodal]], [[generalization]], [[robotics]], [[GPU]], [[AI infrastructure]], [[$NVDA]], [[$GOOG]], [[$MSFT]], [[Anthropic]], [[human-in-the-loop]]
+  file-created-at:: 2025-11-26
 
 - ## Łukasz Kaiser: Reasoning Models, AI Economics, and the Next Scaling Stack
 	- **Source**: [The MAD Podcast with Matt Turck — “What's Next for AI? OpenAI's Łukasz Kaiser (Transformer Co-Author)”](https://open.spotify.com/episode/7anXK3XmTcAfi5ZHE38j8V), published 26 November 2025; user-supplied transcript.

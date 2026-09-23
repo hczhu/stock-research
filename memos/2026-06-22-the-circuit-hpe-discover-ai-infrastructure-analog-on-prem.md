@@ -1,4 +1,5 @@
 - tags:: [[AI-infrastructure]], [[server]], [[cooling]], [[OEM]], [[ODM]], [[$HPE]], [[$DELL]], [[$NVDA]], [[$CSCO]], [[$TXN]], [[networking]], [[Juniper]], [[analog]], [[passives]], [[on-prem]], [[enterprise]], [[Neo-Cloud]], [[power-management]]
+  file-created-at:: 2026-06-22
 
 - **Source**: The Circuit podcast — Ben Behren and Jay Goldberg. Episode recorded after HPE Discover (June 2026). Topics: AI rack differentiation, OEM vs. ODM dynamics, on-prem AI factories, analog/passives renaissance.
 

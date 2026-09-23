@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[Xiaomi]], [[smartphones]], [[$MU]], [[SK-Hynix]], [[Samsung]], [[consumer-electronics]], [[memory-supercycle]], [[demand-destruction]], [[TrendForce]]
+  file-created-at:: 2026-07-20
 
 - **Source**: 界面新闻 / InterfaceX (36Kr, Jul 20 2026), "Xiaomi raises phone shipment target" (author 李家琦). Supply-chain reporting on Xiaomi lifting its 2026 handset target, framed against the DRAM/NAND super-cycle. Investment framing is mine. Companion to [[DRAM-memory-ssd-index-thesis]], [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]], [[Nanya-2026-Q2]], [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]].
 

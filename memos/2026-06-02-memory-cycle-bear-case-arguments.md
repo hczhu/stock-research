@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[bear-case]], [[cycle]], [[AI]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[CXMT]], [[efficiency]], [[X-post]]
+  file-created-at:: 2026-06-02
 
 - ## X Post (paste directly — single post, X Premium)
 

@@ -1,4 +1,5 @@
 tags:: [[Etched]], [[AI-accelerators]], [[inference]], [[ASIC]], [[GPU]], [[HBM]], [[SRAM]], [[KV-cache]], [[interconnect]], [[tokens-per-watt]], [[data-center]], [[power]], [[semiconductor]], [[$NVDA]], [[$TSM]], [[OpenAI]], [[agents]]
+file-created-at:: 2026-07-10
 
 - ## Etched: Rack-Scale Inference Architecture, Production Strategy, and AI-Chip Outlook
 	- **Source**: *Invest Like the Best* interview with Etched co-founders Gavin Uberti and Rob Lockett, hosted by Patrick O'Shaughnessy; transcript supplied by the user, July 2026.

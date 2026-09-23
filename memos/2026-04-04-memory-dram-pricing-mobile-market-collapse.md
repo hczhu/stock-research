@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[$005930.KS]], [[$QCOM]], [[$2454.TW]], [[mobile]], [[semiconductor]]
+  file-created-at:: 2026-04-04
 
 - ## Summary
 	- DRAM prices are surging driven by AI infrastructure demand, while mobile handset demand is collapsing — creating a bifurcated outcome where memory makers win and mobile chip vendors/device OEMs lose hard

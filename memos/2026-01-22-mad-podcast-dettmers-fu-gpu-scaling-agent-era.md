@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AGI]], [[AI infrastructure]], [[GPU]], [[HBM]], [[inference]], [[AI training]], [[agents]], [[coding-agents]], [[developer-tools]], [[open-source]], [[quantization]], [[model-architecture]], [[software-engineering]], [[edge-AI]], [[robotics]], [[$NVDA]], [[$AMD]], [[$TSM]], [[$MU]], [[$MSFT]]
+  file-created-at:: 2026-01-22
 
 - ## The End of GPU Scaling? Compute and the Agent Era
 	- **Source**: [The MAD Podcast with Matt Turck — “The End of GPU Scaling? Compute & The Agent Era — Tim Dettmers (Ai2) & Dan Fu (Together AI)”](https://podcasts.apple.com/us/podcast/the-end-of-gpu-scaling-compute-the-agent-era/id1686238724?i=1000746203434), published 22 January 2026; user-supplied transcript.

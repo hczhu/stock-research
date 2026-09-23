@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[RAG]], [[Confluence]], [[Jira Service Management]], [[enterprise]], [[knowledge-management]], [[unstructured-data]], [[Slack]]
+  file-created-at:: 2026-05-02
 
 - ## RAG Over Confluence in JSM Workflows: Why The First Attempt Failed
 	- **Source context**: user-provided implementation anecdote

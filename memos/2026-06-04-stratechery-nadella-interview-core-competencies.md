@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[Satya Nadella]], [[Stratechery]], [[OpenAI]], [[Anthropic]], [[MAI]], [[agentic-AI]], [[capex]], [[Azure]], [[GitHub Copilot]], [[enterprise-AI]], [[Project Solara]], [[business-models]], [[$2454.TW]], [[$QCOM]]
+  file-created-at:: 2026-06-04
 
 - ## Stratechery Interview — Satya Nadella on Microsoft's Core Competencies
 	- **Source**: Stratechery by Ben Thompson, "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies," Jun 4 2026 — conducted right after Nadella's **Build** keynote (he was sole presenter outside demos → notably more hands-on). Companion to the keynote-analysis memo [[2026-06-04-stratechery-nvidia-ai-pc-microsoft-solara-mai]].

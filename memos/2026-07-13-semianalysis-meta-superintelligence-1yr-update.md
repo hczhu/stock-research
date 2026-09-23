@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[Meta]], [[MSL]], [[AI-capex]], [[data-center]], [[RL-environments]], [[Anthropic]], [[OpenAI]], [[$GOOG]], [[xAI]], [[$MSFT]], [[frontier-labs]], [[talent]], [[Mercor]], [[Surge]], [[compute]]
+  file-created-at:: 2026-07-13
 
 - **Source**: SemiAnalysis (Max Kan, Julien Martin-Prin, Jeremie Eliahou Ontiveros, Dylan Patel), "The Future of Meta Superintelligence: A 1 Year Progress Update," July 9, 2026 (paid). One year after the Llama 4 flop triggered Zuck's AI-org rebuild (\$14.3B Scale AI deal to poach Alexandr Wang + SEAL team, \$100M–\$1B+ pay packages, "Tent" DC design). Companion to [[2026-07-07-mark-zuckerberg-meta-ai-ads-compute-strategy]], [[2026-07-10-sharp-tech-meta-ai-ads-zuckerberg-strategy]], [[2026-06-03-frontier-labs-gpu-compute-capacity-share]], [[2026-07-07-hyperscaler-capex-goldman-bofa-cy27-28e]].
 

@@ -1,4 +1,5 @@
 tags:: [[$AAPL]], [[App-Store]], [[services]], [[regulation]], [[take-rate]], [[gaming]], [[subscriptions]], [[RevenueCat]], [[Sensor-Tower]]
+file-created-at:: 2026-08-28
 
 - ## The US App Store decline, decomposed: gaming weakness plus web-payment leakage
 	- **Source**: A *Financial Times* chart of **Sensor Tower** data — US consumer spending on Apple's App Store, year-on-year change by quarter, 2016 through 2026, **net of Apple's take** — showing the **first negative print in a decade** in Q2 2026. Paired with a decomposition from **RevenueCat CEO Jacob Eiting**; RevenueCat is the leading in-app purchase SDK.

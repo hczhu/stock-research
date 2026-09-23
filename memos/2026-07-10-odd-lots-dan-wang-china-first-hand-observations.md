@@ -1,4 +1,5 @@
 tags:: [[China]], [[consumer-internet]], [[mobile-internet]], [[e-commerce]], [[livestream-commerce]], [[EV]], [[batteries]], [[semiconductor]], [[property]], [[demographics]], [[culture]], [[Huawei]], [[$BABA]], [[$JD]]
+file-created-at:: 2026-07-10
 
 - **Source**: Bloomberg Odd Lots podcast transcript, July 2026, with Tracy Alloway, Joe Weisenthal, and Dan Wang discussing Wang's recent China trip and his book *Breakneck: China's Quest to Engineer the Future*.
 - **Thesis**: The transcript describes a China that is materially abundant, digitally advanced, and industrially formidable, but also weighed down by weak household confidence, property losses, youth unemployment, demographic collapse, censorship, and a political economy that prioritizes hard-tech national strength over consumer welfare. The investment read-through is bifurcated: stay constructive on state-favored hard-tech supply chains and mobile-first commerce infrastructure, but remain cautious on domestic discretionary consumption, property-linked wealth effects, and China cultural-export stories.

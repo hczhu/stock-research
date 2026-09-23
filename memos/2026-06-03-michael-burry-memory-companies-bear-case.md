@@ -1,4 +1,5 @@
 - tags:: [[Michael-Burry]], [[DRAM]], [[HBM]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$SOXX]], [[semiconductor]], [[bear-case]]
+  file-created-at:: 2026-06-03
 
 - ## Michael Burry's Bear Case Against Memory Companies
 	- **Source**:

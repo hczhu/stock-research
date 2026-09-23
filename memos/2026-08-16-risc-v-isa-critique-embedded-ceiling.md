@@ -1,4 +1,5 @@
 tags:: [[$ARM]], [[RISC-V]], [[semiconductor]], [[embedded]], [[microcontroller]], [[ISA]], [[fragmentation]], [[open-source]], [[accelerators]]
+file-created-at:: 2026-08-16
 
 - ## "RISC-V: They Should Have Known Better" — the segmentation case against the RISC-V bull story
 	- **Source**: Long-form technical essay, "RISC-V: They Should Have Known Better." Author not named in the text; the reference to writing a kernel for **rePalm** points to Dmitry Grinberg. Explicitly opinionated — the piece opens by describing the author's "distaste for RISC-V" and disclaims any employer's views. **Treat as an expert bear case, not a neutral survey**; the technical claims are specific and checkable, the market conclusions are the author's inference.

@@ -1,4 +1,5 @@
 - tags:: [[$ROKU]], [[$NFLX]], [[platform]], [[vertical-integration]], [[aggregation]], [[streaming]], [[distribution]], [[marketplace]], [[network-effects]], [[strategy]]
+  file-created-at:: 2026-08-28
 
 - ## The Danger of Mixing Horizontal and Vertical Business Models
 	- **Source**: User-provided excerpt from Stratechery, “Revisiting Roku,” revisiting Ben Thompson's analysis of Roku's origin inside Netflix.

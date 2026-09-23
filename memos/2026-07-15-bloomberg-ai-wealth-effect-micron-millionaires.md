@@ -1,4 +1,5 @@
 - tags:: [[$MU]], [[macro]], [[Bloomberg]], [[bubble]], [[AI-capex]], [[consumer]], [[wealth-effect]]
+  file-created-at:: 2026-07-15
 
 - ## Bloomberg: the AI wealth effect and the Micron millionaires
 	- **Source**: Bloomberg Businessweek, "AI Has Supercharged the Wealth Effect. Just Ask the Micron Millionaires," Stacey Vanek Smith, July 15, 2026 (August 1, 2026 issue). Economist commentary from Oxford Economics (Bernard Yaros), Harvard (Karen Dynan), and Bloomberg Economics (Jamie Rush). The article carries a published correction to the S&P 500 market-cap figure.

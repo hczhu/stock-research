@@ -1,4 +1,5 @@
 tags:: [[$GM]], [[$UBER]], [[$TSLA]], [[$GOOGL]], [[$AMZN]], [[Cruise]], [[Waymo]], [[Zoox]], [[Comma.ai]], [[autonomous-vehicles]], [[Stratechery]], [[Bloomberg]], [[marketplace]], [[network-effects]], [[fleet-management]], [[unit-economics]], [[capex]]
+file-created-at:: 2024-12-10
 
 - ## GM Kills Cruise: Fleet Robotaxis Versus General Autonomy
 	- **Source**: User-provided Stratechery Update, “GM Kills Cruise,” citing Bloomberg's December 10, 2024 report on GM winding down Cruise's robotaxi operations.

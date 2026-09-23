@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[Nvidia]], [[AI infrastructure]], [[capex]], [[TAM]], [[data-center]], [[accelerated-computing]], [[agents]], [[robotics]], [[semiconductors]]
+file-created-at:: 2025-10-13
 
 - **Source**: NVIDIA investor/IR slide, dated **October 2025** — "\$3–4 Trillion AI Infrastructure Spend by 2030: Key TAM Growth Drivers," with a chart of global data-center capex (public cloud, private cloud, enterprise on-prem, edge) vs NVIDIA AI revenue, 2022–2030. This is NVIDIA's own TAM framing — treat as a company-interested source. Companion to [[2026-07-07-hyperscaler-capex-goldman-bofa-cy27-28e]], [[2026-06-03-gavin-baker-semiconductor-ai-infrastructure-thesis]], and [[DRAM-memory-ssd-index-thesis]].
 - **Headline claim**: **\$3–4T cumulative-scale AI infrastructure (data-center capex) by 2030**, growing at **~40% 5-year CAGR (2025–2030)**. Chart shows DC capex rising from a few hundred \$B (2022–24) through ~\$700B (2025) → ~\$950B (2026) → ~\$1.3T (2027) → ~\$1.8T (2028) → ~\$2.4T (2029) → **~\$3.5T (2030)** (bars approximate). NVIDIA AI revenue shown as a small green sliver in 2022–24 — visually implying most of the TAM is still ahead.

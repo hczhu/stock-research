@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 - Apple's next most likely boss after Tim Cook is a product guy, John Ternus
 	- "Tim doesn't participate in the product development." Cook focuses more on supply chains, strategy and financial performance.
 	- Ternus "is a real engineer."

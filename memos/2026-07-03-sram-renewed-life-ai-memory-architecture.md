@@ -1,4 +1,5 @@
 - tags:: [[SRAM]], [[HBM]], [[DRAM]], [[AI ASIC]], [[inference]], [[semiconductor]], [[advanced packaging]], [[TSMC]], [[Samsung]], [[Intel]], [[IBM]], [[Groq]], [[Cerebras]], [[$NVDA]]
+  file-created-at:: 2026-07-03
 -
 - ## Source
 	- Source document: `SRAM，再续生机`, Semiconductor Industry Observer, 2026-07-03.

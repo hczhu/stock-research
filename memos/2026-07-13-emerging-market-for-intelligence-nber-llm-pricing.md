@@ -1,4 +1,5 @@
 - tags:: [[LLM-market]], [[AI]], [[inference]], [[pricing]], [[open-weight-models]], [[Anthropic]], [[OpenAI]], [[Google]], [[xAI]], [[DeepSeek]], [[$MSFT]], [[OpenRouter]], [[Jevons-paradox]], [[economics]]
+  file-created-at:: 2026-07-13
 
 - **Source**: Demirer (MIT), Fradkin (BU), Tadelis & Peng (Microsoft Research), "The Emerging Market for Intelligence: Pricing, Supply, and Demand for LLMs," NBER Working Paper 34608, December 2025. Data: scraped OpenRouter (Jul 2023–Dec 2025; >100T tokens served in 2025) + Microsoft Azure AI Foundry firm-level data (Jul 2023–Jun 2025; 100T tokens in 2Q25 alone) + Artificial Analysis benchmarks. The first comprehensive non-survey dataset on enterprise LLM demand. (This is ref. 7 in [[2026-07-12-tsmc-manufacturing-innovation-platform-cusumano]].)
 

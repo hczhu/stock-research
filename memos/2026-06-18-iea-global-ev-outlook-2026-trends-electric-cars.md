@@ -1,4 +1,5 @@
 - tags:: [[EV]], [[electric-vehicles]], [[China]], [[Europe]], [[US]], [[IEA]], [[automotive]], [[energy-transition]], [[policy]]
+  file-created-at:: 2026-06-18
 
 - **Source**: IEA — Global EV Outlook 2026, "Trends in electric cars" chapter, 2026.
 

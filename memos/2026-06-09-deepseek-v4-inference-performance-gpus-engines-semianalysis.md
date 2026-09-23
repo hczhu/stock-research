@@ -1,4 +1,5 @@
 tags:: [[DeepSeek]], [[inference]], [[$NVDA]], [[$AMD]], [[Huawei]], [[GPU]], [[GB300]], [[B200]], [[MI355X]], [[vLLM]], [[SGLang]], [[TensorRT-LLM]], [[CANN]], [[token economics]], [[tokens-per-watt]], [[SemiAnalysis]], [[MoE]]
+file-created-at:: 2026-06-09
 
 - ## DeepSeek V4 1.6T — Inference Performance by GPU / Engine / Setup (SemiAnalysis InferenceX)
 	- **Source**: SemiAnalysis InferenceX, "DeepSeekV4 1.6T Day 0 to Day 43 Performance Over Time — Huawei, GB300 NVL72, MI355X, B200" (Bryan Shan, Cam Quilici, Kimbo Chen + 4), Jun 9 2026. Open-source tracker: `github.com/SemiAnalysisAI/InferenceX`.

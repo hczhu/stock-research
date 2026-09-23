@@ -1,4 +1,5 @@
 - tags:: [[semiconductor]], [[WFE]], [[DRAM]], [[HBM]], [[AI infrastructure]], [[data-center]], [[capex]], [[$AMAT]], [[$ASML]], [[$KLA]], [[Morgan Stanley]]
+  file-created-at:: 2026-06-04
 
 - ## TeraFab WFE Stress Test — DRAM Equipment Demand from Large-Scale AI Compute Build-Outs
 	- **Source**: Morgan Stanley SPE (semiconductor equipment) team, TeraFab illustrative analysis

@@ -1,4 +1,5 @@
 tags:: [[$META]], [[Meta]], [[$GOOGL]], [[$AAPL]], [[TikTok]], [[regulation]], [[legal]], [[engagement]], [[advertising]], [[teen-safety]]
+file-created-at:: 2026-08-26
 
 - ## Meta's teen-safety agreement with 52 state attorneys general
 	- **Source**: Meta newsroom post, August 26, 2026, updated August 27 to note the judge's approval. **This is the company's own account** — it is framed throughout as an "agreement" and a "new industry standard" rather than a settlement, no underlying litigation is described, and every figure carries an "approximately." Quote from **C.J. Mahoney, Chief Legal Officer**.

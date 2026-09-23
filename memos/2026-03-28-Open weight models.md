@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 - The fair assessment of the open-closed gap is that [open models have always been 6-18 months behind the best closed models](https://substack.com/redirect/778edc54-c779-4f1d-9926-921b04e6f091?j=eyJ1IjoiMjJrYmEifQ.vI6HdNJEN82wsmdi2oXbi9Rn5vOlIb7jUO4O01JQR_8).
 	- It is a remarkable testament to the open labs, operating on far smaller budgets, that this has stayed so stable. Many top analysts like myself are bewildered by the way the gap isn’t bigger. Distillation helps a bit in quality, benchmaxing more than closed labs helps perceptions, but the progress of the leading open models is flat out remarkable.
 - Best open models for local inference

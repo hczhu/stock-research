@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Progressive Disclosure in AI Agents
 
 Progressive disclosure in AI agents is a context management technique that feeds information to an LLM on demand rather than all at once, improving efficiency and accuracy.

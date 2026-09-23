@@ -1,4 +1,5 @@
 - tags:: [[investment-philosophy]], [[mental-model]], [[moat]], [[competitive-landscape]], [[business-models]], [[corporate-strategy]], [[retail]], [[logistics]], [[e-commerce]], [[turnaround]], [[The-Synopsis]], [[$FND]], [[$RH]], [[$LOW]], [[$HD]], [[$WMT]], [[$AMZN]], [[$INTC]], [[$ARM]], [[$NVDA]]
+  file-created-at:: 2026-09-22
 
 - **Source**: Drew Cohen (@DrewCohenMoney), *Five Minute Money* — "The Mental Model That Explains Any Business's Success." Cohen hosts The Synopsis podcast; this repo already holds five memos from his interviews. This is a framework piece, not a data piece: no forward estimates, no company financials beyond illustrative figures.
 

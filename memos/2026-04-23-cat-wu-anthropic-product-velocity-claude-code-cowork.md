@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[Claude-Code]], [[Cowork]], [[agents]], [[AI]], [[inference]], [[enterprise]], [[developer-tools]], [[SaaS]], [[product-strategy]], [[$CRM]], [[$GOOGL]], [[$AMZN]], [[$MSFT]], [[$NVDA]]
+  file-created-at:: 2026-04-23
 
 - ## Cat Wu: Anthropic's AI-Native Product System and the Claude Code-to-Cowork Expansion
 	- **Source**: [Lenny's Podcast - “How Anthropic's product team moves faster than anyone else”](https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves), Lenny Rachitsky interview with Cat Wu, Head of Product for Claude Code and Cowork, published 23 April 2026.

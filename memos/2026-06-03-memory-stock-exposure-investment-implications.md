@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$NVDA]], [[$ASML]], [[$AMAT]], [[$KLA]], [[semiconductor]], [[AI infrastructure]], [[bear-case]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: Stock Exposure; Exhibit 14 (global exposure map); Exhibit 15 (risk/return)
 - **Core thesis**: In an agentic AI world, demand and pricing power gravitates toward memory and CPU plus associated supply chains. Companies selling into AI enjoy pricing power; buyers face margin pressure. Global consumer electronics stocks -1% YTD on average vs memory makers +~300% with 333% EPS revisions YTD.
 - **Global exposure map — how to play the theme**

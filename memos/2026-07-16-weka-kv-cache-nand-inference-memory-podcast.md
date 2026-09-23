@@ -1,4 +1,5 @@
 - tags:: [[inference]], [[AI infrastructure]], [[KV-cache]], [[NAND]], [[DRAM]], [[HBM]], [[HBF]], [[CXL]], [[NVLink]], [[agents]], [[token economics]], [[DeepSeek]], [[SaaS]], [[neocloud]], [[$NVDA]], [[$AMD]], [[$MU]], [[$005930.KS]], [[$000660.KS]]
+  file-created-at:: 2026-07-16
 
 - ## Weka on KV Cache, NAND, and the Inference Memory Stack
 	- **Source**: Semi-Doped podcast, Vick Shaker interviewing Val Bercovici, Chief AI Officer of Weka. Transcript supplied July 16, 2026; episode date and title were not included.

@@ -1,4 +1,5 @@
 - tags:: [[hyperscalers]], [[AI infrastructure]], [[data-center]], [[capex]], [[accounting]], [[leases]], [[private-credit]], [[shadow-borrowing]], [[purchase-commitments]], [[debt]], [[$META]], [[$ORCL]], [[$AMZN]], [[$MSFT]], [[$GOOGL]], [[$NVDA]], [[$VRT]], [[$ETN]], [[$OWL]]
+  file-created-at:: 2026-07-20
 
 - ## Hyperscaler AI Commitments: The $1.65T “Hidden Debt” Claim
 	- **Source**: Nikkei Asia investigation, “Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding,” published 20 July 2026; user-supplied excerpt and chart. Context checked against the [BIS March 2026 analysis of AI shadow borrowing](https://www.bis.org/publ/qtrpdf/r_qt2603u.htm) and the latest company filings cited below.

@@ -1,4 +1,5 @@
 tags:: [[$2454.TW]], [[ASIC]], [[semiconductor]], [[AI infrastructure]]
+file-created-at:: 2026-07-13
 
 - **Company**: MediaTek (2454.TW)
 - **Date**: 2026-06-04

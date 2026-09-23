@@ -1,4 +1,5 @@
 - tags:: [[$PRX.AS]], [[Prosus]], [[enterprise-AI]], [[agents]], [[AI-productivity]], [[inference]], [[model-routing]], [[MCP]], [[SaaS]], [[automation]], [[e-commerce]], [[open-source]], [[governance]]
+  file-created-at:: 2026-05-13
 - **Source**: Prosus, [The Coming Age of AI Colleagues](https://www.prosus.com/~/media/Files/P/prosus-corp-v2/documents/the-coming-age-of-ai-colleagues.pdf), May 2026
 - **Evidence base**: Prosus analyzed adoption across more than **40,000 employees** and **60,000 internally created agents** on its Toqan platform over roughly 18 months. The portfolio spans food delivery, e-commerce, travel, payments, and other consumer-internet businesses.
 - **Thesis**: Enterprise-agent value follows a steep power law. Broad experimentation is necessary, but a tiny group of deeply integrated, widely adopted agents creates most of the measurable value. The likely winners are companies that own proprietary workflows and data, plus platforms that discover, govern, evaluate, and route agents—not vendors selling undifferentiated access to a single model.

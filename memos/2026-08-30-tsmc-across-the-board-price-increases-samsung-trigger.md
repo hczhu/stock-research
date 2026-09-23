@@ -1,4 +1,5 @@
 tags:: [[$TSM]], [[TSMC]], [[Samsung]], [[$INTC]], [[SMIC]], [[foundry]], [[semiconductor]], [[pricing]], [[capex]], [[advanced-packaging]], [[$NVDA]], [[$AAPL]]
+file-created-at:: 2026-08-29
 
 - ## TSMC reportedly raising prices across every node — and Samsung fired first
 	- **Source**: 工商時報 / 理財周刊投研部, reposted by 半導體行業觀察 (issue 4514), August 30, 2026, citing TrendForce, Nomura, Citi and CLSA research plus supply-chain checks. **Two strong bias flags.** Much of the TSMC pricing detail is explicitly framed as rumour circulating among foreign institutions (「外資圈更盛傳」), not confirmed. And the piece closes with an outright buy recommendation — that the current dip is a good entry point — so **treat it as promotional commentary, not neutral reporting.**

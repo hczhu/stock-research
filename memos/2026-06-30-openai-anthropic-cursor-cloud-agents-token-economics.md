@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[coding-agents]], [[cloud-agents]], [[Codex]], [[Claude-Code]], [[OpenAI]], [[Anthropic]], [[Cursor]], [[developer-tools]], [[enterprise-software]], [[inference]], [[token-economics]], [[open-weights]], [[observability]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$CRM]], [[$GTLB]], [[$DDOG]], [[$COIN]]
+  file-created-at:: 2026-06-30
 
 - **Source**: Gergely Orosz, “Impressions from visiting OpenAI, Anthropic, Cursor,” *The Pulse*, June 30, 2026. User-provided 20-page PDF.
 - **Scope**: Observations from visits to OpenAI, Anthropic and Cursor, supplemented by public product announcements, benchmark results and a Coinbase token-cost case study.

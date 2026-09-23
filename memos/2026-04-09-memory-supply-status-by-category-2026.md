@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[supply]], [[shortage]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[semiconductor]]
+  file-created-at:: 2026-04-09
 
 - ## Memory Supply Status by Category — 2026
 	- **Source**: Industry summary table, April 2026

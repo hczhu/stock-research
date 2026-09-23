@@ -1,3 +1,5 @@
+file-created-at:: 2026-07-01
+
 ## **Find and buy high-quality compounders with high upside**
 	- Revenue CAGR ≥ 15%
 	- Long-term revenue potential of at least 5×

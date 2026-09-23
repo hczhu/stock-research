@@ -1,4 +1,5 @@
 tags:: [[SemiAnalysis]], [[Anthropic]], [[OpenAI]], [[$NVDA]], [[$META]], [[AI-capex]], [[capex]], [[power]], [[data-center]], [[China]], [[macro]], [[unit-economics]], [[DRAM]], [[interest-rates]]
+file-created-at:: 2026-08-29
 
 - ## Dylan Patel on Dwarkesh: revenue per megawatt, compute centralization, and the rate shock
 	- **Source**: Dwarkesh Patel podcast with **Dylan Patel**, founder of SemiAnalysis. **Three caveats that matter throughout.** Patel sells the models and research these figures come from, so the forecasts are his product. The transcript is machine-generated and garbles numbers badly — several are internally inconsistent and flagged below. And the forward figures are explicitly vibes in places ("this is just vibing a number"). Prior Patel coverage: [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]], [[2026-02-05-mad-podcast-dylan-patel-nvidia-moat-china-ai-capex]].

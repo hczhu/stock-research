@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]] [[Atlassian]] [[Jira]] [[Rovo]] [[Confluence]] [[Teamwork-Graph]] [[agents]] [[developer-tools]] [[enterprise-software]] [[SaaS]]
+  file-created-at:: 2026-09-14
 -
 - ## Atlassian: governed agents, Rovo monetization, and product expansion
 	- **Source**: User-provided Atlassian AI/news feed covering August 14–September 14, 2026. Sources include Inside Atlassian, company announcements, trade press, partner posts, and community reports.

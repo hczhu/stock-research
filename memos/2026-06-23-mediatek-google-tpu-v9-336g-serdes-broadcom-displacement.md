@@ -1,4 +1,5 @@
 - tags:: [[$2454.TW]], [[$MTK]], [[Google]], [[TPU]], [[SerDes]], [[AI-ASIC]], [[semiconductor]], [[optical-interconnect]], [[Broadcom]], [[$AVGO]], [[TSMC]]
+  file-created-at:: 2026-06-23
 
 - **Source**: 工商時報 (Commercial Times), June 23 2026. Reporter: 張珈睜.
 

@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[SSD]], [[NAND]], [[packaging]], [[semiconductor]], [[AI infrastructure]], [[$NVDA]], [[$TSM]], [[$000660.KS]], [[$005930.KS]], [[$MU]]
+  file-created-at:: 2026-06-07
 
 - **Source**: user-provided PDF, "DRAM Deep Dive - Interactive Tutorial" (Module 10: HBM & 3D DRAM), Chrome/Skia PDF created 2026-06-07
 - **Source coverage note**: The second requested file, "DRAM Deep Dive - Interactive Tutorial-future-directions.pdf", was not present at `/Users/hc/Downloads/` when accessed from the shell, so this memo extracts from the available DRAM Deep Dive tutorial text. SSD-specific conclusions below are limited to read-through from HBM/DRAM architecture and existing NAND/flash investment context, not direct extraction from the missing second PDF.

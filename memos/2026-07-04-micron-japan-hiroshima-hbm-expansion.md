@@ -1,4 +1,5 @@
 - tags:: [[$MU]], [[Micron]], [[Japan]], [[Hiroshima]], [[DRAM]], [[HBM]], [[AI infrastructure]], [[semiconductor]], [[capex]], [[supply]], [[industrial-policy]], [[Elpida]], [[$NVDA]], [[$000660.KS]], [[$005930.KS]]
+  file-created-at:: 2026-07-04
 
 - **Source**: Bloomberg article excerpt provided in prompt, dated Saturday; memo uses July 4, 2026 as source date based on current calendar context.
 - **Thesis**: Micron's JPY 1.5T Hiroshima expansion shows that HBM/advanced DRAM supply is becoming a government-backed strategic asset. Japan is effectively subsidizing Micron as its only domestic DRAM manufacturer, while Micron uses Hiroshima to diversify leading-edge HBM/DRAM capacity across Japan and the US. The read-through is bullish for Micron's long-duration AI memory positioning, but the 2028 shipment timing also confirms that meaningful new leading-edge supply arrives slowly.

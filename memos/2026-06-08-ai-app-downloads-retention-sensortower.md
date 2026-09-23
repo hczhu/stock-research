@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[consumer-internet]], [[mobile-apps]], [[SensorTower]], [[OpenAI]], [[Anthropic]], [[$GOOGL]], [[$META]], [[xAI]], [[Gemini]], [[Claude]], [[Grok]]
+  file-created-at:: 2026-06-08
 
 - **Source**: user-provided screenshot from Sensor Tower. Downloads by Unified Apps: weekly, all countries/regions, week of 2025-12-01 through week of 2026-06-01. Retention by Unified Apps: December 2025 cohort, all countries/regions.
 - **Data quality note**: Download levels are visual estimates from the chart. Percent changes and Day 30 retention values are directly visible in the screenshot.

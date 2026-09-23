@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-13
+
 - **来源**: `/Users/hc/Downloads/CLSA tour AI expert Apr 2026.pdf`
 - **文档背景**:
 	- PDF 创建日期: `2026-04-13`

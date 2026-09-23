@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[$AMD]], [[OpenAI]], [[GLM]], [[Qwen]], [[open-weights]], [[MoE]], [[DRAM]], [[China]], [[robotics]], [[agents]], [[security]], [[local-inference]]
+file-created-at:: 2026-08-28
 
 - ## AINews / Latent Space digest — Nvidia buys Hugging Face, open-model specs, agent security
 	- **Source**: AINews (a Latent Space section), issue dated August 28, 2026, covering August 22–24. **Sourcing quality varies enormously within this document and must be tracked per item**: some entries are first-party announcements, but the acquisition story is relayed through Reddit posts citing Business Insider, The Information, and Reuters with **inconsistent figures**, and several performance claims are single-user Twitter or Reddit reports. Flagged inline below.

@@ -1,4 +1,5 @@
 tags:: [[AI]], [[scaling]], [[data]], [[synthetic-data]], [[architecture]], [[MoE]], [[AI-capex]], [[research]]
+file-created-at:: 2025-03-01
 
 - ## Beren Millidge: scaling laws belong to the data, not the model
 	- **Source**: [The Scaling Laws Are In Our Stars, Not Ourselves](https://www.beren.io/2025-03-01-The-Scaling-Laws-Are-In-Our-Stars-Not-Ourselves/), Beren Millidge, March 1, 2025. **The earliest and most theoretical of the three related posts** — the mechanism underneath [[2026-08-15-beren-scaling-is-subtler-than-it-seems]] (which constraints must hold) and [[2026-08-23-beren-architecture-research-as-scaling-bottlenecks]] (how architecture relaxes them). **Author's epistemic status: "Pretty uncertain… does have some support, but is not completely rigorous."** Treat as a working model, not a result.

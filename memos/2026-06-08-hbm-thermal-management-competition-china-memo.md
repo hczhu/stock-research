@@ -1,4 +1,5 @@
 - tags:: [[HBM]], [[semiconductor]], [[packaging]], [[GPU]], [[data-center]], [[capex]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$NVDA]]
+  file-created-at:: 2026-06-08
 
 - **Source**: 《HBM，太热了！》, 李晨光 / 半导体行业观察, 2026-06-08 17:43, user-provided PDF
 

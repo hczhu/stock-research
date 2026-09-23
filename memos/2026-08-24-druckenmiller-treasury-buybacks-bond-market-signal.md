@@ -1,4 +1,5 @@
 tags:: [[macro]], [[interest-rates]], [[Treasury]], [[fiscal]], [[bonds]], [[duration]], [[QE]], [[Druckenmiller]], [[AI-capex]]
+file-created-at:: 2026-08-24
 
 - ## Druckenmiller: Treasury's buyback expansion is price management, not liquidity management
 	- **Source**: Stanley Druckenmiller op-ed, *Wall Street Journal*, August 24, 2026, "Let the Bond Market Speak."

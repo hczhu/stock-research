@@ -1,4 +1,5 @@
 - tags:: [[Kimi]], [[Moonshot]], [[open-weight-models]], [[Anthropic]], [[OpenAI]], [[$GOOG]], [[DeepSeek]], [[GLM]], [[China]], [[commoditization]], [[inference]], [[AI-capex]], [[$NVDA]], [[$TSM]], [[weights-in-silicon]], [[pricing]]
+  file-created-at:: 2026-07-16
 
 - **Source**: Hacker News thread "Kimi K3: Open Frontier Intelligence" (kimi.com), 1,982 points / 1,154 comments, Jul 16 2026; plus the Kimi K3 blog ([kimi.com/blog/kimi-k3](https://www.kimi.com/blog/kimi-k3)) and Artificial Analysis. Investment framing is mine; benchmarks are a dated snapshot (they age out in weeks). Companion to [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]], [[2026-07-13-emerging-market-for-intelligence-nber-llm-pricing]], [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]], [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]], [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]].
 

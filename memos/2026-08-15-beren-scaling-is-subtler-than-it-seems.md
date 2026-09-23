@@ -1,4 +1,5 @@
 tags:: [[AI]], [[scaling]], [[architecture]], [[data]], [[synthetic-data]], [[RL]], [[MoE]], [[inference]], [[$NVDA]], [[AI-capex]], [[research]]
+file-created-at:: 2026-08-15
 
 - ## Beren Millidge: scaling is a regime, not an operation
 	- **Source**: [Scaling is subtler than it seems](https://www.beren.io/2026-08-15-Scaling-is-Subtler-than-it-Seems/), Beren Millidge, August 15, 2026. The **parent post** to [[2026-08-23-beren-architecture-research-as-scaling-bottlenecks]] — read together, this one enumerates the constraints and that one explains architecture research as the work of relaxing them. **Epistemic caveat from the author**: explicitly "vibes" and tacit practitioner knowledge, "oversimplified, but hopefully still useful," and possibly wrong in details.

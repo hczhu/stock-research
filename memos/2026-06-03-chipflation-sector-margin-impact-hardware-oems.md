@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[semiconductor]], [[margins]], [[SaaS]], [[enterprise]], [[smartphones]], [[macro]], [[bear-case]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: Chipflation Passthrough and Sector Impact
 - **Core argument**: Memory inflation is a broad hardware-sector margin risk, creating a divide between AI buyers (who capitalize costs as capex) and non-AI buyers (who absorb costs through COGS/inventory), with low-end smartphones, PCs, gaming consoles, and embedded devices most exposed
 - **Sector exposure by BOM (memory as % of product cost, pre-inflation)**

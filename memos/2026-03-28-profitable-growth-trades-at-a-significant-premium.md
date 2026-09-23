@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Profitable Growth Trades at a Significant Premium
 
 Source: user-provided screenshot.

@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[Anthropic]], [[Claude]], [[AI training]], [[model scaling]], [[AI infrastructure]]
+  file-created-at:: 2026-06-02
 
 - ## Microsoft Slide: Claude Mythos Training Compute
 	- **Source**:

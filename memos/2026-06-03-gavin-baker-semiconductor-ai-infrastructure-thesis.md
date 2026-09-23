@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[$TSM]], [[semiconductor]], [[AI]], [[inference]], [[HBM]], [[DRAM]], [[Cerebras]], [[Groq]], [[hyperscalers]], [[private-credit]], [[$CRWV]], [[capex]], [[orbital-compute]]
+  file-created-at:: 2026-06-03
 
 - ## Gavin Baker on Semiconductor & AI Infrastructure: Watts, Wafers, and the Next Phase
 	- **Source**: Patrick O'Shaughnessy × Gavin Baker conversation, June 2026

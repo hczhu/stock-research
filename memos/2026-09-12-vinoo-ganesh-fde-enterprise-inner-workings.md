@@ -1,4 +1,5 @@
 - tags:: [[$PLTR]], [[FDE]], [[forward-deployed-engineers]], [[AI]], [[enterprise]], [[SaaS]], [[moat]], [[AI-services]]
+  file-created-at:: 2026-09-12
 
 - ## FDEs: What Being Inside the Customer Reveals
 	- **Source**: Vinoo Ganesh, “The Rise of the Forward Deployed Engineer — and How To Do the Job Right,” Latent.Space guest post, September 12, 2026; user-provided text. Ganesh draws on Palantir, Citadel, and Kepler experience; his platform argument also reflects his perspective as Kepler's co-founder.

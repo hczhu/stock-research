@@ -1,4 +1,5 @@
 - tags:: [[$AMD]], [[$INTC]], [[$TSM]], [[$MU]], [[$AMZN]], [[$MSFT]], [[$GOOG]], [[CPU]], [[DRAM]], [[HBM]], [[agents]], [[data-center]], [[semiconductor]], [[supply]], [[pricing]]
+  file-created-at:: 2026-09-18
 
 - ## CPU Shortage: Agent Execution Strains General-Purpose Cloud Capacity
 	- **Source**: User-provided article excerpt, saved September 18, 2026; title, author, and publication date are absent. Includes the author's conversations with infrastructure executives, turbopuffer CEO Simon Eskildsen, an unnamed inference-provider VP, and quoted commentary from Claude Platform's Katelyn Lesse. Claims below are attributed to this excerpt, not independently verified market-wide statistics.

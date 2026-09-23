@@ -1,4 +1,5 @@
 - tags:: [[e-commerce]], [[AI]], [[SaaS]], [[$SHOP]], [[$DASH]], [[$AMZN]], [[$UBER]], [[$LYFT]], [[$ETSY]], [[Waymo]], [[autonomous-vehicles]], [[grocery]], [[advertising]], [[MoffettNathanson]], [[Stratechery]]
+  file-created-at:: 2026-06-20
 
 - **Source**: Stratechery interview — Ben Thompson with Michael Morton (Senior Research Analyst, MoffettNathanson, e-commerce & marketplaces coverage), June 2026. Morton previously interviewed April 2024 and November 2025.
 

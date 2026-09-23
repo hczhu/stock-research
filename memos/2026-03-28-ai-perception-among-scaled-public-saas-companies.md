@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 ## AI Perception Among Scaled Public SaaS Companies
 
 The survey measures the **net percentage of respondents who say AI "helps" each vendor**.

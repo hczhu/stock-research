@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Nvidia Roadmap: Chip/Package and System Form Factor
 
 Context: Data points extracted from the provided Nvidia roadmap screenshot (SemiAnalysis watermark visible).  

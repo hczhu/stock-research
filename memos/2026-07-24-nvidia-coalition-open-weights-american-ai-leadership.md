@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[$META]], [[$MSFT]], [[$IBM]], [[open-weights]], [[open-source]], [[AI-policy]], [[inference]], [[AI]]
+  file-created-at:: 2026-07-24
 
 - ## Open Weights and American AI Leadership — industry coalition letter
 	- **Source**: NVIDIA-hosted PDF, "Open Weights and American AI Leadership," July 24, 2026. A ~3-page policy statement co-signed by 24 organizations. [images.nvidia.com](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)

@@ -1,4 +1,5 @@
 - tags:: [[J.P. Morgan]], [[tech investing]], [[semiconductors]], [[S-curve]], [[Moore's Law]], [[memory]], [[DRAM]], [[NAND]], [[foundry]], [[$NVDA]], [[$TSM]], [[ASML]], [[valuation]], [[EPS revisions]], [[semi cycle]], [[geopolitics]], [[tech hardware]]
+  file-created-at:: 2026-06-07
 
 - ## J.P. Morgan — "Investing in Tech 101" (primer)
 	- **Source**: J.P. Morgan Asia Pacific Equity Research, *Investing in Tech 101*, Jun 2026 (Gokul Hariharan et al.). A framework primer on tech sector structure, semis ecosystem, and how to invest across the three types of tech stocks.

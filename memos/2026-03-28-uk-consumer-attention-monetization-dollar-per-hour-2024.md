@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # UK Consumer Attention Monetization by Channel (2024, $/hour)
 
 Context from screenshot:

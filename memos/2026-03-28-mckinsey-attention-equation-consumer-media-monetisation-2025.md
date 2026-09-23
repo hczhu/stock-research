@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # McKinsey Attention Equation for Consumer Media Monetisation (Exhibit 1)
 
 Context: McKinsey exhibit on how to better explain `$ per hour viewed` by incorporating attention quality, not just monetization mechanics.

@@ -1,4 +1,5 @@
 tags:: [[DRAM]], [[HBM]], [[NAND]], [[memory]], [[semiconductor]], [[AI infrastructure]], [[capex]], [[positioning]], [[hedge-funds]], [[TRS]], [[China]], [[super-cycle]], [[long-term-agreements]], [[OpenAI]], [[Anthropic]], [[Codex]], [[Kimi-K3]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$SNDK]], [[$NVDA]], [[$SOXX]]
+file-created-at:: 2026-07-21
 
 - ## Memory Positioning and the Structural-versus-Cyclical Debate
 	- **Source**: User-provided Chinese-language screenshot, received 21 July 2026; original author and publication date are not visible. The author says the observations came from conversations with several product managers during the preceding two weeks.

@@ -1,4 +1,5 @@
 - tags:: [[$FIG]], [[$ADBE]], [[Figma]], [[Stratechery]], [[Ben-Thompson]], [[Dylan-Field]], [[AI]], [[SaaS]], [[design-tools]], [[developer-tools]], [[collaboration]], [[WebGL]]
+  file-created-at:: 2026-06-25
 -
 - ## Stratechery Interview — Dylan Field On Figma, Design, And AI
 	- **Source**: Stratechery by Ben Thompson, “An Interview with Figma CEO Dylan Field About Design and AI,” June 25, 2026, local PDF extraction.

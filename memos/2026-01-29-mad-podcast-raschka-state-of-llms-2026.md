@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[LLM]], [[transformers]], [[mixture-of-experts]], [[post-training]], [[reinforcement-learning]], [[inference]], [[agents]], [[tool-use]], [[open-source]], [[private-data]], [[model-architecture]], [[AI infrastructure]], [[GPU]], [[$NVDA]], [[$MSFT]], [[$GOOGL]], [[$AMZN]], [[$META]], [[DeepSeek]]
+  file-created-at:: 2026-01-29
 
 - ## State of LLMs 2026: RLVR, GRPO, and Inference Scaling
 	- **Source**: [The MAD Podcast with Matt Turck — “State of LLMs 2026: RLVR, GRPO, Inference Scaling — Sebastian Raschka”](https://open.spotify.com/episode/4kZjotQMlbFegGRY9PJr3U), published 29 January 2026; user-supplied transcript.

@@ -1,4 +1,5 @@
 - tags:: [[macro]], [[labor]], [[real-estate]], [[commercial-real-estate]], [[office]], [[AI]], [[AI-capex]], [[housing]], [[$META]], [[OpenAI]], [[Anthropic]], [[labor-displacement]]
+  file-created-at:: 2026-08-03
 
 - ## SF Controller Q2 2026: The AI Boom Shows Up in Rents, Not in Jobs
 	- **Source**: **"Status of the San Francisco Economy: 2026 Second Quarter,"** City and County of San Francisco, **Office of the Controller, Office of Economic Analysis, Aug 3 2026.** First-party municipal data compiled from EDD, JLL, Kastle, Indeed, Placer.ai, STR, ApartmentList and Zillow. Published quarterly — a recurring, free, primary-source series worth tracking rather than a one-off.

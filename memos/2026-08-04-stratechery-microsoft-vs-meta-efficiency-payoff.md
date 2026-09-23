@@ -1,4 +1,5 @@
 tags:: [[$MSFT]], [[$META]], [[Stratechery]], [[Azure]], [[AI-capex]], [[capex]], [[accounting]], [[leases]], [[inference]], [[agents]], [[enterprise]], [[hyperscalers]]
+file-created-at:: 2026-08-04
 
 - ## Stratechery: Microsoft earnings, Microsoft vs. Meta, and the efficiency payoff
 	- **Source**: Stratechery Update, Ben Thompson, "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff," August 4, 2026. Covers Microsoft's FY2026 Q4 (June quarter) call and contrasts it with [[META-2026-Q2]].

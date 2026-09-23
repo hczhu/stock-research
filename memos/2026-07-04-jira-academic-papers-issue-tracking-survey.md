@@ -1,4 +1,5 @@
 tags:: [[$TEAM]] [[Atlassian]] [[Jira]] [[JQL]] [[issue-tracking]] [[developer-tools]] [[AI-agents]] [[Confluence]] [[Bitbucket]] [[research-papers]] [[enterprise-software]]
+file-created-at:: 2026-07-04
 
 -
 - ## Jira in academic papers — issue-tracking & agent-platform survey

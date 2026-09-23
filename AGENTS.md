@@ -1,3 +1,5 @@
+file-created-at:: 2026-09-14
+
 # AGENTS.md
 
 Guidance for AI coding assistants (Claude Code, Codex, etc.) working in this repository.
@@ -44,6 +46,21 @@ earnings/<Ticker>/<Ticker>-YYYY-QN.md
 ```
 
 Example: `earnings/SNOW/SNOW-2026-Q1.md`.
+
+## `file-created-at::` Property
+
+Every `.md` file in this repo carries a Logseq page property recording when it was created:
+
+```
+file-created-at:: 2024-06-15
+```
+
+**Add it whenever you create a new `.md` file.**
+
+- **Placement** — it must sit in the file's *first block*, so Logseq reads it as a page property. In a plain file, that is a bare line at the very top followed by a blank line. When the file already opens with a property block, add it as another line of that same block: a bare line under a bare `tags:: …`, or a two-space-indented `  file-created-at:: …` under a `- tags:: …` bullet. In a file with YAML front matter, it goes just after the closing `---`.
+- **Value** — the creation date as `YYYY-MM-DD`. When the filename carries a date (`YYYY-MM-DD-topic.md`), use the **earlier** of the filename date and the file's creation timestamp; otherwise use the creation timestamp.
+
+Backfilled across the repo on 2026-09-23.
 
 ## Memo Format
 

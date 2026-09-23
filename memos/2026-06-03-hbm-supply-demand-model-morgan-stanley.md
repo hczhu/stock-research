@@ -1,4 +1,5 @@
 - tags:: [[HBM]], [[DRAM]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$NVDA]], [[$AMD]], [[$GOOGL]], [[AWS]], [[$MSFT]], [[CoWoS]], [[semiconductor]], [[supply]], [[AI infrastructure]]
+  file-created-at:: 2026-06-03
 
 - ## HBM Supply and Demand Model — Morgan Stanley Exhibit 30
 	- **Source**: Morgan Stanley Research estimates, Company data (Exhibit 30)

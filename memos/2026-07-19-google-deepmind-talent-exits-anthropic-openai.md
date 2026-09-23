@@ -1,4 +1,5 @@
 - tags:: [[$GOOGL]], [[Google-DeepMind]], [[Gemini]], [[Anthropic]], [[Claude]], [[OpenAI]], [[AI]], [[AI-coding]], [[AI-talent]], [[foundation-models]], [[life-sciences]], [[IPO]], [[compute]]
+  file-created-at:: 2026-07-19
 
 - **Source**: Bloomberg, “Google to Lose High-Profile AI Staffers to Rival Anthropic” (user-provided excerpt; publication date and author not supplied).
 - **Thesis**: Google DeepMind is losing a connected group of high-value researchers to Anthropic and OpenAI across Gemini, coding, pre-training, AI safety and protein-folding work. Alphabet still has the industry's broadest research bench, but the departures expose two risks that scale alone may not solve: pre-IPO equity can overcome Big Tech compensation, and internal allocation of scarce compute can determine whether elite researchers believe their work will be prioritized.

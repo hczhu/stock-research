@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]], [[$DDOG]], [[$GOOGL]], [[SaaS]], [[vibe-coding]], [[coding-agents]], [[observability]], [[developer-tools]], [[enterprise-software]], [[indie-hackers]], [[X-post]]
+  file-created-at:: 2026-07-27
 
 - ## Vibe-Coding Demand Destruction vs. the Operating Cost of SaaS
 	- **Source**: Own X posts (@hzhu_), July 26–27, 2026, replying to [@levelsio](https://x.com/levelsio) on declining indie-hacker revenue and quoting [@thericebowlgirl](https://x.com/thericebowlgirl) on a vibe-coded Jira replacement. First-party analysis; the underlying third-party anecdotes are extracted separately.

@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-13
+
 - **Source**: `/Users/hc/Downloads/CLSA tour AI expert Apr 2026.pdf`
 - **Document context**:
 	- PDF creation date: `2026-04-13`

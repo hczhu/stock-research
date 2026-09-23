@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # US SaaS Median Growth Rate by Quarter (Estimated from Chart)
 
 Context extracted from screenshot:

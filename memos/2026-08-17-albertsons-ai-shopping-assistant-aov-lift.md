@@ -1,4 +1,5 @@
 tags:: [[$ACI]], [[Albertsons]], [[retail]], [[grocery]], [[e-commerce]], [[enterprise]], [[agents]], [[ROI]], [[AI]]
+file-created-at:: 2026-08-17
 
 - ## Albertsons: 10% and 26% AOV lifts from AI shopping assistants
 	- **Source**: *WSJ* CIO Journal, Isabelle Bousquette, August 17, 2026, interviewing **Jill Pavlovich**, SVP of digital shopping experiences at Albertsons. **First-party operator disclosure with specific numbers** — rare in enterprise AI, and the reason this is worth filing despite being a single company anecdote.

@@ -1,4 +1,5 @@
 - tags:: [[$AVGO]], [[Broadcom]], [[OpenAI]], [[$CBRS]], [[Cerebras]], [[$MU]], [[HBM]], [[DRAM]], [[SRAM]], [[AI-accelerators]], [[inference]], [[ASIC]], [[$NVDA]], [[$MRVL]], [[SK-Hynix]], [[TSMC]], [[Taalas]], [[semiconductors]]
+  file-created-at:: 2026-07-06
 
 - **Source**: Hacker News thread on "OpenAI unveils its first custom chip, built by Broadcom" (techcrunch.com), 831 points / 468 comments, ~Jun 24 2026 announcement (thread read Jul 6 2026). Chip codename **Jalapeño**, inference-only. Investment framing is mine; focus per request is read-through for **Cerebras** and **DRAM/HBM makers**. Companion to [[DRAM-memory-ssd-index-thesis]], [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]] (memory-hierarchy angle), and [[MediaTek-thesis]] (Broadcom-vs-MediaTek ASIC competition).
 

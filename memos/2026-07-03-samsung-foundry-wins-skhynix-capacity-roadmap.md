@@ -1,4 +1,5 @@
 - tags:: [[Samsung]], [[SK-hynix]], [[HBM]], [[DRAM]], [[NAND]], [[foundry]], [[Anthropic]], [[$NVDA]], [[Google]], [[TPU]], [[AI-ASIC]], [[semiconductor]], [[advanced-packaging]], [[capex]], [[ASML]], [[MLCC]]
+  file-created-at:: 2026-07-03
 
 - **Source**: Aggregated memory/foundry news feed, June 8 – July 3 2026 (The Information, TrendForce, DIGITIMES, Yonhap, Reuters, Business Korea, The Elec). Companion to [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]] — that memo covers pricing/demand/shortage-spillover; this one covers the **foundry customer-win** and **capacity/NAND roadmap** angles from the same cycle.
 

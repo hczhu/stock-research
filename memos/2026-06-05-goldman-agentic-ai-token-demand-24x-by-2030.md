@@ -1,4 +1,5 @@
 tags:: [[AI infrastructure]], [[agents]], [[inference]], [[token economics]], [[compute]], [[DRAM]], [[HBM]], [[Morgan Stanley]], [[forecast]], [[demand]]
+file-created-at:: 2026-06-05
 
 - ## Goldman Sachs — Agentic AI Token Use to Multiply ≈24× by 2030
 	- **Source**: Goldman Sachs Research, "Token use by AI agents is expected to multiply 24 times by 2030" (estimates as of May 2026)

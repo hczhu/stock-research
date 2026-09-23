@@ -1,4 +1,5 @@
 tags:: [[$MSFT]] [[$AMZN]] [[$GOOGL]] [[$NVDA]] [[OpenAI]] [[Anthropic]] [[AI]] [[AI-agents]] [[inference]] [[enterprise-software]] [[cloud]] [[developer-tools]]
+file-created-at:: 2026-07-02
 
 -
 - ## TokenBudgeting: enterprise token spend memo

@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # UK Media: Consumption vs Revenue vs Earnings by Industry (2024 Estimates)
 
 Context extracted from screenshot:

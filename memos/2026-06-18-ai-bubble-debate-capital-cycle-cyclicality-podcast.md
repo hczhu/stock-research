@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[bubble]], [[capital-cycle]], [[semiconductor]], [[$NVDA]], [[$MU]], [[$AMD]], [[$TSM]], [[capex]], [[hyperscalers]], [[valuation]], [[Anthropic]], [[OpenAI]], [[memory]]
+  file-created-at:: 2026-06-18
 
 - **Source**: Synopsis Business & Investing Podcast (hosts Drew + Alex), episode debating "Is AI a bubble?" (~Jun 2026). Structured as a two-sided debate: "pro-bubble" (a bubble exists) vs "counter" (we're not in one yet).
 

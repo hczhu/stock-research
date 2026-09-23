@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[DRAM]], [[LPDDR5X]], [[SoCAMM2]], [[Vera-Rubin]], [[NVL72]], [[AI infrastructure]], [[memory]], [[substrate]], [[Meritz]]
+  file-created-at:: 2026-06-04
 
 - ## NVIDIA NVL72 SoCAMM2 Capacity Cut — Total LPDDR Demand Actually Rising
 	- **Source**: Meritz Securities Korea (Sunwoo Kim, Seungsoo Yang), comment on the SoCAMM2 rumor, June 2026

@@ -1,4 +1,5 @@
 - tags:: [[$GOOGL]], [[Google]], [[search]], [[advertising]], [[ad-tech]], [[AI]], [[capex]], [[antitrust]], [[pricing-power]]
+  file-created-at:: 2026-07-23
 
 - ## Google Search Advertiser-Extraction Debate
 	- **Source**: Max Anderson X thread (text supplied) and [Eric Seufert rebuttal](https://x.com/eric_seufert/status/2080314793391526377), 23 July 2026; checked against [Alphabet Q2 2026 results](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf), [Google Ads auction](https://support.google.com/google-ads/answer/6297), [keyword matching](https://support.google.com/google-ads/answer/9342105), and [spending-limit](https://support.google.com/google-ads/answer/10486637) documentation, plus the 2025 federal [Google search-remedies opinion](https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1%3A2020cv03010/223205/1436/).

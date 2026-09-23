@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[HBM]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$285A.T]], [[$ASML]], [[semiconductor]], [[capex]], [[super-cycle]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Sections: Memory – A Multi-Year Bottleneck; Memory 101 Primer; Memory Cycle Monitor
 - **Core argument**: Supply response to the AI-driven memory demand surge is real but phased — structural lead times mean shortages persist through 2027 and potentially beyond, and the cycle looks fundamentally different from prior memory upcycles
 - **Supply response timeline (tool capacity → qualified memory output)**

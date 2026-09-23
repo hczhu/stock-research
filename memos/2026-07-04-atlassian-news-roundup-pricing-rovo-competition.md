@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]], [[Atlassian]], [[Jira]], [[Rovo]], [[Loom]], [[SaaS]], [[AI]], [[developer-tools]], [[pricing]], [[competitive-landscape]], [[$MSFT]], [[Linear]]
+  file-created-at:: 2026-07-04
 
 - **Source**: Aggregated Atlassian news + community feed, June 4 – July 4 2026 (Inside Atlassian blog, r/atlassian & r/jira, DEV Community, Gartner/Forrester, Reddit r/ValueInvesting, GitHub Changelog, customer case studies). Companion to [[Atlassian-TEAM-thesis]], [[2026-06-05-atlassian-jira-product-sentiment-fishman]], [[2026-07-02-atlassian-team26-ai-products-rovo-teamwork-graph]], [[2026-07-04-jira-its-ite-phd-dissertation-complexity-moat]].
 

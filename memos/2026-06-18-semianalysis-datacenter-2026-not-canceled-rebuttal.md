@@ -1,4 +1,5 @@
 - tags:: [[data-center]], [[AI]], [[capex]], [[hyperscalers]], [[$VRT]], [[power]], [[ERCOT]], [[$ORCL]], [[$NBIS]], [[CoreWeave]], [[$NVDA]], [[SemiAnalysis]], [[neocloud]], [[BtM]], [[transformers]]
+  file-created-at:: 2026-06-18
 
 - **Source**: SemiAnalysis — "Stop Saying Half of 2026 US Datacenter Capacity Is Canceled" (Reyk Knuhtsen, Maya Barkin, Jeremie Eliahou Ontiveros + 2 others), Jun 18, 2026. Paid post.
 

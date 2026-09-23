@@ -1,4 +1,5 @@
 - tags:: [[Unitree]], [[robotics]], [[humanoid]], [[China]], [[$TSLA]], [[BYD]], [[DJI]], [[actuators]], [[verticalization]], [[supply-chain]], [[automation]], [[labor]], [[$NVDA]], [[SemiAnalysis]]
+  file-created-at:: 2026-06-08
 
 - ## Unitree — "China Will Dominate Global Robotics" (SemiAnalysis)
 	- **Source**: SemiAnalysis, "China's Unitree Will Dominate Global Robotics" (Reyk Knuhtsen, Niko Ciminelli, Jacob Rintamaki + 4), Jun 8 2026.

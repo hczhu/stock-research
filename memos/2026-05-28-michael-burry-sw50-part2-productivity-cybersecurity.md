@@ -1,4 +1,5 @@
 - tags:: [[$ADBE]], [[$DOCU]], [[$INTU]], [[$ADSK]], [[$U]], [[$ZS]], [[$PANW]], [[$CRWD]], [[SaaS]], [[cybersecurity]], [[software]], [[Michael-Burry]], [[AI]], [[valuation]]
+  file-created-at:: 2026-05-28
 
 - ## SW50 Part II: Productivity Tools & Cybersecurity — Michael Burry Analysis
 	- **Source**: Michael Burry, Cassandra Unchained, "50 Software & Payments Stocks Part II: Productivity Tools and Cybersecurity", May 28, 2026

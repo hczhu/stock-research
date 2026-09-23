@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[AI]], [[ads]], [[consumer internet]], [[capex]], [[data-center]], [[cloud]], [[podcast]], [[Stratechery]]
+  file-created-at:: 2026-07-10
 
 - ## Sharp Tech — Meta AI, Ads, and Zuckerberg Strategy
 	- **Source**: User-provided transcript from `Sharp Tech` with Andrew Sharp and Ben Thompson, July 2026.
