@@ -1,4 +1,5 @@
 - tags:: [[$INTC]], [[$NVDA]], [[$AMD]], [[$TSM]], [[$MSFT]], [[$AAPL]], [[semiconductor]], [[foundry]], [[platform]], [[x86]], [[CUDA]], [[EUV]], [[capex]], [[AI]], [[moat]], [[turnaround]]
+  file-created-at:: 2025-01-01
 
 - **Source**: Michael A. Cusumano, "Intel's Fall from Grace," *Communications of the ACM*, January 2025, Vol. 68, No. 1, pp. 30-32, DOI: 10.1145/3704288. PDF created December 18, 2024. Market values and operating conditions below are the article's late-2024 snapshot, not current figures.
 - **Thesis**: Intel's decline came from two mutually reinforcing strategic failures: it did not adapt its x86 platform quickly enough when computing shifted from PCs to mobile and AI, and it preserved vertically integrated manufacturing after fabrication became a specialized, separable business. Falling product relevance weakened the demand and cash flow needed to support leading-edge fabs, while manufacturing delays made Intel products less competitive. The result is a negative feedback loop that subsidies alone cannot repair without credible process execution, external foundry customers, and a stronger software-enabled AI platform.

@@ -1,4 +1,5 @@
 - tags:: [[$SHOP]], [[Shopify]], [[management]], [[culture]], [[governance]], [[organizational-design]], [[engineering]], [[software-engineering]], [[technical-debt]], [[founder-lessons]], [[key-person-risk]], [[e-commerce]], [[SaaS]]
+  file-created-at:: 2026-09-11
 
 - ## Tobi Lütke on "Founder-Mode-as-a-Service" — Shopify's Escalation Valve and Its Counterweight
 	- **Source**: Tobi Lütke (@tobi), X post, Sep 11 2026, 6:40 AM — 258.1K views, 2.8K likes, 887 bookmarks, 163 reposts, 162 replies. He is replying to an anonymous ex-employee account relayed third-hand (anonymous comment → @mustafa01ali → @ErfanEbrahimnia → Lütke's quote). **A Community Note was proposed on Lütke's post.**

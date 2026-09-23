@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Datadog Log Management ARR Scaling (2020-2025) - Extracted Data Points
 
 Source: chart titled `Log Management data scaling` / `Log Management ARR, 2020-2025`.

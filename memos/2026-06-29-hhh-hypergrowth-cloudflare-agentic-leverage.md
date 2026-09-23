@@ -1,4 +1,5 @@
 - tags:: [[Cloudflare]], [[$NET]], [[AI]], [[agents]], [[AI-productivity]], [[operating-leverage]], [[enterprise-AI]], [[developer-tools]], [[SASE]], [[Zero-Trust]], [[data-platform]], [[SaaS]], [[workforce]], [[model-routing]]
+  file-created-at:: 2026-06-29
 
 - ## Cloudflare's Agentic Leverage: Cloudflare OS, Workforce Reset, and Margin Expansion
 	- **Source**: HHHYPERGROWTH, “Premium: Agentic leverage,” by Muji, 29 June 2026; email copy supplied by the user. The article synthesizes Cloudflare Q1 FY2026 results and its June investor briefing.

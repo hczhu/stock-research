@@ -1,4 +1,5 @@
 tags:: [[Fable]], [[Anthropic]], [[Mythos]], [[agents]], [[multi-agent]], [[token economics]], [[model routing]], [[benchmark]], [[inference]], [[HBM]], [[CXL]], [[$NVDA]], [[OpenAI]], [[Cursor]], [[China]]
+file-created-at:: 2026-06-16
 
 - ## Fable 5 讨论 Notes — Best Ideas 社群(2026 年 6 月)
 	- **来源(Source)**:海外独角兽转载 Best Ideas 社群《Fable 5 讨论 Notes | Best Ideas》,2026-06。共 76 条一线/投研观点,分 7 个部分。Fable 5 为 Anthropic 前沿模型(Mythos 为其更强的内部/同代上限模型)。

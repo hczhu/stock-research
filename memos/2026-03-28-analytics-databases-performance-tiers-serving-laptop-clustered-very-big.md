@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Analytics Database Performance Tiers (Serving, Laptop, Clustered, Very Big)
 
 Source: user-provided screenshot titled `How do we think about performance`.

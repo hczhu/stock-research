@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[memory]], [[$MU]], [[Samsung]], [[SK-hynix]], [[$SNDK]], [[semiconductor]], [[AI]], [[data-center]], [[capex]], [[$AAPL]], [[CXMT]], [[pricing]], [[supply-shortage]]
+  file-created-at:: 2026-07-03
 
 - **Source**: Aggregated memory-sector news feed, June 15 – July 3 2026 (TrendForce, DIGITIMES, CLSA, Yonhap, WSJ/Korea press, Micron earnings, Ming-Chi Kuo, Bernstein/Citi/Goldman), plus user-provided DRAM/HBM market-data synthesis. Companion to [[DRAM-memory-ssd-index-thesis]].
 

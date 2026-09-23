@@ -1,4 +1,5 @@
 - tags:: [[$NFLX]], [[Netflix]], [[streaming]], [[content-strategy]], [[engagement]], [[long-tail]], [[media]], [[advertising]], [[consumer-internet]]
+  file-created-at:: 2026-07-20
 
 - **Source**: The Hollywood Reporter (THR) analysis of Netflix data — "Netflix View Share – Movies," first half of 2026. Covers 9,177 listed movies (excludes any under 50,000 views). Investment framing is mine.
 

@@ -1,4 +1,5 @@
 tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[valuation]], [[video-games]], [[Japan]], [[China]], [[EV-sales]], [[PE]]
+file-created-at:: 2026-07-03
 
 - **Source**: User-provided screenshot titled "Valuation Comps Table — Exhibit 1: Japan Video Gaming: valuation summary." Source line in screenshot: corporate reports, Bloomberg, Bernstein estimates and analysis. The screenshot states that 2026-2028E multiples are shown for companies with December year ends.
 - **Scope**: Extracted valuation-comps data points from the screenshot and reorganized the table with Roblox as the first row.

@@ -1,4 +1,5 @@
 - tags:: [[NAND]], [[SSD]], [[YMTC]], [[Lenovo]], [[China]], [[semiconductor]], [[memory]], [[PC]], [[laptop]], [[$MU]], [[$005930.KS]], [[Kioxia]], [[SanDisk]], [[Western-Digital]]
+  file-created-at:: 2026-07-03
 -
 - ## Notebookcheck — YMTC SSD Appears In Lenovo ThinkBook
 	- **Source**: Notebookcheck, “New era for storage: Chinese made laptop SSD tested in Lenovo laptop for the first time,” Benjamin Herzig, July 3, 2026.

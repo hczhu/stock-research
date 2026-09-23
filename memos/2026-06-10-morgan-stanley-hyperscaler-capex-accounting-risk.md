@@ -1,4 +1,5 @@
 tags:: [[Morgan Stanley]], [[hyperscalers]], [[AI infrastructure]], [[capex]], [[accounting]], [[leases]], [[depreciation]], [[supplier-financing]], [[$ORCL]], [[$MSFT]], [[$GOOGL]], [[$META]], [[$AMZN]], [[$NVDA]]
+file-created-at:: 2026-06-10
 
 - **Source**: User-provided text and screenshots from a Morgan Stanley report on hyperscaler AI capex accounting and obligations.
 - **Theme**: The unsettling part of the AI infrastructure boom is not only the size of hyperscaler capex, but the way future cash obligations are being engineered through purchase commitments, leases not yet commenced, RPO, supplier financing, construction-in-progress accounting, and subjective lease/service classifications.

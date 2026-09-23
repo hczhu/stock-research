@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[consumer-internet]], [[AI-products]], [[multimodal]], [[coding-agents]], [[content-platforms]], [[UGC]], [[China]]
+  file-created-at:: 2026-07-02
 
 - **Source**: User-provided Chinese podcast transcript, apparently a follow-up interview with Albert about AI product exploration, interaction breakthroughs, multimodal content, coding agents, and founder operating philosophy. The transcript is machine-generated / noisy; names such as `Higgsfield`, `Sora 2`, `Veo 3`, `Kling`, `Claude Opus`, `Cursor`, `Lovable`, and `Replit` are normalized from context where possible.
 - ## Executive Summary

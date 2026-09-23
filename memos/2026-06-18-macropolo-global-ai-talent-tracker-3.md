@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[talent]], [[China]], [[US]], [[geopolitics]], [[immigration]], [[semiconductor]], [[AI-policy]]
+  file-created-at:: 2026-06-18
 
 - **Source**: MacroPolo — Global AI Talent Tracker 3.0, 2025. Dataset: 4,622 researchers across 78 countries, drawn from NeurIPS 2024 (3,587 papers), ICML 2024 (2,609 papers), and ICLR 2025 (2,891 papers). 852+ citing institutions. Methodology: undergraduate institution as country-of-origin proxy; Google Scholar + LinkedIn verification; 10% manual validation; >95% inter-coder reliability.
 

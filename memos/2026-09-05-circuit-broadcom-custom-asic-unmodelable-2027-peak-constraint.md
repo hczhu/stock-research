@@ -1,4 +1,5 @@
 - tags:: [[$AVGO]], [[Broadcom]], [[$NVDA]], [[$MRVL]], [[$MTK]], [[$2454.TW]], [[$MU]], [[$TSM]], [[AI-ASIC]], [[custom-silicon]], [[networking]], [[optical-interconnect]], [[semiconductor]], [[supply]], [[capex]], [[data-center]], [[open-weights]], [[security]], [[agents]], [[The Circuit]]
+  file-created-at:: 2026-09-05
 
 - ## The Circuit — Broadcom's Custom ASIC Business Is Becoming Unmodelable, and 2027 as Peak Constraint
 	- **Source**: The Circuit podcast, Ben Bajarin and Jay Goldberg, early September 2026. Internal references place the recording after Broadcom's FQ3 report, after the Nvidia–Hugging Face announcement, and before the Astra launch. Self-promotional segment on their own Atlas product omitted except where it carries a datapoint.

@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[HBM]], [[DRAM]], [[memory]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$TSM]], [[$AMD]], [[$META]], [[SemiAnalysis]], [[AI-ASIC]], [[inference]], [[bandwidth]], [[supply]], [[advanced-packaging]], [[substrates]], [[semiconductor]], [[token-economics]]
+  file-created-at:: 2026-09-14
 
 - ## SemiAnalysis — Why 4-High HBM Wins, and Rubin Ultra Falls From 1TB to 192GB
 	- **Source**: SemiAnalysis, **"Long Live the Short King: Why 4-hi HBM Wins"** — Myron Xie, Bryan Shan, Harrison Barclay and two others, **Sep 13 2026**, paid. Full 26-page article added Sep 16 2026, superseding the earlier partial extraction; the **Semi Weekly podcast episode** discussing it is the same source. Analyst commentary is Myron's; the host presses on the supply-chain consequences. Memory-supplier specifics were kept behind their paywall and are absent here.

@@ -1,4 +1,5 @@
 tags:: [[OpenAI]], [[AI infrastructure]], [[data-center]], [[GPU]], [[inference]], [[ASIC]], [[networking]], [[power]], [[liquid-cooling]], [[capex]], [[hyperscalers]], [[neocloud]], [[$NVDA]], [[$AVGO]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$ORCL]], [[$CRWV]], [[$VRT]], [[$ETN]]
+file-created-at:: 2026-07-16
 
 - ## OpenAI's Compute Chief: Why Underbuilding Is the Central Risk
 	- **Source**: [The MAD Podcast with Matt Turck — “OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti”](https://www.listennotes.com/podcasts/the-mad-podcast-with-matt-turck-matt-turck-Eds9im1A0zL/), published 16 July 2026; user-supplied transcript.

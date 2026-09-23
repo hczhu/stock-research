@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[semiconductor]], [[macro]], [[AI infrastructure]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[capex]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Section: Chips, Growth and Inflation – A Macro Perspective
 - **Core argument**: Chipflation is clearly visible in PPI but has a muted effect on headline CPI due to small basket weights; the bigger macroeconomic risk is the indirect transmission through corporate margins, cloud bills, capex budgets, and delayed technology deployment
 - **PPI impact — where chipflation is most visible**

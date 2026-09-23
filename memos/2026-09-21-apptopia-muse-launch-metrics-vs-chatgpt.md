@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[Meta]], [[Muse]], [[OpenAI]], [[ChatGPT]], [[consumer-internet]], [[app-store]], [[DAU]], [[distribution]], [[agents]], [[AI]], [[Apptopia]], [[competitive-landscape]]
+  file-created-at:: 2026-09-21
 
 - ## Apptopia's Muse Launch Estimates — Meta Beats ChatGPT's Curve, and the Comparison Is Unfair in Both Directions
 	- **Source**: Alex Heath ([@alexeheath](https://x.com/alexeheath)), X post, **Sep 21 2026**, 12.7K views. Figures are **Apptopia estimates**, which Heath flags himself: *"External estimates but directionally interesting."* Third-party panel data, not first-party disclosure from Meta or OpenAI.

@@ -1,4 +1,5 @@
 tags:: [[$AAPL]], [[$META]], [[Stratechery]], [[App-Store]], [[regulation]], [[antitrust]], [[DMA]], [[ATT]], [[advertising]], [[services]], [[take-rate]]
+file-created-at:: 2026-08-19
 
 - ## Stratechery: Apple settles with the E.U. and proposes U.S. fees, and Germany unwinds ATT
 	- **Source**: Stratechery Update, Ben Thompson, August 19, 2026, aggregating Bloomberg (E.U. settlement), TechCrunch (U.S. court filing), the *Financial Times* (Services impact), Reuters and the **Bundeskartellamt** press release (ATT commitments).

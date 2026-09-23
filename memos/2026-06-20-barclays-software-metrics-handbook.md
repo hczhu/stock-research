@@ -1,4 +1,5 @@
 - tags:: [[SaaS]], [[software]], [[metrics]], [[valuation]], [[unit-economics]], [[ARR]], [[churn]], [[FCF]], [[Rule-of-40]], [[Barclays]]
+  file-created-at:: 2026-06-20
 
 - **Source**: Barclays Research — "The Metrics Handbook: A Guide to Analyzing Software," 7 December 2020. Analyst: Raimo Lenschow, CFA.
 

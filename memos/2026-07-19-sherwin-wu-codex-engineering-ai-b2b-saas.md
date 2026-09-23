@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[coding-agents]], [[Codex]], [[OpenAI]], [[developer-tools]], [[enterprise-software]], [[B2B-SaaS]], [[agents]], [[software-engineering]], [[automation]], [[productivity]], [[$MSFT]], [[$GTLB]], [[$TEAM]], [[$DDOG]], [[$NOW]], [[$CRM]], [[$PATH]]
+  file-created-at:: 2026-07-19
 
 - **Source**: Lenny's Podcast interview with Sherwin Wu, Head of Engineering for OpenAI's API and developer platform (user-provided transcript; publication date not supplied).
 - **Transcription note**: Obvious automated-transcript errors were normalized where clear, including “codecs” to “Codex.”

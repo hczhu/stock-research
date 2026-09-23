@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[Astra]], [[ChatGPT]], [[agents]], [[computer-use]], [[Stratechery]], [[Ben-Thompson]], [[$NVDA]], [[$MSFT]], [[$AVGO]], [[healthcare]], [[security]], [[alignment]], [[AI infrastructure]], [[inference]], [[compute]], [[custom-silicon]], [[EDA]], [[AGI]], [[product-strategy]]
+  file-created-at:: 2026-09-04
 
 - ## Brockman on Astra, Computer Use, and 25% of Engineers Pointed at Security
 	- **Source**: Ben Thompson, "An Interview with OpenAI President Greg Brockman About Astra and Alignment," Stratechery, Sep 4 2026. Recorded **before** the Astra announcement. Biography and Stripe-era material omitted as non-investable.

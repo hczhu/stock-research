@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[Nvidia]], [[Stratechery]], [[Ben-Thompson]], [[earnings]], [[AI infrastructure]], [[data-center]], [[capex]], [[supply]], [[open-weights]], [[Hugging Face]], [[sovereign-AI]], [[neoclouds]], [[custom-silicon]], [[OpenAI]], [[$MSFT]], [[CUDA]], [[moat]], [[power]], [[semiconductor]]
+  file-created-at:: 2026-09-01
 
 - ## Stratechery on Nvidia's Quarter — The First-Party Dollars-Per-Gigawatt Numbers, and Avoiding a Consolidated World
 	- **Source**: Ben Thompson, "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face," Stratechery Update, Sep 1 2026, quoting Bloomberg and the earnings call (CFO Colette Kress, CEO Jensen Huang).

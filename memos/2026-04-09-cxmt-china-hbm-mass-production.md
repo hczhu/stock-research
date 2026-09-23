@@ -1,4 +1,5 @@
 - tags:: [[CXMT]], [[HBM]], [[DRAM]], [[China]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[semiconductor]]
+  file-created-at:: 2026-04-09
 
 - ## China's CXMT Moving to 12-High HBM3/HBM3E Mass Production in 2027
 	- **Source**: Industry sources via Korean trade press, April 8–9, 2026

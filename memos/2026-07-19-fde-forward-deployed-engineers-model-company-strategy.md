@@ -1,4 +1,5 @@
 - tags:: [[FDE]], [[forward-deployed-engineers]], [[Anthropic]], [[OpenAI]], [[$PLTR]], [[agents]], [[Skills]], [[RL-environments]], [[enterprise]], [[moat]], [[labor-displacement]], [[AI-services]], [[token-demand]]
+  file-created-at:: 2026-07-19
 
 - **Source**: User-provided Chinese-language commentary on **FDE (Forward Deployed Engineers)** as a frontier-lab go-to-market and data-capture strategy, plus practitioner advice on building a compounding delivery flywheel. Translated/synthesized; investment framing is mine. Companion to [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]] (RL-environments / capturing white-collar work), [[2026-07-09-starbucks-ai-insourcing-enterprise-software]], [[2026-04-13-enterprise-ai-agents-field-notes]], and [[2026-05-03-critical-steps-for-implementing-ai-agents-in-large-enterprises]].
 

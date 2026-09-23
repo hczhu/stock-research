@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-07
+
 - **Source**: Michael Dell, CEO of [[$DELL]], speaking at a Bank of America event on `2026-04-07` (local time), based on the user-provided text
 - **Topic**: Why AI infrastructure could drive an extreme memory-demand expansion, and why supply may stay tight
 - **Summary of Michael Dell's argument**

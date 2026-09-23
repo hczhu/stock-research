@@ -1,4 +1,5 @@
 - tags:: [[CPU]], [[$INTC]], [[$AMD]], [[$ARM]], [[RISC-V]], [[x86]], [[ISA]], [[Graviton]], [[fragmentation]], [[server]], [[memory-bandwidth]], [[DRAM]], [[agents]], [[data-center]], [[TCO]], [[supply]], [[semiconductor]], [[$AMZN]], [[$MSFT]]
+  file-created-at:: 2026-09-21
 
 - ## Expert Call: The CPU Shortage Is a GPU Over-Build Correction, and Cores Are the Wrong Metric
 	- **Source**: Expert-network call transcript (Client/Expert format with timestamps), anonymous data-center CPU expert. **Four highlighted excerpts supplied, not the full call**, spanning roughly 00:01:57–00:27:06. **No date shown and no attribution of the expert's affiliation** — both material, because this is a paid practitioner opinion, not reported fact.

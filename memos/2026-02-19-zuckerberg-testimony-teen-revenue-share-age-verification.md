@@ -1,4 +1,5 @@
 tags:: [[$META]], [[Meta]], [[$GOOGL]], [[$SNAP]], [[$AAPL]], [[TikTok]], [[legal]], [[regulation]], [[teen-safety]], [[advertising]]
+file-created-at:: 2026-02-19
 
 - ## Zuckerberg's trial testimony: teens are 1% of revenue, and age limits are "very difficult" to enforce
 	- **Source**: Bloomberg (Riley Griffin, Madlin Mekelburg), February 19, 2026, on Zuckerberg's testimony in the Los Angeles Superior Court social-media addiction trial. **Six months before** the state-AG agreement in [[2026-08-26-meta-state-ag-teen-safety-agreement]] — this is the litigation backdrop that explains why that settlement happened and how to price it.

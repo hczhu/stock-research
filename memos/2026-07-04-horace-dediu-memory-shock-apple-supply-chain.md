@@ -1,4 +1,5 @@
 tags:: [[$AAPL]], [[Apple]], [[iPhone]], [[DRAM]], [[NAND]], [[memory]], [[consumer-electronics]], [[smartphones]], [[supply-chain]], [[pricing]], [[AI infrastructure]], [[data-center]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[Samsung]], [[Asymco]]
+file-created-at:: 2026-07-04
 
 - **Source**: Horace Dediu / Asymco, "The Memory Shock: Six Readings from a Supply-Chain Conversation." Source date not specified in prompt; memo created July 4, 2026.
 - **Confirmed by**: [[AAPL-2026-Q2]] — on the FY2026 Q3 call Cook called memory pricing "a 100-year flood… with exponential increases," said Apple "reluctantly raised prices," and Parekh attributed **more than 100%** of sequential gross-margin compression to memory cost in both the June quarter and the September guide. The forced-price-increase prediction below played out within the quarter.

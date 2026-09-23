@@ -1,4 +1,5 @@
 tags:: [[AI]], [[inference]], [[MoE]], [[sparsity]], [[memory-bandwidth]], [[HBM]], [[DRAM]], [[GPU]], [[ASIC]], [[Cerebras]], [[Groq]], [[$NVDA]], [[scaling]], [[architecture]]
+file-created-at:: 2026-08-23
 
 - ## Beren Millidge: architecture research is bottleneck removal, not loss chasing
 	- **Source**: [Architecture Research as Addressing Constraints to Scaling](https://www.beren.io/2026-08-23-Architecture-Research-as-Addressing-Constraints-to-Scaling/), Beren Millidge, August 23, 2026 — a short note extending [Scaling is Subtler than it Seems](https://www.beren.io/2026-08-15-Scaling-is-Subtler-than-it-Seems/), covered in [[2026-08-15-beren-scaling-is-subtler-than-it-seems]] — that post enumerates the five constraints on scaling, this one treats architecture research as the work of relaxing them. Conceptual essay by a researcher, not sell-side work: no market claims, no company analysis. The value is a **framework for reading model-architecture news**, plus one footnote with a large hardware read-through.

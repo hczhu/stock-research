@@ -1,4 +1,5 @@
 - tags:: [[$AMZN]], [[AWS]], [[AI-capex]], [[capex]], [[data-center]], [[unit-economics]], [[ROIC]], [[depreciation]], [[memory]]
+  file-created-at:: 2026-07-30
 
 - ## Jassy's two-cycle capital framework for AI infrastructure
 	- **Source**: Andy Jassy, Amazon Q2 2026 earnings call, July 30, 2026 — prepared remarks defending ~\$220B of 2026 cash capex. Full quarter context in [[AMZN-2026-Q2]].

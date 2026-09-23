@@ -1,4 +1,5 @@
 - tags:: [[$TTWO]], [[$RBLX]], [[$U]], [[$TEAM]], [[Linear]], [[gaming]], [[video-games]], [[distribution]], [[performance]], [[technical-debt]], [[architecture]], [[software-engineering]], [[developer-tools]], [[AI]], [[labor]], [[talent retention]], [[competitive-landscape]], [[Pragmatic-Engineer]]
+  file-created-at:: 2026-09-13
 
 - ## Casey Muratori — The Games Industry Already Ran the AI Experiment, and Distribution Won
 	- **Source**: The Pragmatic Engineer podcast, Gergely Orosz interviewing **Casey Muratori** (Molly Rocket, *Computer Enhance*; previously RAD Game Tools, Microsoft). Career biography, assembly-language pedagogy and the clean-code argument are craft content and are compressed to what carries investment weight. Sponsor reads are advertising and are segregated.

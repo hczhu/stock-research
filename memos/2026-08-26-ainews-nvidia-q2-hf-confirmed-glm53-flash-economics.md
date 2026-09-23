@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[$AAPL]], [[OpenAI]], [[Anthropic]], [[GLM]], [[Qwen]], [[open-weights]], [[China]], [[inference]], [[unit-economics]], [[agents]], [[security]], [[local-inference]], [[DRAM]]
+file-created-at:: 2026-08-26
 
 - ## AINews (Aug 26): Nvidia's Q2, the confirmed Hugging Face price, and GLM-5.3-Flash economics
 	- **Source**: AINews / Latent Space daily digest, August 26, 2026, aggregating Twitter and Reddit. **Sourcing quality varies per item and is flagged inline.** This is the deeper issue on the same news cycle covered in [[2026-08-28-ainews-nvidia-huggingface-open-model-specs-agent-security]]; where the two differ, the figures here supersede, and **two items I previously flagged as unverified are now confirmed**.

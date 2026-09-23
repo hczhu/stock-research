@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI-agents]], [[AI-products]], [[SaaS]], [[enterprise-software]], [[product-led-growth]], [[security]], [[evaluation]]
+  file-created-at:: 2026-07-02
 
 - **Source**: User-provided Chinese podcast transcript, apparently an interview with Yuhao, CTO of QCI/QZ, discussing the company's AI workspace product, its transition toward digital employees, internal agent use, pricing, evaluation, security, and enterprise deployment. The transcript is machine-generated / noisy; product names such as `QCI`, `Qutes`, `Junior`, `Ring`, `Azura`, `Tom`, and `OpenCloud` are preserved from context and may contain ASR errors.
 - ## Executive Summary

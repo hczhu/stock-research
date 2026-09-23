@@ -1,4 +1,5 @@
 tags:: [[Stratechery]], [[$AAPL]], [[$NVDA]], [[OpenAI]], [[$AVGO]], [[DRAM]], [[HBM]], [[local-inference]], [[inference]], [[custom-silicon]], [[ASIC]], [[CUDA]], [[pricing]]
+file-created-at:: 2026-08-28
 
 - ## Stratechery: the Mac refresh as a memory-price signal, and Jalapeño's first results
 	- **Source**: Stratechery Update, Ben Thompson, covering (1) Apple's Mac mini and Mac Studio refresh via the *Wall Street Journal*, and (2) OpenAI's published [first results](https://openai.com/index/jalapeno-first-results/) for Jalapeño plus SemiAnalysis's verdict, [OpenAI Jalapeño: Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia).

@@ -1,4 +1,5 @@
 tags:: [[OpenAI]], [[Codex]], [[ChatGPT]], [[agents]], [[developer-tools]], [[enterprise-software]], [[software-engineering]], [[observability]], [[inference]], [[cloud-computing]]
+file-created-at:: 2026-09-15
 
 - ## OpenAI's Agentic Software Factory - A Prototype for the AI-Native Company
 	- **Source**: Gergely Orosz, The Pragmatic Engineer, "Inside OpenAI's agentic software factory", September 15, 2026; based on interviews with seven OpenAI engineering leaders and engineers; user-provided PDF.

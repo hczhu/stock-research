@@ -1,4 +1,5 @@
 - tags:: [[$INTC]], [[Intel Foundry]], [[14A]], [[SpaceX]], [[Tesla]], [[Terafab]], [[$NVDA]], [[$GOOGL]], [[SambaNova]], [[foundry]], [[capex]], [[equity-issuance]], [[silicon-sovereignty]]
+  file-created-at:: 2026-06-11
 
 - ## Intel Foundry — Customer Order Book & Deal Sizes
 	- **Source**: user-provided commentary/note on Intel Foundry's order book and financing (editorial; opinion portions flagged below).

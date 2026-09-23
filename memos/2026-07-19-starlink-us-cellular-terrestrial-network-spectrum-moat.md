@@ -1,4 +1,5 @@
 - tags:: [[Starlink]], [[SpaceX]], [[telecom]], [[wireless]], [[spectrum]], [[satellite]], [[direct-to-cell]], [[towers]], [[capex]], [[$SATS]], [[$TMUS]], [[$VZ]], [[$T]], [[$ASTS]], [[$AMT]], [[$CCI]], [[$SBAC]]
+  file-created-at:: 2026-07-19
 
 - **Source**: User-provided commentary arguing that Starlink's interest in entering the US cellular market directly—using spectrum reportedly acquired from EchoStar and building terrestrial towers—demonstrates the limits of a satellite-only challenge to mobile-network operators. Transaction details and timing are source claims and are not independently verified in this memo.
 - **Thesis**: A credible standalone Starlink cellular service would be **a hybrid terrestrial-satellite MNO, not a satellite replacement for MNOs**. Satellites can improve rural coverage and selected backhaul economics, but a mass-market mobile offer still requires licensed spectrum, dense terrestrial radio coverage, towers, permitting, power, operations, and country-by-country regulatory access. Starlink can become a meaningful US competitor, yet doing so validates rather than eliminates the incumbent industry's core barriers to entry.

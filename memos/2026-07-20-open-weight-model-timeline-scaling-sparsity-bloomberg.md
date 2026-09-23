@@ -1,4 +1,5 @@
 - tags:: [[open-weight-models]], [[DeepSeek]], [[Kimi]], [[Moonshot]], [[Qwen]], [[GLM]], [[Llama]], [[$META]], [[MoE]], [[sparsity]], [[HBM]], [[DRAM]], [[China]], [[Thinking-Machines-Lab]], [[commoditization]], [[inference]]
+  file-created-at:: 2026-07-20
 
 - **Source**: Bloomberg "Open Weight Model Timeline" table (Dec 2024 – Jul 2026), compiled from Moonshot, DeepSeek, Meta, Alibaba, Artificial Analysis, Thinking Machines Lab, NVIDIA. Total/active parameters, MoE sparsity ratio, and Artificial Analysis (AA) Intelligence Index. Investment framing is mine. Companion to [[2026-07-16-kimi-k3-open-weight-frontier-commoditization]], [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]], [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]], [[DRAM-memory-ssd-index-thesis]], [[2026-07-18-napkin-llm-inference-cost-serving-economics]].
 

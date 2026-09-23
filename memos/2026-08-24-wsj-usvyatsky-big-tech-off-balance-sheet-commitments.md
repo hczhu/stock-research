@@ -1,4 +1,5 @@
 tags:: [[$GOOGL]], [[$META]], [[$MSFT]], [[$AMZN]], [[$NVDA]], [[$ORCL]], [[accounting]], [[leases]], [[AI-capex]], [[capex]], [[off-balance-sheet]], [[disclosure]], [[data-center]]
+file-created-at:: 2026-08-24
 
 - ## Big Tech's \$3T of off-balance-sheet AI commitments — the number, and how to read it
 	- **Sources**: (1) *WSJ*, "Why Big Tech's AI Spending Is \$3 Trillion Higher Than It Seems," Peter Rudegeair and Peter Santilli, August 16, 2026 — an analysis of footnotes in the most recent filings of **nine companies**: Alphabet, Amazon, Microsoft, Meta, Oracle, Nvidia, Broadcom, SpaceX, AMD. (2) **Olga Usvyatsky**, "Behind Big Tech's AI Commitments," August 24, 2026, a forensic-accounting response (partially paywalled in the copy read). **The pairing is the value**: WSJ supplies the number, Usvyatsky supplies the framework for interpreting it, and they disagree about what it means.

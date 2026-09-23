@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[Codex]], [[ChatGPT]], [[Anthropic]], [[Claude-Code]], [[Claude-Cowork]], [[agents]], [[coding-agents]], [[SaaS]], [[product-strategy]], [[The-Information]]
+  file-created-at:: 2026-06-02
 
 - **Source**: Stephanie Palazzolo, "Inside OpenAI's Decision to Combine Codex and ChatGPT" (Exclusive), The Information, **June 2, 2026**. On-record: Thibault Sottiaux (now head of "core product and platform") and Alexander Embiricos (head of enterprise product, ex-Codex product lead); plus developer interviews (Basis, Cisco, Notion). This is the primary source behind the superapp coverage in [[2026-07-16-openai-superapp-chatgpt-codex-whither-chat-stratechery]] (Thompson's Jul 14 commentary on the shipped result). Companion to [[2026-07-06-gpt56-sol-hn-cerebras-inference-economics]] and [[2026-07-16-dylan-patel-podcast-ai-infra-memory-cpu-optics-power]].
 

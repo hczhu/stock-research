@@ -1,4 +1,5 @@
 - tags:: [[NAND]], [[HBM]], [[DRAM]], [[AI]], [[inference]], [[AI-accelerators]], [[memory]], [[$MU]], [[SanDisk]], [[SK-Hynix]], [[Samsung]], [[semiconductors]]
+  file-created-at:: 2026-07-06
 
 - **Source**: John Carmack (@ID_AA_Carmack) X post, Jul 6 2026 (438.4K views). Technical argument that NAND flash can displace HBM for AI-accelerator memory in inference. Companion to [[DRAM-memory-ssd-index-thesis]] and [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]] (see the SanDisk HBF / High-Bandwidth Flash note there).
 

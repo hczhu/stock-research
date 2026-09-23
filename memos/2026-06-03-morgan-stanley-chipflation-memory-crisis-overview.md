@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[AI infrastructure]], [[semiconductor]], [[Morgan Stanley]], [[macro]], [[bear-case]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley Global Insight — "Chipflation: Navigating A Memory Crisis", June 2, 2026
 - **Thesis**: Surging memory prices and supply scarcity are a cross-sector risk as AI reprices a critical input across the digital economy. What began as an AI infrastructure bottleneck is now spreading into hardware margins, device affordability, cloud costs, inflation, and policy.
 - **Key claims**

@@ -1,4 +1,5 @@
 tags:: [[investing]]
+file-created-at:: 2026-07-01
 
 - ## Philosophy
 	- Take a long view. Be patient. Let a high-quality company in a large market compound over time.

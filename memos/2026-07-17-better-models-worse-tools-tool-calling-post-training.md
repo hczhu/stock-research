@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[OpenAI]], [[Claude]], [[Codex]], [[coding-agents]], [[agents]], [[developer-tools]], [[post-training]], [[reinforcement-learning]], [[tool-calling]], [[constrained-decoding]], [[model-labs]], [[AI]], [[$MSFT]], [[$AMZN]], [[$GOOG]]
+  file-created-at:: 2026-07-17
 
 - ## Better Models, Worse Tools — Tool Calling as a Model-Lab Moat
 	- **Source**: [Armin Ronacher, “Better Models: Worse Tools”](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/), July 4, 2026. The supplied text also included [Simon Willison's summary](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/).

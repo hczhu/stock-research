@@ -1,4 +1,5 @@
 - tags:: [[consumer-AI]], [[monetization]], [[advertising]], [[OpenAI]], [[Anthropic]], [[Dropbox]], [[$DBX]], [[enterprise-AI]], [[subscriptions]], [[business-models]]
+  file-created-at:: 2026-06-11
 
 - ## Consumer-Market AI Monetization — Productivity Doesn't Sell to Consumers
 	- **Source**: user-provided essay excerpt, "The Consumer Market" (same essay as the model-access-tiers excerpt — see [[2026-06-03-foundation-model-pricing-power-bear-case]] §Model Access Tiers).

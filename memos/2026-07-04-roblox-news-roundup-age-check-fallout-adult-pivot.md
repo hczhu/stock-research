@@ -1,4 +1,5 @@
 - tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[age-verification]], [[litigation]], [[advertising]], [[consumer-internet]], [[regulation]], [[creator-economy]]
+  file-created-at:: 2026-07-04
 
 - **Source**: Aggregated Roblox news feed, June 18 – July 4 2026 (GlobeNewswire/law-firm releases, CoinCentral/Blockonomi, GamesBeat, TD Cowen/Citi/Arete via press, Open World survey, Reddit r/roblox first-hand posts, DIGITIMES/Korea press), plus user-provided Roblox synthesis on financial metrics, safety actions, developer ecosystem, brand integrations, and community sentiment. Companion to [[Roblox-RBLX-thesis]] and [[2026-06-08-roblox-aging-up-thesis]].
 

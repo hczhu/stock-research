@@ -1,4 +1,5 @@
 - tags:: [[India]], [[IT-services]], [[BPO]], [[offshoring]], [[exports]], [[macro]], [[labor-displacement]], [[AI]], [[$ACN]], [[$INFY]], [[$WIT]], [[currency]], [[enterprise-software]]
+  file-created-at:: 2026-09-18
 
 - ## RBI Survey: India's Software and ITES Exports Reach US\$221.4B, +8.2% — the Base Rate for the "AI Eats IT Services" Thesis
 	- **Source**: Reserve Bank of India press release, **Sep 18 2026** — annual survey on computer software and ITES exports, **2025-26 round**. **7,569** companies contacted, **2,363** responded, covering **~89%** of estimated total software services exports. Official statistical survey, not a vendor or brokerage estimate.

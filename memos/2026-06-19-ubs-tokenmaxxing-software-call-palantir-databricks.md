@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[software]], [[SaaS]], [[$PLTR]], [[Databricks]], [[hyperscalers]], [[$NET]], [[$AKAM]], [[cybersecurity]], [[token-economics]], [[$MSFT]], [[OpenAI]], [[Anthropic]], [[China]], [[UBS]]
+  file-created-at:: 2026-06-19
 
 - **Source**: UBS — US Software Sector Update Call "Token Maxxing," 19 Jun 2026. Speakers: Karl Keirstead & Roger Boyd (US Software Analysts); host Miya Liang (APAC).
 

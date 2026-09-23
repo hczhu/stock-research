@@ -1,4 +1,5 @@
 - tags:: [[Cloudflare]], [[$NET]], [[AI]], [[agents]], [[edge-computing]], [[serverless]], [[developer-tools]], [[AI infrastructure]], [[cybersecurity]], [[SASE]], [[Zero-Trust]], [[inference]], [[content-economics]], [[payments]], [[future-of-work]], [[$FSLY]], [[$AKAM]], [[$ZS]], [[$PANW]], [[$GOOGL]], [[$META]], [[$V]], [[$MA]], [[$COIN]]
+  file-created-at:: 2026-06-25
 
 - ## Cloudflare and the Machine-First Internet
 	- **Source**: [The MAD Podcast with Matt Turck — “Cloudflare CEO: The Internet's Business Model Is Dead”](https://podaxion.com/episodes/mad-podcast-2982facfbeb8), published 25 June 2026; user-supplied transcript.

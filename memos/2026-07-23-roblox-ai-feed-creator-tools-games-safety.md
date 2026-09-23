@@ -1,4 +1,5 @@
 - tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[AI]], [[creator-economy]], [[consumer-internet]], [[subscriptions]], [[advertising]], [[regulation]]
+  file-created-at:: 2026-07-23
 
 - ## Roblox Feed: AI Creation, Game Supply, Discovery, and Trust
 	- **Source**: Ten user-provided exports of an aggregated Roblox AI Feed covering July 4–23 and August 15–September 14, 2026. They mix company announcements, press reports, game guides, investment commentary, videos, and anonymous Reddit posts. Quantitative claims below are attributed to the item that supplied them; the feed itself is not primary-source verification.

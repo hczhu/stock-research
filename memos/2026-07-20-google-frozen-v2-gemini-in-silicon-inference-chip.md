@@ -1,4 +1,5 @@
 - tags:: [[$GOOG]], [[Google]], [[Gemini]], [[TPU]], [[Frozen]], [[weights-in-silicon]], [[inference]], [[AI-accelerators]], [[Taalas]], [[$NVDA]], [[Groq]], [[HBM]], [[custom-silicon]], [[semiconductors]]
+  file-created-at:: 2026-07-20
 
 - **Source**: The Information, Erin Woo & Qianer Liu, "Google Is Building a Chip With Gemini Baked In" (Jul 20 2026), two people with direct knowledge. Google's "Frozen v2" inference chip etches part of the Gemini model into silicon. Investment framing is mine. Companion to [[2026-07-06-carmack-nand-flash-vs-hbm-ai-inference-memory]], [[2026-07-16-kimi-k3-open-weight-frontier-commoditization]] (Taalas/weights-in-silicon), [[2026-07-06-openai-broadcom-jalapeno-hn-cerebras-hbm-readthrough]], [[2026-07-20-benedict-evans-mad-podcast-openai-software-taxonomy]] (architecture-lock-in risk), and the DRAM/HBM read in [[DRAM-memory-ssd-index-thesis]].
 

@@ -1,4 +1,5 @@
 - tags:: [[$GOOGL]], [[Google]], [[Gemini]], [[DeepMind]], [[GCP]], [[TPU]], [[Anthropic]], [[SemiAnalysis]], [[AI-capex]], [[compute]], [[inference]]
+  file-created-at:: 2026-08-06
 
 - ## SemiAnalysis: "Gemini is Cooked but GCP is Cooking"
 	- **Source**: SemiAnalysis, August 6, 2026 — Max Kan, Joey Brookhart, Doug O'Laughlin, Dylan Patel. Paid post. Revenue and compute-share figures are **SemiAnalysis Tokenomics/Accelerator Model estimates, not disclosed Google figures**; the model-quality judgments are opinion, stated bluntly.

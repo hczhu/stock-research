@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Age of AppLovin Shoppers (2026)
 
 - `< 18`: 0.7%

@@ -1,4 +1,5 @@
 - tags:: [[SaaS]], [[AI]], [[$PANW]], [[Nikesh Arora]], [[$CRM]], [[SAP]], [[$WDAY]], [[$ADBE]], [[$SNOW]], [[Databricks]], [[cybersecurity]], [[bear-case]]
+  file-created-at:: 2026-06-03
 
 - ## Nikesh Arora's AI Bear Case For SaaS By Category
 	- **Source**:

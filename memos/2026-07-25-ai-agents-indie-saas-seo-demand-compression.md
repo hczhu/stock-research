@@ -1,4 +1,5 @@
 tags:: [[AI]], [[SaaS]], [[indie-hackers]], [[SEO]], [[GEO]], [[coding-agents]], [[AI-coding]], [[developer-tools]], [[enterprise-software]], [[distribution]], [[Tailwind-CSS]], [[Claude]], [[Codex]], [[OpenAI]], [[Anthropic]], [[$GOOGL]], [[$MSFT]]
+file-created-at:: 2026-07-25
 
 - ## AI Agents Compress Both Discovery and Demand for Small Software
 	- **Source**: User-provided screenshots of X posts by Jon Yongfook ([@yongfook](https://x.com/yongfook)), Pieter Levels ([@levelsio](https://x.com/levelsio)), Oskar ([@oskarglauser](https://x.com/oskarglauser)), Adam Wathan ([@adamwathan](https://x.com/adamwathan)), and Jerry Chu ([@PMDBT](https://x.com/PMDBT)). Yongfook's post is dated July 25, 2026; the other screenshots show relative timestamps only.

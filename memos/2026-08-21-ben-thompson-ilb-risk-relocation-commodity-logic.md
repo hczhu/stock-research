@@ -1,4 +1,5 @@
 tags:: [[Stratechery]], [[$NVDA]], [[$TSM]], [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMZN]], [[$AAPL]], [[$INTC]], [[AI-capex]], [[commodity]], [[advertising]], [[DRAM]], [[aggregation-theory]], [[circular-financing]]
+file-created-at:: 2026-08-21
 
 - ## Ben Thompson on Invest Like The Best: risk relocation and commodity-market logic
 	- **Source**: *Invest Like The Best* with Patrick O'Shaughnessy, guest Ben Thompson (Stratechery). Machine transcript with garbled names normalized (Morris Chang, Lou Gerstner, Vercel, Kimi, Strait of Hormuz, ATT). Sponsor reads stripped. Long-form and wide-ranging; the sections below are ordered by investable weight, not by the order discussed.

@@ -1,4 +1,5 @@
 - tags:: [[investment-philosophy]], [[value-investing]], [[DCF]], [[ROIC]], [[management]], [[Oakmark]], [[portfolio-construction]], [[$CRM]], [[$ABNB]], [[$META]], [[$NFLX]]
+  file-created-at:: 2026-06-22
 
 - **Source**: The Synopsis podcast — Drew Cohen interviews Bill Nygren, CIO of US Equities at Harris Associates (Oakmark). Nygren manages the Oakmark Fund and Oakmark Select Fund. Oakmark Fund since 2000: ~12% annualized vs. S&P ~10%.
 

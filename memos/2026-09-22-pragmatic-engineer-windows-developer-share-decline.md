@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[$NVDA]], [[$QCOM]], [[$INTC]], [[$AMD]], [[$AAPL]], [[$ARM]], [[Windows]], [[Linux]], [[WSL]], [[developer-tools]], [[edge-AI]], [[inference]], [[agents]], [[MCP]], [[enterprise-software]], [[cybersecurity]], [[x86]], [[PC]], [[Copilot]], [[competitive-landscape]]
+  file-created-at:: 2026-09-22
 
 - **Source**: Gergely Orosz and Ivan Klaric, *The Pragmatic Engineer*, "How will AI change operating systems? Part 2: Windows," September 22 2026. Based on interviews with Pavan Davuluri (EVP, Windows and Devices), Scott Hanselman (VP, Microsoft CoreAI and GitHub) and Logan Iyer (CVP, Windows Platform and Developer). Part 1 covered Ubuntu. **Access-driven piece** — Microsoft supplied the interviews and most of the screenshots, so the roadmap claims are the company's own; the criticism is the authors'.
 

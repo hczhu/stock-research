@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[MediaTek]], [[$AVGO]], [[$INTC]], [[$AMD]], [[custom-silicon]], [[ASIC]], [[networking]], [[NVLink]], [[circular-financing]], [[local-inference]], [[automotive]], [[semiconductor]]
+file-created-at:: 2026-08-31
 
 - ## NVIDIA invests \$3.5B in MediaTek convertibles and pulls it onto NVLink Fusion
 	- **Source**: NVIDIA press release via GLOBE NEWSWIRE, Santa Clara, **August 31, 2026**. **First-party announcement** — no financial terms beyond the headline number, no volumes, no revenue figures, and the strategic framing is the company's own.

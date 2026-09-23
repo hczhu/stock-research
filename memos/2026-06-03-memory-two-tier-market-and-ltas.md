@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[hyperscalers]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$285A.T]], [[AI infrastructure]], [[semiconductor]], [[supply chain]]
+  file-created-at:: 2026-06-03
 - **Source**: Morgan Stanley "Chipflation" report, June 2, 2026 — Sections: LTAs, Two-Tier Market
 - **Core argument**: The memory market is shifting from price-driven commodity cycles to supply-security-focused allocation, creating a structural two-tier market where AI/cloud buyers lock in supply first and non-LTA buyers face a smaller, more volatile, more expensive residual pool
 - **The allocation stack (who gets memory supply first)**

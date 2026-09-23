@@ -1,4 +1,5 @@
 - tags:: [[$AAPL]], [[Apple]], [[iPhone]], [[pricing]], [[price-skimming]], [[DRAM]], [[services]], [[market-share]], [[consumer-electronics]], [[AI]], [[Siri]], [[EU-regulation]], [[$NVDA]]
+  file-created-at:: 2026-06-24
 
 - **Source**: Stratechery (Ben Thompson), June 2026. Covers Apple price increases (WSJ Tim Cook interview), memory cost chronology, and Siri AI EU exclusion.
 

@@ -1,4 +1,5 @@
 - tags:: [[Amazon]], [[$AMZN]], [[advertising]], [[retail media]], [[CTV]], [[DSP]], [[The Trade Desk]], [[$TTD]], [[programmatic]], [[identity graph]], [[agentic commerce]], [[OpenAI]], [[$GOOGL]], [[Meta]], [[agencies]], [[Publicis]], [[Roku]]
+  file-created-at:: 2026-06-04
 
 - ## Amazon's Advertising Advantages — Identity Spine, DSP & CTV (Adam Epstein / Gigi)
 	- **Source**: Mobile Dev Memo podcast, "Understanding Amazon's advertising advantages," Eric Seufert w/ **Adam Epstein** (co-founder/CEO **Gigi/GG**, agentic OS for programmatic media; ex co-president of Perpetua, now owned by Omnicom; ~8 yrs in Amazon ads). June 4, 2026.

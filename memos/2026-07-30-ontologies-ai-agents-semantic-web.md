@@ -1,4 +1,5 @@
 - tags:: [[ontology]], [[Semantic-Web]], [[knowledge-graph]], [[agents]], [[AI]], [[enterprise]], [[data-governance]], [[RDF]], [[OWL]], [[graph-database]], [[Neo4j]], [[$PLTR]], [[$NOW]], [[software-engineering]]
+  file-created-at:: 2026-07-30
 
 - ## Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web
 	- **Source**: Richard MacManus, Latent.Space, July 30, 2026; synthesizing presentations by UC Berkeley professor Frank Coyle and Neo4j CEO Emil Eifrem at AI Engineer World's Fair 2026

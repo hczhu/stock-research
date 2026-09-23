@@ -1,4 +1,5 @@
 - tags:: [[GPU]], [[$NVDA]], [[SpaceX]], [[xAI]], [[Colossus]], [[$GOOGL]], [[Anthropic]], [[Neocloud]], [[unit economics]], [[H200]], [[data-center]], [[compute]], [[capex]]
+  file-created-at:: 2026-06-05
 
 - ## Renting Out Nvidia GPU Clusters — Unit Economics (SpaceX/xAI → Google & Anthropic)
 	- **Source**: Bloomberg, "SpaceX Inks $30 Billion Computing Power Deal With Google" (Carmen Arroyo & Julia Love, Jun 5 2026), for the Google deal; Anthropic figures folded in from [[2026-06-05-coding-agents-token-demand-and-enterprise-pmf-willison]] and [[2026-06-03-frontier-labs-gpu-compute-capacity-share]].

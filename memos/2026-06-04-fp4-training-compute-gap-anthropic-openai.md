@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[OpenAI]], [[AI training]], [[compute]], [[$NVDA]], [[AWS]], [[Trainium]], [[GB200]], [[VR200]], [[FP4]], [[AI infrastructure]]
+  file-created-at:: 2026-06-04
 
 - ## FP4 Training and the Anthropic–OpenAI Compute Gap
 	- **Source**: User-provided analysis, June 2026

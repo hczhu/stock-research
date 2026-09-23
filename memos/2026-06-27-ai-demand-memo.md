@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI infrastructure]], [[hyperscalers]], [[capex]], [[data-center]], [[inference]], [[agents]], [[DRAM]], [[HBM]], [[power]], [[$NVDA]], [[$AMD]], [[$AVGO]], [[$MU]], [[$CRWV]], [[$NBIS]], [[$AMZN]], [[$MSFT]], [[$GOOGL]], [[$META]], [[$ORCL]]
+  file-created-at:: 2026-06-27
 
 - **Source**: Exponential View, *The State of the AI Economy*, June 25, 2026, by Azeem Azhar, William Gildea, Hannah Petrovic, Nathan Warren, and Marija Gavrilov. Full 66-page PDF supplied by the user; an earlier version of this memo used selected Exponential View / Ramp charts and a supplementary Reddit screenshot.
 - **Thesis**: Realized GenAI revenue and highly elastic token demand validate the AI buildout more strongly than adoption proxies alone, but returns are not yet secure. Infrastructure revenue only recently cleared depreciation, external financing is rising, and falling token prices must continue to stimulate more-than-proportional usage. Near-term value remains concentrated in scarce compute, memory, power, and cloud capacity; over time, value should migrate toward differentiated applications while yesterday's frontier models commoditize.

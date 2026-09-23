@@ -1,4 +1,5 @@
 - tags:: [[$RDDT]], [[Reddit]], [[advertising]], [[ad-tech]], [[SaaS]], [[consumer-internet]], [[ARPU]], [[AI-data-licensing]], [[$META]], [[$GOOG]], [[$TTD]], [[$APP]], [[engagement]]
+  file-created-at:: 2026-07-21
 
 - **Source**: HHHYPERGROWTH (muji), "Reddit had a strong Q1, continues to execute…" (Jul 21 2026) — Q1 2026 (calendar) analysis. Includes company KPIs, 10-Q, and mgmt quotes (BofA conf, AMA, earnings, all Jun-26). Investment framing is mine. Companion to [[2026-07-04-roblox-news-roundup-age-check-fallout-adult-pivot]] (consumer-internet engagement), [[2026-07-13-emerging-market-for-intelligence-nber-llm-pricing]] (data value), and the ad-tech read for [[$META]]/[[$GOOG]]/[[$TTD]]/[[$APP]].
 

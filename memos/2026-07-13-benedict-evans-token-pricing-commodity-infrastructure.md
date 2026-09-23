@@ -1,4 +1,5 @@
 - tags:: [[LLM-market]], [[AI]], [[pricing]], [[inference]], [[foundation-models]], [[Anthropic]], [[OpenAI]], [[$META]], [[xAI]], [[$TSM]], [[telecom-analogy]], [[commodity]], [[AI-capex]], [[economics]]
+  file-created-at:: 2026-07-13
 
 - **Source**: Benedict Evans, "Ways to think about token pricing," benedictevans.com, **July 9, 2026**. Subtitle: "AI is in a supply crunch today, but what happens when we come out of it?… Today, model labs can name their price, but [do they end up as] commodity infrastructure?" Companion to [[2026-07-13-emerging-market-for-intelligence-nber-llm-pricing]] (the NBER paper is the empirical version of this argument), [[2026-06-18-ai-bubble-debate-capital-cycle-cyclicality-podcast]], and [[2026-07-07-hyperscaler-capex-goldman-bofa-cy27-28e]].
 

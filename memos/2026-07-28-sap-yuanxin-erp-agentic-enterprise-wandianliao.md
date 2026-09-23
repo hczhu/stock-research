@@ -1,4 +1,5 @@
 - tags:: [[SAP]], [[ERP]], [[enterprise-software]], [[agents]], [[FDE]], [[SaaS]], [[China]], [[$CRM]]
+  file-created-at:: 2026-07-28
 
 - ## SAP 大中華區總裁原欣：ERP 在 Agentic 時代的護城河
 	- **Source**: 播客《晚點聊》訪談 SAP 大中華區總裁原欣（曼祺主持）。**該期節目由 SAP 支持播出（sponsored）**，公司側觀點需按利益相關方陳述看待；下列數字均為受訪者口徑，未經獨立核實。

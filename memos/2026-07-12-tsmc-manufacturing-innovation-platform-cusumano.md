@@ -1,4 +1,5 @@
 - tags:: [[$TSM]], [[TSMC]], [[foundry]], [[semiconductors]], [[moat]], [[platform]], [[ASML]], [[$INTC]], [[$NVDA]], [[Rapidus]], [[EDA]], [[AI infrastructure]]
+  file-created-at:: 2026-07-12
 
 - **Source**: Michael A. Cusumano, "TSMC: Manufacturing as an Innovation Platform," *Communications of the ACM*, July 2026 (Vol. 69, No. 7). Cusumano is MIT Sloan SMR Distinguished Professor, co-author of *The Business of Platforms*; visited TSMC in March 2025 via MIT's Industrial Liaison Program. Companion to [[TSMC-TSM-thesis]].
 

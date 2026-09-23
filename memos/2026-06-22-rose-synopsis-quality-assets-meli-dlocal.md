@@ -1,4 +1,5 @@
 - tags:: [[investment-philosophy]], [[compounders]], [[quality]], [[concentration]], [[$MELI]], [[$DLO]], [[$NOW]], [[CSU]], [[$AXON]], [[emerging-markets]], [[fintech]], [[e-commerce]], [[Latin-America]]
+  file-created-at:: 2026-06-22
 
 - **Source**: The Synopsis podcast — Drew Cohen interviews "Rose," a self-taught investor and entrepreneur (Soviet Union emigrant, built several businesses in the US including a \$90M revenue travel business). Manages a concentrated personal portfolio with ~20 years of investing experience. First podcast appearance.
 

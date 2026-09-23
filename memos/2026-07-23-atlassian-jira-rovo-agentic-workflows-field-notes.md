@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]] [[Atlassian]] [[Jira]] [[Rovo]] [[RovoDev]] [[Confluence]] [[Teamwork-Graph]] [[AI-agents]] [[developer-tools]] [[enterprise-software]]
+  file-created-at:: 2026-07-23
 -
 - ## Atlassian: Jira and Rovo agentic-workflow field notes
 	- **Source**: User-provided Atlassian news and community feed, primarily July 13–21, 2026. It combines Atlassian product posts, an Atlassian-published Axel Springer case study, sponsored research, trade press, and individual Reddit reports.

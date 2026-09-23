@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[Microsoft]], [[Copilot]], [[AI-agent]], [[SaaS]], [[pricing]], [[DeepSeek]], [[Anthropic]], [[OpenAI]], [[bundling]], [[enterprise-software]]
+  file-created-at:: 2026-06-24
 
 - **Source**: Axios (Microsoft statement) + Stratechery analysis, June 2026.
 

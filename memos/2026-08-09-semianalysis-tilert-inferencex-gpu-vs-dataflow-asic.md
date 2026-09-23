@@ -1,4 +1,5 @@
 tags:: [[SemiAnalysis]], [[$NVDA]], [[inference]], [[Cerebras]], [[Groq]], [[SambaNova]], [[ASIC]], [[GPU]], [[vLLM]], [[SGLang]], [[HBM]], [[TCO]], [[unit-economics]], [[agents]]
+file-created-at:: 2026-08-09
 
 - ## SemiAnalysis: TileRT InferenceX — can GPU software eat the ultra-low-latency ASIC market?
 	- **Source**: SemiAnalysis, *"Ultra-High Interactivity on NVIDIA GPUs? — TileRT InferenceX,"* Bryan Shan, Daniel Nishball, Cam Quilici and three others, August 9, 2026. Benchmarks run on **InferenceX**, SemiAnalysis's open-source vendor-neutral inference benchmark (formerly InferenceMAX), supported by Google Cloud, Azure, Oracle, Meta, vLLM, SGLang, PyTorch, HuggingFace, and labs including OpenAI, MiniMax, Z.ai, Qwen, and Moonshot. **Bias note**: SemiAnalysis collaborated with the TileRT maintainers on the benchmark and sells the TCO and Accelerator models the cost figures rely on.

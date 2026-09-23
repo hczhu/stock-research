@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Jagged Technological Frontier: AI's Impact on Knowledge Worker Productivity
 
 ## Core Concept

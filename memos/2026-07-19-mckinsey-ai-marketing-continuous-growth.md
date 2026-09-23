@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[marketing]], [[advertising]], [[agentic-commerce]], [[personalization]], [[retail media]], [[consumer-internet]], [[enterprise-software]], [[data]], [[identity]], [[generative-search]], [[$META]], [[$GOOGL]], [[$AMZN]], [[$CRM]], [[$ADBE]], [[$TTD]]
+  file-created-at:: 2026-07-19
 
 - **Source**: McKinsey & Company Growth, Marketing & Sales Practice, “From campaigns to continuous growth: AI capabilities shaping marketing,” June 2026. Authors: Eli Stein, Jamie Wilkie, Julien Boudet, Kelsey Robinson and Lalit Bhagia, with Emily Scofield. User-provided nine-page PDF.
 - **Thesis**: AI is pushing marketing from periodic campaigns toward an always-on growth system that continuously senses demand, generates content, personalizes offers, markets to consumer agents and reallocates spend. Creative production and campaign execution should become cheaper and more abundant, shifting strategic value toward first-party data, identity, machine-readable product knowledge, closed-loop measurement and cross-platform orchestration.

@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # MediaTek: Google Orders and Broadcom Share Shift (2026-02)
 
 - 2026-02：MediaTek 吃到 Google 的單越來越多，正在拿走 Broadcom 的一部分份額。

@@ -1,4 +1,5 @@
 - tags:: [[HBM]], [[DRAM]], [[SRAM]], [[GPU]], [[semiconductor]], [[capex]], [[inference]], [[$NVDA]]
+  file-created-at:: 2026-06-08
 
 - **Source**: User-provided screenshot, 2026-06-08, showing HBM generation specs and excerpts on HBM cost inflation, DRAM density deceleration, and SRAM-only inference limits.
 

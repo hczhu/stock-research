@@ -1,4 +1,5 @@
 - tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[retention]], [[creator-economy]], [[game-stats]]
+  file-created-at:: 2026-06-25
 
 - ## Roblox Game KPI Benchmark Snapshot
 	- **Source**: user-provided screenshot of Roblox game stats dashboard

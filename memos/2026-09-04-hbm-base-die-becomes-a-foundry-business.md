@@ -1,4 +1,5 @@
 - tags:: [[HBM]], [[DRAM]], [[memory]], [[foundry]], [[$TSM]], [[$INTC]], [[$NVDA]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$AMZN]], [[$AVGO]], [[$GOOGL]], [[advanced-packaging]], [[CoWoS]], [[chiplets]], [[custom-silicon]], [[ASIC]], [[vertical-integration]], [[JEDEC]], [[commoditization]], [[semiconductor]]
+  file-created-at:: 2026-09-04
 
 - ## The HBM Base Die Becomes a Foundry Business
 	- **Source**: Chinese-language industry analysis, "HBM，生变！" (Sep 2026), citing Korean media, DIGITIMES, TrendForce, SK hynix's own site, TSMC Technology Symposium disclosures, and Nvidia's Aug 26 NVHBM announcement

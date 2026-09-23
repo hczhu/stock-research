@@ -1,4 +1,5 @@
 - tags:: [[ByteDance]], [[$3690.HK]], [[Meituan]], [[$PDD]], [[Pinduoduo]], [[org building]], [[recruiting]], [[talent]], [[AI agents]], [[China tech]], [[management]], [[Zhang Yiming]], [[Wang Xing]]
+  file-created-at:: 2026-07-01
 
 - **Source**: Chinese podcast interview with "Xiaokang" (问小康), former **head of recruiting at both ByteDance (2017–Dec 2020) and Meituan (Dec 2020–Jan 2026)**, later an AI PM; now founder of an AI-recruiting startup. Guest's voice AI-altered and company names euphemized for anonymity (transcript's "自己/字节" = **ByteDance**; "抖音" = Douyin). Qualitative operator insight, not financials.
 - **Thesis**: Rare dual-insider view of the two best-executing Chinese internet orgs of the last decade. Core mental model: **business model dictates org design**, and in the AI era the classic product/eng/test/algo division collapses into coding-capable generalists — smaller, faster teams. Investment-relevant readthroughs on Meituan/PDD's retail moat, China AI talent flows, and software productivity.

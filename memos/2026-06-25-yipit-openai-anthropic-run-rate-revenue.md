@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[Anthropic]], [[AI]], [[ARR]], [[AI infrastructure]], [[inference]], [[token economics]]
+  file-created-at:: 2026-06-25
 
 - ## Yipit: OpenAI And Anthropic Run-Rate Revenue Acceleration
 	- **Source**: Yipit data points provided by user

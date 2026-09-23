@@ -1,4 +1,5 @@
 tags:: [[$META]], [[Meta]], [[AI]], [[labor]], [[layoffs]], [[productivity]], [[opex]], [[engineering]], [[agents]]
+file-created-at:: 2026-08-28
 
 - ## Meta's abandoned "Project OT" — a 60% team-reduction plan that got called off
 	- **Source**: The Pragmatic Engineer (Gergely Orosz), summarizing **Reuters** reporting based on *"one internal planning document reviewed by Reuters and three people familiar with the project."* Orosz supplies his own prior reporting and inference on top. **Two bias flags**: he writes for an engineering audience and has been openly critical of Meta's approach, and **the "30–40% company-wide layoff" figure is explicitly his suspicion, not a reported fact** — the reported number is 60% *per affected team*, which is not the same thing.

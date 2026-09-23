@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-06
+
 - # The Future of Coding Agents
 	- Source: Chapter 9 — *Understanding Your Kitchen and AI Collaborators*
 	- Looking ahead, we know that more powerful tools are on the way:

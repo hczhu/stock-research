@@ -1,4 +1,5 @@
 - tags:: [[Ofcom]], [[UK]], [[children]], [[online-safety]], [[social-media]], [[gaming]], [[AI]], [[OpenAI]], [[TikTok]], [[e-commerce]], [[$GOOGL]], [[$META]], [[$SNAP]], [[$RBLX]], [[$AMZN]], [[$MSFT]], [[$AAPL]], [[$RDDT]], [[$PINS]], [[$DUOL]]
+  file-created-at:: 2026-05-21
 
 - ## Ofcom: How UK Children Aged 8-14 Actually Use Online Services
 	- **Source**: [Ofcom - Children's Passive Online Measurement](https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/research-statistics-and-data/protecting-children/childrens-passive-online-measurement-report.pdf?v=418343), published 21 May 2026.

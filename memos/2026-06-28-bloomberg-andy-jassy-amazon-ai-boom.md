@@ -1,4 +1,5 @@
 - tags:: [[$AMZN]], [[AWS]], [[AI infrastructure]], [[hyperscalers]], [[capex]], [[Trainium]], [[Anthropic]], [[OpenAI]], [[e-commerce]], [[advertising]]
+  file-created-at:: 2026-06-28
 
 - **Source**: Bloomberg Businessweek, "Andy Jassy Is Rewriting Amazon's Playbook for the AI Age" by Brad Stone and Matt Day, May 14 2026; updated May 15 2026. Extracted from user-provided PDF.
 

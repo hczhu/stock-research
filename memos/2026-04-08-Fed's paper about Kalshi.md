@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-08
+
 - This paper, [Kalshi and the Rise of Macro Markets](https://www.federalreserve.gov/econres/feds/files/2026010pap.pdf), evaluates the utility of prediction markets—specifically the CFTC-regulated platform **Kalshi**—as a tool for measuring real-time macroeconomic expectations.
   
   The authors present the following main arguments and findings:

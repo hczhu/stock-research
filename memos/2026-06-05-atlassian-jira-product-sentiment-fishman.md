@@ -1,4 +1,5 @@
 - tags:: [[$TEAM]], [[Jira]], [[Confluence]], [[developer-tools]], [[SaaS]], [[product]], [[competition]]
+  file-created-at:: 2026-06-05
 
 - ## Jira Deserves Less Hatred, Not More Love (Fishman AF Newsletter)
 	- **Source**: Fishman AF Newsletter, Adam Fishman, "Hot take alert: I have some feelings" (fishmanafnewsletter.com)

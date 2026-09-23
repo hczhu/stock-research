@@ -1,4 +1,5 @@
 tags:: [[SaaS]], [[enterprise-software]], [[agents]], [[$CRM]], [[$NOW]], [[$HUBS]], [[$MSFT]], [[$GOOGL]], [[$AMZN]], [[$SNOW]], [[AI]], [[valuation]], [[bear-case]]
+file-created-at:: 2026-06-05
 
 - ## "Software's Tollbooths" — Why Agent-Era SaaS Pricing Won't Compound (geninnov.ai)
 	- **Source**: geninnov.ai/blog/softwares-tollbooths. All facts/arguments from this article only.

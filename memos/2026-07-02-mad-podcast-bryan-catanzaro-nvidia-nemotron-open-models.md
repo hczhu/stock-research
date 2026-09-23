@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[Nemotron]], [[open-source]], [[open-weight-models]], [[AI]], [[AI infrastructure]], [[inference]], [[AI training]], [[agents]], [[model-architecture]], [[mixture-of-experts]], [[quantization]], [[synthetic-data]], [[reinforcement-learning]], [[GPU]], [[NVLink]], [[HBM]], [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMD]], [[$MU]], [[$000660.KS]], [[$005930.KS]]
+file-created-at:: 2026-07-02
 
 - ## NVIDIA Nemotron: Open Models as Hardware and Ecosystem R&D
 	- **Source**: [The MAD Podcast with Matt Turck — “Inside Nemotron & NVIDIA's AI Lab | Bryan Catanzaro”](https://podcasts.apple.com/us/podcast/inside-nemotron-nvidias-ai-lab-bryan-catanzaro/id1686238724?i=1000775164857), published 2 July 2026; user-supplied transcript.

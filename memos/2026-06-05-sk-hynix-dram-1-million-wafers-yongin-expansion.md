@@ -1,4 +1,5 @@
 - tags:: [[$000660.KS]], [[DRAM]], [[HBM]], [[semiconductor]], [[$NVDA]], [[capex]], [[WFE]], [[supply]], [[memory]], [[super-cycle]]
+  file-created-at:: 2026-06-05
 
 - ## SK Hynix to Double DRAM Capacity — ≈1 Million Wafers/Month by 2030–31 (Yongin)
 	- **Source**: Korean industry press, reported on the 5th (June 2026); confirmed via SK Hynix partner-company briefings

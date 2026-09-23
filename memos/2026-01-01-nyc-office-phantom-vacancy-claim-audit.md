@@ -1,4 +1,5 @@
 - tags:: [[commercial-real-estate]], [[office]], [[NYC]], [[CMBS]], [[hybrid-work]], [[energy-efficiency]], [[$SLG]], [[$VNO]], [[$ESRT]], [[$BXP]]
+  file-created-at:: 2026-01-01
 
 - ## NYC Office “Phantom Vacancy”: Useful Signal, Faulty Crash Thesis
 	- **Source**: User-provided screenshots of a January 1, 2026 Reddit post by u/Drewthinkalot, “Is NYC Commercial Real Estate about to crash? I found a massive ‘Phantom Vacancy’ problem”; checked against the [live Reddit post](https://www.reddit.com/r/RealEstate/comments/1q1hndc/is_nyc_commercial_real_estate_about_to_crash_i/), official ENERGY STAR methodology, NYC records guidance, Q2 2026 Manhattan market reports, and public-company filings.

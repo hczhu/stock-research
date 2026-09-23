@@ -1,4 +1,5 @@
 - tags:: [[Ben-Thompson]], [[Stratechery]], [[Kimi]], [[Moonshot]], [[Qwen]], [[$BABA]], [[China]], [[open-weight-models]], [[commoditization]], [[inference]], [[distillation]], [[AI-policy]], [[cybersecurity]], [[Anthropic]], [[OpenAI]], [[$NVDA]], [[$MSFT]]
+  file-created-at:: 2026-07-20
 
 - ## Who’s Afraid of Chinese Models?
 	- **Source**: Ben Thompson, [“Who’s Afraid of Chinese Models?”](https://stratechery.com/2026/whos-afraid-of-chinese-models/), Stratechery, July 20, 2026; text supplied by the user. The post also cites company pricing, Bloomberg reporting, Xi Jinping remarks, the Financial Times, and The Stack.

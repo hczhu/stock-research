@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Google Maps EU DMA Traffic Effects (2024 DiD)
 
 In January 2024, Google changed how location-based queries were shown to EU users by removing clickable maps and direct links to Google Maps. This policy-induced change enables a difference-in-differences (DiD) comparison between EU and non-EU countries to evaluate how removing Google self-preferencing affected search volume and traffic patterns.

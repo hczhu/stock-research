@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[JEDEC]], [[commoditization]], [[semiconductor]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[Apple]], [[$AAPL]], [[memory]]
+  file-created-at:: 2026-07-04
 -
 - ## DRAM Commodity Vs De-Commoditization — Synthesis Memo
 	- **Sources**:

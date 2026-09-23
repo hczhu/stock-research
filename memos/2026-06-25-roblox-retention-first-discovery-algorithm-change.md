@@ -1,4 +1,5 @@
 tags:: [[$RBLX]], [[Roblox]], [[discovery algorithm]], [[retention]], [[monetization]], [[creator economy]], [[UGC]], [[gaming]], [[David Baszucki]]
+file-created-at:: 2026-06-25
 
 - **Source**: X post by **Evanbear1 / @EvanZir** (Jun. 2026), a Roblox developer/studio owner — "The End of Cash Grab Roblox Games." Firsthand developer account; data points are from his own portfolio (single-source, perspective skewed toward the old short-term meta).
 - **Thesis**: Roblox re-weighted its **"Recommended For You"** discovery algorithm toward **long-term retention (28-day player value)**, killing the "win the click" cash-grab meta. Healthier ecosystem long-term, but the dev argues **monetization is still a hidden major gatekeeper**, and the abrupt rollout is a platform-risk/trust problem for creators.

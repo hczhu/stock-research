@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[bubble]], [[behavioral-finance]], [[macro]], [[AI-products]], [[risk]], [[China]], [[US]]
+  file-created-at:: 2026-07-02
 
 - **Source**: User-provided Chinese podcast transcript, apparently an interview with Professor Zhu Ning about behavioral finance, financial bubbles, AI, macro cycles, and his translation of `1929` / new book `Nonlinear Thinking`. The transcript is machine-generated / noisy; names such as Robert Shiller, Eugene Fama, Kahneman, Buffett, Munger, Bernard Baruch, Tiger Management, and Jesse Livermore are normalized from context.
 - ## Executive Summary

@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[memory]], [[super-cycle]], [[JEDEC]], [[commoditization]], [[semiconductor]], [[China]], [[valuation]]
+  file-created-at:: 2026-06-05
 
 - ## Memory's "Permanently Different Plateau" — De-Commoditization Thesis (geninnov.ai)
 	- **Source**: geninnov.ai, "A Different Plateau" (long-form), June 5 2026. All facts/arguments below are from this essay only.

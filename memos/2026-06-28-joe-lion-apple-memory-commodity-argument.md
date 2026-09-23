@@ -1,4 +1,5 @@
 - tags:: [[$AAPL]], [[Apple]], [[DRAM]], [[HBM]], [[NAND]], [[JEDEC]], [[commoditization]], [[semiconductor]], [[consumer-electronics]], [[supply-chain]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[China]]
+  file-created-at:: 2026-06-28
 
 - **Source**: Joe Lion / @joelion Mastodon thread, June 28, 2026, responding to ATP episode 697 discussion of why Apple does not directly make semiconductors and whether Apple might design memory.
 - **Thesis**: Joe's core argument is that Apple should not make commodity memory because DRAM/NAND economics are governed by process scale, bits per wafer, and brutal supply-demand pricing rather than Apple-style product design differentiation. Apple creates more value by specifying requirements, participating in JEDEC standards, and bargaining across memory suppliers than by owning a memory fab cost structure.

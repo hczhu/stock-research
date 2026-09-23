@@ -1,4 +1,5 @@
 - tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[consumer-internet]], [[IP]], [[advertising]], [[creator-economy]], [[Naavik]]
+  file-created-at:: 2026-06-08
 
 - **Source**: user-provided transcript from Naavik Gaming Podcast episode hosted by David Taylor, with Chris Petrovic (Chairman and Chief Business Officer, FunPlus) and Doug Rosen (former SVP of Games and Emerging Media, Paramount). Transcript is machine-generated.
 

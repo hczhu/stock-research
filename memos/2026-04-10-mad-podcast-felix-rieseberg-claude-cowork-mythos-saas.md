@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[Claude-Code]], [[Claude-Cowork]], [[agents]], [[coding-agents]], [[enterprise-AI]], [[cybersecurity]], [[computer-use]], [[MCP]], [[developer-tools]], [[SaaS]], [[future-of-work]], [[AI infrastructure]], [[inference]], [[$AMZN]], [[$GOOGL]], [[$MSFT]], [[$CRM]], [[$NOW]], [[$TEAM]], [[$GTLB]], [[$CRWD]], [[$PANW]]
+  file-created-at:: 2026-04-10
 
 - ## Claude Cowork, Mythos, and the Agentic Software Shift
 	- **Source**: [The MAD Podcast with Matt Turck — “Anthropic's Felix Rieseberg: Claude Cowork, Mythos, and the SaaS Extinction”](https://pod.wave.co/podcast/the-mad-podcast-with-matt-turck/anthropics-felix-rieseberg-claude-cowork-mythos-and-the-saas-extinction), published 10 April 2026; user-supplied transcript.

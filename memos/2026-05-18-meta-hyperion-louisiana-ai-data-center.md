@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[$NVDA]], [[$ETR]], [[AI infrastructure]], [[data-center]], [[capex]], [[power]], [[GPU]], [[private-credit]], [[Louisiana]], [[political-risk]], [[water]], [[real-estate]]
+  file-created-at:: 2026-05-18
 
 - **Source**: Bloomberg Businessweek / The Big Take, "Meta Goes Big on the Bayou" / "Meta's Giant AI Data Center Is Reshaping Rural Louisiana," by Riley Griffin, photographs by Wayan Barre, May 18, 2026. Extracted from local PDF: `/Users/hc/Downloads/Meta’s Giant AI Data Center Is Reshaping Rural Louisiana.pdf`.
 - **Scope**: Project timeline, progress to date, hard data points, construction / financing / siting insights, and resident / local-government sentiment around Meta's Hyperion AI data center in Richland Parish, Louisiana.

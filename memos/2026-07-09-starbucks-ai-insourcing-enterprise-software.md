@@ -1,4 +1,5 @@
 - tags:: [[$SBUX]], [[$MSFT]], [[$IBM]], [[$ORCL]], [[AI]], [[SaaS]], [[enterprise-software]], [[software]], [[enterprise]], [[developer-tools]], [[cost-cutting]]
+  file-created-at:: 2026-07-09
 
 - **Source**: Bloomberg, "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software," Daniela Sirtori and Brody Ford, published July 9, 2026 at 3:15 AM PDT and updated at 6:31 AM PDT. Based on an internal Starbucks presentation, an internal employee forum recording, and people familiar with the work.
 - **Thesis**: Starbucks is an important real-world test of the AI-driven SaaS insourcing bear case. The company is using AI-assisted coding to rebuild heavily customized inventory, maintenance, and point-of-sale applications while reviewing every technology contract. The immediate savings are modest relative to Starbucks' roughly \$400M annual software spend, and a failed AI inventory deployment shows execution risk, but the strategic signal is negative for vendors whose products are expensive, heavily customized workflow layers rather than durable systems of record or infrastructure.

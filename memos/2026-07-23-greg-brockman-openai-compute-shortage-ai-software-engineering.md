@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[AI]], [[coding-agents]], [[software-engineering]], [[future-of-work]], [[AI infrastructure]], [[compute]], [[inference]], [[capex]], [[$NVDA]], [[$MSFT]]
+  file-created-at:: 2026-07-23
 
 - ## Greg Brockman on OpenAI, Software Engineering, and Compute
 	- **Source**: Tae Kim ([@firstadopter](https://x.com/firstadopter)), brief notes from a July 23, 2026 reporter Q&A with OpenAI cofounder and president Greg Brockman at OpenAI's New York City office.

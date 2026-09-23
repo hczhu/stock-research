@@ -1,4 +1,5 @@
 - tags:: [[$META]], [[AI]], [[ads]], [[advertising]], [[generative-AI]], [[image-generation]], [[Advantage+]], [[Meta-AI]], [[Instagram]], [[WhatsApp]], [[consumer-internet]], [[commerce]], [[Stratechery]]
+  file-created-at:: 2026-07-09
 
 - ## Meta Muse Image: The Closed-Loop Advertising Moat
 	- **Source**: Ben Thompson, ["Muse Image, Grok 4.5, Alex Karp on CNBC"](https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/), Stratechery, July 9, 2026. The underlying reporting and product details cited by Thompson came from Bloomberg, Meta's AI and business blogs, and Eric Seufert at MobileDevMemo.

@@ -1,4 +1,5 @@
 - tags:: [[OpenAI]], [[AI]], [[reinforcement-learning]], [[reasoning-models]], [[test-time-compute]], [[inference]], [[post-training]], [[AI infrastructure]], [[scientific-discovery]], [[agents]], [[evals]], [[$MSFT]], [[$NVDA]], [[$GOOGL]], [[$AMZN]], [[$ORCL]], [[$TSM]], [[$DRAM]], [[token-demand]]
+  file-created-at:: 2026-06-04
 
 - ## OpenAI Reinforcement Learning and AI Scientific Discovery
 	- **Source**: [The MAD Podcast with Matt Turck — “OpenAI's Dan Roberts: Why AI Can Now Make Discoveries”](https://pod.wave.co/podcast/the-mad-podcast-with-matt-turck/openais-dan-roberts-why-ai-can-now-make-discoveries), published 4 June 2026; user-supplied transcript.

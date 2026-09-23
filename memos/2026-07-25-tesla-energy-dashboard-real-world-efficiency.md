@@ -1,4 +1,5 @@
 - tags:: [[$TSLA]], [[EV]]
+  file-created-at:: 2026-07-25
 
 - ## Tesla energy dashboard — real-world efficiency snapshot
 	- **Source**: Photo of a Tesla in-car Energy screen (Trips tab), driver profile "Mark Z.", ambient 74°F, 10:34. Data OCR'd from the screenshot.

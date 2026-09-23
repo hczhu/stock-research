@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AGI]], [[LeCun]], [[JEPA]], [[architecture]], [[reasoning-models]], [[RL]], [[post-training]], [[scaling]], [[robotics]], [[autonomous-driving]], [[token-economics]], [[inference]], [[evals]], [[research-culture]]
+  file-created-at:: 2026-09-21
 
 - ## Yann LeCun: Autoregressive LLMs Are Not the Path — and the One Claim With a Price Tag
 	- **Source**: Yann LeCun, social post, Sep 2026, restating and defending his standing position that "auto-regressive LLMs, in and of themselves, will not lead to human-level AI." **Attribution note**: the text was supplied without a byline. Authorship was inferred from internal evidence — first-person ownership of **JEPA** ("what I've been advocating") and of continuous-representation-space search ("what I have always advocated for"), both positions specific to LeCun — and subsequently **confirmed by the user**. This matters because the source-quality caveat below depends on the author being the person advocating JEPA.

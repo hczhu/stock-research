@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[KV-cache]], [[SSD]], [[NAND]], [[storage]], [[inference]], [[agents]], [[AI infrastructure]], [[BlueField]], [[$MU]]
+file-created-at:: 2026-06-06
 
 - ## NVIDIA CMX — A New Flash "Context Memory" Tier for Agentic KV Cache
 	- **Source**: user-provided technical brief on NVIDIA CMX. AI-native storage platform for KV cache in long-context, multi-turn, agentic inference.

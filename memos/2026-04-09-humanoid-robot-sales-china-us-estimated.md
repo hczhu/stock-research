@@ -1,3 +1,5 @@
+file-created-at:: 2026-04-09
+
 # Estimated Sales of Humanoid Robots (China vs U.S., 2025-2030)
 
 Context extracted from the user-provided screenshot:

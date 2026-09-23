@@ -1,4 +1,5 @@
 tags:: [[AI]], [[semiconductor]], [[HBM]], [[DRAM]], [[NAND]], [[SSD]], [[inference]], [[agents]], [[AI infrastructure]], [[CXMT]], [[YMTC]], [[super-cycle]]
+file-created-at:: 2026-06-25
 
 - ## AI 半导体终局推演 2026 (II): HBM / DRAM / SSD 能否摆脱传统周期
 	- **Source**: 用户提供的中文文章文本《AI半导体终局推演2026(II)》

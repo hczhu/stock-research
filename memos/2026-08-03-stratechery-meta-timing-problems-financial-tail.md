@@ -1,4 +1,5 @@
 tags:: [[$META]], [[Meta]], [[Stratechery]], [[advertising]], [[AI-capex]], [[capex]], [[leases]], [[accounting]], [[neoclouds]], [[enterprise]], [[agents]]
+file-created-at:: 2026-08-03
 
 - ## Stratechery: Meta earnings, Meta's timing problems, and the financial tail
 	- **Source**: Stratechery Update, Ben Thompson, "Meta Earnings, Meta's Timing Problems, The Financial Tail," August 3, 2026, on Meta's Q2 2026 call (July 29). Incorporates two Bloomberg reports, including the 10-Q commitments disclosure filed the following day. Primary earnings record: [[META-2026-Q2]]. Companion piece one day later: [[2026-08-04-stratechery-microsoft-vs-meta-efficiency-payoff]].

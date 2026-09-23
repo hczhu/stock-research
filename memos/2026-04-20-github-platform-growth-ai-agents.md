@@ -1,4 +1,5 @@
 tags:: [[$MSFT]], [[GitHub]], [[AI]], [[developer-tools]], [[platform-metrics]], [[agents]]
+file-created-at:: 2026-04-20
 
 - ## GitHub Platform Growth — Commits & Actions (2023–2026)
 	- **Source**: GitHub internal operational metrics, shared publicly (attributed to GitHub leadership commentary on AI-agent-driven platform activity), April 2026

@@ -1,4 +1,5 @@
 tags:: [[data-center]], [[AI infrastructure]], [[M&A]], [[private-equity]], [[power]], [[capex]], [[real-estate]], [[NIMBY]], [[private-markets]], [[$DLR]], [[$EQIX]], [[$BX]], [[$BLK]], [[$KKR]], [[$NVDA]], [[$VRT]], [[$ETN]]
+file-created-at:: 2026-07-13
 
 - ## Data-Center Builders Race to Sell Majority Stakes
 	- **Source**: [The Wall Street Journal — “Data-Center Builders Are Racing to Offload Stakes Worth Billions”](https://www.wsj.com/finance/investing/data-center-builders-are-racing-to-offload-stakes-worth-billions-1a7d92f8), Anissa Gardizy, published 13 July 2026; user-supplied article text.

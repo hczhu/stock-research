@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[super-cycle]], [[AI]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[$NVDA]], [[CoWoS]], [[$TSM]]
+  file-created-at:: 2026-06-01
 
 - ## Why This Memory Cycle Is a Super Cycle — Five Core Arguments
 	- **Source**: Interview transcript (user-provided), summarized `2026-06-01`

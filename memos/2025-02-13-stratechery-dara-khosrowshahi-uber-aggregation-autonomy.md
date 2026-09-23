@@ -1,4 +1,5 @@
 - tags:: [[$UBER]], [[$TSLA]], [[$GOOGL]], [[$DASH]], [[Waymo]], [[autonomous-vehicles]], [[Stratechery]], [[marketplace]], [[network-effects]], [[unit-economics]], [[mobility]]
+  file-created-at:: 2025-02-13
 
 - ## Stratechery: Dara Khosrowshahi on Aggregation and Autonomy
 	- **Source**: Stratechery Interview, Ben Thompson with Uber CEO Dara Khosrowshahi, February 13, 2025. Note this predates the memo date — treat the AV timelines below as dated forecasts to score against, not current guidance.

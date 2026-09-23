@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI infrastructure]], [[capex]], [[open-weight-models]], [[robotics]], [[AGI]], [[recursive-self-improvement]], [[artificial-scientists]], [[model-labs]], [[inference]], [[GPU]], [[$NVDA]], [[$MSFT]], [[$GOOGL]], [[$META]], [[$AMZN]], [[hyperscalers]], [[transformers]], [[AI-safety]], [[podcast]]
+  file-created-at:: 2026-07-13
 
 - ## Juergen Schmidhuber: AI Capex, Open Models, and Physical Intelligence
 	- **Source**: User-provided transcript of the `Unsupervised Learning` podcast hosted by Jacob Efron, featuring AI researcher Juergen Schmidhuber; source date not included, accessed July 13, 2026. The transcript contains speech-recognition errors, so figures below are presented as the guest's approximate claims rather than independently verified facts.

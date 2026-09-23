@@ -1,4 +1,5 @@
 - tags:: [[semiconductor]], [[inference]], [[AI infrastructure]], [[data-center]], [[HBM]], [[HBF]], [[DRAM]], [[NAND]], [[packaging]], [[$NVDA]], [[$TSM]], [[$MU]], [[$MRVL]]
+  file-created-at:: 2026-06-07
 
 - **Source**: "Challenges and Research Directions for Large Language Model Inference Hardware," Xiaoyu Ma and David Patterson (Google), arXiv PDF: https://arxiv.org/pdf/2601.05047
 

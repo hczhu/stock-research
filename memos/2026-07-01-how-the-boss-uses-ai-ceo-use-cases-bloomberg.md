@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[AI adoption]], [[enterprise AI]], [[AI agents]], [[productivity software]], [[$MSFT]], [[$CRM]], [[Granola]], [[Slack]], [[AI use cases]]
+  file-created-at:: 2026-07-01
 
 - **Source**: Bloomberg Businessweek, "THE CEO DIET — How the Boss Uses AI," by Kate Krader (Pursuits). 12 executives describe how they personally use AI. Anecdotal/qualitative — signal on *executive-level* AI adoption and tool mindshare, not quantitative data.
 - **Thesis**: AI has crossed from IC/analyst tooling into **daily CEO workflows** — as a sounding board, chief-of-staff, data-query layer, and meeting-prep engine. Two investment-relevant signals: (1) **Claude/Anthropic is named more than any other tool** by these executives, and (2) **agentic** setups (teams of AI agents, background daily agents) are showing up in the wild, not just in vendor demos.

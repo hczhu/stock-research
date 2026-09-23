@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # U.S. Video Game Industry Establishments and Employment by Sector (2023)
 
 Source: user-provided screenshot of "Table 1: Establishments and Employment for the U.S. Video Game Industry and its Principal Sectors, 2023." The screenshot attributes the data to TEConomy's analysis of the 2023 U.S. Video Game Industry Database.

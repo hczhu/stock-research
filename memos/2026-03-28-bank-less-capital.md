@@ -1,1 +1,3 @@
+file-created-at:: 2026-03-28
+
 In the US banks are required to hold a certain amount of capital relative to their assets, regardless of how risky those assets are. The rule, known as the enhanced supplementary leverage ratio, or eSLR, was implemented in 2014 as a backstop against other banking regulations. But banks have long complained that it prevents them from trading as many Treasuries as they’d like. In November federal regulators moved to relax the rule, lowering the asset ratio from 5% to between 3.5% and 4.25% for major lenders, and even less 

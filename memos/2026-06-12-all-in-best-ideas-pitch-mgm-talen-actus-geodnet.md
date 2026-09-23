@@ -1,4 +1,5 @@
 - tags:: [[$MGM]], [[$TLN]], [[$AKTS]], [[GeodNet]], [[stock-pitch]], [[casinos]], [[power]], [[nuclear]], [[biotech]], [[crypto]], [[DePIN]], [[AI]], [[data-centers]], [[Ira-Sohn]]
+  file-created-at:: 2026-06-12
 
 - ## All-In "Best Ideas Pitch" — 4 Manager Pitches (Ira Sohn format)
 	- **Source**: All-In conference "Best Ideas Pitch" event transcript (~2026-06). Ira Sohn-style format; host previously pitched Amazon→$1T at Sohn 2015 (laughed at by Einhorn), Tesla converts 2016, "AI is the future… Box" 2017.

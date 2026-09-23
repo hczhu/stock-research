@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[agents]], [[vibe-coding]], [[OPC]], [[Maker]], [[Anthropic]], [[SaaS]], [[bear-case]], [[crypto]], [[Web3]], [[prediction-markets]], [[venture-capital]], [[software]]
+  file-created-at:: 2026-07-02
 
 - ## The OPC / Maker Economy — Barbell World Where Model Companies Take Everything (podcast)
 	- **Source**: Chinese-language founder/VC podcast (unnamed hosts), recorded shortly after **Claude Opus 4.6** shipped. Speaker runs an ~8-person startup pivoting from a "one-person company (OPC)" thesis into building a **Maker community** product. All facts/arguments below are from this conversation only; no external data.

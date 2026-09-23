@@ -1,3 +1,5 @@
+file-created-at:: 2026-07-02
+
 # stock-research
 
 Personal investment research repository. Raw notes, data extractions, earnings summaries, and theses on individual companies, sectors, and macro themes — primarily AI infrastructure, semiconductors, SaaS, and China tech.

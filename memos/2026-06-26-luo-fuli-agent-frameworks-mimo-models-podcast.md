@@ -1,4 +1,5 @@
 tags:: [[AI]], [[agents]], [[AI infrastructure]], [[inference]], [[coding-agents]], [[open-source]], [[post-training]], [[model-architecture]], [[China]], [[Xiaomi]], [[MIMO]], [[AI semiconductors]]
+file-created-at:: 2026-06-26
 
 - **Source**: User-provided podcast transcript, in Chinese, from an interview with Luo Fuli of Xiaomi's large-model / MIMO team. The transcript appears machine-generated and noisy; names such as "OpenCloud," "OpenCode," "Claude Opus 4.6," and some MIMO model names are preserved from the transcript but may contain ASR errors.
 - **Core thesis**: The interview frames 2026 as the shift from a chat/pretraining era to an agent/post-training era. The new bottleneck is not just base-model scale, but the co-evolution of model, agent framework, post-training system, inference engine, and hardware. Open, modifiable agent frameworks can turn collective human intelligence into a compounding advantage because users can inspect, modify, and improve the framework itself.

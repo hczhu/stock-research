@@ -1,4 +1,5 @@
 - tags:: [[SE]], [[$APP]], [[$PDD]], [[e-commerce]], [[AdTech]], [[mobile-gaming]], [[Southeast-Asia]], [[China]], [[Brazil]], [[Hayden-Capital]], [[investment-philosophy]]
+  file-created-at:: 2026-06-21
 
 - **Source**: The Synopsis podcast — Drew Cohen interviews Fred Liu (Founder & Portfolio Manager, Hayden Capital). Published 2024–2025 (exact date not specified in transcript).
 

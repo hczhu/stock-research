@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[Xbox]], [[gaming]], [[Game-Pass]], [[subscriptions]], [[bundling]], [[marketplaces]], [[aggregators]], [[M&A]], [[organizational-design]], [[coordination-costs]], [[corporate-strategy]], [[Activision-Blizzard]], [[consumer-internet]]
+  file-created-at:: 2026-07-08
 
 - ## Microsoft Xbox: Game Pass, Bundling, and the Boundaries of the Firm
 	- **Source**: Ben Thompson, ["XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs"](https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/), Stratechery, July 8, 2026. Operating figures and management statements cited in the article came from Bloomberg, The Wall Street Journal, and Xbox CEO Asha Sharma's employee note.

@@ -1,4 +1,5 @@
 - tags:: [[SemiAnalysis]], [[Dylan-Patel]], [[DRAM]], [[CPU]], [[optics]], [[CPO]], [[copper]], [[$NVDA]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[Anthropic]], [[OpenAI]], [[AI-capex]], [[data-center]], [[power]], [[behind-the-meter]], [[$APH]], [[MediaTek]], [[inference]]
+  file-created-at:: 2026-07-16
 
 - **Source**: "The Next Big Thing" podcast (Listen Tree) with **Dylan Patel (SemiAnalysis founder)**, first episode of a recurring partnership, ~mid-July 2026. Wide-ranging state-of-AI-infrastructure interview: AI ROI/end-demand, memory, CPUs, networking/optics, and power. Companion to [[DRAM-memory-ssd-index-thesis]], [[2026-07-07-hyperscaler-capex-goldman-bofa-cy27-28e]], [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]], [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]].
 

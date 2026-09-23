@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[CXMT]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$285A.T]], [[$NVDA]], [[$INTC]], [[China]], [[Korea]], [[market-share]], [[supply]], [[capex]], [[LTA]], [[semiconductor]]
+  file-created-at:: 2026-08-24
 
 - ## Memory Feed, Aug 4 – 24 2026 — The 2:1 Price-to-Volume Tell, and HBM4 Yield Convergence
 	- **Source**: TickerTick `$DRAM` AI feed, Aug 4–24 2026 — SanDisk FY26 Q4 results and Aug 13 Investor Day, Counterpoint Q2 DRAM/HBM trackers, TrendForce Q2 NAND, DIGITIMES, Bloter, Reuters, Bloomberg, MK News, Seoul Economic Daily, Chips and Cheese, Business Insider

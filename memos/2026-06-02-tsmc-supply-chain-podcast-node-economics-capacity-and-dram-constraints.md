@@ -1,4 +1,5 @@
 - tags:: [[$TSM]], [[N2]], [[N3]], [[semiconductor]], [[AI]], [[DRAM]], [[smartphones]], [[capex]]
+  file-created-at:: 2026-06-02
 
 - ## TSMC Supply Chain Podcast: Node Economics, Capacity, And DRAM Constraints
 	- **Source context**:

@@ -1,4 +1,5 @@
 - tags:: [[semiconductor]], [[capex]], [[DRAM]], [[foundry]], [[IDM]], [[$TSM]], [[$005930.KS]], [[$MU]], [[$000660.KS]]
+  file-created-at:: 2026-04-16
 
 - ## Semiconductor Capital Expenditures, 2024-2026
 	- **Source context**: Screenshot titled **"Semiconductor Capital Expenditures, US$ Billion"**

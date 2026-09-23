@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Nvidia Roadmap: Scale-Up and Scale-Out Networking
 
 Context: Data extracted from the provided Nvidia roadmap screenshot (SemiAnalysis watermark visible), covering Hopper, Blackwell, and Rubin networking characteristics.

@@ -1,4 +1,5 @@
 - tags:: [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMZN]], [[capex]], [[hyperscalers]], [[AI]], [[data-center]]
+  file-created-at:: 2026-04-29
 
 - ## Big 4 US Tech 2026 Capex Projections
 	- **Source context**: user-provided data points

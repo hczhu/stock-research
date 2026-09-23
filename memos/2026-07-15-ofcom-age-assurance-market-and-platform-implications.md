@@ -1,4 +1,5 @@
 - tags:: [[Ofcom]], [[UK]], [[age-assurance]], [[online-safety]], [[regulation]], [[digital-identity]], [[privacy]], [[social-media]], [[advertising]], [[$GOOGL]], [[$META]], [[$RDDT]], [[$RBLX]], [[$AAPL]]
+  file-created-at:: 2026-07-15
 
 - **Source**: Ofcom, *Report on the use of age assurance*, prepared under section 157 of the UK Online Safety Act 2023 and published 15 July 2026. User-provided PDF; 88 pages.
 - **Thesis**: UK age assurance has moved from policy concept to scaled infrastructure, but the first six months show that **service-level efficacy does not automatically produce ecosystem-level safety**. Checks can block access where deployed correctly, yet traffic migrates to non-compliant services, behavioral age inference misses children, and privacy fears create abandonment. The investment consequence is larger than the direct verification-vendor TAM: regulation is likely to shift responsibility and bargaining power toward **search, operating systems, and app stores**, while raising compliance and monetization friction for ad-funded platforms.

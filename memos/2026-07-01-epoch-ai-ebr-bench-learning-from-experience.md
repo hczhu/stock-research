@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[agents]], [[evaluation]], [[EBR-bench]], [[Epoch-AI]], [[continuous-learning]], [[reinforcement-learning]], [[post-training]], [[inference]], [[human-in-the-loop]], [[enterprise-software]], [[OpenAI]], [[Anthropic]], [[Google]], [[$MSFT]], [[$GOOG]], [[$AMZN]]
+  file-created-at:: 2026-07-01
 
 - ## EBR-Bench — Frontier AI Does Not Yet Learn Reliably From Experience
 	- **Source**: [Epoch AI, “AI Doesn't Get Better at This Board Game With Practice”](https://epoch.ai/publications/earthborne-rangers-benchmark), Benjamin Ou and Greg Burnham, July 1, 2026; user-provided PDF. [Benchmark methodology](https://epoch.ai/benchmarks/ebr-bench).

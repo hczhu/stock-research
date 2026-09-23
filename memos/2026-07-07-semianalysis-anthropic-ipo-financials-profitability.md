@@ -1,4 +1,5 @@
 - tags:: [[Anthropic]], [[Claude]], [[Claude-Code]], [[OpenAI]], [[AI]], [[ARR]], [[IPO]], [[AI infrastructure]], [[inference]], [[token-economics]], [[TaaS]], [[AWS]], [[$AMZN]], [[Azure]], [[$MSFT]], [[GCP]], [[$GOOGL]], [[$META]], [[SpaceX]], [[capex]], [[SemiAnalysis]]
+  file-created-at:: 2026-07-07
 
 - ## Anthropic IPO Financials: Claude Code, API Margins, and the Compute Flywheel
 	- **Source**: Joey Brookhart, Crystal Huang, and Dylan Patel, SemiAnalysis, `Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak`, July 7, 2026; user-provided 30-page PDF.

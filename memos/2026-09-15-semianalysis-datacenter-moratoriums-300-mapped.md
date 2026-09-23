@@ -1,4 +1,5 @@
 - tags:: [[SemiAnalysis]], [[data-center]], [[AI infrastructure]], [[capex]], [[power]], [[ERCOT]], [[BtM]], [[NIMBY]], [[permitting]], [[hyperscalers]], [[$VRT]], [[$ETN]], [[$GEV]], [[$BE]], [[$CVX]], [[$MSFT]], [[$AMZN]], [[$META]], [[$GOOGL]]
+  file-created-at:: 2026-09-15
 
 - ## SemiAnalysis — 300+ Data-Center Moratoriums, but Only 2.3 GW Actually Delayed
 	- **Source**: SemiAnalysis, “Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them,” Maya Barkin, Reyk Knuhtsen, Jeremie Eliahou Ontiveros and Dylan Patel, Sep 15 2026. Paid report supplied as PDF.

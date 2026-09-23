@@ -1,4 +1,5 @@
 - tags:: [[CXMT]], [[HBM]], [[China]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[DRAM]], [[semiconductor]], [[$NVDA]], [[geopolitics]], [[supply]]
+  file-created-at:: 2026-06-05
 
 - ## Korea–China HBM Gap Narrows to ~Three Years (CXMT's All-Out Push)
 	- **Source**: Korean semiconductor-industry press, reported on the 1st (June 2026)

@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Pew U.S. Teens AI Chatbot Usage (2025)
 
 Context: Pew Research Center, survey of U.S. teens ages 13-17 conducted Sept. 25-Oct. 9, 2025 (`Teens, Social Media and AI Chatbots 2025`).

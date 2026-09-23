@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # Meta iOS ATT Disruption and AppLovin Share Shift
 
 Historically, Meta’s struggles on iOS trace back to Apple’s April 2021 launch of App Tracking Transparency (ATT), which required users to opt in to sharing their unique device identifier, the IDFA. Before this shift, Meta dominated iOS by combining IDFA data with its own platform signals to power effective targeting and lookalike models.

@@ -1,4 +1,5 @@
 - tags:: [[DRAM]], [[HBM]], [[NAND]], [[memory]], [[server]], [[data-center]], [[AI infrastructure]], [[supply]], [[pricing]], [[capex]], [[CXMT]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$285A.T]], [[$NVDA]], [[semiconductor]]
+  file-created-at:: 2026-09-14
 
 - ## Memory Feed, Sep 7–14 2026 — Demand Is Broadening Faster Than Usable Supply
 	- **Source**: User-provided TickerTick `$DRAM` AI feed, covering articles visible through Sep 14 2026. The feed aggregates TrendForce, company statements, Korean and Japanese trade press, general news, and automated summaries; figures below retain source attribution and confidence labels.

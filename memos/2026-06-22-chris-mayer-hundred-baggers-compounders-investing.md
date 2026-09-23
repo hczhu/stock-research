@@ -1,4 +1,5 @@
 - tags:: [[investment-philosophy]], [[compounders]], [[ROIC]], [[quality]], [[concentration]], [[sell-discipline]], [[serial-acquirer]], [[CSU]], [[$CPRT]], [[Hundred-Baggers]]
+  file-created-at:: 2026-06-22
 
 - **Source**: The Synopsis podcast — Drew Cohen interviews Chris Mayer, author of *Hundred Baggers* and *The Investor's Odyssey*. Mayer manages approximately \$200M in a concentrated global equity portfolio.
 

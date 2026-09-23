@@ -1,4 +1,5 @@
 tags:: [[$TSM]], [[TSMC]], [[$NVDA]], [[foundry]], [[semiconductor]], [[capex]], [[Taiwan]], [[advanced-packaging]], [[N3]], [[N2]], [[depreciation]], [[utilization]], [[robotics]], [[edge-AI]], [[Samsung]]
+file-created-at:: 2026-08-21
 
 - ## TSMC's cross-node utilization: how a truck fleet bridges the 2026-to-2028 capacity gap
 	- **Source**: Asianometry video transcript on TSMC fab construction and cross-node utilization. Machine-transcribed with garbled Taiwanese place names and personal names (Baoshan/Hsinchu, Nanzih/Kaohsiung, Taichung, Tainan, Chiayi, Miaoli, Mark Liu, Lora Ho, Vera Rubin, FOUPs, CoWoS/InFO all appear mangled — normalized below). The underlying facts are drawn from TSMC conference-call disclosures going back to 2015; the narrator is explicit that *"this is not some ground-breaking piece of news."* Companion to [[TSMC-TSM-thesis]] and [[2026-07-12-tsmc-manufacturing-innovation-platform-cusumano]].

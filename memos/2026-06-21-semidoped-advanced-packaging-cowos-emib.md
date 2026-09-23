@@ -1,4 +1,5 @@
 - tags:: [[advanced-packaging]], [[CoWoS]], [[EMIB]], [[TSMC]], [[Intel]], [[semiconductor]], [[AI-compute]], [[HBM]], [[TPU]], [[packaging]], [[chiplets]]
+  file-created-at:: 2026-06-21
 
 - **Source**: Semi-Doped podcast — Austin Lines & Vick Shaker (Vick's Newsletter). Episode recorded Friday June 13, 2025 (pre-published). Topic: Advanced Packaging — CoWoS vs EMIB.
 

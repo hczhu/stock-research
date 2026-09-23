@@ -1,4 +1,5 @@
 - tags:: [[$NVDA]], [[semiconductor]], [[GPU]], [[data-center]], [[capex]], [[Neocloud]], [[debt]], [[OpenAI]], [[AI infrastructure]]
+  file-created-at:: 2026-09-11
 
 - ## Nvidia's Backstop Universe - Credit Support as a Distribution Strategy
 	- **Source**: Daniel Nishball, Oliver Kennon, and Terence Ong, SemiAnalysis, "Nvidia's Backstop Universe - Heads I Win, Tails Who Loses?", September 11, 2026; user-provided PDF.

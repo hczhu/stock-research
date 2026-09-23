@@ -1,4 +1,5 @@
 - tags:: [[Benedict-Evans]], [[OpenAI]], [[Anthropic]], [[$META]], [[$GOOG]], [[$MSFT]], [[$ORCL]], [[$NVDA]], [[$TSM]], [[SaaS]], [[software]], [[agents]], [[commoditization]], [[AI-capex]], [[Jevons-paradox]], [[bubble]]
+  file-created-at:: 2026-07-20
 
 - **Source**: Benedict Evans on the MAD Podcast with Matt Turck (FirstMark), his 3rd appearance, ~July 2026 (recorded the day after a WSJ report that OpenAI/Fiji Simo would refocus on coding + business users and "stop side quests"). Same author as [[2026-07-13-benedict-evans-token-pricing-commodity-infrastructure]] but a **different source with substantial new frameworks** — this memo captures the net-new material and cross-references the prior one rather than repeating it. Companion to [[2026-07-16-openai-superapp-chatgpt-codex-whither-chat-stratechery]], [[2026-07-16-kimi-k3-open-weight-frontier-commoditization]], [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]], [[2026-07-19-fde-forward-deployed-engineers-model-company-strategy]].
 

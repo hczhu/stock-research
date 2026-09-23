@@ -1,4 +1,5 @@
 tags:: [[$NVDA]], [[$INTC]], [[$AAPL]], [[$MSFT]], [[AI infrastructure]], [[semiconductor]], [[GPU]], [[DRAM]], [[inference]]
+file-created-at:: 2026-06-03
 
 - **Source**: a16z podcast — guest Steven Sinofsky (ex-President of Windows Division at Microsoft, creator of the Surface program); recorded around Computex June 2026
 - **Context**: Sinofsky commentary on Nvidia's RTX Spark (N1X) announcement at Computex, AI PC platform dynamics, and the historical arc of compute migrating from centralized to local devices

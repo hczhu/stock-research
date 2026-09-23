@@ -1,4 +1,5 @@
 - tags:: [[HBM]], [[GPU]], [[AI infrastructure]], [[$NVDA]], [[$AMD]], [[Cerebras]], [[Groq]]
+  file-created-at:: 2026-05-21
 
 - ## HBM Perf Ratio: Cerebras vs Others (Chips)
 	- **Source context**:

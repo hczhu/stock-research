@@ -1,4 +1,5 @@
 - tags:: [[LLM]], [[Anthropic]], [[xAI]], [[Grok]], [[Claude]], [[model-size]], [[AI-compute]]
+  file-created-at:: 2026-04-09
 
 - ## LLM Model Sizes — Grok, Claude Sonnet, Claude Opus (Leaked via Elon Musk)
 	- **Source**: @elonmusk on X.com, reposted by Matti Vilola; screenshot via @agenda2033 thread (2026-04-09, ~18h ago from screenshot)

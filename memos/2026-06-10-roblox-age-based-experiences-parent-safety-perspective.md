@@ -1,4 +1,5 @@
 tags:: [[$RBLX]], [[Roblox]], [[trust and safety]], [[age verification]], [[parental controls]], [[aging up]], [[Roblox Kids]], [[Roblox Select]], [[Trusted Connections]], [[Facial Age Estimation]], [[regulation]], [[KYC]]
+file-created-at:: 2026-06-10
 
 - ## Roblox Age-Based Experiences — Parent / Trust & Safety Ground View (Emma C.)
 	- **Source**: *Not Just Screen Time* (Substack), Emma C. — two posts (incl. one dated Jun 10, 2026). A parent-focused newsletter explaining Roblox safety, settings, Robux, scams. Emma is a member of the **Roblox Global Parent Champions** (states views are her own).

@@ -1,3 +1,5 @@
+file-created-at:: 2026-03-28
+
 # OpenClaw: Open Source Projects & API Dependencies
 
 Inventory of all open source projects and external APIs used by [OpenClaw](https://github.com/openclaw/openclaw), compiled from source code and documentation.

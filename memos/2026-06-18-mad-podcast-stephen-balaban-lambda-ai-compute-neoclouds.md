@@ -1,4 +1,5 @@
 - tags:: [[Lambda]], [[neocloud]], [[AI infrastructure]], [[GPU]], [[inference]], [[data-center]], [[power]], [[agents]], [[coding-agents]], [[capex]], [[HBM]], [[networking]], [[cloud]], [[$NVDA]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$ORCL]], [[$CRWV]], [[$NBIS]], [[$VRT]], [[$ETN]]
+  file-created-at:: 2026-06-18
 
 - ## Lambda and the State of AI Compute in 2026
 	- **Source**: [The MAD Podcast with Matt Turck — “The GPU Myth: State of AI Compute 2026 | Stephen Balaban”](https://podcasts.apple.com/mx/podcast/the-gpu-myth-state-of-ai-compute-2026-stephen-balaban/id1722339764?i=1000773260083), published 18 June 2026; user-supplied transcript.

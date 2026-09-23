@@ -1,4 +1,5 @@
 tags:: [[$TSM]], [[TSMC]], [[semiconductors]], [[foundry]], [[CoWoS]], [[advanced-packaging]], [[AI infrastructure]], [[$NVDA]], [[$AAPL]], [[Taiwan]]
+file-created-at:: 2026-07-12
 
 - **Company**: Taiwan Semiconductor Manufacturing Company (TSM / 2330.TW)
 - **Date**: 2026-07-12

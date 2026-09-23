@@ -1,3 +1,5 @@
+file-created-at:: 2026-05-20
+
 # Claude Opus 4.6 Provider Performance (OpenRouter)
 
 Source: OpenRouter cross-provider performance dashboard. Metrics are averages across all locations.

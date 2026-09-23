@@ -1,4 +1,5 @@
 - tags:: [[logistics]], [[shipping]], [[supply chain]], [[manufacturing]], [[consumer electronics]], [[economics]]
+  file-created-at:: 2026-06-02
 
 - ## Dollar Density Of Products: Shipping And Value Density
 	- **Source**:

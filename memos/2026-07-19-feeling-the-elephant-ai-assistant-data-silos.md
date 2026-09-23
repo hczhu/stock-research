@@ -1,4 +1,5 @@
 - tags:: [[AI]], [[AI-assistants]], [[data]], [[network-effects]], [[enterprise-software]], [[advertising]], [[retail media]], [[privacy]], [[regulation]], [[supply-chain]], [[$ZM]], [[$SNAP]], [[$AMZN]], [[$WMT]], [[$CART]], [[$GOOGL]], [[$META]], [[$AAPL]], [[$MSFT]], [[$CRM]]
+  file-created-at:: 2026-07-19
 
 - **Source**: “Feeling the elephant” (user-provided text excerpt; author and publication date not supplied).
 - **Thesis**: The durable advantage in AI assistants may shift from standalone model quality toward privileged access to fragmented user context and proprietary behavioral graphs. Distribution controls where an assistant can appear, integrations determine what endpoints it can observe, but the deepest moat belongs to platforms that own the aggregated data and inference systems behind those endpoints.

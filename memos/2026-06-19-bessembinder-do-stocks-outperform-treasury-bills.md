@@ -1,4 +1,5 @@
 - tags:: [[skewness]], [[diversification]], [[concentration]], [[stock-returns]], [[portfolio-construction]], [[active-management]], [[academic-research]], [[investing]]
+  file-created-at:: 2026-06-19
 
 - **Source**: Bessembinder, Hendrik — "Do Stocks Outperform Treasury Bills?", *Journal of Financial Economics* (2018). Data: CRSP monthly returns, all NYSE/Amex/Nasdaq common stocks, 1926–2016 (~26,000 / ~25,300 firms).
 
