@@ -1,0 +1,78 @@
+- tags:: [[space-datacenter]], [[orbital-compute]], [[SpaceX]], [[Starlink]], [[Starcloud]], [[Elon-Musk]], [[data-center]], [[TCO]], [[power]], [[cooling]], [[Starship]], [[satellite]], [[germanium]], [[supply-chain]], [[China]], [[$NVDA]], [[$GOOGL]], [[$TSLA]], [[defense]], [[AI-compute]]
+  file-created-at:: 2026-07-01
+
+- **Source**: Two linked *IEEE Spectrum* pieces — Andrew Cavalier (aerospace analyst, ABI Research), "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks," June 11 2026, and Harry Goldstein's editorial "The Space-based Data Center Hype Machine Is Already in Orbit," July 1 2026, with comments from Spectrum editors Dina Genkina and Goldstein. **Cavalier's TCO model is explicitly back-of-envelope** and his employer sells aerospace research; the editorial is opinion. Every derived figure below was recomputed.
+
+- **Thesis**: Three published TCO models of the same question now span roughly **200×** — Starcloud's own filing implies orbital is ~21× *cheaper*, SemiAnalysis says ~4.4× more expensive, ABI says at least 10× more expensive. That spread is the finding: **the question is not yet modelable, so any capital allocated to it today is allocated on narrative.** What *is* firm is the physics — radiator area scales with power and nothing else, and thermal plus power hardware consumes 65–70% of satellite mass — which means cheaper launch cannot fix the economics, a conclusion two independent models now reach by different routes.
+
+- ## The three models, and how far apart they are
+
+	- | Model | Source interest | Claim |
+	  |---|---|---|
+	  | **Starcloud** | Applicant; raising against the thesis | ~\$8M per 40-MW cluster over 10 years vs. ~\$167M terrestrial — implies **~21× cheaper in orbit** |
+	  | **SemiAnalysis** | Paid research, no launch exposure | **4.4× more expensive** on LCOC in 2026; parity ~2040 base case, ~2034 in an "Elon Musk" case |
+	  | **ABI Research** | Paid research, no launch exposure | **At least 10× more expensive** per GPU-year, at an optimistic \$44/kg Starship launch and \$0.20/kWh terrestrial power |
+
+	- The two disinterested models agree on sign and disagree on magnitude by ~2.3×. **The one model claiming orbital is cheaper belongs to the party filing for an 88,000-satellite constellation.** Treat the 21× as a fundraising artifact until an independent party reproduces it.
+
+	- **Forecast optimism tracks vertical integration into launch almost perfectly.** Musk says parity in 2–3 years and owns the compute (xAI, now inside SpaceX), the launch (Starship) and the solar (Tesla) — Genkina's summary is *"it's almost like he's paying himself."* Starcloud owns none of the launch and depends on Starship, and forecasts near-term parity anyway. **Google, which simply buys launch, is the only one with a mid-2030s date** — and conditions it on launch falling below \$200/kg, in its own published paper. See [[2026-06-19-semianalysis-space-datacenters-tco-orbital-compute]].
+
+- ## The thermal arithmetic, recomputed
+
+	- Radiative cooling is the only mechanism available — vacuum removes conduction and convection — so Stefan-Boltzmann governs: power radiated scales with **area × temperature⁴**. In orbit the only controllable variable is area. Cavalier calls the result a **"physics tax."**
+
+	- | Load | Radiator area | Check |
+	  |---|---|---|
+	  | One H100 at 700 W, 60 °C | **1.4 m²** | Implies ~500 W/m² |
+	  | Same chip after 5 years of UV and atomic-oxygen degradation | **~2.0 m²**, a **+40%** tax | ~350 W/m² |
+	  | One 40-kW rack (32 GPUs, 2.5 TB memory) | **80 m²**, "a pickleball court" | 40 kW ÷ 700 W × 1.4 m² = 80.0 m² exactly |
+	  | 100-MW data center | **2,500 radiators** | = 200,000 m², **0.2 km²** of radiator; ~280,000 m² at end of life |
+
+	- **The cross-check that matters is against flight hardware.** The ISS radiator rejects 70 kW across 325 m² — **215 W/m²**. Cavalier's fresh-radiator assumption is **500 W/m², about 2.3× better than the best thing actually flying**, and even his degraded end-of-life figure at 350 W/m² is **1.6× better than ISS**. His model is therefore optimistic in the same direction as its conclusion is damning: the real areas are likely larger than tabulated.
+
+	- One internal inconsistency worth noting: the figure caption gives "just under 3 m²" at 20 °C against 1.4 m² at 60 °C, a ratio of ~2.1×, where Stefan-Boltzmann predicts (333/293)⁴ = **1.67×**. The 60 °C and 85 °C figures are mutually consistent; the 20 °C one is not, under any single emissivity assumption.
+
+- ## Mass, not launch cost, is the binding constraint
+
+	- **Radiators and solar arrays consume 65–70% of total satellite mass.** Compute is a minority of what you launch. Cavalier: *"the critical factor isn't just launch cost; it's the computing power per unit mass and electric-power economics."*
+
+	- The power and cooling areas are near-equal by construction: solar collects ~**400 W/m²** (29% of the 1,361 W/m² solar constant) while radiators reject ~**450 W/m²**, so **every square metre of generation demands roughly another square metre of cooling**, and the radiator must be a structural element rather than a coating on something else.
+
+	- **Two independent models now converge on "launch cost is not the lever," by different mechanisms.** SemiAnalysis gets there from the cost side — IT capital is 75–80% of TCO, and cutting launch 85% moves total program capex only 8%. ABI gets there from the mass side — the majority of launched mass is thermal and power hardware that stays expensive at any launch price, and space-grade photovoltaics run orders of magnitude above terrestrial. **That convergence is the strongest claim in this memo**, and it directly contradicts Google's own framing, which makes a sub-\$200/kg launch price the trigger for parity.
+
+	- Perfect three-way alignment — panels to sun, radiator to the void, antennas to Earth — is what makes the numbers above achievable at all, and it requires high-torque attitude control with many failure modes, on hardware that cannot be serviced.
+
+- ## The three programs
+
+	- | | SpaceX / xAI | Starcloud | Google Project Suncatcher |
+	  |---|---|---|---|
+	  | Status | FCC filing Jan 2026; AI-1 design June 2026 | One H100 flown late 2025; second satellite due Oct 2026 | Research; 2-satellite demo with Planet early 2027 |
+	  | Scale | Up to **1 million satellites** | 5 GW across ~100 launches | 81-satellite clusters |
+	  | Power/satellite | Up to 150 kW | 40 MW per launch container | Not specified |
+	  | Silicon | Custom **D3** chip, Terafab consortium | Off-the-shelf H100 / Blackwell | **Trillium TPU v6e** |
+	  | Orbit | 500–2,000 km LEO, SSO shells at 50-km intervals | Dawn-dusk SSO, >99% sunlight | Dawn-dusk SSO, ~650 km |
+	  | Parity claim | 2–3 years | Near-term | Mid-2030s, at <\$200/kg |
+
+	- **Starcloud's single flown H100 could not run at full power because its radiator was too weak.** That is the entire body of orbital AI-compute flight evidence to date, and it failed on exactly the constraint both disinterested models identify as binding.
+
+	- **The good orbit is scarce, and all three want it.** SemiAnalysis notes most LEO gets sun only ~60% of the time; only dawn-dusk sun-synchronous orbit approaches continuous illumination, and it is a narrow subset of LEO. Starcloud and Google both target it. SpaceX's 1M-satellite filing spans 500–2,000 km on 50-km shell spacing, so **most of that constellation cannot sit in the orbit that makes the power argument work.**
+
+	- **The deployment arithmetic is the editorial's strongest point.** Roughly 7,000 orbital launches have occurred in all of history. One million satellites at Starship's 60 per vehicle needs **16,667 dedicated launches**; against SpaceX's record 165 missions in 2025, even a **10× cadence takes 10.1 years**. At Starlink's ~4,000 satellites/year build rate, a **10× manufacturing increase still takes 25 years**. Both check exactly.
+
+- ## Two constraints the AI-compute framing misses
+
+	- **Germanium.** Space-grade solar depends on germanium substrates whose supply is **concentrated in China**, and Cavalier judges scaling that availability extremely difficult. Radiation-tolerant perovskite is the alternative and is **five or more years out**. A US-led orbital compute buildout therefore runs through a Chinese-controlled input at the one layer that consumes two thirds of satellite mass alongside the radiators.
+
+	- **Silicon has to be commercial, and commercial silicon is soft.** Rad-hard processors cannot run a modern LLM, so orbital data centers must fly the same H100s and TPUs used terrestrially, exposed to bit flips and latch-ups. The mitigation is redundancy rather than shielding — a cluster of commercial nodes at **one tenth to one hundredth** the cost of rad-hard, with triple-modular voting and an orchestrator that reboots corrupted nodes. **Some fraction of the fleet's compute is permanently spent on checking itself**, which is a direct haircut to the delivered FLOPs the TCO models divide by.
+
+- ## What is actually investable here
+
+	- **The defensible applications are not AI compute.** Cavalier names three: preprocessing Earth-observation data, where hyperspectral and SAR sensors generate hundreds of TB/day against congested RF downlink and insufficient ground infrastructure; real-time hypersonic missile detection and tracking; and collision avoidance. These are **defense and space-infrastructure markets**, sized and sold entirely differently from AI capacity, and "space data center" as an investment theme welds them to a compute story they have little to do with.
+
+	- The collision-avoidance case has the clearest quantitative hook: **Starlink executes an avoidance manoeuvre every 2 minutes on average**, already using onboard AI but with most processing still on the ground. At megaconstellation density the OODA loop has to move onboard — minutes to milliseconds — and standard flight computers cannot run the probability models required. **That is a real compute requirement created by the constellation itself**, and it grows with satellite count regardless of whether orbital AI training ever pencils.
+
+	- **Regulatory and externality risk is real and under-priced.** A million satellites carrying large radiative wings draws astronomer opposition over sky brightness and raises Kessler-cascade exposure across all of LEO. The FCC filing is an application, not an approval.
+
+	- **For [[$NVDA]], this is TAM marketing rather than demand.** Jensen Huang's GTC line — *"Space computing, the final frontier, has arrived"* — sits against a flight record of one H100 that could not run at full power. Starcloud and Google both fly merchant parts, so any real deployment is incremental silicon demand, but at a scale invisible against terrestrial. SpaceX's custom D3 through the Terafab consortium is the one design that would route around merchant GPUs entirely.
+
+	- One housekeeping note: the two articles disagree on the installed base — the editorial says **~14,500 active satellites**, the feature says **over 17,000 in orbit**. The gap is probably active-versus-total; neither figure should be quoted without that qualifier.
