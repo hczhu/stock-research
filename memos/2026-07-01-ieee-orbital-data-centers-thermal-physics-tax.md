@@ -33,12 +33,35 @@
 
 	- Working the formula at Cavalier's stated 60 °C: $\sigma T^{4} = 698.5\ \mathrm{W/m^{2}}$, so a perfect blackbody radiator would need **1.00 m²** for a 700 W chip. His **1.4 m²** therefore implies an emissivity of about **0.72** — an assumption the article never states, and a generous one for a coating that the same article says degrades under UV and atomic oxygen.
 
-	- | Load | Radiator area | Check |
+	- **The model's stated assumptions**, each of which pushes the answer favourably:
+
+	- | Assumption | Value | Effect |
 	  |---|---|---|
-	  | One H100 at 700 W, 60 °C | **1.4 m²** | Implies ~500 W/m² |
-	  | Same chip after 5 years of UV and atomic-oxygen degradation | **~2.0 m²**, a **+40%** tax | ~350 W/m² |
-	  | One 40-kW rack (32 GPUs, 2.5 TB memory) | **80 m²**, "a pickleball court" | 40 kW ÷ 700 W × 1.4 m² = 80.0 m² exactly |
-	  | 100-MW data center | **2,500 radiators** | = 200,000 m², **0.2 km²** of radiator; ~280,000 m² at end of life |
+	  | Reference chip | Nvidia H100 at **700 W** | Blackwell-class parts draw more, so the per-chip area understates current silicon |
+	  | Operating temperature | constant **60 °C** | Called the sweet spot for GPU longevity; hotter would shrink the radiator, cooler would enlarge it quartically |
+	  | Radiator orientation | **perfectly facing deep space** | Assumes away the attitude-control cost of maintaining it |
+	  | Background temperature | **3 K** | Contributes ~7 parts per billion; harmless |
+	  | Emissivity | not stated — **~0.72 implied** | See below; a fresh-coating value |
+
+	- **The scaling ladder, fresh against end-of-life.** Degradation from UV and atomic oxygen over a LEO satellite's typical **5-year** life raises the per-chip requirement from 1.4 m² to nearly 2.0 m² — a **+40% physics tax** that must be launched as mass on day one:
+
+	- | Unit | Power | Radiator, fresh | Radiator, end-of-life | Implied flux |
+	  |---|---|---|---|---|
+	  | One H100 | 700 W | **1.4 m²** | **~2.0 m²** | 500 → 350 W/m² |
+	  | One GPU slot, all-in | 1,250 W | 2.5 m² | 3.6 m² | rack power ÷ 32 |
+	  | One rack, 32 GPUs | 40 kW | **80 m²** — "a pickleball court" | 112 m² | 40 kW ÷ 700 W × 1.4 = 80.0 exactly |
+	  | 100-MW data center | 100 MW | **2,500 radiators** = 200,000 m² (**0.2 km²**) | 280,000 m² (**0.28 km²**) | 2,500 racks = 80,000 GPUs |
+
+	- **The GPUs are only 56% of the thermal load.** Thirty-two H100s draw 22.4 kW of the rack's 40 kW; CPUs, memory and networking add **+79% on top of GPU power**. Every GPU slot therefore carries **1,250 W** of heat, not 700 W, and **44% of the radiator exists to cool things that are not the accelerator** — so a more efficient GPU shrinks the radiator far less than proportionally.
+
+	- **Radiator area per unit of delivered service**, using the rack capability figures Cavalier cites (2.5 TB of memory, "over 20,000 concurrent users," or 16 simultaneous Llama 3 instances):
+
+	- | Service unit | Fresh | End-of-life |
+	  |---|---|---|
+	  | Per 1,000 concurrent users | **4.0 m²** | 5.6 m² |
+	  | Per Llama 3 instance | **5.0 m²** | 7.0 m² |
+
+	- These are the figures to carry forward: serving twenty thousand users requires a pickleball court of radiator that must be folded into a fairing, launched, unfurled, and kept pointed at the void for five years while it degrades 40%.
 
 	- **The cross-check that matters is against flight hardware.** The ISS radiator rejects 70 kW across 325 m² — **215 W/m²**. Cavalier's fresh-radiator assumption is **500 W/m², about 2.3× better than the best thing actually flying**, and even his degraded end-of-life figure at 350 W/m² is **1.6× better than ISS**. His model is therefore optimistic in the same direction as its conclusion is damning: the real areas are likely larger than tabulated.
 
