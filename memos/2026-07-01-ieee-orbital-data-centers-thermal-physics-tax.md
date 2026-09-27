@@ -19,7 +19,19 @@
 
 - ## The thermal arithmetic, recomputed
 
-	- Radiative cooling is the only mechanism available — vacuum removes conduction and convection — so Stefan-Boltzmann governs: power radiated scales with **area × temperature⁴**. In orbit the only controllable variable is area. Cavalier calls the result a **"physics tax."**
+	- Radiative cooling is the only mechanism available — vacuum removes conduction and convection — so the Stefan-Boltzmann law governs. Radiated power scales with area and with the **fourth power** of absolute temperature:
+
+		- $$P = \varepsilon \sigma A \left(T^{4} - T_{\text{bg}}^{4}\right)$$
+
+		- where $P$ is heat rejected (W), $\varepsilon$ the surface emissivity, $\sigma$ the Stefan-Boltzmann constant $5.67 \times 10^{-8}\ \mathrm{W\,m^{-2}K^{-4}}$, $A$ the radiator area (m²), $T$ the radiator temperature (K) and $T_{\text{bg}}$ the 3 K background of deep space.
+
+		- The background term is negligible — $3^{4}/333^{4} \approx 7 \times 10^{-9}$ — so it drops out, and the form that matters is the one solved for the **only variable an orbital architect controls**:
+
+		- $$A = \frac{P}{\varepsilon \sigma T^{4}}$$
+
+	- **Area is therefore linear in power and inverse-quartic in temperature.** Doubling the heat load doubles the radiator; running the chip hotter is the only way to shrink it, which is why every proposal fights for the highest tolerable junction temperature. Cavalier calls the consequence a **"physics tax."**
+
+	- Working the formula at Cavalier's stated 60 °C: $\sigma T^{4} = 698.5\ \mathrm{W/m^{2}}$, so a perfect blackbody radiator would need **1.00 m²** for a 700 W chip. His **1.4 m²** therefore implies an emissivity of about **0.72** — an assumption the article never states, and a generous one for a coating that the same article says degrades under UV and atomic oxygen.
 
 	- | Load | Radiator area | Check |
 	  |---|---|---|
@@ -30,7 +42,7 @@
 
 	- **The cross-check that matters is against flight hardware.** The ISS radiator rejects 70 kW across 325 m² — **215 W/m²**. Cavalier's fresh-radiator assumption is **500 W/m², about 2.3× better than the best thing actually flying**, and even his degraded end-of-life figure at 350 W/m² is **1.6× better than ISS**. His model is therefore optimistic in the same direction as its conclusion is damning: the real areas are likely larger than tabulated.
 
-	- One internal inconsistency worth noting: the figure caption gives "just under 3 m²" at 20 °C against 1.4 m² at 60 °C, a ratio of ~2.1×, where Stefan-Boltzmann predicts (333/293)⁴ = **1.67×**. The 60 °C and 85 °C figures are mutually consistent; the 20 °C one is not, under any single emissivity assumption.
+	- **One internal inconsistency, visible once the formula is applied.** The figure caption gives "just under 3 m²" at 20 °C against 1.4 m² at 60 °C, a ratio of ~2.1×, where $\left(333/293\right)^{4} = 1.67$. Backing out emissivity from each stated pair gives $\varepsilon \approx 0.72$ at 60 °C and $\approx 0.75$ at 85 °C — mutually consistent — but $\approx 0.56\!-\!0.58$ at 20 °C (the caption says "just under 3 m²"). **No single radiator satisfies all three figures**, so at least one is wrong or assumes a different surface.
 
 - ## Mass, not launch cost, is the binding constraint
 
