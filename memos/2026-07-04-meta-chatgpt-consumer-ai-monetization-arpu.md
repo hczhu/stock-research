@@ -1,5 +1,5 @@
-- tags:: [[$META]], [[OpenAI]], [[ChatGPT]], [[AI]], [[ads]], [[inference]], [[unit economics]], [[consumer internet]]
-  file-created-at:: 2026-07-04
+tags:: [[$META]], [[OpenAI]], [[ChatGPT]], [[AI]], [[ads]], [[inference]], [[unit economics]], [[consumer internet]]
+file-created-at:: 2026-07-04
 -
 - ## Source
 	- **Source**: User-provided notes comparing Meta FoA monetization with ChatGPT subscription monetization.

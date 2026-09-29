@@ -1,5 +1,5 @@
-- tags:: [[AI]], [[TAM]], [[SaaS]], [[services]], [[IT-services]], [[enterprise-software]], [[labor-displacement]], [[OpenAI]], [[Anthropic]], [[xAI]], [[$GOOGL]], [[$INTC]], [[$MSFT]], [[$AAPL]], [[$AMZN]], [[$CRM]], [[$NOW]], [[$ACN]]
-  file-created-at:: 2026-09-27
+tags:: [[AI]], [[TAM]], [[SaaS]], [[services]], [[IT-services]], [[enterprise-software]], [[labor-displacement]], [[OpenAI]], [[Anthropic]], [[xAI]], [[$GOOGL]], [[$INTC]], [[$MSFT]], [[$AAPL]], [[$AMZN]], [[$CRM]], [[$NOW]], [[$ACN]]
+file-created-at:: 2026-09-27
 
 - **Source**: Two slides screenshotted from a recorded talk titled "AI for BC IC 2026-09" (15:09 long, ~25K views), at 0:45 and 0:57. The presenter and the organization behind "BC IC" are not identified in the screenshots. **These are the opening framing slides of a 15-minute talk, not its argument** — treat them as the premise the rest of the talk presumably defends.
 

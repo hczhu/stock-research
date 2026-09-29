@@ -1,5 +1,5 @@
-- tags:: [[observability]], [[pricing-power]], [[RepVue]], [[$DDOG]], [[$DT]], [[$CSCO]], [[$ESTC]], [[$MSFT]], [[Grafana]], [[New-Relic]], [[Splunk]], [[open-source]], [[OpenTelemetry]], [[ClickHouse]], [[enterprise-software]], [[SaaS]], [[competitive-landscape]]
-  file-created-at:: 2026-09-16
+tags:: [[observability]], [[pricing-power]], [[RepVue]], [[$DDOG]], [[$DT]], [[$CSCO]], [[$ESTC]], [[$MSFT]], [[Grafana]], [[New-Relic]], [[Splunk]], [[open-source]], [[OpenTelemetry]], [[ClickHouse]], [[enterprise-software]], [[SaaS]], [[competitive-landscape]]
+file-created-at:: 2026-09-16
 
 - **Source**: RepVue Data, "Observability · Pricing Power," two pages, dated 0916 (ratings to 15 Sep 2026). Built from RepVue's competitor survey (6 Feb – 28 Sep 2026, each respondent names three rivals), rep reviews and Q&A since 1 Apr 2025, and 12-month quota-carrying deal-size and product-market-fit ratings. **This is sales-rep data, not customer or financial data.** RepVue's own limits: price comments get thin below the top three (3 for Grafana, 7 each for New Relic and Elastic); deal size is the median of reps' *average* deal, not a unit price, so a larger deal can reflect more scope as easily as a higher price; and the survey started in February 2026, so there is no year-over-year comparison on that side yet.
 

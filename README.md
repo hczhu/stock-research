@@ -27,7 +27,8 @@ The main research corpus. Each file is a dated, tagged note extracted from a pri
 
 **Format:**
 ```markdown
-- tags:: [[$NVDA]], [[HBM]], [[semiconductor]]
+tags:: [[$NVDA]], [[HBM]], [[semiconductor]]
+file-created-at:: 2026-05-24
 
 - ## Section Title
     - **Source**: SemiAnalysis, May 2026

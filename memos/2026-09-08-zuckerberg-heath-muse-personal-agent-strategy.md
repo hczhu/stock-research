@@ -1,5 +1,5 @@
-- tags:: [[$META]], [[Muse]], [[agents]], [[AI]], [[consumer-internet]], [[pricing]], [[privacy]], [[commerce]], [[data-center]]
-  file-created-at:: 2026-09-08
+tags:: [[$META]], [[Muse]], [[agents]], [[AI]], [[consumer-internet]], [[pricing]], [[privacy]], [[commerce]], [[data-center]]
+file-created-at:: 2026-09-08
 
 - ## Zuckerberg on Muse: Subsidizing the Personal Agent, Monetizing Transactions
 	- **Source**: Alex Heath, “Mark Zuckerberg on Muse, Meta's biggest AI bet yet,” Sources podcast, September 8, 2026. Based on the supplied introduction and episode highlights, not the full interview transcript.

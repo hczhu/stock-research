@@ -1,5 +1,5 @@
-- tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[creator-economy]], [[AI]], [[discovery]], [[monetization]], [[consumer-internet]]
-  file-created-at:: 2026-09-11
+tags:: [[$RBLX]], [[Roblox]], [[gaming]], [[UGC]], [[creator-economy]], [[AI]], [[discovery]], [[monetization]], [[consumer-internet]]
+file-created-at:: 2026-09-11
 - ## RDC 2026 — Roblox expands beyond the app
 	- **Source**: Roblox, [“RDC 2026: The World Needs More Play”](https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play) (September 11, 2026); Isa Muhammad, [PocketGamer.biz conference summary](https://www.pocketgamer.biz/roblox-unveils-new-play-creation-and-monetisation-tools-at-rdc-2026/) (September 14, 2026). The user supplied the latter article; Roblox's post provides the primary-source wording and metric dates.
 	- **Thesis**: RDC 2026 broadens Roblox from an in-app, predominantly 3D multiplayer platform toward a cross-surface game-development and distribution layer. The investment question is whether easier access, AI-assisted creation, discovery, and faster creator payments increase durable engagement and bookings enough to offset higher infrastructure, payout, and safety costs.
