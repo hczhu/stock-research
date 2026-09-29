@@ -1,5 +1,5 @@
-- tags:: [[$MSFT]], [[Anthropic]], [[AI]], [[agents]], [[AI-safety]], [[enterprise]], [[model-labs]]
-  file-created-at:: 2026-09-16
+tags:: [[$MSFT]], [[Anthropic]], [[AI]], [[agents]], [[AI-safety]], [[enterprise]], [[model-labs]]
+file-created-at:: 2026-09-16
 
 - ## Model Welfare: Suleyman's Case for Human Control
 	- **Source**: Mustafa Suleyman, “A warning about ‘model welfare’,” September 16, 2026; user-provided article. Suleyman writes as Microsoft AI's CEO and a competitor to Anthropic.

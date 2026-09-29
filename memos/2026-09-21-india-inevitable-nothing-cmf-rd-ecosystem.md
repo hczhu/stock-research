@@ -1,5 +1,5 @@
-- tags:: [[India]], [[Nothing]], [[CMF]], [[consumer-electronics]], [[smartphones]], [[manufacturing]], [[supply-chain]], [[exports]], [[$AAPL]]
-  file-created-at:: 2026-09-21
+tags:: [[India]], [[Nothing]], [[CMF]], [[consumer-electronics]], [[smartphones]], [[manufacturing]], [[supply-chain]], [[exports]], [[$AAPL]]
+file-created-at:: 2026-09-21
 
 - ## India Is Inevitable: CMF's Bet on Local Engineering
 	- **Source**: User-provided “India Is Inevitable” essay announcing Nothing's intended CMF spin-out. The excerpt has no byline or publication date; it is a company advocate's strategic argument, not independent market research.

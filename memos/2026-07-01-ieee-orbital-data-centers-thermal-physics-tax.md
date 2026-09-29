@@ -1,5 +1,5 @@
-- tags:: [[space-datacenter]], [[orbital-compute]], [[SpaceX]], [[Starlink]], [[Starcloud]], [[Elon-Musk]], [[data-center]], [[TCO]], [[power]], [[cooling]], [[Starship]], [[satellite]], [[germanium]], [[supply-chain]], [[China]], [[$NVDA]], [[$GOOGL]], [[$TSLA]], [[defense]], [[AI-compute]]
-  file-created-at:: 2026-07-01
+tags:: [[space-datacenter]], [[orbital-compute]], [[SpaceX]], [[Starlink]], [[Starcloud]], [[Elon-Musk]], [[data-center]], [[TCO]], [[power]], [[cooling]], [[Starship]], [[satellite]], [[germanium]], [[supply-chain]], [[China]], [[$NVDA]], [[$GOOGL]], [[$TSLA]], [[defense]], [[AI-compute]]
+file-created-at:: 2026-07-01
 
 - **Source**: Two linked *IEEE Spectrum* pieces — Andrew Cavalier (aerospace analyst, ABI Research), "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks," June 11 2026, and Harry Goldstein's editorial "The Space-based Data Center Hype Machine Is Already in Orbit," July 1 2026, with comments from Spectrum editors Dina Genkina and Goldstein. **Cavalier's TCO model is explicitly back-of-envelope** and his employer sells aerospace research; the editorial is opinion. Every derived figure below was recomputed.
 

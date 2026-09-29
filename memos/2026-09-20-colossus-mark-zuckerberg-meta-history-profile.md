@@ -1,5 +1,5 @@
-- tags:: [[$META]], [[Meta]], [[social-media]], [[ads]], [[AI]], [[AI-capex]], [[wearables]], [[augmented-reality]], [[corporate-governance]]
-  file-created-at:: 2026-09-20
+tags:: [[$META]], [[Meta]], [[social-media]], [[ads]], [[AI]], [[AI-capex]], [[wearables]], [[augmented-reality]], [[corporate-governance]]
+file-created-at:: 2026-09-20
 
 - ## Mark Zuckerberg and Meta - Survival, Adaptation, and Founder Control
 	- **Source**: Jeremy Stern, Colossus, "Mark: A Journey to the Heart of History's Largest Nonterritorial Empire", September 2026; user-provided article text.

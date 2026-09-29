@@ -1,5 +1,5 @@
-- tags:: [[$GOOGL]], [[SpaceX]], [[Borg]], [[AI]], [[data-center]], [[compute]], [[capex]]
-  file-created-at:: 2026-09-18
+tags:: [[$GOOGL]], [[SpaceX]], [[Borg]], [[AI]], [[data-center]], [[compute]], [[capex]]
+file-created-at:: 2026-09-18
 
 - ## Google Borg: Rented Compute Is Only Valuable Once It Runs
 	- **Source**: User-provided excerpt, “Overtime at Google to get Borg working on SpaceX’s data centers,” citing conversations with current Google engineers. The operational claims are reported anecdotes, not company disclosures.
