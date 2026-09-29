@@ -138,6 +138,10 @@ file-created-at:: 2026-07-01
   
   | Date | Source | Anecdote / Opinion | Signal |
   |------|--------|--------------------|--------|
+  | 2026/02–09 | RepVue competitor survey ([[2026-09-16-repvue-observability-pricing-power]]); survey records company, not date — Elastic rep on Datadog | "We lose due to incumbency. Hard to displace." | Bullish — Datadog is now the incumbent challengers name |
+  | 2026/02–09 | RepVue competitor survey ([[2026-09-16-repvue-observability-pricing-power]]); survey records company, not date — Elastic rep on Datadog | "We lose deals because developers love Datadog and its a difficult migration historically." | Bullish — retention rests on product and migration cost, not contract terms |
+  | 2026/02–09 | RepVue competitor survey ([[2026-09-16-repvue-observability-pricing-power]]); survey records company, not date — Datadog rep on Dynatrace | "Lose, due to lack of displacement opps. once its in the infra, they lock in 5 years." | Bearish — legacy incumbents' 5-year lock-ins limit Datadog's displacement wins |
+  | 2026/02/15 | RepVue review — Datadog Enterprise rep ([[2026-09-16-repvue-observability-pricing-power]]) | "Local market is also extremely mature for observability in Enterprise (with lots of long term legagcy incumbents i.e. Splunk, Dynatrace)" | Bearish — little greenfield in enterprise; growth there requires displacing incumbents |
   | 2026/05 | Industry research | ~2/3 of global enterprises have adopted some level of AI applications, but <5% have deployed corresponding observability/security layers | Bullish — massive greenfield |
   | 2025/08 | Stock research report | OpenAI projected to spend ~$200M on Datadog in 2025, up from $66M in 2024; Coinbase annual bill was $65M | Both bullish (scale of AI spend) and bearish (churn risk at this scale) |
   | 2025/08 | Analyst note | "As long as the tech startup ecosystem keeps producing winners like OpenAI and Coinbase, Datadog will capture revenue in wave after wave" | Bullish — VC-model dynamic |
