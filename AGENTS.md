@@ -180,7 +180,7 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 
 ## Workflow Rules
 
-- Never push directly to `main`. Always branch → PR → merge. After merging, `git checkout main && git pull`.
+- Never push directly to `main`. Always branch → PR → merge. Always merge pull requests with the GitHub CLI (`gh pr merge`), not through a connected GitHub integration. If GitHub CLI authentication is expired or unavailable, restore CLI authentication before merging. After merging, `git checkout main && git pull`.
 - **Verify the staged set before every commit**: run `git diff --cached --stat` and confirm it contains exactly the paths you intend. `git commit` commits the whole index, not just the paths passed to the preceding `git add` — and other sessions frequently work in this repo concurrently, so unrelated files may already be staged and will be swept into your commit under your message. To recover: `git reset --soft HEAD~1`, then `git restore --staged <their paths>` to return them to the working tree with content intact, then re-commit.
 - Non-code changes (new memos, edits) can be committed and PR'd without prior confirmation.
 - When searching for context before answering investment questions, `grep` across `memos/`, `earnings/`, and `theses/` by ticker symbol, company name, or topic keyword.
