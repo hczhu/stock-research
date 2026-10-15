@@ -19,8 +19,7 @@ file-created-at:: 2026-07-02
 
 - ## The Barbell (哑铃) Structure
 	- Analogy floated: **software will look like hardware** — ~10 brands / ~10 dominant models, extremely concentrated at the top. Everyday use collapses to a handful of coding agents; most standalone tools (PS, IDEs, vertical tools) **cease to exist**.
-
-	  | Layer | Who | Value capture |
+	- | Layer | Who sits there | Value capture |
 	  |---|---|---|
 	  | **Top** | Model companies (Anthropic, OpenAI…) | **Vast majority.** Coding tools ("扣代也") are just the model's tool container. Ship many agent surfaces — a canvas for creation, a terminal for general domains, a design tool, etc. |
 	  | **Middle** | Mid-size SaaS / vertical software | **Squeezed to nothing.** No model-scale value; their old moats (software category + cost) evaporate as users self-customize. "很尴尬." |
@@ -42,12 +41,11 @@ file-created-at:: 2026-07-02
 - ## The Speaker's Bet: a Maker Community (Connection Value)
 	- Product: ~**8 people, ~1 month**, most-invested effort so far; "改了很多版" and still not right. Core value = **connection (连接价值)** for the new creator group ("真来 vibe-coding 的人" / Makers) — *not* the money-only "岗位价值" crowd.
 	- **Creator lifecycle — 3 R's** (they optimize for the middle one):
-
-	  | Stage | Chinese | Meaning |
+	- | Stage | Chinese term | What it means |
 	  |---|---|---|
-	  | 1 | **回应** (response) | People see it; numeric feedback (likes) — table stakes |
-	  | 2 | **回想** (recognition / resonance) | **Who** recognizes you — this is *community*; the target |
-	  | 3 | **回报** (reward) | Money |
+	  | Stage 1 | **回应** (response) | People see it; numeric feedback (likes) — table stakes |
+	  | Stage 2 | **回想** (recognition / resonance) | **Who** recognizes you — this is *community*; the target |
+	  | Stage 3 | **回报** (reward) | Money |
 	- Shift from **business model → impact model**: an individual doesn't *have* to monetize (cost of building is near-zero). Companies must monetize (shareholder duty, "资本主义…无限增长"); individuals with taste create **impact**, and impact → network effect → eventually value. Explicit analogy: **early GitHub**, where people simply open-sourced their code and a community formed.
 	- Post-scarcity framing: speaker guesses "**within ~10 years most people won't need to work**" (calls it optimistic); people will need **meaning / impact**, and productivity ("very 功利") is only valuable while you occupy a *job position (岗位)*. Off the job, creation is emotional/meaning value.
 
@@ -63,17 +61,14 @@ file-created-at:: 2026-07-02
 	- Signals in use: AI analyzing **on-chain data + Twitter/X**. A quant-trader friend claims prediction-market strategies can currently yield "**级别**"-scale, **stable** returns.
 	- Blunt conclusion: **"Web3 is the ultimate 归宿" (endgame)** — token-native from the start — but it's a **chaos era (乱纪元), all noise**. What sustains it: **meaning / hope** ("为梦想窒息").
 
-- ## Investment Implications (for VC / public markets)
-	- If **mid-size companies disappear**, the middle of the software market **hollows out** → weak SaaS pricing/compounding (echoes the SaaS-tollbooth bear case, see [[2026-06-05-software-tollbooths-saas-pricing-bear-geninnov]]).
-	- **Model companies** remain the concentrated value sink — they own "普遍性" (generality); building *around* their generality = "完蛋" (doomed). Correct play at the bottom is **特殊性 / customization** and betting an idea *grows*.
-	- **VC re-shapes**: with few mid-size targets, primary VC drifts toward **secondary markets** or toward **many small OPC bets** — likened to **franchise/chain-store investing (连锁创业)**: give an operator capital, take **cashflow-based** revenue share ("Cashflow-based"). Speaker: software industry starts to **resemble the cultural / content industry**.
+- ## VC Re-Shaping and Indie-Developer Economics
+	- **Model companies** own "普遍性" (generality); building *around* their generality = "完蛋" (doomed). The correct play at the bottom is **特殊性 / customization**, then betting the idea *grows*.
+	- **VC re-shapes**: with few mid-size targets, primary VC drifts toward **secondary markets** or toward **many small OPC bets** — likened to **franchise/chain-store investing (连锁创业)**: give an operator capital, take a **cashflow-based** revenue share. Speaker: software starts to **resemble the cultural / content industry**.
 	- **Independent-developer income ladder** (rough, speaker's read):
-
-	  | Market | Typical outcome | Top outcomes |
+	- | Market | Typical outcome | Top outcomes |
 	  |---|---|---|
 	  | **US** | avg indie dev ≈ hundreds of thousands USD/yr | "不少" reaching **several million USD**; a few tens of millions |
 	  | **China** | equivalent ≈ a few million RMB/yr | more dispersed |
-	- **AGI framing tie-in**: model labs explicitly target replacing most economic-value-creating *job positions*; if achieved, the durable human activity migrates to **meaning-driven creation** (emotional/experiential products) and **direct token→dollar** loops (crypto/prediction markets) — the two poles that survive the barbell.
 
 - ## Related Memos
 	- [[2026-06-03-ai-coding-agents-demand-value-limits-opencode-interview]] — coding-agent value capture & limits
