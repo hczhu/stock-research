@@ -6,13 +6,12 @@ file-created-at:: 2026-07-02
 	- **Thesis**: Korea's memory makers are extending a **profit-maximization** strategy into Q3 on persistent, lineup-wide shortages from AI-infra investment. Samsung — carrying a heavier **commodity DRAM** mix — is the most aggressive price-raiser. The QoQ increase pace is decelerating (Q1 ~+90% → Q2 ~+50-60% → Q3 ~+20%), but expanding **LTAs with price floors** plus **HBM re-negotiations** are expected to sustain "extremely high profitability" into next year with **no sharp decline in 2027**.
 
 - ## DRAM ASP — Samsung QoQ Progression (estimates)
-  
-  | Quarter | Samsung DRAM ASP QoQ | Notes |
-  |---|---|---|
-  | Q1 | **+low-90% range** | Sharpest jump |
-  | Q2 | **~+50-60%** (est.) | Deceleration begins |
-  | Q3 | **~+20% target** | Under negotiation with customers |
-  | LPDDR (Q3) | **>+20%** target | Severe bottlenecks in both server and mobile |
+	- | Quarter | Samsung DRAM ASP QoQ | Notes |
+	  |---|---|---|
+	  | Q1 | **+low-90% range** | Sharpest jump |
+	  | Q2 | **~+50-60%** (est.) | Deceleration begins |
+	  | Q3 | **~+20% target** | Under negotiation with customers |
+	  | LPDDR (Q3) | **>+20%** target | Severe bottlenecks in both server and mobile |
 	- **SK Hynix**: QoQ increases estimated **somewhat below** Samsung's — a higher **HBM** production share (lower volatility, contract-priced) dilutes the commodity-DRAM swing.
 	- **Why Samsung leads on price**: commodity DRAM (high price volatility) is a **large share of Samsung's total output**, and the company has negotiated **most aggressively**. Caveat from an industry official: "not certain whether customers will accept all of this."
 
@@ -31,19 +30,8 @@ file-created-at:: 2026-07-02
 
 - ## Meta Cloud Move — Not a Demand Negative
 	- Some read Meta's plan to **sell internal surplus compute externally** (possible cloud-business entry) as a sign its AI capacity may already be **sufficiently built out** → a potential memory-demand negative.
-	- Counter-read: Meta has stayed on an **aggressive investment stance**.
-	  
-	  | Meta annual AI-infra investment plan | Amount |
-	  |---|---|
-	  | Initial | \$115B – \$135B |
-	  | Raised (April) | **\$125B – \$145B** |
+	- Counter-read: Meta has stayed on an **aggressive investment stance** — April plan raised from \$115B–\$135B to **\$125B–\$145B** annual AI-infra investment.
 	- Industry framing: Meta's move is "more accurate to view as a way to **efficiently utilize internal computing resources**," not evidence of overcapacity.
-
-- ## Investment Implications
-	- **Samsung ($005930)**: highest torque to the commodity-DRAM up-cycle given its mix; biggest ASP beneficiary but also most exposed if customers reject the full Q3 ask. LPDDR >20% hike adds mobile/server upside.
-	- **SK Hynix ($000660)**: steadier trajectory — HBM-heavy mix means lower ASP volatility but strong, contracted profitability.
-	- **Micron ($MU)**: 16 LTAs with price floors de-risk 2026-27 margins; validates the "tight through the medium term" thesis.
-	- Reinforces the **two-tier / de-commoditization** memory setup and floor-supported pricing into 2027.
 
 - ## Related Memos
 	- [[2026-06-03-memory-two-tier-market-and-ltas]] — LTA structure & two-tier pricing
