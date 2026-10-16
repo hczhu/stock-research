@@ -1,4 +1,5 @@
 tags:: [[$ASML]], [[EUV]], [[lithography]], [[semiconductor]], [[moat]], [[platform]], [[monopoly]], [[export-controls]], [[China]], [[SMIC]], [[Huawei]], [[$TSM]], [[$INTC]], [[$005930]], [[Zeiss]], [[Nikon]], [[Canon]], [[EDA]], [[Moore's Law]], [[capex]]
+file-created-at:: 2026-10-15
 
 - ## ASML's EUV Monopoly: An Integration Moat, Not an Invention Moat
 	- **Source**: Michael A. Cusumano, "The ASML Monopoly: Platform and Ecosystem Leadership in EUV Lithography," *Communications of the ACM*, October 2026 (Vol. 69, No. 10, pp. 26-28), DOI 10.1145/3838602, Technology Strategy and Management column. Cusumano is MIT Sloan SMR Distinguished Professor and co-author of *The Business of Platforms*. Extracted from user-provided photos of the printed pages. Same issue as [[2026-10-15-text-to-sql-benchmarks-spider-bird-enterprise-gap]]; companion columns to [[2026-07-12-tsmc-manufacturing-innovation-platform-cusumano]] and [[2025-01-01-intel-fall-from-grace-cusumano]].
