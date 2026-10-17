@@ -1,4 +1,5 @@
 tags:: [[text-to-SQL]], [[evals]], [[benchmarks]], [[LLM]], [[agents]], [[RAG]], [[enterprise-software]], [[data-warehouse]], [[BI]], [[data-quality]], [[Michael-Stonebraker]], [[$SNOW]], [[$MSFT]], [[$CRM]], [[$GOOGL]], [[$ORCL]], [[Databricks]], [[AI]], [[regulation]]
+file-created-at:: 2026-10-15
 
 - ## Stonebraker: Real-World Text-to-SQL Collapses to 0-30% vs 80-90%+ on Public Benchmarks
 	- **Source**: BLOG@CACM, *Communications of the ACM*, October 2026 (Vol. 69, No. 10, p. 10) — "Converting Text to SQL, and Computing to Fix Red Tape." Lead post: **"If You Think You Can Do Real-World Text-to-SQL"** by **Michael Stonebraker** (MIT, 2014 ACM Turing Award, database management) and **Peter Baile Chen** (MIT CSAIL PhD student), DOI 10.1145/3838721. Extracted from user-provided photos of the printed page. Benchmark scale figures marked *(public)* are added context from the benchmark sites, not the article.
