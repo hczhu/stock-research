@@ -5,6 +5,22 @@ file-created-at:: 2026-10-21
 
 	- **Source**: Meta Platforms, Inc. preliminary Schedule 14C information statement supplied by the user in two excerpts. The filing describes the Restated Charter, Class C dividend, 2025 Equity Incentive Plan amendment, Founder Alignment Agreement, Special Committee rationale, and negotiation history through the Special Committee's formal approval on October 14, 2026. Later Board and shareholder approval dates come from the filing's notice and transaction summary.
 	- **Thesis**: Meta is preparing to finance an AI investment plan requiring potentially hundreds of billions of dollars with non-voting equity rather than accept voting dilution or rely mainly on debt. The negotiated structure preserves Mark Zuckerberg's control and provides him liquidity, while stapling restrictions, leadership-linked releases, and performance gates partially constrain the resulting separation between his voting power and economic ownership.
+- ## Key Data Points
+
+	- | Measure | Filing figure | Context |
+	  | --- | --- | --- |
+	  | Zuckerberg's voting power | **60.6%** as of October 1, 2026 | His Class B super-voting shares let him determine substantially all shareholder votes, including director elections, charter amendments, and change-of-control transactions. |
+	  | Zuckerberg's economic ownership | **13.4%** as of October 1, 2026 | The gap between economic ownership and voting control is the central governance issue the Founder Alignment Agreement is designed to manage. |
+	  | Zuckerberg's shareholdings | **1,220,703 Class A shares** and **341,215,148 Class B shares** | These beneficial holdings produced the 60.6% voting interest and 13.4% economic interest above. |
+	  | Change in voting power | **53.7%** as of March 31, 2013 to **60.6%** as of October 1, 2026, an increase of approximately **6.9 percentage points** | Meta attributed part of the increase to its repurchases of Class A shares and sales of Class B shares by other holders. |
+	  | Shareholder written consent | **315,826,951 Class B shares**, representing approximately **56.1% of total voting power** as of October 20, 2026 | The consenting Zuckerberg-affiliated entities alone supplied the required shareholder approval; no Class A vote or shareholder meeting was needed. |
+	  | Forecast financing requirement | **Hundreds of billions of dollars** over several years, potentially beginning as early as fall 2026 | Management's three long-range forecast cases created the urgency for a liquid, non-voting financing instrument. |
+	  | Illustrative Class A financing capacity | Approximately **\$700 billion** over a number of years before Zuckerberg's voting power fell below 50% | Moelis's estimate showed that Meta had theoretical voting-stock capacity, but Zuckerberg would not support financing that risked losing control. |
+	  | Proposition 40 voting sensitivity | Approximately **53% voting power** after funding the potential wealth-tax liability through Class B sales | Zuckerberg's estimate helped turn founder liquidity and continued California residence into negotiated transaction objectives. |
+	  | Thin-float Class C discount | Approximately **5%–20%** under the smaller, contingent-dividend structure considered in August | Management used this estimate to argue for an immediate 1:1 dividend capable of creating a deep market and reducing future issuance costs. |
+	  | Independent review process | **Eight months** and **33 formal Special Committee meetings** | The independent directors worked with Skadden and Moelis and had authority to approve or reject the recapitalization. |
+	  | Meta share-price performance since IPO | More than **1,700%**, from **\$38.23** at the IPO to **\$694.25** on October 20, 2026, versus approximately **495%** for the S&P 500 | The committee cited this performance as evidence supporting Zuckerberg's continued leadership and control. |
+	  | Estimated residual economic interest | Approximately **\$124 billion** after selling all Class C shares received in the initial dividend over the release period, using the October 1, 2026 Class A price of **\$725.93** | The filing used this illustration to argue that Zuckerberg would retain substantial economic alignment even after monetizing the initial Class C dividend. |
 - ## Final Decisions and Agreements
 
 	- | Decision or agreement | Final terms | Stated rationale |
