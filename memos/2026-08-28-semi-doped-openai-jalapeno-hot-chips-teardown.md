@@ -1,4 +1,4 @@
-tags:: [[OpenAI]], [[$AVGO]], [[Broadcom]], [[Celestica]], [[$NVDA]], [[$AMD]], [[Cerebras]], [[Groq]], [[custom-silicon]], [[ASIC]], [[inference]], [[HBM]], [[networking]], [[EDA]], [[TSMC]]
+tags:: [[OpenAI]], [[$AVGO]], [[Broadcom]], [[Celestica]], [[$NVDA]], [[$AMD]], [[$ARM]], [[x86]], [[CPU]], [[Cerebras]], [[Groq]], [[custom-silicon]], [[ASIC]], [[inference]], [[HBM]], [[networking]], [[EDA]], [[TSMC]]
 file-created-at:: 2026-08-28
 
 - ## Semi Doped: OpenAI's Jalapeño inference chip, unpacked from the Hot Chips talk
@@ -11,7 +11,7 @@ file-created-at:: 2026-08-28
 	  | Process | **TSMC N3** (N3P/N3E variants discussed) |
 	  | Memory | **HBM4**; Samsung supply **speculated** by the hosts, on better speed-per-pin than SK Hynix — explicitly "entirely speculative" |
 	  | TDP | **700W**, versus **>1,200W** for GB200 |
-	  | Host CPU | **x86, believed Turin-class** (AMD); Venice would improve it |
+	  | Host CPU | **x86 AMD EPYC Turin**, later confirmed by OpenAI (see the host-CPU section below); Venice would improve it |
 	  | Scale-up domain, tier 1 | **128 chips**, Broadcom **Tomahawk 6**, **600 Gb/s per chip** |
 	  | Scale-up domain, tier 2 | **2,048 chips** (~16 racks) at **200 Gb/s**, over **ESUN** (not UALink) |
 	  | Topology | described as "half-flat, two-level Clos" |
@@ -51,9 +51,14 @@ file-created-at:: 2026-08-28
 - ## Supply chain and who benefits
 	- **Broadcom** is the clearest beneficiary and appears at three layers: ASIC design-house work, likely **interface IP and the IO chiplet**, and the **Tomahawk 6** switches carrying both scale-up tiers. Note the protocol choice is **ESUN**, which Broadcom spearheaded — **not UALink**.
 	- **Celestica** as the system/ODM partner for the rack, analogous to the rack-design capability AMD acquired for Helios.
-	- **TSMC N3** for the die; an **x86 Turin-class** host CPU, which is an AMD data point; **HBM4**, with Samsung supply speculated but unconfirmed.
+	- **TSMC N3** for the die; **AMD EPYC Turin** host CPUs, an AMD data point; **HBM4**, with Samsung supply speculated but unconfirmed.
 	- **The framing to hold**: if one of the two largest compute buyers shifts a growing share of its gigawatts onto its own silicon, the beneficiaries are the ASIC design house, the switch vendor, the ODM, the foundry, and the memory maker — **and the party that loses share is the merchant GPU vendor**, not the supply chain beneath it.
 	- Also worth noting: **scale-up is not "within the rack."** This design's scale-up domain spans **16 racks**; scale-up is defined by accelerators sharing memory, not by physical enclosure.
+- ## Why an ASIC Ships With an x86 Host CPU
+	- **Confirmed after the podcast**: OpenAI hardware chief Richard Ho told [Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level) that Jalapeño is deployed with **AMD EPYC Turin** hosts rather than Nvidia's Arm-based **Vera**. The rack design: **16 host trays (2 Turin CPUs and 1.5 TB DRAM each)** cabled over **PCIe Gen5** to **16 accelerator trays of 8 chips**. That is **128 Jalapeño chips per rack, about one x86 CPU per four accelerators**.
+	- **"x86" describes the server, not the chip.** Jalapeño is a fixed-purpose inference accelerator with no general-purpose ISA exposed. It cannot boot an OS or serve a request alone. The host runs Linux, drivers, and the inference server; receives requests, tokenizes, and schedules batches; loads weights and backs spills with the 1.5 TB of host memory; and handles networking, storage, telemetry, and failure recovery. Every accelerator works this way: TPUs, Trainium (Graviton4 head node), and Nvidia GPUs (Grace/Vera or x86) all pair with a host CPU.
+	- **Why x86 over Arm**: Ho called Turin the "**pragmatic**" choice and said Vera standalone is "**a little bit behind… on that maturity level**." Turin is also **socketed** and serviceable, while Vera is **board-mounted**. The structural reason (an inference, not stated by Ho): OpenAI has **no in-house Arm CPU**. Amazon, Google, and Microsoft pair their accelerators with their own Arm parts (Graviton, Axion, Cobalt), but **none of those are sold externally**. For a buyer without its own CPU, merchant x86 is still the default until merchant Arm options like Vera mature.
+	- **Read-through for the Arm-vs-x86 debate**: this is not evidence of x86 superiority. It shows that **Arm's data-center gains are concentrated among companies that design their own CPUs**, while x86 keeps the merchant host-CPU slot in third-party AI systems. That makes OpenAI's host-CPU choice for **Gen 2 and Gen 3** a useful test of whether Vera can take merchant AI-host share from AMD.
 - ## The nine-month question is the real investment content
 	- The hosts' framing, and the reason this episode matters beyond one chip: *"if somebody can come in and generate a chip that's better than Blackwell in under a year, the question is where does acceleration take us now? How much better of a chip will a company with the right AI tools and the right people be able to design given two years? And that will dictate how money should flow — like who should be funded."*
 	- **The comparison that sharpens it**: AI-ASIC startups staffed with ex-Google TPU people had the know-how but not the AI tooling. The new cohort has both. If design cycles genuinely compress, **the barrier to entry for competent inference silicon falls**, which is bullish for **EDA consumption** (more designs, more tool-seats) even as it is bearish for any single incumbent's architectural lead.
