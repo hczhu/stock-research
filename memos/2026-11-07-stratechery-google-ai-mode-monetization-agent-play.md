@@ -1,4 +1,4 @@
-tags:: [[$GOOGL]], [[$META]], [[AI]], [[agents]], [[advertising]], [[search]], [[capex]]
+tags:: [[$GOOGL]], [[$META]], [[AI]], [[agents]], [[advertising]], [[search]], [[capex]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
 
 - ## Google: A Monetization Transition Today, an Agent Business-Model Test Tomorrow
