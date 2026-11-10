@@ -17,6 +17,8 @@ file-created-at:: 2026-11-10
 	  | Contracted portion | **About \$5.5B** | |
 	  | Spot purchases | **About \$4.5B** | Bought at short notice. Goldberg: "I can probably even pick out the day that that started if you look at the pricing data" |
 	- **Market reaction**: the amended S-1 came out Monday, Nov 2. Goldberg thinks its "concerning numbers" may have helped set off the Nov 5 tech selloff, though he calls the selloff mostly sentiment.
+	- **IPO price range** (user-provided, not from the podcast): \$70 to \$78 per share, which corresponds to a fully diluted valuation of about **\$1.26 trillion to \$1.41 trillion**.
+		- *My note*: both ends imply about 18B fully diluted shares. Against Q3 revenue of \$16.8B annualized (about \$67B), the range is about 19–21× run-rate revenue.
 - ## Goldberg's reading of the compute constraint
 	- **Avoiding an outage before the IPO**: with strong usage, Anthropic "really, really, really [didn't] want to have an outage." Another failure months before listing would look terrible, so it paid up for spot compute.
 	- **Spending nearly half on spot shows how tight compute is**: putting about 45% of a quarter's compute on expensive spot capacity is what a company does when it can't get enough contracted capacity. It isn't a sign of falling demand.
