@@ -1,4 +1,4 @@
-tags:: [[$VNET]], [[China]], [[data-center]], [[AI infrastructure]], [[power]], [[hyperscalers]], [[capex]]
+tags:: [[$VNET]], [[China]], [[data-center]], [[AI infrastructure]], [[power]], [[hyperscalers]], [[capex]], [[ai-model:GPT-6 Astra:high]]
 file-created-at:: 2026-11-07
 
 - ## China’s Mega Data Centers: Inner Mongolia’s Integrated Buildout

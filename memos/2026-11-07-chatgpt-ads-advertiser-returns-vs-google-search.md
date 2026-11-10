@@ -1,4 +1,4 @@
-tags:: [[$GOOGL]], [[OpenAI]], [[advertising]], [[AI]]
+tags:: [[$GOOGL]], [[OpenAI]], [[advertising]], [[AI]], [[ai-model:GPT-6 Astra:high]]
 file-created-at:: 2026-11-07
 
 - ## ChatGPT Ads: Advertiser Returns Lag Google Search in an Early Study

@@ -1,4 +1,4 @@
-tags:: [[$INTU]], [[SaaS]], [[AI]], [[agents]], [[accounting]], [[fintech]]
+tags:: [[$INTU]], [[SaaS]], [[AI]], [[agents]], [[accounting]], [[fintech]], [[ai-model:GPT-6 Astra:high]]
 file-created-at:: 2026-11-07
 
 - ## Intuit: Automating the Work Without Losing the Customer
