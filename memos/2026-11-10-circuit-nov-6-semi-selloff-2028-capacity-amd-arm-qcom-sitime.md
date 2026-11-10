@@ -1,0 +1,80 @@
+tags:: [[The Circuit]], [[Ben-Bajarin]], [[Jay-Goldberg]], [[semiconductors]], [[SOX]], [[market-sentiment]], [[AI-capex]], [[supply-chain]], [[enterprise-AI]], [[agents]], [[$AMD]], [[$INTC]], [[$ARM]], [[$QCOM]], [[$SITM]], [[$AAPL]], [[$TSM]], [[$NVDA]], [[Renesas]], [[MEMS-timing]], [[iPhone-Duo]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
+file-created-at:: 2026-11-10
+
+- ## The Circuit, Nov 6, 2026: the semis selloff, 2028 capacity, "capacity wins" earnings, and SiTime
+	- **Source**: *The Circuit* podcast, Ben Bajarin (Creative Strategies) and Jay Goldberg, recorded Friday Nov 6, 2026. User-provided auto-generated transcript.
+		- Figures are the hosts' spoken recollections.
+		- The Anthropic and Cloudflare parts of the episode have their own memos: [[2026-11-10-circuit-anthropic-s1-q3-slowdown-compute-constraint]] and [[2026-11-10-circuit-cloudflare-q3-customer-surge-agentic-enterprise]].
+		- Related: [[2026-09-05-circuit-broadcom-custom-asic-unmodelable-2027-peak-constraint]] (Bajarin's "2027 is peak constraint" report), [[2026-10-05-the-circuit-memory-cycle-balance-sheet-tokenomics]], [[2026-11-03-stratechery-apple-memory-purchase-commitments-consumer-memory-market]], [[2026-11-02-trendforce-ai-infrastructure-component-lead-times]].
+	- **Main points**:
+		- **The Nov 5 selloff looks overdone**, even to Goldberg, the usual skeptic. There was no obvious news, companies are reporting well, order books are healthy and hyperscalers affirmed or raised 2027 capex.
+		- **The market is starting to model 2028.** That is the year a lot of new fabs, memory fabs, data centers and power come online at once, and some investors are starting to talk about a GPU glut.
+		- **This earnings season, "if you have capacity you win."** AMD and Arm said they had locked in supply. Intel hadn't, and was punished.
+- ## The Nov 5 selloff
+	- **What happened**: one of the worst days ever for the SOX index (the Philadelphia Semiconductor Index), with tech down broadly. "Good companies, bad companies, good earnings, bad earnings … everything was down," many by double digits. It came two days after the US election.
+	- **Explanations the hosts discussed**:
+		- **Data center moratorium fears after the election**: Goldberg says "I really, really, really don't think we're going to ban data centers in the US." Compare [[2026-11-07-stratechery-ai-on-the-ballot-political-compute-constraint]].
+		- **Anthropic's amended S-1**, released Monday, showing slower growth.
+		- **Animal spirits**: "the market gets spooked and it became self-reinforcing."
+		- **AI-designed levered trades (Goldberg)**: many "deeply AI-pilled" funds now use AI to *design* trading strategies, not just execute them. The results are complex, levered structured trades that amplify moves both ways.
+		- **Bot-speed reactions (Bajarin)**: AMD stock was up about 7% "literally the second earnings dropped. … humans can't do that."
+		- **Adding 2028 to models (Goldberg)**: "this is the time of year when we start adding years to our models." Analysts putting real 2028 assumptions in for the first time are getting nervous.
+	- **Evidence against the selloff**: hyperscalers "all either affirmed or raised their capex numbers for next year." Goldberg says the companies he talks to "all have very healthy order books."
+- ## 2028: when capacity arrives
+	- **Everything lands at once**: "a whole bunch of fabs come online, memory fabs … a whole bunch of data centers coming online. … It's also the year when it looks like a lot of the energy bottlenecks will get resolved."
+	- **GPU-glut talk has started**: "for the first time … the last 30 days, I've had a lot of people come to me talking about gluts of GPUs." Goldberg says "I don't think we're there yet."
+	- **Bajarin's framework**: 2027 is "peak constraint." In 2028 the supply of memory, accelerators and CPUs rises in a step, so the question becomes whether demand is enough to fill it.
+	- **A "digestion year"** was built into some sell-side models and then went back and forth.
+	- **Enterprise demand is what decides 2028**:
+		- Bajarin: enterprise "either funds this cycle or it doesn't."
+		- At a big OEM event this week, every enterprise decision-maker said "we're early." Security, data, storage, governance and processes all need rebuilding for agents.
+		- The top ~20% of adopters are doing that now and the other ~80% will lag.
+		- Goldberg is more bullish: a "dozen" companies this week told him they are rushing to adopt AI for productivity. He also cites Cloudflare's surge in customer additions.
+- ## Earnings: capacity decides who wins
+	- **AMD**:
+		- **Results**: very strong quarter and guidance, with incremental increases to its GPU and data center estimates for next year. Goldberg: "Lisa at her best," optimistic and sounding "a beat" ahead, which he takes seriously because "she's not someone who … exaggerates much."
+		- **Growth outlook**: AMD's view of 2027 data center growth went from about 70% to **about 80%**, which Bajarin treats as a floor. He thinks **AMD could do about \$100B in revenue next year**, compared with years stuck at about \$6B.
+		- **GPUs**: the first **MI455** deployments are starting at hyperscalers and will ramp next year. Goldberg says it is on par with Nvidia Rubin on paper and leads "in a couple categories."
+		- **Supply**: Lisa Su went out of her way to say AMD has secured the capacity, substrates and memory to hit its numbers. Bajarin suspects TSMC moved wafers from an unnamed competitor to AMD, a possible source of upside.
+		- **Servers vs Intel**: Bajarin says AMD's server revenue passed Intel's for the first time. The quarter is garbled in the transcript ("in Q4"). AMD could ship more server CPUs than Intel next year, partly because Intel's capacity is limited.
+		- **Positioning**: AMD now calls itself "a data center company," not a client computing company.
+	- **Intel**: the counterexample. It didn't lock in supply, "and that became a problem to their upside."
+	- **Apple**: made **about \$33B of purchase commitments in the quarter**. "Even they finally signed."
+	- **Arm**:
+		- Arm is entering the chip business. All year the CEO and CFO said securing supply took most of their time.
+		- This quarter "you could hear the relief." Arm clearly signed agreements and has supply locked for next year.
+		- It again raised its medium-term estimate of chip sales. The stock didn't respond much.
+	- **Qualcomm**: "a little bit more tepid."
+		- Mobile was weak, automotive did well and more customers are interested in its data center chip.
+		- It published technical data on its **high bandwidth compute (HBC)** product, which Goldberg finds promising and Bajarin calls a possible "real advantage."
+		- Bajarin says the CFO signaled that non-mobile businesses will be bigger than mobile next year, at about 60% (the figure is ambiguous in the transcript).
+	- **Client devices still pay the bills**: Goldberg says client is still about **60% of Arm's revenue and 60–70% of Qualcomm's**, and CPUs still matter more than GPUs at AMD. Growth comes from data centers, but these subjects "will come up again next year."
+	- **Arm's mix will flip**: Bajarin says once Arm recognizes revenue from its own data center CPUs, data center becomes most of its revenue "almost immediately," because chip sales bring in far more than licensing.
+	- **Next topic, operations**: who could have planned supply better, and who has the best operations, will be argued over the next quarter or two. Substrates in particular "you either got … in advance or you didn't."
+- ## SiTime: timing chips going from analog to digital
+	- **Bajarin's framing**: every analog-to-digital shift (TV, autos, phones) made the market much bigger. In timing, the shift is from quartz crystals to programmable **MEMS** (silicon micro-machined) oscillators.
+	- **Market position**:
+		- SiTime is "the only one" doing programmable MEMS-based timing.
+		- Its acquisition of **Renesas's timing business** has closed. That was probably its largest competitor, and it brings a quartz business.
+		- With it, SiTime now holds "the vast majority of the market for timing."
+	- **Why AI raises timing content**:
+		- Denser compute means racks, scale-up pods and networking have to stay synchronized so no part becomes a bottleneck.
+		- Higher-frequency parts on SiTime's roadmap carry higher prices and more timing per system.
+		- Retimers sit next to Broadcom switches for the same reason: rack-to-rack and in-rack (north-south, east-west) synchronization depends on good timing.
+	- **Units and prices (Goldberg)**:
+		- About 10–20 timing devices per server board, maybe about 100 per server, and about 10–20 per phone.
+		- Most cost cents ("10 cents, 50 cents") up to a dollar or two, but SiTime's pricing on the call was "more than you think." Quartz stays at the very high end (satellites, about \$1,000 parts).
+	- **The trade-off**: MEMS gives up some precision against quartz but makes up for it with programmability. Designers get flexibility, "so you start throwing these little clocks everywhere."
+	- **Valuation**: Bajarin acknowledges investor pushback on price but says it is growing fast into a large, critical market. Goldberg declines to comment on valuation. Bajarin's new report sizes the market from his accelerator and networking models.
+- ## Opening anecdote: Apple polishing cloths
+	- **A shortage of Apple's polishing cloth** (Bajarin jokes it's Apple's "newest billion dollar business"). His team member Max ordered extras because of it, and he heard prices went up.
+	- **Why**: Bajarin is now a full-time **iPhone Duo** user. He was skeptical of the passport-style foldable but says "there's no going back." The mixed reviews undersell it.
+		- He also has the new **touchscreen MacBook Pro**.
+		- Only Apple's dense microfiber cloth cleans the nano-texture screens. Other microfiber cloths, water and a T-shirt all failed.
+		- His tongue-in-cheek theory: Apple gives you big screens to touch that only its cloths can clean.
+	- **The supplier**: Goldberg's quick Claude search suggests Toray's Ultrasuede-type microfiber, which he says is milled in China. *My note: Alcantara is a separate Italian brand partly owned by Toray. The supplier is unconfirmed.*
+	- **The takeaway**: an early sign that the foldable iPhone and touch Mac are selling and in use. Polishing cloths are a minor accessory business.
+- ## My notes
+	- **Capacity is the theme to track in Q4 reports**: companies that say they have secured substrates, memory and wafers for 2027 (AMD, Arm, Apple's \$33B in commitments) against those that hedge. TrendForce lead times ([[2026-11-02-trendforce-ai-infrastructure-component-lead-times]]) are the external check.
+	- **The 2028 glut debate**: the bull case is Anthropic still short of compute (spending about \$4.5B on spot in Q3) and the bear case is a step-up in supply in 2028. Each quarter's mix of spot and contracted compute at labs, plus GPU rental prices, will show which way it's going.
+	- **SiTime is an AI rack-density play**: timing content per server rises with scale-up and optics, and after Renesas it faces few competitors. The risk is valuation, as both hosts imply.
