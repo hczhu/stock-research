@@ -8,7 +8,7 @@ file-created-at:: 2026-11-03
 - ## What the Source Claims
 	- **EMIB investment and ramp**: About **$3.5B** of next-year capex would go to EMIB. Substrate yield reportedly improved from **~30% in Q2** to **45% in September**, with targets of **50% in Q4** and **60% in Q1 next year**; assembly yield was said to be **40.5%**.
 	- **Capacity targets**: Reported EMIB capacity targets are **20K baseline / 50K stretch by end-2027**, rising to **80K baseline / 120K stretch by end-2028**. The post does not define the unit or clarify whether the figures refer to monthly throughput, so they should not be compared directly with other capacity estimates.
-	- **Foundry economics**: Intel’s total next-year capex is estimated at **$27–33B**, with a **$30B midpoint**, mostly for 18A and 14A. The post says external-customer revenue is still **under 2%** of foundry revenue.
+	- **Foundry economics**: Intel’s total next-year capex is estimated at **\$27–33B**, with a **\$30B midpoint**, mostly for 18A and 14A. The post says external-customer revenue is still **under 2%** of foundry revenue.
 	- **Customer pipeline**: Tesla was described as negotiating a contract, with no deposit yet; Google, Microsoft, and Amazon were named as prospective customers. These are prospects, not confirmed awards.
 	- **Relative cost positioning**: The source sees Intel as more cost-competitive for large-format, multi-chiplet, multi-HBM packages, while TSMC is stronger in low-power and mature-process products. It argues that labor and union costs at TSMC’s U.S. fabs could narrow the U.S.-manufacturing cost gap.
 
