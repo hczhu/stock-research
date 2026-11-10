@@ -62,18 +62,18 @@ file-created-at:: 2024-06-15
 
 Backfilled across the repo on 2026-09-23.
 
-## AI Model Tag for New Files
+## AI Model and Effort Tags for New Files
 
-Every new Logseq Markdown file created by an AI assistant must include an AI model tag in its unbulleted `tags::` page-property line:
+Every new Logseq Markdown file created by an AI assistant must include two separate tags for the model and reasoning effort in its unbulleted `tags::` page-property line:
 
 ```markdown
-tags:: [[existing-topic]], [[ai-model:__model__:__effort__]]
+tags:: [[existing-topic]], [[ai-model:__model__]], [[ai-effort:__effort__]]
 file-created-at:: YYYY-MM-DD
 ```
 
-- Replace the placeholders with the model name and reasoning effort, for example `[[ai-model:GPT-6 Astra:high]]`.
+- Replace the placeholders with the model name and reasoning effort, for example `[[ai-model:GPT-6 Astra]]` and `[[ai-effort:high]]`. Do not combine the two values into one tag.
 - Use known runtime values or values explicitly confirmed by the user; do not guess. If either value is unavailable, ask the user before assigning it. An example value is not a universal default for other models or sessions.
-- Preserve existing topic tags and add this tag only once. If there is no `tags::` line, create it in the first page-property block above `file-created-at::`.
+- Preserve existing topic tags and add each of these tags only once. If there is no `tags::` line, create it in the first page-property block above `file-created-at::`.
 - This requirement applies to all new Logseq Markdown notes, not only stock memos. Do not label an existing file as created by you merely because you edited, staged, committed, or merged it.
 
 ## Memo Format

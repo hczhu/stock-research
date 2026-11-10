@@ -1,4 +1,4 @@
-tags:: [[$META]], [[Meta]], [[Muse-Spark]], [[open-weight-models]], [[AI-policy]], [[AI]], [[model-labs]], [[agents]], [[ai-model:GPT-6 Astra:high]]
+tags:: [[$META]], [[Meta]], [[Muse-Spark]], [[open-weight-models]], [[AI-policy]], [[AI]], [[model-labs]], [[agents]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-03
 
 - ## Muse Spark Open: open weights, conditional commercial rights

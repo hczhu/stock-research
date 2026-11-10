@@ -1,4 +1,4 @@
-tags:: [[$MU]], [[DRAM]], [[semiconductor]], [[ai-model:GPT-6 Astra:high]]
+tags:: [[$MU]], [[DRAM]], [[semiconductor]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
 
 - ## DRAM Exports: A Sharp Increase in Value per Kilogram
