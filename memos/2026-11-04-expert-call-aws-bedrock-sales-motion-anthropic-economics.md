@@ -1,4 +1,4 @@
-tags:: [[expert-call]], [[$AMZN]], [[AWS]], [[Bedrock]], [[Anthropic]], [[Claude]], [[Claude Code]], [[OpenAI]], [[$MSFT]], [[Azure]], [[$GOOGL]], [[GCP]], [[Vertex]], [[open-weight]], [[TaaS]], [[enterprise-AI]], [[agents]], [[pricing]], [[margins]]
+tags:: [[expert-call]], [[$AMZN]], [[AWS]], [[Bedrock]], [[Anthropic]], [[Claude]], [[Claude Code]], [[OpenAI]], [[$MSFT]], [[Azure]], [[$GOOGL]], [[GCP]], [[Vertex]], [[open-weight]], [[TaaS]], [[enterprise-AI]], [[agents]], [[pricing]], [[margins]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-04
 
 - ## Expert call: how AWS sells Bedrock, and what Claude is worth to Amazon

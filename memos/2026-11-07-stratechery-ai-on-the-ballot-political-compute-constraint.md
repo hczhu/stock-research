@@ -1,4 +1,4 @@
-tags:: [[Stratechery]], [[data-centers]], [[data-center-opposition]], [[moratoriums]], [[politics]], [[AI-capex]], [[compute-scarcity]], [[$NVDA]], [[neoclouds]], [[$CRWV]], [[$NBIS]], [[hyperscalers]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$META]], [[$AAPL]], [[Anthropic]], [[OpenAI]], [[SpaceX]], [[space-data-centers]], [[China]], [[Huawei]], [[memory]], [[open-weight]], [[startups]]
+tags:: [[Stratechery]], [[data-centers]], [[data-center-opposition]], [[moratoriums]], [[politics]], [[AI-capex]], [[compute-scarcity]], [[$NVDA]], [[neoclouds]], [[$CRWV]], [[$NBIS]], [[hyperscalers]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$META]], [[$AAPL]], [[Anthropic]], [[OpenAI]], [[SpaceX]], [[space-data-centers]], [[China]], [[Huawei]], [[memory]], [[open-weight]], [[startups]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
 
 - ## Stratechery: AI was on the ballot, and data centers lost. What if the political limit on building is permanent?

@@ -1,4 +1,4 @@
-tags:: [[$META]], [[Meta]], [[Instagram]], [[$AMZN]], [[$GOOGL]], [[$PG]], [[advertising]], [[ad-targeting]], [[retargeting]], [[brand-advertising]], [[performance-advertising]], [[small-business]], [[pricing-power]], [[Hacker News]]
+tags:: [[$META]], [[Meta]], [[Instagram]], [[$AMZN]], [[$GOOGL]], [[$PG]], [[advertising]], [[ad-targeting]], [[retargeting]], [[brand-advertising]], [[performance-advertising]], [[small-business]], [[pricing-power]], [[Hacker News]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
 
 - ## Internet ads, from users' side: Instagram's targeting stands out, and retargeting persists because the numbers favor it

@@ -1,4 +1,4 @@
-tags:: [[PostgreSQL]], [[Databricks]], [[open-source]], [[databases]], [[AI-bug-finding]], [[cybersecurity]], [[software-quality]], [[code-review]], [[maintenance]], [[$SNOW]], [[$MDB]], [[$AMZN]], [[$MSFT]], [[$GOOGL]], [[Anthropic]]
+tags:: [[PostgreSQL]], [[Databricks]], [[open-source]], [[databases]], [[AI-bug-finding]], [[cybersecurity]], [[software-quality]], [[code-review]], [[maintenance]], [[$SNOW]], [[$MDB]], [[$AMZN]], [[$MSFT]], [[$GOOGL]], [[Anthropic]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
 
 - ## Postgres 19 is late because LLMs find bugs faster than humans can fix them

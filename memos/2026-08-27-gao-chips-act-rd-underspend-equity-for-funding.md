@@ -1,4 +1,4 @@
-tags:: [[semiconductor]], [[CHIPS-Act]], [[industrial-policy]], [[policy]], [[US]], [[R&D]], [[lithography]], [[quantum]], [[imec]], [[$INTC]], [[$AMAT]], [[$LRCX]], [[$KLAC]]
+tags:: [[semiconductor]], [[CHIPS-Act]], [[industrial-policy]], [[policy]], [[US]], [[R&D]], [[lithography]], [[quantum]], [[imec]], [[$INTC]], [[$AMAT]], [[$LRCX]], [[$KLAC]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-08-27
 
 - ## GAO: CHIPS Act Fabs Are on Schedule, the \$11B R&D Arm Is 95% Unspent

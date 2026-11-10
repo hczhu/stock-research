@@ -1,4 +1,4 @@
-tags:: [[$AMZN]], [[$GOOGL]], [[$NET]], [[AWS]], [[GCP]], [[cloud]], [[hyperscalers]], [[pricing]], [[usage-based-pricing]], [[coding-agents]], [[agents]], [[vibe-coding]], [[developer-tools]]
+tags:: [[$AMZN]], [[$GOOGL]], [[$NET]], [[AWS]], [[GCP]], [[cloud]], [[hyperscalers]], [[pricing]], [[usage-based-pricing]], [[coding-agents]], [[agents]], [[vibe-coding]], [[developer-tools]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-10-21
 
 - ## Hard Budget Caps: Agents Turned Unbounded Consumption Billing Into a Liability

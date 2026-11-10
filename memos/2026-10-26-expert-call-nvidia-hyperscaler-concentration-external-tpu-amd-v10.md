@@ -1,4 +1,4 @@
-tags:: [[$NVDA]], [[$GOOGL]], [[$AVGO]], [[$AMD]], [[$MSFT]], [[$META]], [[$AMZN]], [[$ORCL]], [[TPU]], [[ASIC]], [[custom-silicon]], [[chiplets]], [[advanced-packaging]], [[MediaTek]], [[Trainium]]
+tags:: [[$NVDA]], [[$GOOGL]], [[$AVGO]], [[$AMD]], [[$MSFT]], [[$META]], [[$AMZN]], [[$ORCL]], [[TPU]], [[ASIC]], [[custom-silicon]], [[chiplets]], [[advanced-packaging]], [[MediaTek]], [[Trainium]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-10-26
 
 - ## Expert Call: External TPU Revenue Ramps to ~\$100B by 2028, and Nvidia's Real Risk Is the Precedent

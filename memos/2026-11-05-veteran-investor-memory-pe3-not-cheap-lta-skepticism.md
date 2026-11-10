@@ -1,4 +1,4 @@
-tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[LTA]], [[valuation]], [[cyclicals]], [[super-cycle]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$TSM]], [[pricing-power]], [[CXMT]]
+tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[LTA]], [[valuation]], [[cyclicals]], [[super-cycle]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$TSM]], [[pricing-power]], [[CXMT]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-05
 
 - ## A veteran investor's case that memory isn't cheap at 3× earnings

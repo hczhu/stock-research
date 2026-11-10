@@ -1,4 +1,4 @@
-tags:: [[AI]], [[$WMT]], [[$AMZN]], [[$MCD]], [[labor-market]], [[wages]], [[labor-share]], [[commoditization]], [[automation]], [[superstar-firms]], [[monopsony]], [[vibe-coding]], [[white-collar]], [[macro]], [[margins]], [[retail]], [[fast-food]], [[warehouse-automation]], [[hiring-costs]]
+tags:: [[AI]], [[$WMT]], [[$AMZN]], [[$MCD]], [[labor-market]], [[wages]], [[labor-share]], [[commoditization]], [[automation]], [[superstar-firms]], [[monopsony]], [[vibe-coding]], [[white-collar]], [[macro]], [[margins]], [[retail]], [[fast-food]], [[warehouse-automation]], [[hiring-costs]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
 
 - ## Steinsson: AI may commoditize jobs rather than automate them away, giving plentiful jobs at lower wages

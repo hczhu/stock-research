@@ -1,4 +1,4 @@
-tags:: [[AI]], [[biotech]], [[drug-discovery]], [[biosecurity]], [[healthcare]], [[life-sciences-tools]], [[$TWST]], [[foundation-models]], [[regulation]]
+tags:: [[AI]], [[biotech]], [[drug-discovery]], [[biosecurity]], [[healthcare]], [[life-sciences-tools]], [[$TWST]], [[foundation-models]], [[regulation]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-10-17
 
 - ## AI-Designed Phage Genomes: First Functional Result, but a 5% Hit Rate and 97% Copy Rate
