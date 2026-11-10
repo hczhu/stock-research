@@ -1,4 +1,4 @@
-tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[guidance]], [[customer-concentration]], [[OpenAI]], [[usage-based-pricing]], [[renewals]], [[AI-natives]]
+tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[guidance]], [[customer-concentration]], [[OpenAI]], [[usage-based-pricing]], [[renewals]], [[AI-natives]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
 
 - ## Datadog Q3 2026: a strong quarter, a Q4 guide that is low by design

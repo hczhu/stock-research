@@ -1,4 +1,4 @@
-tags:: [[Stratechery]], [[$AAPL]], [[Apple]], [[iPhone]], [[Mac]], [[DRAM]], [[NAND]], [[LPDDR]], [[memory]], [[consumer-electronics]], [[smartphones]], [[supply-chain]], [[purchase-obligations]], [[LTA]], [[pricing]], [[services]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[Kioxia]], [[CXMT]]
+tags:: [[Stratechery]], [[$AAPL]], [[Apple]], [[iPhone]], [[Mac]], [[DRAM]], [[NAND]], [[LPDDR]], [[memory]], [[consumer-electronics]], [[smartphones]], [[supply-chain]], [[purchase-obligations]], [[LTA]], [[pricing]], [[services]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[Kioxia]], [[CXMT]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-03
 
 - ## Apple's memory problem: from price-setter to committed buyer

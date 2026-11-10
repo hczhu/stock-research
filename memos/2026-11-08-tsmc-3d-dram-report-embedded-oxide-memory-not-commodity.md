@@ -1,4 +1,4 @@
-tags:: [[$TSM]], [[TSMC]], [[$NVDA]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[DRAM]], [[3D-DRAM]], [[HBM]], [[SRAM]], [[embedded-memory]], [[oxide-semiconductor]], [[BEOL]], [[SoIC]], [[hybrid-bonding]], [[GUC]], [[foundry]]
+tags:: [[$TSM]], [[TSMC]], [[$NVDA]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[DRAM]], [[3D-DRAM]], [[HBM]], [[SRAM]], [[embedded-memory]], [[oxide-semiconductor]], [[BEOL]], [[SoIC]], [[hybrid-bonding]], [[GUC]], [[foundry]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
 
 - ## TSMC "entering DRAM": most likely embedded cache memory, not a fourth commodity DRAM maker

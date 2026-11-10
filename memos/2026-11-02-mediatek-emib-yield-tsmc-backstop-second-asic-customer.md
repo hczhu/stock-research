@@ -1,4 +1,4 @@
-tags:: [[$2454.TW]], [[MediaTek]], [[$INTC]], [[EMIB]], [[$TSM]], [[CoWoS]], [[advanced-packaging]], [[substrates]], [[ASIC]], [[TPU]], [[$GOOGL]], [[$META]], [[SpaceX]], [[ByteDance]], [[Anthropic]]
+tags:: [[$2454.TW]], [[MediaTek]], [[$INTC]], [[EMIB]], [[$TSM]], [[CoWoS]], [[advanced-packaging]], [[substrates]], [[ASIC]], [[TPU]], [[$GOOGL]], [[$META]], [[SpaceX]], [[ByteDance]], [[Anthropic]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-02
 
 - ## 聯發科：EMIB 良率風波是時程風險，第二家 ASIC 客戶才是估值主軸

@@ -1,4 +1,4 @@
-tags:: [[SaaS]], [[enterprise-software]], [[competition]], [[platform-consolidation]], [[CRM]], [[ITSM]], [[$NOW]], [[ServiceNow]], [[$CRM]], [[Salesforce]], [[$TEAM]], [[Atlassian]], [[Jira Service Management]], [[AI]], [[agents]]
+tags:: [[SaaS]], [[enterprise-software]], [[competition]], [[platform-consolidation]], [[CRM]], [[ITSM]], [[$NOW]], [[ServiceNow]], [[$CRM]], [[Salesforce]], [[$TEAM]], [[Atlassian]], [[Jira Service Management]], [[AI]], [[agents]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-09
 
 - ## SaaS turf wars: mature software platforms are growing by invading each other's core markets

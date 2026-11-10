@@ -1,4 +1,4 @@
-tags:: [[$RIVN]], [[$TSLA]], [[$UBER]], [[$NVDA]], [[$TSM]], [[autonomous-vehicles]], [[robotaxi]], [[lidar]], [[ASIC]], [[automotive]], [[EV]], [[Waymo]], [[BYD]], [[subscriptions]]
+tags:: [[$RIVN]], [[$TSLA]], [[$UBER]], [[$NVDA]], [[$TSM]], [[autonomous-vehicles]], [[robotaxi]], [[lidar]], [[ASIC]], [[automotive]], [[EV]], [[Waymo]], [[BYD]], [[subscriptions]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-09-08
 
 - ## Rivian's Autonomy Stack: Custom Silicon Over Nvidia, Lidar at a Few Hundred Dollars, Tesla Undercut by Half

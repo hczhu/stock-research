@@ -1,4 +1,4 @@
-tags:: [[psychology]], [[motivated-reasoning]], [[confirmation-bias]], [[narratives]], [[investing-process]]
+tags:: [[psychology]], [[motivated-reasoning]], [[confirmation-bias]], [[narratives]], [[investing-process]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
 
 - ## Stance comes first, fake news follows

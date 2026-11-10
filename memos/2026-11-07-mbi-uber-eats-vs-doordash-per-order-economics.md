@@ -1,4 +1,4 @@
-tags:: [[$UBER]], [[$DASH]], [[Uber]], [[Uber Eats]], [[DoorDash]], [[food-delivery]], [[unit-economics]], [[sum-of-the-parts]], [[valuation]], [[SBC]], [[marketplaces]]
+tags:: [[$UBER]], [[$DASH]], [[Uber]], [[Uber Eats]], [[DoorDash]], [[food-delivery]], [[unit-economics]], [[sum-of-the-parts]], [[valuation]], [[SBC]], [[marketplaces]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
 
 - ## Uber Delivery vs DoorDash: once costs are treated the same way, per-order margins are about equal

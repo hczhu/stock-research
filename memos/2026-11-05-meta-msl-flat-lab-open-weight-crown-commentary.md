@@ -1,4 +1,4 @@
-tags:: [[$META]], [[Meta]], [[MSL]], [[Muse]], [[open-weight]], [[AI-labs]], [[Anthropic]], [[OpenAI]], [[$GOOGL]], [[Gemini]], [[xAI]], [[org-design]], [[talent]], [[compute]], [[frontier-labs]], [[Llama]], [[o1]], [[Navier-Stokes]]
+tags:: [[$META]], [[Meta]], [[MSL]], [[Muse]], [[open-weight]], [[AI-labs]], [[Anthropic]], [[OpenAI]], [[$GOOGL]], [[Gemini]], [[xAI]], [[org-design]], [[talent]], [[compute]], [[frontier-labs]], [[Llama]], [[o1]], [[Navier-Stokes]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-05
 
 - ## Frontier AI labs: resources get you to the frontier, organization keeps you there (Meta's flat lab as the case study)

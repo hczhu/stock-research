@@ -1,4 +1,4 @@
-tags:: [[$APP]], [[$U]], [[AppLovin]], [[Unity]], [[ironSource]], [[AXON]], [[Vector]], [[MAX]], [[LevelPlay]], [[ad-mediation]], [[header-bidding]], [[take-rate]], [[mobile-gaming]], [[advertising]], [[litigation]], [[Mintegral]]
+tags:: [[$APP]], [[$U]], [[AppLovin]], [[Unity]], [[ironSource]], [[AXON]], [[Vector]], [[MAX]], [[LevelPlay]], [[ad-mediation]], [[header-bidding]], [[take-rate]], [[mobile-gaming]], [[advertising]], [[litigation]], [[Mintegral]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
 
 - ## AppLovin vs Unity: the MAX data dispute, and what it says about the Vector threat

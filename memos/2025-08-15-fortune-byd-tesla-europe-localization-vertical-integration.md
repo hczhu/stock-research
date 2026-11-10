@@ -1,4 +1,4 @@
-tags:: [[BYD]], [[$TSLA]], [[EV]], [[automotive]], [[China]], [[Europe]], [[Volkswagen]], [[batteries]], [[vertical-integration]], [[industrial-policy]], [[Fortune]]
+tags:: [[BYD]], [[$TSLA]], [[EV]], [[automotive]], [[China]], [[Europe]], [[Volkswagen]], [[batteries]], [[vertical-integration]], [[industrial-policy]], [[Fortune]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2025-08-15
 
 - ## BYD Won the Volume War; the Profit Case Depends on Exporting a Cost Structure That Localization Erodes

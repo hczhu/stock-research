@@ -1,4 +1,4 @@
-tags:: [[vibe-coding]], [[coding-agents]], [[Claude-Code]], [[Anthropic]], [[OpenAI]], [[agents]], [[developer-tools]], [[gaming]], [[WebGL]], [[open-source]], [[token economics]], [[$U]], [[$ADBE]], [[$ADSK]], [[app-store]]
+tags:: [[vibe-coding]], [[coding-agents]], [[Claude-Code]], [[Anthropic]], [[OpenAI]], [[agents]], [[developer-tools]], [[gaming]], [[WebGL]], [[open-source]], [[token economics]], [[$U]], [[$ADBE]], [[$ADSK]], [[app-store]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-10-21
 
 - ## Vibe-Coding Field Notes: Model Familiarity Is Becoming a Platform Moat, and the Content Stack Collapses Into the Model

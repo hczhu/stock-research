@@ -1,4 +1,4 @@
-tags:: [[AI]], [[drug-discovery]], [[biotech]], [[healthcare]], [[life-sciences-tools]], [[$GOOGL]], [[DeepMind]], [[$RXRX]], [[open-source]], [[synthetic-data]], [[federated-learning]], [[benchmarks]], [[foundation-models]]
+tags:: [[AI]], [[drug-discovery]], [[biotech]], [[healthcare]], [[life-sciences-tools]], [[$GOOGL]], [[DeepMind]], [[$RXRX]], [[open-source]], [[synthetic-data]], [[federated-learning]], [[benchmarks]], [[foundation-models]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-03-20
 
 - ## Co-Folding Models: Closing AlphaFold Commoditized It in Five Months, and More Data Did Not Fix Generalization
