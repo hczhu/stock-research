@@ -1,9 +1,24 @@
 tags:: [[$GOOGL]], [[Google]], [[TPU]], [[Google-Cloud]], [[AI infrastructure]], [[semiconductor]], [[hardware]], [[financing]], [[residual value]]
 file-created-at:: 2026-10-29
 
-- ## TPU resale guarantees: financing aid with residual-value risk
+- ## TPU System Sales: Inventory-to-Cash Accounting and Repurchase Guarantees
 	- **Thesis**: Google is using conditional repurchase rights to make TPU system sales more financeable for customers while retaining a potential route to recover and redeploy hardware. The arrangement can support adoption of Google’s custom silicon, but leaves Google exposed if hardware resale values fall faster than the contracted buyback prices imply.
 	- **Source**: Alphabet Q3 2026 Form 10-Q, quarter ended September 30, 2026 ([SEC filing](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm); [filing text mirror](https://www.stocktitan.net/sec-filings/GOOG/10-q-alphabet-inc-quarterly-earnings-report-9e9e43ebd2ea.html)).
+	- **Update (2026-11-03)**: User-provided earnings-call screenshot of Ross Sandler asking about TPU-system resale and CFO Anat Ashkenazi explaining the cash cycle; accounting details checked against the 10-Q. See also [[GOOG-2026-Q3]].
+- ## From Signed Contract to Cash Collection
+	- **Flow**: Signed agreement → backlog → build systems for sale (inventory; cash out) → transfer control (hardware/software revenue and associated inventory cost) → collect customer payment (cash in). Installation/support/warranty revenue follows the applicable service period or performance, not necessarily hardware delivery.
+	- | Stage | Accounting and cash effect | What it means |
+	  |---|---|---|
+	  | Sign agreement | Enters backlog; signing alone is not revenue | An order is future business, not current sales or proof of cash collection |
+	  | Build systems | Components and assembled systems accumulate in inventory; supplier payments consume cash | This is working capital for goods intended for sale, rather than PP&E Google retains to provide cloud services |
+	  | Transfer control | Recognize hardware/software revenue, net of applicable return allowances; recognize associated inventory costs in cost of revenue | Neither the full contract value nor the entire surrounding data-center investment necessarily becomes revenue at once |
+	  | Bill and collect | Billing can create a receivable; collection converts it to cash | Revenue, invoicing, and payment can occur at different times; the screenshot does not specify payment terms |
+	  | Deliver associated services | Installation, support, and extended-warranty revenue follows service delivery | The system includes more than chips; part of the contract can remain unrecognized after hardware handover |
+	- **Capex versus cash**: Inventory-related cash payments and customer receipts run through operating cash flow; purchases of Google-owned infrastructure are investing cash flows, with depreciation over time. Replacing owned deployments with system sales can reduce Google's direct infrastructure funding requirement, but inventory financing still absorbs cash before collections. Lower reported capex is not automatically lower total cash needs or better free cash flow.
+	- **Scale-up timing**: The CFO said some system revenue had already been recorded and more would arrive through 2027. Inventory can therefore rise before revenue and collections catch up; this timing alone does not establish deteriorating demand or guarantee eventual cash conversion.
+	- **Unanswered economics**: Sandler's **~\$35B per gigawatt** was an analyst's illustrative full-system cost assumption—not Google's disclosed revenue per GW. The CFO disclosed neither the percentage recognized as Google revenue nor TPU-system margins. Do not infer either from Cloud's blended margin or treat the system's whole installed cost as Google's sales.
+- ## What Is Being Sold
+	- The CFO described an integrated system covering compute hardware, storage, networking, and software capabilities for training/inference—not simply a merchant TPU chip. Accounting follows the contracted deliverables; the associated repurchase provisions below also affect the economics of the sale.
 - ## Key disclosures
 	- Alphabet says Google Cloud product sales primarily consist of TPU systems—hardware, software, installation, support, and extended warranty. Some customer arrangements include multi-year options requiring Google to repurchase hardware and embedded software at pre-set prices; these are generally accounted for as rights of return. If a customer assigns systems to another party but retains the repurchase right, Google accounts for it as a financial guarantee.
 	- | Disclosure | Amount / timing | Context |
