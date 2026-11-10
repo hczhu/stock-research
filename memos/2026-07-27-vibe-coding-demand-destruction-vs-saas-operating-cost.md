@@ -2,7 +2,7 @@ tags:: [[$TEAM]], [[$DDOG]], [[$GOOGL]], [[SaaS]], [[vibe-coding]], [[coding-age
 file-created-at:: 2026-07-27
 
 - ## Vibe-Coding Demand Destruction vs. the Operating Cost of SaaS
-	- **Source**: Own X posts (@hzhu_), July 26–27, 2026, replying to [@levelsio](https://x.com/levelsio) on declining indie-hacker revenue and quoting [@thericebowlgirl](https://x.com/thericebowlgirl) on a vibe-coded Jira replacement. First-party analysis; the underlying third-party anecdotes are extracted separately.
+	- **Source**: [Own X posts (@hzhu_), July 26–27, 2026](https://x.com/hzhu_/status/2081813745383374922), replying to [@levelsio](https://x.com/levelsio) on declining indie-hacker revenue and quoting [@thericebowlgirl](https://x.com/thericebowlgirl) on a vibe-coded Jira replacement. First-party analysis; the underlying third-party anecdotes are extracted separately.
 	- **Companion memos**: [[2026-07-25-ai-agents-indie-saas-seo-demand-compression]] covers the Yongfook/levelsio traffic and referral data; [[2026-07-26-vibe-coded-jira-replacement-reverts-to-linear]] covers the Kalani adoption-and-reversion anecdote. This memo records only the incremental first-party argument.
 	- **Thesis**: Two forces are compressing small software — agent-driven demand destruction and search-distribution decay — and the attribution matters more than the symptom. Weighting toward demand destruction, but bounded: the destruction is real where a tool is single-user and disposable, and decays sharply once software must be operated, because the cost of a complex SaaS begins *after* it is running.
 
