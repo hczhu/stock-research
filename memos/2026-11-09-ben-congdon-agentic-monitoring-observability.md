@@ -1,4 +1,4 @@
-tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[AI]], [[agents]], [[monitoring]]
+tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[AI]], [[agents]], [[monitoring]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-09
 
 - ## Agentic Monitoring — A Larger Market for Continuous Investigation
