@@ -1,4 +1,4 @@
-tags:: [[SerDes]], [[semiconductor]], [[interconnect]], [[AI-ASIC]], [[data-center]], [[$AVGO]], [[$MRVL]]
+tags:: [[SerDes]], [[semiconductor]], [[interconnect]], [[AI-ASIC]], [[data-center]], [[$AVGO]], [[$MRVL]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
 
 - ## SerDes 101 — Moving Data Between Chips

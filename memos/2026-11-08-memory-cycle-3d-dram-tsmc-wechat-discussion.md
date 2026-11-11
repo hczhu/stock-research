@@ -1,4 +1,4 @@
-tags:: [[DRAM]], [[NAND]], [[semiconductor]], [[AI]], [[foundry]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$TSM]]
+tags:: [[DRAM]], [[NAND]], [[semiconductor]], [[AI]], [[foundry]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$TSM]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
 
 - ## 存储周期与 3D DRAM 技术更替——群聊观点摘录
