@@ -1,5 +1,6 @@
 tags:: [[semiconductor]], [[semi-equipment]], [[SEMI]], [[capex]], [[$AMAT]], [[$LRCX]], [[$KLAC]], [[$ASML]], [[$AEHR]]
 file-created-at:: 2026-06-07
+file-updated-at:: 2026-07-22
 
 - ## Semiconductor Equipment Market Revenue by Region — 1Q 2026
 	- **Source**: SEMI (www.semi.org) and SEAJ (www.seaj.or.jp), June 2026

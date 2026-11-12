@@ -1,5 +1,6 @@
 tags:: [[$TEAM]] [[Atlassian]] [[Rovo]] [[HULA]] [[RovoDev]] [[AI-agents]] [[code-review]] [[developer-tools]] [[Jira]] [[Confluence]] [[Bitbucket]] [[research-papers]]
 file-created-at:: 2026-07-04
+file-updated-at:: 2026-07-04
 
 -
 - ## Atlassian in academic papers — AI/SDLC research survey

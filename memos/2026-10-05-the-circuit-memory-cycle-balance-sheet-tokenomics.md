@@ -1,5 +1,6 @@
 tags:: [[$MU]], [[$HPE]], [[$NVDA]], [[$AVGO]], [[$AMD]], [[$TSM]], [[DRAM]], [[HBM]], [[NAND]], [[CXMT]], [[AI infrastructure]], [[networking]], [[vendor-financing]], [[token-economics]], [[Anthropic]], [[OpenAI]], [[The Circuit]]
 file-created-at:: 2026-10-05
+file-updated-at:: 2026-10-09
 
 - ## The Circuit — Memory's new floor, balance-sheet competition, and token economics
 	- **Source**: User-provided transcript of The Circuit, [“Has the Memory Cycle Broken? Plus: Nvidia & Broadcom’s \$40B+ Financing Playbook”](https://podcastrex.com/shows/the-circuit/has-the-memory-cycle-broken-plus-nvidia-broadcoms-40b-financing-playbook), hosted by Ben Bajarin and Jay Goldberg, October 5, 2026. The supplied transcript is machine-generated; unclear names and figures are omitted or identified as host estimates.

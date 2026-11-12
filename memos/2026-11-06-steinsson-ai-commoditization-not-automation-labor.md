@@ -1,5 +1,6 @@
 tags:: [[AI]], [[$WMT]], [[$AMZN]], [[$MCD]], [[labor-market]], [[wages]], [[labor-share]], [[commoditization]], [[automation]], [[superstar-firms]], [[monopsony]], [[vibe-coding]], [[white-collar]], [[macro]], [[margins]], [[retail]], [[fast-food]], [[warehouse-automation]], [[hiring-costs]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
+file-updated-at:: 2026-11-07
 
 - ## Steinsson: AI may commoditize jobs rather than automate them away, giving plentiful jobs at lower wages
 	- **Source**: Jón Steinsson (UC Berkeley), X thread, Nov 6, 2026, plus the underlying paper: Masao Fukui, Emi Nakamura and Jón Steinsson, ["The Commoditization of Labor"](https://jonsteinsson.com/papers/Commoditization.pdf) (Sept 19, 2026). The paper models past standardization, not AI directly; applying it to AI is Steinsson's extrapolation in the thread. The sections on the paper's arguments and historical examples come from the full 36-page PDF (user-provided). Related: [[2026-04-09-ai-labor-substitution-elasticity-demand-argument]], [[2026-06-01-labor-market-impacts-of-china-shock-vs-ai-shock]], [[2026-08-03-sf-controller-q2-economy-ai-boom-without-jobs]], [[2026-07-27-vibe-coding-demand-destruction-vs-saas-operating-cost]].

@@ -1,5 +1,6 @@
 tags:: [[expert-call]], [[$AMZN]], [[AWS]], [[Bedrock]], [[Anthropic]], [[Claude]], [[Claude Code]], [[OpenAI]], [[$MSFT]], [[Azure]], [[$GOOGL]], [[GCP]], [[Vertex]], [[open-weight]], [[TaaS]], [[enterprise-AI]], [[agents]], [[pricing]], [[margins]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-04
+file-updated-at:: 2026-11-04
 
 - ## Expert call: how AWS sells Bedrock, and what Claude is worth to Amazon
 	- **Source**: User-provided screenshots of an expert-network transcript (excerpts from about 00:03 to 00:32). The expert is a former AWS AI and Bedrock go-to-market specialist who mostly covered highly regulated industries and has since left AWS. The interviewer's highlights were kept. Statements about the Anthropic contract are the expert's own understanding, which they say they never verified. Related: [[2026-05-27-aws-bedrock-anthropic-hyperscaler-margins]], [[AMZN-2026-Q2]], [[2026-10-21-hard-budget-caps-aws-gcp-agent-era-consumption-billing]].

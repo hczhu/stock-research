@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[pricing]], [[OpenTelemetry]], [[customer-experience]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-09
+file-updated-at:: 2026-11-10
 
 - ## Datadog Pricing — How Telemetry Growth Becomes a Budget Surprise
 	- **Source** — User-supplied pricing observations, checked against Datadog billing documentation and AWS networking documentation on November 9, 2026. Public documentation describes multiple billing models; the customer's contract determines the applicable model and allowances.

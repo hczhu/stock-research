@@ -1,5 +1,6 @@
 tags:: [[$FIG]], [[Anthropic]], [[Claude]], [[Claude Design]], [[AI design tools]], [[SaaS]], [[AI]]
 file-created-at:: 2026-06-02
+file-updated-at:: 2026-06-02
 
 - ## Figma Differentiation Against Anthropic / Claude Design
 	- **Source**:

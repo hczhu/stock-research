@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[Google]], [[TPU]], [[Google-Cloud]], [[AI infrastructure]], [[semiconductor]], [[hardware]], [[financing]], [[residual value]]
 file-created-at:: 2026-10-29
+file-updated-at:: 2026-11-03
 
 - ## TPU System Sales: Inventory-to-Cash Accounting and Repurchase Guarantees
 	- **Thesis**: Google is using conditional repurchase rights to make TPU system sales more financeable for customers while retaining a potential route to recover and redeploy hardware. The arrangement can support adoption of Google’s custom silicon, but leaves Google exposed if hardware resale values fall faster than the contracted buyback prices imply.

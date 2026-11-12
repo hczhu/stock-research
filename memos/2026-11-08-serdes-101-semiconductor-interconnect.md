@@ -1,5 +1,6 @@
 tags:: [[SerDes]], [[semiconductor]], [[interconnect]], [[AI-ASIC]], [[data-center]], [[$AVGO]], [[$MRVL]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
+file-updated-at:: 2026-11-10
 
 - ## SerDes 101 — Moving Data Between Chips
 	- **Source** — User-supplied excerpt titled “[1.a] What is a SerDes?” and Lattice Semiconductor’s January 2003 SerDes Introduction training graphic, page 8. The excerpt’s author, publication, and date were not supplied. Technical clarifications below use primary industry sources.

@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Meta]], [[AI-capex]], [[corporate-governance]], [[capital-allocation]], [[stock-based-compensation]], [[$GOOGL]], [[SpaceX]], [[Anthropic]], [[OpenAI]], [[debt]]
 file-created-at:: 2026-10-21
+file-updated-at:: 2026-10-22
 
 - ## Meta Class C Recapitalization and Founder Alignment Agreement
 

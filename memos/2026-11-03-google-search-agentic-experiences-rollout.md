@@ -1,5 +1,6 @@
 tags:: [[$GOOG]], [[search]], [[agents]], [[Gemini]], [[AI]], [[Google-Cloud]], [[advertising]]
 file-created-at:: 2026-11-03
+file-updated-at:: 2026-11-03
 
 - ## Google’s Agent Strategy: Put the Agent Inside Search
 	- **Source**: User-pasted Stratechery excerpt discussing Google’s latest earnings call; article title and publication date were not included.

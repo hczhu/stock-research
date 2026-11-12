@@ -1,5 +1,6 @@
 tags:: [[Anthropic]] [[OpenAI]] [[$META]] [[$GOOG]] [[$AMZN]] [[$MSFT]] [[$DDOG]] [[$NET]] [[$SNOW]] [[AI-capex]] [[AI-labs]] [[tokenomics]] [[Claude-Code]] [[TaaS]] [[SemiAnalysis]] [[IPO]] [[hyperscalers]]
 file-created-at:: 2026-07-13
+file-updated-at:: 2026-07-18
 
 -
 - ## SemiAnalysis: Anthropic 3Q26 profit over $1B — the Anthropic IPO financials sneak peek

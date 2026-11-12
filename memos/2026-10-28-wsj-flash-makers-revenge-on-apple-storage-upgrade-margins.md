@@ -1,5 +1,6 @@
 tags:: [[$AAPL]], [[Apple]], [[iPhone]], [[NAND]], [[flash]], [[memory]], [[pricing]], [[gross-margin]], [[supply-chain]], [[LTA]], [[hyperscalers]], [[$285A.T]], [[Kioxia]], [[$SNDK]], [[$MU]], [[$META]], [[$MSFT]], [[$AMZN]], [[TechInsights]], [[WSJ]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-10-28
+file-updated-at:: 2026-11-11
 
 - ## WSJ: flash makers get their revenge on Apple
 	- **Source**: *The Wall Street Journal*, Rolfe Winkler, "The Beleaguered Chip Sellers Getting Their Revenge on Apple," Oct 28, 2026. Flash prices and volumes are TechInsights estimates. Storage margins are the Journal's own analysis, explained in its methodology section at the end of the article.

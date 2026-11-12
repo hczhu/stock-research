@@ -1,5 +1,6 @@
 tags:: [[$INTU]], [[SaaS]], [[AI]], [[agents]], [[accounting]], [[fintech]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## Intuit: Automating the Work Without Losing the Customer
 	- **Source**: Ben Thompson, Stratechery, “An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI”; user-provided transcript, publication date not included. Supplemental product-status check: [Intuit’s October 27, 2026 announcement](https://investors.intuit.com/news-events/press-releases/detail/1329/intuit-expands-intelligence-platform-to-power-the-next-era-of-accounting-firm-and-business-growth). Interview figures below are management statements, not independently reconciled financial disclosures. The embedded Stripe advertisement is excluded.

@@ -1,5 +1,6 @@
 tags:: [[$2454.TW]], [[MediaTek]], [[$INTC]], [[EMIB]], [[$TSM]], [[CoWoS]], [[advanced-packaging]], [[substrates]], [[ASIC]], [[TPU]], [[$GOOGL]], [[$META]], [[SpaceX]], [[ByteDance]], [[Anthropic]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-02
+file-updated-at:: 2026-11-02
 
 - ## 聯發科：EMIB 良率風波是時程風險，第二家 ASIC 客戶才是估值主軸
 	- **來源**：使用者提供的群組聊天截圖（2026 年 11 月初）。內容包括一則 Threads 轉貼的 Jukan X 貼文（2026-11-01，引用《經濟日報》），以及群組成員對聯發科的評論。關鍵事實已對照公開報導查核：聯發科 10/30 第三季法說會、台積電 10/15 第三季法說會。聊天中的判斷屬個人觀點，下文會與查核結果分開標示。相關：[[2026-07-01-mediatek-meta-asic-second-customer-after-google-tpu]]、[[2026-05-31-mediatek-terafab-strategic-asic-partner]]、[[2026-06-21-semidoped-advanced-packaging-cowos-emib]]、[[TSM-2026-Q2]]、[[GOOG-2026-Q3]]。

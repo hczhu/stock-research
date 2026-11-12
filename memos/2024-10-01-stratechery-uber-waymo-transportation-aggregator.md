@@ -1,5 +1,6 @@
 tags:: [[$UBER]], [[$GOOGL]], [[Waymo]], [[autonomous-vehicles]], [[Stratechery]], [[marketplace]], [[network-effects]], [[mobility]], [[fleet-management]]
 file-created-at:: 2024-10-01
+file-updated-at:: 2026-07-27
 
 - ## Uber and Waymo: The Transportation Aggregator Thesis
 	- **Source**: Ben Thompson, Stratechery, “Taking Waymo, Uber and Waymo,” October 1, 2024 — https://stratechery.com/2024/taking-waymo-uber-and-waymo/

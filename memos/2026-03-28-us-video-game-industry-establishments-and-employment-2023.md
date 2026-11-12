@@ -1,4 +1,5 @@
 file-created-at:: 2026-03-28
+file-updated-at:: 2026-06-02
 
 # U.S. Video Game Industry Establishments and Employment by Sector (2023)
 

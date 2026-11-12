@@ -1,5 +1,6 @@
 tags:: [[HBM]], [[DRAM]], [[semiconductor]], [[GPU]], [[AI-infrastructure]], [[capex]]
 file-created-at:: 2026-06-08
+file-updated-at:: 2026-07-22
 
 - **Source**: User-provided chart, 2026-06-08, comparing HBM3e and DDR4 cost per capacity and bandwidth over time.
 

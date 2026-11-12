@@ -1,5 +1,6 @@
 tags:: [[$AAPL]], [[$TSM]], [[$NVDA]], [[supply-chain]], [[semiconductor]], [[consumer-electronics]], [[AI infrastructure]], [[Taiwan]], [[ai-model:gpt-6.1-sol]], [[ai-effort:medium]]
 file-created-at:: 2026-11-11
+file-updated-at:: 2026-11-12
 
 - ## 苹果、台积电与英伟达供应链：什么决定供应商的议价权？
 	- **来源**：2026 年 11 月 11 日群聊。讨论从《Apple in China》延伸到台湾 AI 硬件供应链。公司披露和媒体报道随文标注。

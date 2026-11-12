@@ -1,5 +1,6 @@
 tags:: [[$APP]], [[$U]], [[AppLovin]], [[Unity]], [[ironSource]], [[AXON]], [[Vector]], [[MAX]], [[LevelPlay]], [[ad-mediation]], [[header-bidding]], [[take-rate]], [[mobile-gaming]], [[advertising]], [[litigation]], [[Mintegral]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-07
 
 - ## AppLovin vs Unity: the MAX data dispute, and what it says about the Vector threat
 	- **Source**: Third-party research note on the AppLovin–Unity rivalry (excerpt: the litigation analysis and the technical setup for a publisher survey; the five-publisher findings themselves weren't included). Allegations come from AppLovin's filings and letters, and Unity's positions from its Sept 4 and later letters, as summarized by the note. None of it has been decided. Related: [[APP-2026-Q3]], [[2026-03-28-Unity-thiughts-from-a-Applovin-bull-2026-02]], [[2026-03-28-applovin-vs-meta-ad-monetization-2025q4]].

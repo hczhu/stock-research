@@ -1,5 +1,6 @@
 tags:: [[AI infrastructure]], [[data-center]], [[neocloud]], [[AWS]], [[Google Cloud]], [[Microsoft Azure]], [[$ORCL]], [[$META]], [[xAI]], [[$CRWV]], [[$NBIS]], [[Nscale]], [[Crusoe]], [[$IREN]]
 file-created-at:: 2026-06-03
+file-updated-at:: 2026-06-03
 
 - ## Data Center Capacity Deployments: CSPs, xAI, And Neoclouds
 	- **Source**:

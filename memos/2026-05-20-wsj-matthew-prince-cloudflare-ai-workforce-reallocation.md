@@ -1,5 +1,6 @@
 tags:: [[Cloudflare]], [[$NET]], [[AI]], [[agents]], [[AI-productivity]], [[operating-leverage]], [[workforce]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-05-20
+file-updated-at:: 2026-11-10
 
 - ## Cloudflare — AI Shifts Staffing Toward Building and Selling
 	- **Source** — Matthew Prince, Cloudflare CEO, “How I Choose Which Cloudflare Employees to Replace With AI,” Wall Street Journal opinion, May 20, 2026; full article supplied by the user. The filename follows the source date. [Original article](https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5)

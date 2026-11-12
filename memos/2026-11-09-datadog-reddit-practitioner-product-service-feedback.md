@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[AI]], [[agents]], [[pricing]], [[customer-experience]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-09
+file-updated-at:: 2026-11-10
 
 - ## Datadog — Practitioner Feedback on Product Value and Customer Treatment
 	- **Source** — User-supplied Reddit comment extract. The original post title, subreddit, thread URL, and capture date were not included; the opening comment is truncated and some replies are omitted. Usernames below identify comments within the supplied extract. A second extract, from an r/sre thread on incident response (comments about 5–10 months old at capture), is covered in its own section below.

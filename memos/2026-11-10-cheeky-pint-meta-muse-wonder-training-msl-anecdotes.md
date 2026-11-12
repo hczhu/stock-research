@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Meta]], [[MSL]], [[Muse]], [[Muse-Wonder]], [[Muse-Spark]], [[AI]], [[agents]], [[pre-training]], [[reinforcement-learning]], [[benchmarks]], [[distillation]], [[agentic-commerce]], [[OpenRouter]], [[Stripe]], [[$CART]], [[talent]], [[org-design]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## Cheeky Pint with Zuckerberg and Wang: data points and anecdotes from the Muse Wonder launch
 	- **Source**: *Cheeky Pint* podcast, John Collison (Stripe) with Mark Zuckerberg and Alexandr Wang, recorded around the Muse Wonder launch. User-provided auto-generated transcript, undated.

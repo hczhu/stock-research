@@ -1,5 +1,6 @@
 tags:: [[$AMZN]], [[$GOOGL]], [[$NET]], [[AWS]], [[GCP]], [[cloud]], [[hyperscalers]], [[pricing]], [[usage-based-pricing]], [[coding-agents]], [[agents]], [[vibe-coding]], [[developer-tools]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-10-21
+file-updated-at:: 2026-10-21
 
 - ## Hard Budget Caps: Agents Turned Unbounded Consumption Billing Into a Liability
 	- **Source**: User-provided post by Simon Willison arguing that pay-by-usage services need **default hard budget caps**, citing AWS's 16 September 2026 launch and a Google Cloud equivalent. Product details below were verified against [AWS's announcement](https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience), [AWS spend-limit documentation](https://docs.aws.amazon.com/accounts/latest/reference/create-spend-limit.html), and [Google Cloud's spend-cap documentation](https://docs.cloud.google.com/billing/docs/how-to/budgets-spend-caps); the verification added enforcement mechanics the post does not cover. Related: [[2026-10-21-willison-vibe-coding-static-web-games-model-familiarity]], [[2026-07-02-tokenbudgeting-enterprise-token-spend]].

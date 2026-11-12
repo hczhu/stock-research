@@ -1,5 +1,6 @@
 tags:: [[AI-productivity]], [[enterprise-AI]], [[Claude]], [[Anthropic]], [[investment-banking]], [[future-of-work]], [[ai-model:gpt-6.1-sol]], [[ai-effort:medium]]
 file-created-at:: 2026-11-11
+file-updated-at:: 2026-11-12
 
 - ## How a boutique investment bank used the time AI saved
 	- **Source**: The author's conversation with a former coworker who is now a VP at a boutique investment bank. The VP described his own group's experience.

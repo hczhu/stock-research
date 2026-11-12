@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[$GOOGL]], [[$AVGO]], [[$AMD]], [[$MSFT]], [[$META]], [[$AMZN]], [[$ORCL]], [[TPU]], [[ASIC]], [[custom-silicon]], [[chiplets]], [[advanced-packaging]], [[MediaTek]], [[Trainium]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-10-26
+file-updated-at:: 2026-10-26
 
 - ## Expert Call: External TPU Revenue Ramps to ~\$100B by 2028, and Nvidia's Real Risk Is the Precedent
 	- **Source**: Expert-network call transcript (Client/Expert format with timestamps), anonymous expert on hyperscaler AI silicon. **Four highlighted excerpts supplied, not the full call**, spanning 00:13:12–00:37:00 and supplied out of order. No call date is shown; references to "this year" read as 2026. The expert cites "one of my colleagues from MediaTek" and figures "we are aware of internally in the industry," which suggests a supply-chain vantage point, but the affiliation is not stated. Treat as paid practitioner opinion, not reported fact. Related: [[2026-09-07-semianalysis-tpuv7-inference-externalization]], [[2026-06-23-mediatek-google-tpu-v9-336g-serdes-broadcom-displacement]], [[2026-07-01-mediatek-meta-asic-second-customer-after-google-tpu]].

@@ -1,5 +1,6 @@
 tags:: [[semiconductor]], [[Gartner]], [[forecast]], [[DRAM]]
 file-created-at:: 2026-04-09
+file-updated-at:: 2026-06-02
 
 - ## Gartner Semiconductor Revenue Forecast, Worldwide 2025–2027
 	- **Source**: Gartner (April 2026), via @lithos_graphein on X.com (posted 2026-04-09 12:52)

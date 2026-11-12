@@ -1,5 +1,6 @@
 tags:: [[Pat-Gelsinger]], [[a16z]], [[Playground Global]], [[AI-infrastructure]], [[chip-design]], [[EDA]], [[AI-accelerators]], [[HBM]], [[DRAM]], [[advanced-packaging]], [[optics]], [[CPO]], [[copper]], [[OCS]], [[power]], [[800V-DC]], [[data-center]], [[virtualization]], [[agents]], [[$NVDA]], [[$INTC]], [[$MU]], [[$ORCL]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## Pat Gelsinger on where AI infrastructure bottlenecks go next
 	- **Source**: a16z podcast, Raghu Raghuram and Guido Appenzeller with Pat Gelsinger (General Partner at Playground Global; former CEO of Intel and VMware). User-provided auto-generated transcript, undated; captured Nov 10, 2026.

@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[OpenAI]], [[advertising]], [[AI]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## ChatGPT Ads: Advertiser Returns Lag Google Search in an Early Study
 	- **Sources**: Danny Goodwin, Search Engine Land, “ChatGPT ads generate 64% less revenue per visit than Google Search: Study,” November 2, 2026, supplied by the user; Maximilian Kaiser and Christian Schulze, [“Can Advertising Fund Free AI? Evidence from ChatGPT’s International Advertising Rollout”](https://ecommerceresearch.org/chatgpt-ads/), October 2026 working paper, under review.

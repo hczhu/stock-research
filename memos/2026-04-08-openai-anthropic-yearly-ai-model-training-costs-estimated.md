@@ -1,4 +1,5 @@
 file-created-at:: 2026-04-08
+file-updated-at:: 2026-06-02
 
 # OpenAI vs Anthropic Yearly AI Model Training Costs (Estimated from Screenshot)
 

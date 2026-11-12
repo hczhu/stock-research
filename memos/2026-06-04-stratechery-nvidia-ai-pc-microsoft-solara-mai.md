@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[$MSFT]], [[$QCOM]], [[$2454.TW]], [[$AAPL]], [[AI infrastructure]], [[edge-AI]], [[agentic-AI]], [[$ARM]], [[enterprise-AI]], [[consumer-internet]]
 file-created-at:: 2026-06-04
+file-updated-at:: 2026-06-05
 
 - ## Stratechery (Ben Thompson) — The Nvidia AI PC, Project Solara, and Microsoft AI
 	- **Source**: Stratechery by Ben Thompson, covering Computex + Microsoft Build keynotes, June 2026

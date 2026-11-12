@@ -1,5 +1,6 @@
 tags:: [[Atlassian]], [[TEAM]], [[SaaS]], [[enterprise-software]], [[ITSM]], [[developer-tools]], [[AI]], [[collaboration]]
 file-created-at:: 2026-07-04
+file-updated-at:: 2026-11-12
 
 - **Company**: Atlassian Corporation (TEAM)
 - **Original thesis date**: 2026-06-05

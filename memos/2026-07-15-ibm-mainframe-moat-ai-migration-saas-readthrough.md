@@ -1,5 +1,6 @@
 tags:: [[$IBM]], [[mainframe]], [[AI]], [[SaaS]], [[legacy-modernization]], [[cloud-migration]], [[capex]], [[opex]], [[infrastructure]], [[transaction-processing]], [[consulting]], [[cybersecurity]], [[$NOW]], [[$WDAY]], [[Azure]], [[$MSFT]], [[$UAL]], [[Stratechery]]
 file-created-at:: 2026-07-15
+file-updated-at:: 2026-07-16
 
 - ## IBM's Mainframe Moat and AI Migration Risk
 	- **Source**: Ben Thompson, ["IBM Misses, IBM's Mainframe Moat, IBM's Many AI Problems"](https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/), Stratechery, July 15, 2026; user-provided seven-page PDF.

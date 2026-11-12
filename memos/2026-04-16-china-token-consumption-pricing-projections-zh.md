@@ -1,5 +1,6 @@
 tags:: [[AI]], [[China]], [[inference]], [[ByteDance]], [[macro]]
 file-created-at:: 2026-04-16
+file-updated-at:: 2026-06-03
 
 - ## 中国 AI 推理: Token 消耗与定价预测
 	- **来源**: 2026 年 4 月与中国本土 AI / 云厂商交流形成的行业调研笔记

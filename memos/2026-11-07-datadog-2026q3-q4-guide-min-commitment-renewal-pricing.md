@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[guidance]], [[customer-concentration]], [[OpenAI]], [[usage-based-pricing]], [[renewals]], [[AI-natives]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-07
 
 - ## Datadog Q3 2026: a strong quarter, a Q4 guide that is low by design
 	- **Source**: FUNDA research note on Datadog's Q3 2026 results (excerpt: executive summary, results and the start of the guidance section). Growth rates and estimates are FUNDA's. The excerpt stops before listing the CFO's three factors in full, so the list below combines the summary with the section heading. Related: [[DDOG-2026-Q2]], [[DDOG-2026-Q1]], [[2026-09-16-repvue-observability-pricing-power]], [[2026-06-08-datadog-state-of-ai-engineering]].

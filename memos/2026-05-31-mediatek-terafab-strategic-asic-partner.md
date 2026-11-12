@@ -1,5 +1,6 @@
 tags:: [[$2454.TW]], [[Terafab]], [[Intel 14A]], [[AI ASIC]], [[Advanced Packaging]], [[SpaceX]], [[$TSLA]], [[semiconductor]]
 file-created-at:: 2026-05-31
+file-updated-at:: 2026-06-02
 
 - ## MediaTek 可能成为 Terafab 战略 ASIC 伙伴
 	- **来源上下文**:

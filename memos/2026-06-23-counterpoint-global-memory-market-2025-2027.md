@@ -1,5 +1,6 @@
 tags:: [[memory]], [[DRAM]], [[HBM]], [[NAND]], [[semiconductor]], [[market-size]], [[$MU]], [[$005930]], [[$000660]], [[Counterpoint-Research]], [[server]], [[supply-glut]]
 file-created-at:: 2026-06-23
+file-updated-at:: 2026-07-22
 
 - **Source**: Counterpoint Research Memory Tracker, cited in Korean press (June 2026). Chart headline: "Global memory market seen reaching 2,100 trillion won next year — Supply glut risks also loom behind the memory boom — Price correction possible from the second half of next year."
 

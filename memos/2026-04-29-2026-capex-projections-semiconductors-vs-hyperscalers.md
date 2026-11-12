@@ -1,5 +1,6 @@
 tags:: [[capex]], [[hyperscalers]], [[semiconductor]], [[$MSFT]], [[$META]], [[$GOOGL]], [[$AMZN]], [[$TSM]], [[$005930.KS]], [[$MU]], [[$000660.KS]]
 file-created-at:: 2026-04-29
+file-updated-at:: 2026-06-11
 
 - ## 2026 Capex Projections: Semiconductor Companies vs Hyperscalers
 	- **Source memos**:

@@ -1,5 +1,6 @@
 tags:: [[Stratechery]], [[Ben-Thompson]], [[AI]], [[SaaS]], [[cybersecurity]], [[consumer-internet]], [[aggregation]], [[subscriptions]]
 file-created-at:: 2026-10-27
+file-updated-at:: 2026-11-03
 
 - ## The End of the Internet: Smallness at Scale
 	- **Source**: Ben Thompson, “The End of the Internet,” Stratechery, October 26, 2026; user-provided article text. This memo summarizes the author's reasoning, not independently verified security reports or market forecasts.

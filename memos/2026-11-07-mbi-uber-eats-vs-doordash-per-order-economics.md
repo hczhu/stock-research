@@ -1,5 +1,6 @@
 tags:: [[$UBER]], [[$DASH]], [[Uber]], [[Uber Eats]], [[DoorDash]], [[food-delivery]], [[unit-economics]], [[sum-of-the-parts]], [[valuation]], [[SBC]], [[marketplaces]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-07
 
 - ## Uber Delivery vs DoorDash: once costs are treated the same way, per-order margins are about equal
 	- **Source**: MBI Deep Dives (Mostly Borrowed Ideas), per-order economics comparison after Q3 2026 results. Uber's Delivery order count is MBI's **estimate**, not a disclosed figure. The per-order and margin figures depend on it, and Uber's unallocated costs are spread across segments by MBI's own method. Related: [[2026-07-25-waymo-uber-trip-market-platform-thesis]], [[2025-02-13-stratechery-dara-khosrowshahi-uber-aggregation-autonomy]], [[2024-10-01-stratechery-uber-waymo-transportation-aggregator]].

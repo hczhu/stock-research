@@ -1,5 +1,6 @@
 tags:: [[consumer]], [[housing]], [[labor]], [[workforce]], [[Gen-Z]], [[Fortune]]
 file-created-at:: 2026-10-18
+file-updated-at:: 2026-10-18
 
 - ## Gen Z: Affordability Pressure and Corporate Trust
 	- **Source**: User-provided magazine photo; Kristin Stoller, Fortune, “Gen Z’s wake-up call to corporate America,” August/September 2025 issue. [Online version, July 23, 2025](https://fortune.com/2025/07/23/billionaires-ceos-gen-z-zohran-mamdani-new-york-city/). The photographed publication is Fortune, not Forbes.

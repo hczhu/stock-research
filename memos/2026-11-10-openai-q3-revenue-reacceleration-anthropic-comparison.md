@@ -1,5 +1,6 @@
 tags:: [[OpenAI]], [[Anthropic]], [[AI]], [[enterprise-software]], [[valuation]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## OpenAI Q3 Revenue Reaccelerates as Model and Enterprise Demand Improves
 	- **Source** — User-supplied news excerpt reporting OpenAI's investor-call disclosures through a person familiar with the matter. The excerpt includes a related The Information fundraising link; the full revenue article's title and URL were not supplied. Q3 is treated as 2026 based on the current reporting context.

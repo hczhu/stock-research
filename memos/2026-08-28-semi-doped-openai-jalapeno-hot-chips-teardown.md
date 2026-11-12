@@ -1,5 +1,6 @@
 tags:: [[OpenAI]], [[$AVGO]], [[Broadcom]], [[Celestica]], [[$NVDA]], [[$AMD]], [[$ARM]], [[x86]], [[CPU]], [[Cerebras]], [[Groq]], [[custom-silicon]], [[ASIC]], [[inference]], [[HBM]], [[networking]], [[EDA]], [[TSMC]]
 file-created-at:: 2026-08-28
+file-updated-at:: 2026-11-02
 
 - ## Semi Doped: OpenAI's Jalapeño inference chip, unpacked from the Hot Chips talk
 	- **Source**: *Semi Doped* podcast, recorded under 12 hours after OpenAI presented the chip at **Hot Chips**, discussing the talk slide-by-slide plus conversations with attendees and a companion SemiAnalysis article. OpenAI presenters: **Richard Ho** (ex-Google TPU, now head of hardware), **Ravi** (chip architect), **Chris Leary** (software co-design). Machine transcript garbles the codename throughout (Halepenio/Holopenia/HaLapeño); it is **Jalapeño**, and the hosts note the conference volunteers happened to be wearing chili-pepper shirts.

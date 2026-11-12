@@ -1,5 +1,6 @@
 tags:: [[Artificial-Analysis]], [[AI]], [[AI-labs]], [[OpenAI]], [[Anthropic]], [[open-weights]], [[benchmarks]], [[evals]], [[model-commoditization]], [[inference]]
 file-created-at:: 2026-10-29
+file-updated-at:: 2026-10-29
 
 - ## Artificial Analysis v5 and the Benchmarker’s Dilemma
 	- **Source**: Nathan Lambert, “Artificial Analysis v5 and the benchmarker’s dilemma,” Interconnects AI, October 28, 2026. Based on the user-provided post. Model ranking graphic was not included in the text export, so the memo preserves only ranking comparisons stated in the text.

@@ -1,5 +1,6 @@
 tags:: [[Stratechery]], [[$AAPL]], [[Apple]], [[iPhone]], [[Mac]], [[DRAM]], [[NAND]], [[LPDDR]], [[memory]], [[consumer-electronics]], [[smartphones]], [[supply-chain]], [[purchase-obligations]], [[LTA]], [[pricing]], [[services]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[Kioxia]], [[CXMT]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-03
+file-updated-at:: 2026-11-03
 
 - ## Apple's memory problem: from price-setter to committed buyer
 	- **Source**: Stratechery, Ben Thompson, "Memory Problems" section of his Apple FY2026 Q4 earnings update (quarter ended Sept 26, 2026; CEO John Ternus's first call, with COO Sabih Khan also new to it). Balance-sheet figures come from Apple's [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000026/aapl-20260926.htm). Supplier attributions come from press reports, labeled as such. Related: [[AAPL-2026-Q2]], [[2026-07-04-horace-dediu-memory-shock-apple-supply-chain]], [[2026-08-28-stratechery-mac-refresh-memory-pricing-and-jalapeno]], [[2026-06-24-apple-price-skimming-iphone-dram-passthrough]].

@@ -1,5 +1,6 @@
 tags:: [[AI]], [[drug-discovery]], [[biotech]], [[healthcare]], [[life-sciences-tools]], [[$GOOGL]], [[DeepMind]], [[$RXRX]], [[open-source]], [[synthetic-data]], [[federated-learning]], [[benchmarks]], [[foundation-models]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-03-20
+file-updated-at:: 2026-10-18
 
 - ## Co-Folding Models: Closing AlphaFold Commoditized It in Five Months, and More Data Did Not Fix Generalization
 	- **Source**: Chris Edwards, "AI Multiplies for Drug Discovery," *Communications of the ACM*, posted 20 March 2026. Quotes MIT postdoc Gabriele Corso (Boltz), University of Basel doctoral student Peter Škrinjar (Runs N' Poses benchmark), and Aleksandra Faust, chief AI officer at Genesis Molecular AI. Related: [[2026-09-13-david-bellamy-ai-wet-lab-bottlenecks]], [[2026-10-17-ieee-ai-designed-phage-genomes-evo-biosecurity]].

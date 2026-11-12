@@ -1,5 +1,6 @@
 tags:: [[legal-AI]], [[evals]], [[LLM]], [[$GOOGL]], [[Anthropic]], [[OpenAI]], [[enterprise-AI]], [[agents]], [[AI]]
 file-created-at:: 2026-06-05
+file-updated-at:: 2026-06-05
 
 - ## "Law Professors Prefer AI Over Peer Answers" — Salinas et al. (Stanford et al., May 27 2026)
 	- **Source**: Salinas, Frieders, Guha, Ma, … Nyarko, "Law Professors Prefer AI Over Peer Answers," May 27 2026 (Stanford + 14 U.S. law schools). All facts below are from the paper only.

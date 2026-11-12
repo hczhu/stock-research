@@ -1,5 +1,6 @@
 tags:: [[AI]], [[generative-AI]], [[music]], [[Suno]], [[$WMG]], [[$SONY]], [[UMG]], [[$SPOT]], [[Deezer]], [[streaming]], [[copyright]], [[licensing]], [[creator-economy]]
 file-created-at:: 2026-10-09
+file-updated-at:: 2026-10-09
 
 - **Source**: Magazine feature on Suno and the record labels, page 54 of "The Screentime Issue," headlined *"People are excited. People are nervous. People are pissed."* Transcribed from a photograph of one printed page; the third column is cut off at the right edge, so some sentences there are partial. Central figures: Mikey Shulman, Suno's co-founder and CEO, and Robert Kyncl, Warner Music Group's CEO, who spent 20 years at Netflix and YouTube. Undated in the excerpt. The November 2025 Warner deal is described in the past tense, and Suno's Warner integration is "later this year," so it is most likely a 2026 issue.
 

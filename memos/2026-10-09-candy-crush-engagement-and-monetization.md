@@ -1,5 +1,6 @@
 tags:: [[$MSFT]], [[Activision-Blizzard]], [[Candy-Crush]], [[gaming]], [[mobile-gaming]], [[mobile-apps]], [[engagement]], [[monetization]]
 file-created-at:: 2026-10-09
+file-updated-at:: 2026-10-09
 
 - ## Candy Crush Remains a Durable Mobile-Gaming Asset
 	- **Source**: User-provided photo of a print article. The visible excerpt attributes fiscal-year 2025 estimates to David Curry, data editor at analytics platform Business of Apps, and cites 2023 milestones reported by King. The publication, article date, and full surrounding context are not visible.

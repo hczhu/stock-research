@@ -1,5 +1,6 @@
 tags:: [[Stratechery]], [[data-centers]], [[data-center-opposition]], [[moratoriums]], [[politics]], [[AI-capex]], [[compute-scarcity]], [[$NVDA]], [[neoclouds]], [[$CRWV]], [[$NBIS]], [[hyperscalers]], [[$MSFT]], [[$AMZN]], [[$GOOGL]], [[$META]], [[$AAPL]], [[Anthropic]], [[OpenAI]], [[SpaceX]], [[space-data-centers]], [[China]], [[Huawei]], [[memory]], [[open-weight]], [[startups]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-07
 
 - ## Stratechery: AI was on the ballot, and data centers lost. What if the political limit on building is permanent?
 	- **Source**: Ben Thompson, Stratechery Update "AI on the Ballot," Nov 4, 2026, the morning after the US midterms. Election results are as reported by Bloomberg and Yahoo Finance at the time of writing. The ten takes are Thompson's own scenarios, and he says plainly that he isn't calling the constraint permanent. Related: [[2026-09-15-semianalysis-datacenter-moratoriums-300-mapped]], [[2026-09-11-nvidia-backstop-universe-credit-support]], [[2026-10-26-anthropic-s1-financials-compute-economics]], [[2026-06-19-semianalysis-space-datacenters-tco-orbital-compute]], [[2026-07-20-stratechery-chinese-models-intelligence-commodity-economics]], [[2026-11-03-stratechery-apple-memory-purchase-commitments-consumer-memory-market]].

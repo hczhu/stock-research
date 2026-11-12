@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[inference]], [[AI]], [[compute]], [[Blackwell]], [[GB200]], [[semiconductor]], [[Epoch-AI]]
 file-created-at:: 2026-05-26
+file-updated-at:: 2026-06-03
 
 - ## Is a Compute Crunch Coming? Token Demand vs Supply Analysis
 	- **Source**: Gradient Updates (Epoch AI) — "Is a compute crunch coming?", Luke Emberson and Jaime Sevilla, May 26, 2026

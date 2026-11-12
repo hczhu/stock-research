@@ -1,4 +1,5 @@
 file-created-at:: 2026-03-28
+file-updated-at:: 2026-06-02
 
 # McKinsey Attention Equation for Consumer Media Monetisation (Exhibit 1)
 

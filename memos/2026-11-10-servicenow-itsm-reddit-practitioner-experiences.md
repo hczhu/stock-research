@@ -1,5 +1,6 @@
 tags:: [[$NOW]], [[ServiceNow]], [[ITSM]], [[SaaS]], [[enterprise-software]], [[customer-experience]], [[implementation]], [[pricing]], [[Freshservice]], [[HaloITSM]], [[ManageEngine]], [[Jira Service Management]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## ServiceNow ITSM: what practitioners say about running it
 	- **Source**: two user-supplied Reddit threads, captured Nov 10, 2026. Ages are relative to capture.

@@ -1,5 +1,6 @@
 tags:: [[$NOW]], [[ServiceNow]], [[RepVue]], [[SaaS]], [[enterprise-software]], [[AI]], [[sales-productivity]], [[talent]]
 file-created-at:: 2026-10-27
+file-updated-at:: 2026-11-03
 
 - ## ServiceNow: Resilient Sales Metrics, Deteriorating Seller Sentiment
 	- **Source**: User-provided commentary citing RepVue survey results for Q3 2026. Original post URL, author, and publication date were not supplied; the cashtag search link is not a source permalink. Figures below are survey-reported, not company financial disclosures.

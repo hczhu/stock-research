@@ -1,5 +1,6 @@
 tags:: [[AI]], [[Labor market]], [[China shock]], [[Productivity]], [[Employment]], [[$APO]]
 file-created-at:: 2026-06-01
+file-updated-at:: 2026-06-02
 
 - ## Labor Market Impacts Of China Shock Vs AI Shock
 	- **Source context**:

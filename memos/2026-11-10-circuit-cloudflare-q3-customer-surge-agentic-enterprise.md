@@ -1,5 +1,6 @@
 tags:: [[Cloudflare]], [[$NET]], [[agents]], [[enterprise-AI]], [[edge-computing]], [[networking]], [[cybersecurity]], [[Zero-Trust]], [[The Circuit]], [[Jay-Goldberg]], [[Ben-Bajarin]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## The Circuit on Cloudflare Q3 2026: a jump in customer additions as a sign of enterprise agent adoption
 	- **Source**: *The Circuit* podcast, Jay Goldberg and Ben Bajarin, recorded Nov 6, 2026, the week Cloudflare reported Q3 2026. User-provided auto-generated transcript.

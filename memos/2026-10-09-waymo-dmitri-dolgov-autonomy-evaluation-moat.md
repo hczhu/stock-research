@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[Waymo]], [[autonomous-vehicles]], [[AI]], [[robotics]], [[evals]], [[RL]], [[fleet-management]], [[unit-economics]]
 file-created-at:: 2026-10-09
+file-updated-at:: 2026-10-09
 
 - ## Waymo: The Deployment System Is the Moat
 

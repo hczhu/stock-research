@@ -1,5 +1,6 @@
 tags:: [[xAI]], [[Colossus]], [[$NVDA]], [[GPU]], [[data-center]], [[power]], [[HBM]], [[Memphis]]
 file-created-at:: 2026-04-27
+file-updated-at:: 2026-07-22
 
 - ## xAI Colossus Memphis Expansion Timeline
 	- **Source context**: user-provided chronology about xAI's Memphis data center buildout

@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[OpenAI]], [[SaaS]], [[observability]], [[customer-concentration]], [[usage-based-pricing]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2025-08-07
+file-updated-at:: 2026-11-10
 
 - ## Datadog — Successive Waves of Startup Winners
 	- **Source** — Hongcheng (@hzhu_), August 7, 2025, user-supplied X-post screenshot. The embedded research exhibit is titled “Datadog New ARR Base Case”; its author and firm are not visible. The filename follows the post date. [Original X post](https://x.com/hzhu_/status/1953678411802788028?a=XzWrRwAYZciM_5QftK8&s=20)

@@ -1,5 +1,6 @@
 tags:: [[AI infrastructure]], [[GPU clusters]], [[OpenAI]], [[$MSFT]], [[$META]], [[Anthropic]], [[$CRWV]], [[Cerebras]], [[$ORCL]]
 file-created-at:: 2026-05-21
+file-updated-at:: 2026-06-03
 
 - ## Major AI Cloud Contracts Comparison
 	- **Source context**:

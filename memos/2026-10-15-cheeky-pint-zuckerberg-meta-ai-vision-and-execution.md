@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Meta]], [[Muse]], [[MSL]], [[AI]], [[agents]], [[capex]], [[data-center]], [[consumer-internet]], [[commerce]], [[enterprise-AI]], [[wearables]], [[augmented-reality]], [[podcast]]
 file-created-at:: 2026-10-15
+file-updated-at:: 2026-10-15
 
 - ## Zuckerberg’s AI Thesis: Personal Superintelligence as Meta’s Next Platform
 	- **Source**: *Cheeky Pint* podcast transcript supplied by the user; conversation between John Collison, Mark Zuckerberg and Alexandr Wang around the launch of Muse Wonder. The transcript does not include a publication date.

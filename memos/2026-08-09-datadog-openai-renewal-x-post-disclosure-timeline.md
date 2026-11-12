@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[OpenAI]], [[SaaS]], [[observability]], [[customer-concentration]], [[renewals]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-08-09
+file-updated-at:: 2026-11-11
 
 - ## Datadog's Largest Customer — Renewal, Optimization, and Disclosure Timeline
 	- **Source** — Hongcheng (@hzhu_), August 9, 2026, user-supplied X-post screenshot quoting Datadog's Q2 call and reproducing a 2025 research exhibit. The filename follows the post date. The retrospective timeline incorporates repository notes available through November 10, 2026. [Original X post](https://x.com/hzhu_/status/2086515592769745307?a=GW8Q9-E4q7mB3ghtdKM)

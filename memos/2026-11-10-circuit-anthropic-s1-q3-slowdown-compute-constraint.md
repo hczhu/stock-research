@@ -1,5 +1,6 @@
 tags:: [[Anthropic]], [[Claude]], [[IPO]], [[S-1]], [[compute]], [[spot-compute]], [[GPU-pricing]], [[enterprise-AI]], [[agents]], [[cybersecurity]], [[OpenAI]], [[The Circuit]], [[Ben-Bajarin]], [[Jay-Goldberg]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## The Circuit on Anthropic's amended S-1: was the Q3 slowdown a lack of compute rather than of demand?
 	- **Source**: *The Circuit* podcast, Ben Bajarin (Creative Strategies) and Jay Goldberg, recorded Friday Nov 6, 2026. User-provided auto-generated transcript.

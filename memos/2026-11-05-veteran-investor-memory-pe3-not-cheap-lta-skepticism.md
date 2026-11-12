@@ -1,5 +1,6 @@
 tags:: [[DRAM]], [[NAND]], [[HBM]], [[memory]], [[LTA]], [[valuation]], [[cyclicals]], [[super-cycle]], [[$005930.KS]], [[$000660.KS]], [[$MU]], [[$SNDK]], [[$TSM]], [[pricing-power]], [[CXMT]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-05
+file-updated-at:: 2026-11-05
 
 - ## A veteran investor's case that memory isn't cheap at 3× earnings
 	- **Source**: User's in-person conversation with a veteran investor (unnamed), shared as an edited summary. These are opinions, not data. The historical claim about LTAs breaking is the investor's and is unverified. Related: [[2026-09-04-dram-feed-cxmt-share-break-and-lta-floor-arithmetic]], [[2026-06-03-memory-two-tier-market-and-ltas]], [[2026-07-21-memory-positioning-bull-bear-debate]], [[2026-07-04-dram-commodity-vs-decommoditization-synthesis]], [[2026-06-02-memory-cycle-bear-case-arguments]], [[TSM-2026-Q2]].

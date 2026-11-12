@@ -1,4 +1,5 @@
 file-created-at:: 2026-04-08
+file-updated-at:: 2026-06-02
 
 # OpenAI vs Anthropic Yearly Revenue by Segment (Estimated from Screenshot)
 
