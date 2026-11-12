@@ -56,7 +56,7 @@ Every `.md` file in this repo carries a Logseq page property recording when it w
 file-created-at:: 2024-06-15
 ```
 
-**Add it whenever you create a new `.md` file.**
+**Add it whenever you create a new `.md` file**, together with `file-updated-at::` (next section).
 
 - **Placement** — it must sit in the file's *first block*, so Logseq reads it as a page property. In a plain file, that is a bare line at the very top followed by a blank line. When the file already opens with a property block, add it as another bare line of that same block, directly under `tags:: …`. **Page properties must be unbulleted**: Logseq reads only a bare property block at the very top as page properties. A bulleted `- tags:: …` first block is an ordinary block that happens to carry properties — the page gets neither its tags nor `file-created-at`, and page-property queries silently skip it (325 memos had to be converted on 2026-09-29 for this reason). In a file with YAML front matter, it goes just after the closing `---`.
 - **Value** — the creation date as `YYYY-MM-DD`. When the filename carries a date (`YYYY-MM-DD-topic.md`), use the **earlier** of the filename date and the file's creation timestamp; otherwise use the creation timestamp.
@@ -83,6 +83,7 @@ Every new Logseq Markdown file created by an AI assistant must include two separ
 ```markdown
 tags:: [[existing-topic]], [[ai-model:__model__]], [[ai-effort:__effort__]]
 file-created-at:: YYYY-MM-DD
+file-updated-at:: YYYY-MM-DD
 ```
 
 - Replace the placeholders with the model name and reasoning effort, for example `[[ai-model:GPT-6 Astra]]` and `[[ai-effort:high]]`. Do not combine the two values into one tag.
@@ -92,11 +93,12 @@ file-created-at:: YYYY-MM-DD
 
 ## Memo Format
 
-All memos use Logseq outliner Markdown — every line after the page-property block starts with `- ` and nesting uses tabs. The page-property block (`tags::`, `file-created-at::`) is the one exception: it is **unbulleted**, or Logseq will not treat it as page properties:
+All memos use Logseq outliner Markdown — every line after the page-property block starts with `- ` and nesting uses tabs. The page-property block (`tags::`, `file-created-at::`, `file-updated-at::`) is the one exception: it is **unbulleted**, or Logseq will not treat it as page properties:
 
 ```markdown
 tags:: [[Ticker]], [[Topic]], [[sector]]
 file-created-at:: YYYY-MM-DD
+file-updated-at:: YYYY-MM-DD
 
 - ## Section Title
 	- Content line
@@ -106,6 +108,7 @@ file-created-at:: YYYY-MM-DD
 
 **Required elements for new memos:**
 - `tags::` line at the top using `[[WikiLink]]` syntax — include ticker symbols, sector (e.g. `[[semiconductor]]`, `[[AI]]`), and topic tags
+- `file-created-at::` and `file-updated-at::` directly under `tags::`, both set to the creation date
 - A `## Section Title` as the first section
 - `**Source**:` attribution where the content comes from a third party
 
