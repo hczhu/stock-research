@@ -3,14 +3,14 @@ file-created-at:: 2026-07-13
 
 - **Company**: MediaTek (2454.TW)
 - **Date**: 2026-06-04
+- **Modem thesis update**: 2026-11-12; adds a separately sourced mobile-connectivity pillar without refreshing the existing ASIC forecasts or valuation assumptions.
 - **Market cap at writing**: TBD
   
   ---
 - ## References
 
-	| [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/MediaTek) | |
-	|---|---|
-	| | |
+	- [Earnings call notes](https://github.com/hczhu/stock-research/tree/main/earnings/MediaTek)
+	- [[2026-11-12-mediatek-modem-performance-dimensity-9500-m90]]: field-test data, official product specifications, and the distinction between tested Dimensity hardware and M90 capabilities.
 
   ---
 - ## Main Narrative
@@ -56,12 +56,18 @@ file-created-at:: 2026-07-13
 			- **AVGO v9 training chip**: Broadcom's status on the TPU v9 *training* chip contract remains pending (FundaAI, Jun 2026) — a separate contract from the inference/SerDes work MediaTek won.
 			- Source: Commercial Times (工商時報) Jun 23 2026 ([[2026-06-23-mediatek-google-tpu-v9-336g-serdes-broadcom-displacement]])
 	- ### AI ASIC Revenue Trajectory
+		- **Scope**: the mobile-modem evidence below is an independent thesis pillar, not corroboration of these ASIC revenue estimates.
 		- | Year | AI Accelerator ASIC Revenue | Primary drivers |
 		  |---|---|---|
 		  | 2026E | **\$2B** (revised up) | Google TPU v9 ramp |
 		  | 2027E | **Tens of billions** | TPU v9 volume + multiple CSP programs |
 		- 2027 projection requires multiple CSP programs (beyond Google) to begin volume production — execution risk is real but pipeline is confirmed to exist.
 		- **2027 total Google TPU shipment forecast** (all vendors): **10–11M units** (FundaAI Jun 2026; raised from 10M+ in April). MediaTek's share of this via Humufish + Triggerfish: 6–7M lifecycle units across 2027–2028 ramp.
+	- ### Premium Mobile — Connectivity as a Design-Win Enabler
+		- **Investment logic**: competitive modems can remove an obstacle to premium Dimensity adoption, making MediaTek a more credible whole-platform alternative rather than merely a cheaper processor. The earnings pathway is more premium sockets and favorable product mix, conditional on commercial execution.
+		- **Evidence, not blanket leadership**: a May 2026 Beebom test favored the Dimensity handset on congested uplink and responsiveness while Qualcomm retained the download lead. Different phones and limited locations prevent attributing the result solely to modem silicon. See the [sourced modem memo](../memos/2026-11-12-mediatek-modem-performance-dimensity-9500-m90.md).
+		- **Product boundary**: the advanced mmWave / 10CC / NTN feature set belongs to MediaTek's M90 announcement, not the cited Dimensity 9500 specifications. Capability announcements require handset implementation and network support before becoming customer value; no unverified design win is assumed.
+		- **Value capture**: OEMs gain negotiating leverage from credible alternatives. Better technology can therefore raise MediaTek's eligibility and volumes without producing equal gains in pricing or margins. No shipment, earnings, or valuation uplift is added from this evidence alone.
 	- ### Consumer Chips — Nvidia RTX Spark Partnership
 		- MediaTek is the **design partner with Nvidia on the RTX Spark chip**.
 		- **Nvidia is redefining endpoint devices**: For the past 40 years the PC industry revolved around the operating system and applications; the future shifts toward a new computing architecture centered on **LLMs and AI agents**. RTX Spark is not aiming for pure PC market share but for **the user entry point of the AI era**.
@@ -84,9 +90,11 @@ file-created-at:: 2026-07-13
 	  ---
 - ## Durable and Unfair Competitive Advantages
 	- > What does the company do that is genuinely hard to replicate — not tied to a single product but woven into its identity? Moats are time-bound, not permanent. At best they are a bridge. The question is whether the company is using that bridge to reach the next defensible position, or standing still while competitors close the gap.
+	- **Connectivity execution**: accumulated standards, RF integration, firmware, interoperability, and OEM support can reinforce MediaTek's platform breadth. The test is repeatable production performance across operators, not specification parity in one generation. Cellular modems and data-center SerDes require distinct capabilities; success in one does not prove superiority in the other.
 	- ---
 - ## Key Value Drivers
 	- > The critical metrics to monitor for the narrative to play out — e.g., revenue growth, gross margin expansion, share repurchases, cost structure improvements, new product attach rates. If these move in the right direction, the thesis is on track; if they stall, revisit.
+	- **Mobile premiumization**: confirmed flagship design wins, premium-platform revenue mix, realized chip pricing, gross margins, and R&D burden. Multi-operator connectivity and power tests help evaluate product competitiveness but are not substitutes for these commercial measures.
 	- ---
 - ## Secular Trends as Tailwinds
 	- > Which macro or structural forces are at the company's back, independent of execution? The best businesses ride a wave — name the waves and explain why the company is well-positioned to capture them.
@@ -106,11 +114,12 @@ file-created-at:: 2026-07-13
 	-
 	- | Competitor | Threat level | Key advantage | Assessment |
 	  |------------|-------------|---------------|------------|
-	  |            |             |               |            |
+	  | Qualcomm | High in premium mobile | Broad modem-RF capabilities and integrated flagship platform | MediaTek is a credible connectivity challenger, but favorable device tests do not prove universal leadership or durable pricing power. See the modem memo for product-specific comparisons. |
 	  
 	  ---
 - ## Pre-Mortem — What Can Go Wrong?
 	- > Assume the thesis fails. Work backward: what caused it? List the top risks in order of likelihood × impact. Distinguish between risks that invalidate the thesis entirely versus ones that merely delay it.
+	- **Modem progress fails to monetize**: OEMs use MediaTek to negotiate lower prices without meaningfully increasing premium allocations, or RF qualification, power, and firmware problems slow deployments. Technology parity could then expand R&D expense faster than gross profit.
 	- 1.
 	  2.
 	  3.
