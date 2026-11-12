@@ -1,4 +1,4 @@
-tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]]
+tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]]
 file-created-at:: 2026-10-16
 
 - ## Google Makes ARM a Fleet-Wide Software Option
@@ -17,6 +17,43 @@ file-created-at:: 2026-10-16
 	  | Automated deployment qualification | Arm-qualified applications rose from **4.8% to 78.89%** within a release-management system covering **49.6% of Google's binaries** | A scoped rollout result, distinct from fleet-wide CPU-cycle coverage. Application rollback rates fell from **1.8%** in early testing to **below 0.8%** in the final phase. p. 10. |
 	  | CogniPort AI-agent benchmark | **73.5% best-of-two success** across **234 historical commits** | Each task was attempted with internally fine-tuned Gemini 3 Flash and off-the-shelf Gemini 3.1 Pro; not a single-model success rate or full-migration automation rate. p. 11. |
 	  | Hardest evaluated AI category | **56% success** on test-execution-environment fixes | Environment and contextual knowledge remain bottlenecks even when local code edits are tractable. p. 11. |
+- ## Earlier snapshot: Google Cloud blog, Oct 21, 2025
+
+	- **Source**: Parthasarathy Ranganathan (VP, Engineering Fellow) and Wolff Dobson, "At Google, the future is multiarch; AI and automation are helping us get there," Google Cloud Blog, Oct 21, 2025 (user-provided PDF). It summarizes the paper's preprint, about 11 months before the CACM version above, so it shows how fast the migration and the AI agent progressed.
+	- **Progress between the two snapshots**:
+		- | Measure | Oct 2025 (blog) | Sept 2026 (CACM paper) |
+		  | --- | --- | --- |
+		  | Software migrated to Arm | **More than 30,000 applications** | About **60,000 packages**, 75% of server CPU cycles |
+		  | CogniPort benchmark | **30% success** on 245 historical commits, with "no special prompts or other optimizations" | **73.5% best-of-two** on 234 commits, using fine-tuned Gemini 3 Flash plus Gemini 3.1 Pro |
+		  | Hardest category: test execution environment | About **12%** (11 of 89) | **56%** |
+		- *My note*: these aren't like-for-like comparisons. "Applications" and "packages" may be counted differently, and the later benchmark uses best-of-two, different models and a slightly different task set. The direction is still clear: coverage roughly doubled in under a year, and the agent's success rate more than doubled.
+	- **Demand signal**: "Arm hardware fully-subscribed and more servers deployed each month." YouTube, Gmail and BigQuery were already served on Arm and x86 at the same time.
+	- **Axion economics (vendor claim)**: Google's first custom Arm CPU offers "up to 65% better price-performance" and is "up to 60% more energy-efficient" than comparable instances on Google Cloud. These are marketing "up to" figures, not measured fleet cost of ownership.
+	- **Default going forward**: all new applications are designed to be multiarch by default, so x86-only code stops growing.
+	- **What took the time**:
+		- The team expected to spend its time on floating-point drift, concurrency, intrinsics and performance. Instead, modern compilers and sanitizers had "shaken out most of the surprises."
+		- Most time went to tests that overfit to x86 servers, old build and release systems, and production rollout configs. One engineer: "The majority of the difficulty was configs and boring stuff."
+	- **Commit mix by group** (Figure 1; Gemini Flash classified the 38,156 commits into 16 categories; group totals and shares are my sums):
+		- | Group | Commits | Share of commits | Lines changed | Share of lines |
+		  | --- | --- | --- | --- | --- |
+		  | Code adaptation (categories 1–5) | 378 | 1.0% | 25,392 | 3.5% |
+		  | Test adaptation (6–7) | 1,579 | 4.1% | 50,835 | 6.9% |
+		  | Build, deployment and infrastructure config (8–10) | 33,342 | 87.4% | 198,351 | 27.0% |
+		  | Supporting processes and tools (11–16) | 2,840 | 7.4% | 458,715 | **62.4%** |
+		- **Most lines went to work around the port, not the port itself**: rollbacks and cleanup (163,042 lines, 22% of the total), migration tooling (125,536) and monitoring and performance analysis (115,343).
+		- **Automation was concentrated in build config**: 95% of build-config commits (63% of their lines) were automated, against 0–3% for most code-adaptation and supporting categories.
+	- **CogniPort's early results by category** (Figure 6; read from bar lengths):
+		- | Category | Success / attempts | Rate |
+		  | --- | --- | --- |
+		  | Platform-specific conditional code | 25 / 57 | 44% |
+		  | Intrinsic and assembly code | 3 / 11 | 27% |
+		  | Data representation and alignment | 6 / 9 | 67% |
+		  | Memory model and concurrency | 0 / 1 | 0% |
+		  | Performance-driven code | 0 / 1 | 0% |
+		  | Test logic, data and assertions | 28 / 77 | 36% |
+		  | Test execution environment | 11 / 89 | 12% |
+		  | **Total** | **73 / 245** | **30%** |
+		- **Design**: three nested agent loops. An orchestrator calls a build-fixer agent and a test-fixer agent. Each one edits files until its target builds or its test passes, or it gives up.
 - ## From x86 Dependence to Mixed-Architecture Fleets
 
 	- **Broader trend, narrower measurement**: The authors identify Amazon, Google, and Microsoft as hyperscalers migrating large codebases from x86 to ARM. Only Google's migration is quantified here; this is not an industry market-share survey.
@@ -35,4 +72,4 @@ file-created-at:: 2026-10-16
 
 	- **ARM - analytical inference**: A larger pool of portable production software reduces adoption friction and broadens the workloads ARM hardware can serve. The study does not disclose ARM licensing economics, royalties, server shipments, or resulting revenue.
 	- **Intel and AMD - analytical inference**: Lower porting friction weakens x86's software-compatibility advantage and exposes more workloads to architecture-level competition. It does not establish inferior x86 performance or imminent replacement: Google's stated operating model supports both architectures.
-	- **Hyperscalers - analytical inference**: Multiarch scheduling and reusable migration tools create more supplier and platform choice, potentially improving negotiating leverage and capacity utilization. The paper provides no CPU price, power-efficiency, TCO, or margin comparison, so no financial uplift can be calculated from these results.
+	- **Hyperscalers - analytical inference**: Multiarch scheduling and reusable migration tools create more supplier and platform choice, potentially improving negotiating leverage and capacity utilization. The paper provides no CPU price, power-efficiency, TCO, or margin comparison, so no financial uplift can be calculated from these results. The Oct 2025 blog adds only Google's vendor claims for Axion (up to 65% better price-performance and up to 60% better energy efficiency), and says Google's Arm capacity was fully subscribed.
