@@ -1,4 +1,5 @@
 file-created-at:: 2026-07-01
+file-updated-at:: 2026-07-01
 
 ## **Find and buy high-quality compounders with high upside**
 	- Revenue CAGR ≥ 15%

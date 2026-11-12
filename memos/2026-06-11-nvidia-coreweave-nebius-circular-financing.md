@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[$CRWV]], [[$NBIS]], [[$MSFT]], [[$META]], [[Neocloud]], [[AI infrastructure]], [[GPU]], [[data-center]], [[power]], [[capex]], [[debt]], [[private-credit]], [[circular-financing]], [[hyperscalers]], [[OpenAI]], [[Anthropic]]
 file-created-at:: 2026-06-11
+file-updated-at:: 2026-07-18
 
 - ## Nvidia, CoreWeave, and Nebius — Circular Financing of the GPU Boom
 	- **Primary source**: Beth Kindig, I/O Fund, “Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom,” June 11, 2026; user-provided PDF.

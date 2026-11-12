@@ -1,5 +1,6 @@
 tags:: [[semiconductor]], [[CHIPS-Act]], [[industrial-policy]], [[policy]], [[US]], [[R&D]], [[lithography]], [[quantum]], [[imec]], [[$INTC]], [[$AMAT]], [[$LRCX]], [[$KLAC]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-08-27
+file-updated-at:: 2026-10-17
 
 - ## GAO: CHIPS Act Fabs Are on Schedule, the \$11B R&D Arm Is 95% Unspent
 	- **Source**: IEEE Spectrum, "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D," Alex Music and Lucas Laursen, 27 August 2026 (October 2026 print issue). Reports on the US Government Accountability Office report released 6 August 2026. Quotes Donna Dubinsky (former Commerce official, Natcast trustee until August 2025), Brent Omdahl (SVP government affairs, GlobalWafers), and VJ Sahi (Clark Street Associates).

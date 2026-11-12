@@ -1,5 +1,6 @@
 tags:: [[foundation models]], [[model labs]], [[AI]], [[Anthropic]], [[$GOOGL]], [[OpenAI]], [[SaaS]], [[pricing power]], [[bear-case]]
 file-created-at:: 2026-06-03
+file-updated-at:: 2026-06-11
 
 - ## Foundation Model Pricing Power Bear Case
 	- **Source**:

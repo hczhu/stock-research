@@ -1,4 +1,5 @@
 file-created-at:: 2026-04-06
+file-updated-at:: 2026-06-02
 
 - # The Future of Coding Agents
 	- Source: Chapter 9 — *Understanding Your Kitchen and AI Collaborators*

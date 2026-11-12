@@ -1,5 +1,6 @@
 tags:: [[AI]], [[enterprise]], [[agents]], [[SaaS]], [[macro]]
 file-created-at:: 2026-04-13
+file-updated-at:: 2026-07-22
 
 - ## Enterprise AI Agents — Field Notes from IT/AI Leader Meetings
 	- **Source**: Industry field notes, investor/consultant road trip meeting with dozens of IT and AI leaders across banking, media, retail, healthcare, consulting, tech, and sports (2026-04-13)

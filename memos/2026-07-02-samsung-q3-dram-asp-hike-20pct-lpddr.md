@@ -1,5 +1,6 @@
 tags:: [[$005930]], [[$000660]], [[$MU]], [[DRAM]], [[HBM]], [[LPDDR]], [[memory]], [[semiconductor]], [[pricing]], [[ASP]], [[LTA]], [[supply]], [[super-cycle]], [[AI-infrastructure]], [[Meta]], [[inference]]
 file-created-at:: 2026-07-02
+file-updated-at:: 2026-10-15
 
 - ## Samsung Targets Up-to-20% Q3 DRAM ASP Hike; LPDDR Bottlenecks Bite
 	- **Source**: Korean memory-industry press report (tweet, cited "according to the industry on the 3rd"). All figures below are industry estimates/negotiation targets, not confirmed contracts. Reported ~July 2026.

@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Muse]], [[agents]], [[AI]], [[consumer-internet]], [[product-design]], [[payments]], [[privacy]], [[podcast]]
 file-created-at:: 2026-09-13
+file-updated-at:: 2026-10-09
 
 - ## Meta Muse: Consumer-Agent Design Is the Differentiator
 	- **Source**: *How I AI* podcast, first-pass hands-on review of Meta's Muse personal agent, supplied transcript. The date is inferred from the agent-generated news podcast in the demonstration, which identifies Sunday, September 13, 2026.

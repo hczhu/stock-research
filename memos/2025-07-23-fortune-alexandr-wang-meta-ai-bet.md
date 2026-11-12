@@ -1,5 +1,6 @@
 tags:: [[$META]], [[AI]], [[MSL]], [[Scale-AI]], [[AI-capex]], [[compute]], [[talent]], [[foundation-models]], [[open-source]]
 file-created-at:: 2025-07-23
+file-updated-at:: 2026-10-18
 
 - ## Meta Is Trying to Buy Organizational Speed in Frontier AI
 	- **Source**: Sharon Goldman, Fortune, [“Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg’s big bet pay off?”](https://fortune.com/article/alexandr-wang-meta-scale-ai-entrepreneur-mark-zuckerberg/), July 23, 2025; photographed from the August/September 2025 print issue under the headline “Can Alexandr Wang bring Meta AI supremacy?”

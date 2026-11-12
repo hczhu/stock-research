@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[$META]], [[OpenAI]], [[Anthropic]], [[AI]], [[agents]], [[benchmarks]]
 file-created-at:: 2026-11-06
+file-updated-at:: 2026-11-08
 
 - ## GDPx: Frontier Agents Are Specialized, Not Dependable End to End
 	- **Source**: SemiAnalysis, Max Kan, Andrew Megalaa, and Dylan Patel, *GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains* (Nov. 1, 2026), supplied PDF and leaderboard screenshots.

@@ -1,5 +1,6 @@
 tags:: [[$UAL]] [[$DAL]] [[$AAL]] [[$LUV]] [[$ALK]] [[$JBLU]] [[airlines]] [[travel]] [[premiumization]] [[loyalty-programs]] [[fuel]] [[M&A]]
 file-created-at:: 2026-07-01
+file-updated-at:: 2026-07-01
 
 -
 - ## Bloomberg Businessweek: United/Kirby airline industry memo

@@ -1,4 +1,5 @@
 file-created-at:: 2026-03-28
+file-updated-at:: 2026-06-02
 
 - ## Neocloud Revenue Dreams
 - Projected revenue for upstart GPU cloud providers (2025–2028), including Nscale's scenario if it acquires a major U.S. data center campus (AIP acquisition).

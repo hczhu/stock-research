@@ -1,5 +1,6 @@
 tags:: [[SaaS]], [[enterprise-software]], [[AI]], [[pricing]], [[$DDOG]], [[$NOW]], [[$TEAM]], [[ai-model:gpt-6.1-sol]], [[ai-effort:medium]]
 file-created-at:: 2026-11-11
+file-updated-at:: 2026-11-12
 
 - ## Why horizontal SaaS can still beat building in-house with AI
 	- **Source**: User's ten-company build-versus-buy example and the follow-up discussion. Cost and pricing scenarios are illustrative. Product examples draw on vendor documentation linked below.

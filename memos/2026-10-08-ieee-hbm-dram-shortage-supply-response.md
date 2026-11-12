@@ -1,5 +1,6 @@
 tags:: [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$NVDA]], [[$AMD]], [[HBM]], [[DRAM]], [[semiconductor]], [[advanced-packaging]], [[supply]], [[pricing]], [[capex]]
 file-created-at:: 2026-10-08
+file-updated-at:: 2026-10-09
 
 - ## HBM Demand Tightens the Whole DRAM Market
 	- **Sources**: Samuel K. Moore, “How and When the Memory Chip Shortage Will End,” IEEE Spectrum, February 10, 2026, corrected March 9; and Harry Goldstein, “AI Is Insatiable,” April 6, 2026. Supplied PDFs are titled “AI Boom Fuels DRAM Shortage and Price Surge” and “AI and the High Bandwidth Memory Shortage.” Goldstein's editorial builds on Moore's reporting, so the two are not independent confirmations.

@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[Google]], [[DeepMind]], [[Gemini]], [[Demis-Hassabis]], [[AGI]], [[scaling-laws]], [[compute]], [[inference]], [[TPU]], [[world-models]], [[Veo]], [[AlphaEvolve]], [[Isomorphic]], [[AI-for-science]], [[AI-coding]], [[fusion]], [[quantum-computing]], [[Lex-Fridman]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2025-07-23
+file-updated-at:: 2026-11-11
 
 - ## Demis Hassabis on Lex Fridman #475: his predictions for AI
 	- **Source**: Lex Fridman Podcast #475, "Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games," released July 23, 2025. User-provided transcript; timestamps are given as (h:mm:ss). Hassabis was Google DeepMind CEO at the time.

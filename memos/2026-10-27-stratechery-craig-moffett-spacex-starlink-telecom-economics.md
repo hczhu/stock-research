@@ -1,5 +1,6 @@
 tags:: [[SpaceX]], [[Starlink]], [[Starship]], [[telecom]], [[wireless]], [[spectrum]], [[satellite]], [[direct-to-cell]], [[capex]], [[data-center]], [[AI]], [[Stratechery]], [[$TMUS]], [[$VZ]], [[$T]], [[$AMZN]], [[$SATS]]
 file-created-at:: 2026-10-27
+file-updated-at:: 2026-11-07
 
 - ## SpaceX: Launch Advantage Does Not Make Every Telecom Business Attractive
 	- **Source**: Ben Thompson's [interview with Craig Moffett](https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/), Stratechery, October 22, 2026; user-provided 26-page PDF. Page references below use PDF numbering.

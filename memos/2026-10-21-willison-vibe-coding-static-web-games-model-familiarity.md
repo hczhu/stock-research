@@ -1,5 +1,6 @@
 tags:: [[vibe-coding]], [[coding-agents]], [[Claude-Code]], [[Anthropic]], [[OpenAI]], [[agents]], [[developer-tools]], [[gaming]], [[WebGL]], [[open-source]], [[token economics]], [[$U]], [[$ADBE]], [[$ADSK]], [[app-store]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2026-10-21
+file-updated-at:: 2026-10-21
 
 - ## Vibe-Coding Field Notes: Model Familiarity Is Becoming a Platform Moat, and the Content Stack Collapses Into the Model
 	- **Source**: User-provided excerpt of build notes from Simon Willison's weblog on his Battle Drones project (links to `simonw.github.io/battledrones`, `github.com/simonw/battledrones`, and an Oct 6 2026 "Scrimshaw Jukebox" post). The post body itself was not supplied, so this extracts the enumerated observations only. Dating: a referenced battle record is stamped 2026-10-14, so the post is on or after that date; filed under the memo-creation date. Related: [[2026-06-05-coding-agents-token-demand-and-enterprise-pmf-willison]], [[2026-09-13-casey-muratori-performance-games-engines-as-ai-preview]].

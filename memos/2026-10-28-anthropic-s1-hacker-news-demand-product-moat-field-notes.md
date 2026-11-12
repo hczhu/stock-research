@@ -1,5 +1,6 @@
 tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[agents]], [[developer-tools]], [[enterprise-software]]
 file-created-at:: 2026-10-28
+file-updated-at:: 2026-10-28
 
 - ## Anthropic S-1 Hacker News Field Notes: Real Demand, Uneven Pricing Power
 

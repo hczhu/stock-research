@@ -1,5 +1,6 @@
 tags:: [[AI]], [[inference]], [[$NVDA]], [[GB200]], [[GB300]], [[H100]], [[throughput]], [[interactivity]], [[SemiAnalysis]]
 file-created-at:: 2026-05-20
+file-updated-at:: 2026-06-02
 
 - ## Token Throughput per GPU vs. Interactivity
 	- **Source context**:

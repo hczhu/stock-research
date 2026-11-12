@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Meta]], [[MSL]], [[Muse]], [[open-weight]], [[AI-labs]], [[Anthropic]], [[OpenAI]], [[$GOOGL]], [[Gemini]], [[xAI]], [[org-design]], [[talent]], [[compute]], [[frontier-labs]], [[Llama]], [[o1]], [[Navier-Stokes]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-05
+file-updated-at:: 2026-11-05
 
 - ## Frontier AI labs: resources get you to the frontier, organization keeps you there (Meta's flat lab as the case study)
 	- **Source**: User-provided commentary on Meta Superintelligence Labs (MSL). The author isn't identified, and the comment reads as an industry observer's opinion. I checked the factual references (Muse, the open-weight release, *Cheeky Pint*) against press coverage and earlier memos. The "200+ direct reports" figure is unverified. A second excerpt from the same commenter widens the lens to how all five frontier labs are organized; it is covered in the scorecard section below. Related: [[2026-10-15-cheeky-pint-zuckerberg-meta-ai-vision-and-execution]], [[2026-07-13-semianalysis-meta-superintelligence-1yr-update]], [[2026-09-08-zuckerberg-heath-muse-personal-agent-strategy]], [[2026-09-21-apptopia-muse-launch-metrics-vs-chatgpt]], [[2026-08-21-semianalysis-open-vs-closed-catch-up-halves-every-era]].

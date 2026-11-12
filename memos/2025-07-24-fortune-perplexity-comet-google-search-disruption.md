@@ -1,5 +1,6 @@
 tags:: [[Perplexity]], [[$GOOGL]], [[AI]], [[search]], [[agents]], [[browser]], [[distribution]], [[advertising]], [[publishing]], [[copyright]], [[antitrust]]
 file-created-at:: 2025-07-24
+file-updated-at:: 2026-10-18
 
 - ## Perplexity Is a Product Threat Before It Is a Scale Threat
 	- **Source**: Jeremy Kahn, Fortune, [“How Aravind Srinivas turned Perplexity AI into an \$18 billion would-be Google killer”](https://fortune.com/article/perplexity-ceo-aravind-srinivas-ai/), July 24, 2025; photographed from the August/September 2025 print issue under the headline “Is this man a Google killer?”

@@ -1,5 +1,6 @@
 tags:: [[AI-coding]], [[vibe-coding]], [[video-games]], [[game-development]], [[UI-UX]], [[design]], [[Anthropic]], [[Claude]], [[Opus-5.5]], [[SaaS]], [[$TTWO]], [[$RBLX]], [[$U]], [[$FIG]], [[The-Door-Problem]], [[Liz-England]], [[X-post]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-11
+file-updated-at:: 2026-11-11
 
 - ## AI can get a game to 85%. The last 15% (taste, gameplay feel and UI) is still human
 	- **Sources**:

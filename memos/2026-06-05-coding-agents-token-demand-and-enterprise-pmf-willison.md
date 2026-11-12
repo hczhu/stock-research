@@ -1,5 +1,6 @@
 tags:: [[coding-agents]], [[token economics]], [[inference]], [[Anthropic]], [[OpenAI]], [[$MSFT]], [[enterprise-AI]], [[agents]], [[LLM]], [[AI infrastructure]]
 file-created-at:: 2026-06-05
+file-updated-at:: 2026-07-01
 
 - ## Coding Agents' Token Demand & the Enterprise PMF Inflection (Simon Willison)
 	- **Source**: Simon Willison's Weblog, "I think Anthropic and OpenAI have found product-market fit," May 27 2026 (+ adjacent posts). All facts from the article.

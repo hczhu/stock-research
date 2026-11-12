@@ -1,5 +1,6 @@
 tags:: [[data-center]], [[capex]], [[infrastructure]], [[$NVDA]], [[$GOOGL]], [[networking]], [[power]]
 file-created-at:: 2026-05-02
+file-updated-at:: 2026-06-03
 
 - ## 1GW Data Center Cost Breakdown
 	- **Primary source context**:

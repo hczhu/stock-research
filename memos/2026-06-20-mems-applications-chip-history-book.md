@@ -1,5 +1,6 @@
 tags:: [[MEMS]], [[semiconductor]], [[sensors]], [[automotive]], [[healthcare]], [[consumer-electronics]]
 file-created-at:: 2026-06-20
+file-updated-at:: 2026-06-20
 
 - **Source**: 《芯片简史》(A Brief History of Chips) — Extended Reading sidebar, p. 286. Section title: 微机电系统的应用 (Applications of Micro-Electro-Mechanical Systems / MEMS).
 

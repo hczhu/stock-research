@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[$PLD]], [[inference]], [[data-center]], [[power]], [[GPU]], [[AI infrastructure]], [[capex]]
 file-created-at:: 2026-05-12
+file-updated-at:: 2026-09-27
 
 - ## Distributed Inference: Send Queries to Available Power
 	- **Source**: Emily Waltz and Dina Genkina, “Your Next AI Query May Travel Where the Power Is,” IEEE Spectrum, May 12, 2026; corrected May 13. Extracted from the supplied article. Project schedules and estimates reflect the article's publication date, not a verified September progress update.

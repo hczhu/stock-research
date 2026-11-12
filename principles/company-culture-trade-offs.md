@@ -1,4 +1,5 @@
 file-created-at:: 2026-07-01
+file-updated-at:: 2026-07-01
 
 - **Independence vs. Collaboration**: This covers both how you work and how you make decisions. Some companies need people who pick up a problem, run with it, and come back with a solution. Others expect you to bring the team along at every step. These often go together: companies that want you to work solo also tend to want you to make calls on your own, and companies that want collaborative work also want group buy-in on decisions.
 - **Speed vs. Thoroughness**: Startups often need rapid experimentation, where you ship MVPs and iterate based on feedback, while companies in healthcare or finance require careful validation before any release. This tension also shows up in how teams think about code quality: some organizations will happily spend extra weeks on clean architecture, while others want a working solution on deadline even if the code needs cleanup later. Whereas stories about methodical testing might bore a startup, your “ship it and fix it” examples could terrify a medical device company.

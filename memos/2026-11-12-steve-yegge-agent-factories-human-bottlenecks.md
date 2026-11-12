@@ -1,5 +1,6 @@
 tags:: [[AI]], [[agents]], [[inference]], [[SaaS]], [[developer-tools]], [[gaming]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-12
+file-updated-at:: 2026-11-12
 
 - ## Steve Yegge: agent factories move the bottleneck beyond writing software
 	- **Source**: User-provided X-post excerpt by [Turing Post / Ksenia Se](https://x.com/TheTuringPost), summarizing remarks by [Steve Yegge](https://x.com/Steve_Yegge). The exact post URL, publication date, and underlying interview were not supplied. The excerpt relays his experience secondhand; predictions below are attributed to him, not established forecasts.

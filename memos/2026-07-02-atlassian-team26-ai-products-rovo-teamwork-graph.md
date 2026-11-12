@@ -1,5 +1,6 @@
 tags:: [[$TEAM]] [[Atlassian]] [[Rovo]] [[AI-agents]] [[enterprise-software]] [[developer-tools]] [[collaboration]] [[Jira]] [[Confluence]]
 file-created-at:: 2026-07-02
+file-updated-at:: 2026-07-02
 
 -
 - ## Atlassian Team26 AI products podcast memo

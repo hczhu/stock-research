@@ -1,5 +1,6 @@
 tags:: [[$DDOG]], [[Datadog]], [[observability]], [[SaaS]], [[AI]], [[agents]], [[monitoring]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-09
+file-updated-at:: 2026-11-10
 
 - ## Agentic Monitoring — A Larger Market for Continuous Investigation
 	- **Source** — Ben Congdon, “Agentic Monitoring,” October 19, 2026, user-supplied article text. The author describes a working prototype and practitioner experience. Datadog comparisons below draw on the separately supplied Q3 2026 earnings transcript summarized in [[DDOG-2026-Q3]]. [Original article](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)

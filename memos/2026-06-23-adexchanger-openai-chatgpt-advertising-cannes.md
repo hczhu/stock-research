@@ -1,5 +1,6 @@
 tags:: [[OpenAI]], [[ChatGPT]], [[advertising]], [[ads]], [[ad-tech]], [[consumer-internet]], [[monetization]], [[commercial-intent]], [[privacy]], [[Codex]], [[agencies]], [[creative-tools]], [[$GOOG]], [[$META]], [[$AMZN]], [[$MSFT]], [[$TTD]], [[$OMC]]
 file-created-at:: 2026-06-23
+file-updated-at:: 2026-07-22
 
 - ## OpenAI's Advertising Model: Monetizing Intent Without Breaking ChatGPT Trust
 	- **Source**: AdExchanger, “At Its First-Ever Cannes, OpenAI Says ‘We Are Clearly In The Advertising Business Now’,” by Allison Schiff, 23 June 2026; text supplied by the user.

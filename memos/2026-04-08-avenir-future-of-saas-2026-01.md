@@ -1,4 +1,5 @@
 file-created-at:: 2026-04-08
+file-updated-at:: 2026-06-02
 
 - Source: Avenir — "The Future of SaaS: A Fork in the Road" (January 2026), by Jared Sleeper and Hannah Bao
 

@@ -1,5 +1,6 @@
 tags:: [[$NVDA]], [[$AMZN]], [[$AMD]], [[$INTC]], [[$QCOM]], [[$MU]], [[Cerebras]], [[Groq]], [[inference]], [[HBM]], [[DRAM]], [[SRAM]], [[GPU]], [[ASIC]], [[quantization]]
 file-created-at:: 2026-09-15
+file-updated-at:: 2026-10-17
 
 - ## Inference Hardware: Memory and System Design Open New Competitive Fronts
 	- **Source**: Matthew S. Smith, “The AI Inference Revolution Is Here,” IEEE Spectrum, September 15, 2026; supplied PDF titled “Inside the Inference Hardware Revolution Of 2026.” Figures and shipment expectations below reflect the article, with vendor claims identified as such.

@@ -1,5 +1,6 @@
 tags:: [[Databricks]], [[Ali-Ghodsi]], [[AI]], [[agents]], [[enterprise-software]], [[database]], [[data-platform]]
 file-created-at:: 2026-10-28
+file-updated-at:: 2026-10-28
 
 - ## Databricks and Ali Ghodsi: From Data Infrastructure to Enterprise Agent Infrastructure
 

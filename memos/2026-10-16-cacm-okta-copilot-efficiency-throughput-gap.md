@@ -1,5 +1,6 @@
 tags:: [[$MSFT]], [[$OKTA]], [[GitHub Copilot]], [[AI]], [[coding-agents]], [[developer-tools]], [[enterprise-software]], [[AI-productivity]], [[software-engineering]]
 file-created-at:: 2026-10-16
+file-updated-at:: 2026-10-16
 
 - ## Copilot at Okta: Individual Efficiency Is Not Organizational Throughput
 

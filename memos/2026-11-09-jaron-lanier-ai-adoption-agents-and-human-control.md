@@ -1,5 +1,6 @@
 tags:: [[AI]], [[agents]], [[AI-safety]], [[human-in-the-loop]], [[product-design]], [[data-center]], [[Anthropic]], [[OpenAI]], [[$META]], [[ai-model:gpt-6.1-sol]], [[ai-effort:medium]]
 file-created-at:: 2026-11-09
+file-updated-at:: 2026-11-12
 
 - ## Jaron Lanier on AI adoption, autonomy, and human control
 	- **Source**: Jaron Lanier, The New York Times guest essay, November 9, 2026. [I Am a Silicon Valley Pioneer. We Are Sabotaging Ourselves.](https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html)

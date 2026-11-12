@@ -1,5 +1,6 @@
 tags:: [[$GS]], [[Goldman-Sachs]], [[Anthropic]], [[Claude-Code]], [[$MSFT]], [[GitHub-Copilot]], [[$JPM]], [[banks]], [[enterprise-AI]], [[AI-coding]], [[vibe-coding]], [[AI-costs]], [[Bloomberg]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-02
+file-updated-at:: 2026-11-11
 
 - ## Goldman limits Claude Code and GitHub coding tools to engineers
 	- **Source**: Bloomberg, Todd Gillespie, "Goldman Restricts Traders and Bankers From Using Some AI Tools," Nov 2, 2026. It is based on internal guidance updated in October, a person familiar, and a Goldman spokesperson.

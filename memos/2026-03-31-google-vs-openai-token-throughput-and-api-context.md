@@ -1,4 +1,5 @@
 file-created-at:: 2026-03-31
+file-updated-at:: 2026-06-02
 
 - **Source**: Tweet/X chain from `@NaveenGRao`, `@SawyerMerritt`, `@downingARK`, and `@wintonARK` on `2026-03-31`
 - **Topic**: [[$GOOGL]] vs [[OpenAI]] token throughput, API demand, and what Google may be counting in its token disclosures

@@ -1,5 +1,6 @@
 tags:: [[TICKER]], [[sector]]
 file-created-at:: 2026-07-01
+file-updated-at:: 2026-07-01
 
 - **Company**: Company Name (TICKER)
 - **Date**: YYYY-MM-DD

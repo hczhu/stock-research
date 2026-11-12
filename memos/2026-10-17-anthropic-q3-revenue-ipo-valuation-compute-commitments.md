@@ -1,5 +1,6 @@
 tags:: [[Anthropic]], [[Claude-Code]], [[AI]], [[AI-labs]], [[IPO]], [[valuation]], [[revenue-growth]], [[profitability]], [[compute]], [[capex]]
 file-created-at:: 2026-10-17
+file-updated-at:: 2026-10-21
 
 - ## Anthropic: Revenue Scale Rises as IPO Expectations Reset
 

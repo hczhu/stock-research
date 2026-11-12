@@ -1,5 +1,6 @@
 tags:: [[$VNET]], [[China]], [[data-center]], [[AI infrastructure]], [[power]], [[hyperscalers]], [[capex]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## China’s Mega Data Centers: Inner Mongolia’s Integrated Buildout
 	- **Source**: Everlyn Tan, Jeremie Eliahou Ontiveros, Xiaopeng Laoban, and Dylan Patel, SemiAnalysis, “We Visited China’s Stargate in Inner Mongolia,” November 7, 2026; user-provided text.

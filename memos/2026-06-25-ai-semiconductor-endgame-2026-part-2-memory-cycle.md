@@ -1,5 +1,6 @@
 tags:: [[AI]], [[semiconductor]], [[HBM]], [[DRAM]], [[NAND]], [[SSD]], [[inference]], [[agents]], [[AI infrastructure]], [[CXMT]], [[YMTC]], [[super-cycle]]
 file-created-at:: 2026-06-25
+file-updated-at:: 2026-07-01
 
 - ## AI Semiconductor Endgame 2026 (Part 2): Can HBM / DRAM / SSD Escape Traditional Cycles?
 	- **Source**: user-provided Chinese article text, "AI半导体终局推演2026(II)"

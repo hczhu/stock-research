@@ -1,5 +1,6 @@
 tags:: [[$MU]], [[DRAM]], [[semiconductor]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## DRAM Exports: A Sharp Increase in Value per Kilogram
 	- **Source**: User-provided chart titled “DRAM (including modules) export value / export unit price.” Gray/red bars use the left axis, **US$ millions**; the black line uses the right axis, **dollars per kilogram**. The visible time axis runs from roughly May 2020 to May 2026. The image does not identify the publisher, exporting country, customs classifications, or whether the highlighted endpoint is final, preliminary, or forecast.

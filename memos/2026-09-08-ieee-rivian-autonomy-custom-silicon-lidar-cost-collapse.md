@@ -1,5 +1,6 @@
 tags:: [[$RIVN]], [[$TSLA]], [[$UBER]], [[$NVDA]], [[$TSM]], [[autonomous-vehicles]], [[robotaxi]], [[lidar]], [[ASIC]], [[automotive]], [[EV]], [[Waymo]], [[BYD]], [[subscriptions]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-09-08
+file-updated-at:: 2026-10-17
 
 - ## Rivian's Autonomy Stack: Custom Silicon Over Nvidia, Lidar at a Few Hundred Dollars, Tesla Undercut by Half
 	- **Source**: IEEE Spectrum feature on a Palo Alto demo ride in a Rivian R1S running Autonomy+, updated 8 September 2026. Quotes Rivian's Nick Nguyen (director, autonomy products and programs), Vidya Rajagopalan (SVP electrical engineering hardware), James Philbin (SVP autonomy), Prasun Raha and Mukund Chavan (engineers), CEO RJ Scaringe, and MIT's Bryan Reimer. Related: [[2026-10-09-waymo-dmitri-dolgov-autonomy-evaluation-moat]], [[2026-07-25-waymo-uber-trip-market-platform-thesis]], [[2025-11-18-stratechery-uber-robotaxis-suburbia]].

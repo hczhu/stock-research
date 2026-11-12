@@ -1,5 +1,6 @@
 tags:: [[$INTC]], [[$TSM]], [[EMIB]], [[CoWoS]], [[advanced-packaging]], [[semiconductor]], [[AI-compute]], [[HBM]], [[capex]]
 file-created-at:: 2026-11-03
+file-updated-at:: 2026-11-09
 
 - ## Intel EMIB vs. TSMC Advanced Packaging: Yield and Scale Are the Test
 	- **Source**: User-provided X screenshot quoting an unnamed “Intel expert”; claims are not independently verified and should be treated as channel checks, not company guidance.

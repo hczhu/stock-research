@@ -1,5 +1,6 @@
 tags:: [[$NOW]], [[ServiceNow]], [[ITSM]], [[workflow-automation]], [[Flow Designer]], [[CMDB]], [[AI]], [[agents]], [[Now Assist]], [[enterprise-software]], [[switching-costs]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## What a ServiceNow workflow is, and what it does for customers
 	- **Source**: ScreenMeet blog, "Unlocking the Future: How to Achieve AI-Powered ServiceNow Workflow Automation" (user-provided PDF, © 2026, undated).

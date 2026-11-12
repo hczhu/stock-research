@@ -1,4 +1,5 @@
 file-created-at:: 2026-04-09
+file-updated-at:: 2026-06-02
 
 # Estimated Sales of Humanoid Robots (China vs U.S., 2025-2030)
 

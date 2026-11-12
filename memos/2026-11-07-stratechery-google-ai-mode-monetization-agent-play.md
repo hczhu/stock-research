@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[$META]], [[AI]], [[agents]], [[advertising]], [[search]], [[capex]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## Google: A Monetization Transition Today, an Agent Business-Model Test Tomorrow
 	- **Source**: Ben Thompson, Stratechery, “Google Earnings, Facebook Déjà Vu, The Agent Play,” November 2, 2026; user-provided post. Supplemental verification and cash-flow context: [Alphabet’s Q3 2026 earnings-call transcript](https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx), October 28, 2026. Sponsor copy and unrelated podcast announcements are excluded.

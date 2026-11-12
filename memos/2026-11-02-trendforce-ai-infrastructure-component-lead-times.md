@@ -1,5 +1,6 @@
 tags:: [[semiconductor]], [[AI infrastructure]], [[data-center]], [[CPU]], [[GPU]], [[DRAM]], [[NAND]], [[HDD]], [[advanced-packaging]], [[supply]], [[MLCC]], [[$NVDA]], [[$AMD]], [[$INTC]], [[$MU]], [[$005930.KS]], [[$000660.KS]], [[$TSM]]
 file-created-at:: 2026-11-02
+file-updated-at:: 2026-11-03
 
 - ## TrendForce: AI Infrastructure Shortages Extend Beyond GPUs
 	- **Source**: TrendForce lead-time snapshot dated November 2, 2026, captured in a user-provided screenshot. The graphic reports current and “balanced” lead times, status, and supply-chain commentary; no direct report URL or underlying methodology is visible.

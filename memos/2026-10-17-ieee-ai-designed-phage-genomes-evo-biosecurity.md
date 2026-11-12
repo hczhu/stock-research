@@ -1,5 +1,6 @@
 tags:: [[AI]], [[biotech]], [[drug-discovery]], [[biosecurity]], [[healthcare]], [[life-sciences-tools]], [[$TWST]], [[foundation-models]], [[regulation]], [[ai-model:Opus5]], [[ai-effort:medium]]
 file-created-at:: 2026-10-17
+file-updated-at:: 2026-10-17
 
 - ## AI-Designed Phage Genomes: First Functional Result, but a 5% Hit Rate and 97% Copy Rate
 	- **Source**: IEEE Spectrum, October 2026 (p. 5-6), "Should We Worry About AI-Designed Viruses?" by Elie Dolgin. Covers the Stanford/Arc Institute result published in *Science* on 6 August 2026 (Brian Hie's Laboratory of Evolutionary Design), plus an independent reanalysis co-led by Oxford computational biochemist Oliver Crook. Extracted from user-provided photos of the printed pages.

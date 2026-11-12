@@ -1,5 +1,6 @@
 tags:: [[Anthropic]], [[Claude]], [[Cowork]], [[agents]], [[inference]], [[cloud]], [[product-strategy]], [[cybersecurity]]
 file-created-at:: 2026-10-21
+file-updated-at:: 2026-11-03
 
 - ## Claude Cowork: Moving Execution, Not Inference, to the Cloud
 	- **Source**: User-provided product explanation comparing old and new Cowork architectures; author, publication date, and original link not supplied. Product details below reflect that account, not independently verified rollout status.

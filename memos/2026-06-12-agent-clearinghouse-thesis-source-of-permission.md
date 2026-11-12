@@ -1,5 +1,6 @@
 tags:: [[AI]], [[enterprise-software]], [[agents]], [[SaaS]], [[governance]], [[$MSFT]], [[$CRM]], [[$SNOW]], [[$DBR]], [[moats]], [[system-of-record]], [[clearinghouse]]
 file-created-at:: 2026-06-12
+file-updated-at:: 2026-07-01
 
 - ## The Agent Clearinghouse — From "Source of Truth" to "Source of Permission"
 	- **Source**: VC blog post (likely Menlo or similar). Expands on an earlier (Dec 2025) post about "the fight to become the front door to systems of record."

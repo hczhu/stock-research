@@ -1,5 +1,6 @@
 tags:: [[$AAPL]], [[$GOOGL]], [[$MSFT]], [[AI]], [[agents]], [[multimodal]], [[product-design]], [[SaaS]], [[privacy]], [[human-in-the-loop]]
 file-created-at:: 2026-10-16
+file-updated-at:: 2026-10-16
 
 - ## Multimodal Agents: Intent Becomes the Interface
 

@@ -1,5 +1,6 @@
 tags:: [[$AAPL]], [[consumer electronics]], [[semiconductor]], [[A18-Pro]], [[MacBook]], [[DRAM]], [[TSMC]], [[gross-margin]], [[product-strategy]]
 file-created-at:: 2026-06-05
+file-updated-at:: 2026-06-05
 
 - ## Apple MacBook Neo — Reusing iPhone Silicon to Hit $599 in a DRAM Shortage
 	- **Source**: J.D. Hodges blog, "MacBook Neo Benchmarks Analysis" (jdhodges.com), benchmarks + cost teardown, May–June 2026

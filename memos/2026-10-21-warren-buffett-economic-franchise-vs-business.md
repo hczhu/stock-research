@@ -1,5 +1,6 @@
 tags:: [[Warren-Buffett]], [[Berkshire-Hathaway]], [[economic-franchise]], [[moat]], [[pricing-power]], [[return-on-capital]], [[management]]
 file-created-at:: 2026-10-21
+file-updated-at:: 2026-10-21
 
 - ## Economic Franchise vs. Business
 	- **Source**: Warren Buffett, Berkshire Hathaway 1991 Chairman’s Letter to Shareholders.

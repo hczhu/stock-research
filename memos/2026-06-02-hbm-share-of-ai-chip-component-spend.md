@@ -1,5 +1,6 @@
 tags:: [[HBM]], [[DRAM]], [[AI infrastructure]], [[$NVDA]], [[$AMD]], [[$GOOGL]], [[$AMZN]], [[$MSFT]], [[$META]], [[semiconductor]]
 file-created-at:: 2026-06-02
+file-updated-at:: 2026-06-03
 
 - ## HBM Share Of AI Chip Component Spend
 	- **Source**:

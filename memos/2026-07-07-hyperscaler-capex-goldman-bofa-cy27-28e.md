@@ -1,5 +1,6 @@
 tags:: [[AI-capex]] [[hyperscalers]] [[$GOOG]] [[$META]] [[$AMZN]] [[$MSFT]] [[$ORCL]] [[$DRAM]] [[$SOXX]] [[$TSM]] [[$DDOG]] [[$NET]] [[semiconductors]] [[data-center]] [[Goldman-Sachs]] [[BofA]]
 file-created-at:: 2026-07-07
+file-updated-at:: 2026-07-07
 
 -
 - ## Hyperscaler capex — Goldman & BofA estimates (CY20–28E)

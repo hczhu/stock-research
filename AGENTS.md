@@ -1,4 +1,5 @@
 file-created-at:: 2026-09-14
+file-updated-at:: 2026-11-12
 
 # AGENTS.md
 
@@ -61,6 +62,19 @@ file-created-at:: 2024-06-15
 - **Value** — the creation date as `YYYY-MM-DD`. When the filename carries a date (`YYYY-MM-DD-topic.md`), use the **earlier** of the filename date and the file's creation timestamp; otherwise use the creation timestamp.
 
 Backfilled across the repo on 2026-09-23.
+
+## `file-updated-at::` Property
+
+Every `.md` file also carries the date its content last changed, on the line directly under `file-created-at::` in the same unbulleted page-property block:
+
+```
+file-created-at:: 2024-06-15
+file-updated-at:: 2026-11-12
+```
+
+- **Update it whenever you change a file's content**: set it to today's date (`YYYY-MM-DD`) in the same commit. New files get the same date as `file-created-at::`.
+- **Purely mechanical edits don't count**: repo-wide tag renames, reformatting or property backfills leave it unchanged.
+- **Backfilled on 2026-11-12** from each file's most recent git commit (following renames). Bulk mechanical commits were skipped, and the date never precedes `file-created-at::`.
 
 ## AI Model and Effort Tags for New Files
 

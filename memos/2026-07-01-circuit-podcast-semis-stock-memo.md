@@ -1,5 +1,6 @@
 tags:: [[$MU]] [[$QCOM]] [[$NVDA]] [[$ARM]] [[Cerebras]] [[DRAM]] [[HBM]] [[data-center]] [[inference]] [[semiconductor]]
 file-created-at:: 2026-07-01
+file-updated-at:: 2026-07-01
 
 -
 - ## Circuit podcast semis stock memo

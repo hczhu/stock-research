@@ -1,5 +1,6 @@
 tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]]
 file-created-at:: 2026-10-16
+file-updated-at:: 2026-11-11
 
 - ## Google Makes ARM a Fleet-Wide Software Option
 

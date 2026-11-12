@@ -1,5 +1,6 @@
 tags:: [[PostgreSQL]], [[Databricks]], [[open-source]], [[databases]], [[AI-bug-finding]], [[cybersecurity]], [[software-quality]], [[code-review]], [[maintenance]], [[$SNOW]], [[$MDB]], [[$AMZN]], [[$MSFT]], [[$GOOGL]], [[Anthropic]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-06
+file-updated-at:: 2026-11-06
 
 - ## Postgres 19 is late because LLMs find bugs faster than humans can fix them
 	- **Source**: Robert Haas (Sr. Staff Software Engineer at Databricks; PostgreSQL major contributor and committer), blog post "Postgres 19 is late, and it's AI's fault," Oct 30, 2026. Commit counts are his. Percentages are computed from them. Related: [[2026-05-28-michael-burry-sw50-part2-productivity-cybersecurity]] (Anthropic's Mythos/Glasswing vulnerability hardening), [[2026-10-28-databricks-ali-ghodsi-future-of-firm]] (Lakebase / Neon Postgres), [[2026-09-13-casey-muratori-performance-games-engines-as-ai-preview]], [[2026-03-28-stack-overflow-professional-developers-database-popularity-2024-2025]].

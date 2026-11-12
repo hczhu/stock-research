@@ -1,4 +1,5 @@
 file-created-at:: 2026-05-20
+file-updated-at:: 2026-06-02
 
 # Claude Opus 4.6 Provider Performance (OpenRouter)
 

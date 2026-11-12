@@ -1,5 +1,6 @@
 tags:: [[BYD]], [[$TSLA]], [[EV]], [[automotive]], [[China]], [[Europe]], [[Volkswagen]], [[batteries]], [[vertical-integration]], [[industrial-policy]], [[Fortune]], [[ai-model:Opus5]], [[ai-effort:high]]
 file-created-at:: 2025-08-15
+file-updated-at:: 2026-10-18
 
 - ## BYD Won the Volume War; the Profit Case Depends on Exporting a Cost Structure That Localization Erodes
 	- **Source**: Vivienne Walt, "BYD Beat Tesla. Now It's in the Driver's Seat," Fortune Global 500 issue, August/September 2025; photographed print pages 64–69. [Online version, August 15, 2025](https://fortune.com/2025/08/15/byd-ev-europe-expansion-stella-li-tesla-elon-musk/). The photographed publication is Fortune, not Forbes. Quotes Stella Li (BYD EVP, CEO of BYD Americas and Europe), Felipe Munoz (JATO Dynamics), Stephen Dyer (AlixPartners), Sándor Nagy (deputy mayor of Szeged). Related: [[2026-07-19-europe-ev-chinese-oem-share-volkswagen-restructuring]], [[2026-06-08-unitree-humanoid-robotics-dji-byd-playbook-semianalysis]].

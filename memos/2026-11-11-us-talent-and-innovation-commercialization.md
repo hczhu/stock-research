@@ -1,5 +1,6 @@
 tags:: [[macro]], [[United-States]], [[AI-talent]], [[AI]], [[venture-capital]], [[innovation]], [[ai-model:gpt-6.1-sol]], [[ai-effort:medium]]
 file-created-at:: 2026-11-11
+file-updated-at:: 2026-11-12
 
 - ## 美国科技公司的长期优势：人才流入与创新商业化
 	- **来源**：用户提供的知乎答文，由「经营有数」撰写。文中数据另引美国国家科学基金会、世界银行和相关研究。 [知乎作者主页](https://www.zhihu.com/people/46-71-98-69-73)

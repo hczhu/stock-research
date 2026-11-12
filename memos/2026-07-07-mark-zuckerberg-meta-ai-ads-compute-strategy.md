@@ -1,5 +1,6 @@
 tags:: [[$META]], [[AI]], [[ads]], [[advertising]], [[capex]], [[compute]], [[data-center]], [[cloud]], [[Reality-Labs]], [[Instagram]], [[WhatsApp]], [[Reels]], [[consumer-internet]], [[corporate-strategy]], [[Stratechery]]
 file-created-at:: 2026-07-07
+file-updated-at:: 2026-07-13
 
 - ## A Script for Mark Zuckerberg: Meta's AI and Advertising Strategy
 	- **Source**: Ben Thompson, ["A Script for Mark Zuckerberg"](https://stratechery.com/2026/a-script-for-mark-zuckerberg/), Stratechery, July 7, 2026.

@@ -1,5 +1,6 @@
 tags:: [[$TKO]], [[$META]], [[$AMZN]], [[$GOOGL]], [[$SNAP]], [[$NFLX]], [[Stratechery]], [[AI]], [[advertising]], [[sports]], [[live-events]], [[streaming]], [[SaaS]], [[talent]], [[media]]
 file-created-at:: 2026-10-15
+file-updated-at:: 2026-10-16
 
 - ## AI Raises the Value of Live Rights, Attention, and Scarce Taste
 	- **Source**: Ben Thompson, “A Conversation With Ari Emanuel About Entertainment and AI,” Stratechery, October 15, 2026. User-provided transcript of Thompson’s conversation with WME Group Executive Chairman and [[$TKO]] Executive Chair and CEO Ari Emanuel.

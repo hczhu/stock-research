@@ -1,5 +1,6 @@
 tags:: [[$005930.KS]], [[DRAM]], [[Taiwan]], [[revenue]], [[semiconductor]]
 file-created-at:: 2026-04-09
+file-updated-at:: 2026-06-02
 
 - ## Supreme Electronics (Samsung Taiwan Memory Distributor) — March & Q1 2026 Revenue Surge
 	- **Source**: Media report via Supreme Electronics monthly revenue disclosure, April 2026

@@ -1,5 +1,6 @@
 tags:: [[$META]], [[Meta]], [[Muse-Spark]], [[open-weight-models]], [[AI-policy]], [[AI]], [[model-labs]], [[agents]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-03
+file-updated-at:: 2026-11-10
 
 - ## Muse Spark Open: open weights, conditional commercial rights
 	- **Thesis**: Meta’s custom Muse Model License makes the weights available but adds attribution, acceptable-use, and model-as-a-service conditions that may narrow third-party adoption and downstream innovation versus permissively licensed open-weight models. The trade-off is strategic: the license may reserve leverage over large hosted deployments, but its complexity risks making Muse Spark Open less attractive as a foundation for products and derivative models.

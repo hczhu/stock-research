@@ -1,5 +1,6 @@
 tags:: [[DRAM]], [[NAND]], [[semiconductor]], [[AI]], [[foundry]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$TSM]], [[ai-model:GPT-6 Astra]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
+file-updated-at:: 2026-11-10
 
 - ## 存储周期与 3D DRAM 技术更替——群聊观点摘录
 	- **来源** — 用户提供的四张“半导体软件 ai 高科技(5)”微信群聊截图，主要发言人为“凯”。截图未显示聊天日期，本文日期为整理日期。图片四包含对群联电子潘健成言论的二手转述，未附原始报道或访谈。

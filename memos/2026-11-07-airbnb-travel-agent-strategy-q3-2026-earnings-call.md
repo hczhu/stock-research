@@ -1,5 +1,6 @@
 tags:: [[$ABNB]], [[AI]], [[agents]], [[travel]], [[marketplace]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
 file-created-at:: 2026-11-07
+file-updated-at:: 2026-11-10
 
 - ## Airbnb’s Travel Agent Strategy — Q3 2026 Earnings Call
 	- **Source**: Brian Chesky and Airbnb management, Q3 2026 earnings call, November 5, 2026; [corrected transcript](https://s26.q4cdn.com/656283129/files/content_files/Airbnb-Q3-2026-Earnings-Call-Transcript.pdf).

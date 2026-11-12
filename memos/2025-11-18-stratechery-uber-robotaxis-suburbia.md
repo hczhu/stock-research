@@ -1,5 +1,6 @@
 tags:: [[$UBER]], [[$NVDA]], [[$TSLA]], [[$AMZN]], [[Waymo]], [[Zoox]], [[autonomous-vehicles]], [[Stratechery]], [[marketplace]], [[network-effects]], [[mobility]], [[delivery]], [[unit-economics]], [[TAM]], [[capex]]
 file-created-at:: 2025-11-18
+file-updated-at:: 2026-07-30
 
 - ## Uber's Robotaxi Risk: From Aggregator to Potentially Disrupted Incumbent
 	- **Source**: Ben Thompson, Stratechery, “Robotaxis and Suburbia,” November 18, 2025 — https://stratechery.com/2025/robotaxis-and-suburbia/

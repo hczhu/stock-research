@@ -1,5 +1,6 @@
 tags:: [[$AMZN]], [[management]], [[culture]], [[governance]], [[organizational-design]]
 file-created-at:: 2026-10-19
+file-updated-at:: 2026-11-03
 
 - ## How Amazon Uses Tenets to Decentralize and Lock In Decisions
 	- **Source**: David Anderson (ex-Amazon Tech Director and GM), *Scarlet Ink* newsletter, "How Amazon Uses Tenets to Make Better Decisions at Every Level," October 19, 2026 (free-tier excerpt provided by user).

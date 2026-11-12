@@ -1,5 +1,6 @@
 tags:: [[AI infrastructure]], [[GPU]], [[H100e]], [[$NVDA]], [[OpenAI]], [[Anthropic]], [[xAI]], [[$GOOGL]], [[$META]], [[compute]], [[capex]]
 file-created-at:: 2026-06-03
+file-updated-at:: 2026-06-03
 
 - ## Frontier Labs GPU Compute Capacity Share
 	- **Source**:

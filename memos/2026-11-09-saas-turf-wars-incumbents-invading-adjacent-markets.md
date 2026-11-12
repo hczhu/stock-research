@@ -1,5 +1,6 @@
 tags:: [[SaaS]], [[enterprise-software]], [[competition]], [[platform-consolidation]], [[CRM]], [[ITSM]], [[$NOW]], [[ServiceNow]], [[$CRM]], [[Salesforce]], [[$TEAM]], [[Atlassian]], [[Jira Service Management]], [[AI]], [[agents]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-09
+file-updated-at:: 2026-11-09
 
 - ## SaaS turf wars: mature software platforms are growing by invading each other's core markets
 	- **Source**: ServiceNow Q3 2026 investor presentation slide, "Trailing Twelve Month Net New ACV Contribution Across Workflows and Products" (user-provided image), plus CRM details from the Q2 2026 call in [[NOW-2026-Q2]]. Atlassian JSM evidence comes from [[TEAM-2026-Q1]] and [[TEAM-2026-Q2]] (Atlassian fiscal Q3 and Q4 FY26, i.e. calendar Q1 and Q2 2026). Related: [[2026-10-27-servicenow-repvue-sales-sentiment-and-retention]], [[2026-10-28-databricks-ali-ghodsi-future-of-firm]], [[2026-03-28-us-saas-median-growth-rate-by-quarter-2019-2025-estimated]], [[2026-03-28-saas-ten-moats-destroyed-weakened-intact-stronger]].

@@ -1,5 +1,6 @@
 tags:: [[$TSM]], [[TSMC]], [[$NVDA]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[DRAM]], [[3D-DRAM]], [[HBM]], [[SRAM]], [[embedded-memory]], [[oxide-semiconductor]], [[BEOL]], [[SoIC]], [[hybrid-bonding]], [[GUC]], [[foundry]], [[ai-model:Opus5.5]], [[ai-effort:medium]]
 file-created-at:: 2026-11-08
+file-updated-at:: 2026-11-08
 
 - ## TSMC "entering DRAM": most likely embedded cache memory, not a fourth commodity DRAM maker
 	- **Source**: User-provided bundle: (1) an industry commentator's rebuttal (unnamed, citing conversations with industry experts) of the claim that TSMC will disrupt the big three; (2) Tom's Hardware, Anton Shilov, "TSMC denies exploring 3D DRAM at Nvidia's request" (Nov 7, 2026); (3) Reuters summary (Nov 6, 2026) of The Information's original report. The Information's claims rest on two unnamed people; TSMC's statement is on the record. Related: [[2026-09-04-hbm-base-die-becomes-a-foundry-business]], [[2026-07-03-sram-renewed-life-ai-memory-architecture]], [[2026-06-07-dram-deep-dive-hbm-3d-dram-memo]], [[2026-11-08-memory-cycle-3d-dram-tsmc-wechat-discussion]], [[2026-11-05-veteran-investor-memory-pe3-not-cheap-lta-skepticism]].

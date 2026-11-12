@@ -1,5 +1,6 @@
 tags:: [[Anthropic]], [[Claude]], [[AI]], [[ARR]], [[AI infrastructure]], [[SaaS]]
 file-created-at:: 2026-06-02
+file-updated-at:: 2026-09-06
 
 - ## Anthropic ARR Growth Milestones
 	- **Source**:

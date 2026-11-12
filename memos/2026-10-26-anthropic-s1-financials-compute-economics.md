@@ -1,5 +1,6 @@
 tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]]
 file-created-at:: 2026-10-26
+file-updated-at:: 2026-10-27
 
 - ## Anthropic S-1: Hypergrowth Converts Compute Into Operating Leverage
 

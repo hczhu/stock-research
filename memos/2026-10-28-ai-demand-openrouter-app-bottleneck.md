@@ -1,5 +1,6 @@
 tags:: [[AI]], [[AI infrastructure]], [[inference]], [[OpenRouter]], [[DeepSeek]], [[open-weight-models]], [[GPU]], [[$NVDA]], [[applications]], [[demand]]
 file-created-at:: 2026-10-28
+file-updated-at:: 2026-10-28
 
 - ## AI Demand: Infrastructure Buying Is Ahead of Broad Application Demand
 	- **Source**: User-supplied market observation, October 28, 2026. The OpenRouter traffic and GB300 capacity estimates are directional and have not been independently verified.

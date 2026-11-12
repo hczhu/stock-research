@@ -1,5 +1,6 @@
 tags:: [[Anthropic]], [[OpenAI]], [[ARR]], [[revenue]], [[enterprise]], [[model-adoption]], [[Ramp]], [[tokenomics]], [[AI]], [[pricing]]
 file-created-at:: 2026-08-28
+file-updated-at:: 2026-09-06
 
 - ## FT revenue figures for Anthropic and OpenAI, plus the Ramp AI Index model mix
 	- **Source**: Simon Willison's notes on a *Financial Times* story, with figures the FT attributes to **"people with knowledge of the matter"** — unaudited, company-supplied, and not defined in the article. Includes the July 2026 **Ramp AI Index** model-spend breakdown for Anthropic.

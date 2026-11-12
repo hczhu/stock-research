@@ -1,4 +1,5 @@
 file-created-at:: 2026-03-28
+file-updated-at:: 2026-06-02
 
 ## SAP pushes AI to its customers with FDE
 - ### Joule, SAP's AI copilot

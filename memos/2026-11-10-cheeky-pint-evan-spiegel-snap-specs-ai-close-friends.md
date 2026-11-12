@@ -1,5 +1,6 @@
 tags:: [[$SNAP]], [[Snap]], [[Evan-Spiegel]], [[Specs]], [[AR]], [[augmented-reality]], [[smart-glasses]], [[wearables]], [[messaging]], [[social-media]], [[subscriptions]], [[Snapchat-Plus]], [[AI-coding]], [[distribution]], [[teen-safety]], [[content-moderation]], [[$META]], [[$AAPL]], [[$GOOGL]], [[podcast]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
+file-updated-at:: 2026-11-10
 
 - ## Evan Spiegel on Cheeky Pint: Specs, AI-written code and why close friends beat network size
 	- **Source**: *Cheeky Pint* podcast, John Collison (Stripe) with Snap CEO Evan Spiegel. User-provided auto-generated transcript, undated. Spiegel says Specs reach consumers "later this year," so it was recorded in 2026 before launch.

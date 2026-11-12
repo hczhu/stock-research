@@ -1,5 +1,6 @@
 tags:: [[OpenAI]], [[$NVDA]], [[$AVGO]], [[$AMD]], [[Cerebras]], [[Celestica]], [[Samsung]], [[$TSM]], [[$ANET]], [[custom-silicon]], [[ASIC]], [[inference]], [[HBM]], [[networking]], [[perf-per-watt]], [[TCO]], [[semiconductor]]
 file-created-at:: 2026-08-25
+file-updated-at:: 2026-09-01
 
 - ## SemiAnalysis on Jalapeño: the primary source — spec tables, TCO, and why the win is bandwidth per watt, not FLOPs
 	- **Source**: SemiAnalysis, **"OpenAI Jalapeño: Better Than Nvidia Blackwell"**, Bryan Shan, Myron Xie, Jordan Nanos and three others, **August 25, 2026** (paywalled). OpenAI invited SemiAnalysis to its lab to benchmark the chip with **InferenceX**.
