@@ -1,4 +1,4 @@
-tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]], [[$NVDA]], [[Graviton]], [[Cobalt]], [[market-share]]
+tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]], [[$NVDA]], [[Graviton]], [[Cobalt]], [[market-share]], [[PC]], [[Googlebook]], [[RTX-Spark]]
 file-created-at:: 2026-10-16
 file-updated-at:: 2026-11-12
 
@@ -55,7 +55,7 @@ file-updated-at:: 2026-11-12
 		  | Test execution environment | 11 / 89 | 12% |
 		  | **Total** | **73 / 245** | **30%** |
 		- **Design**: three nested agent loops. An orchestrator calls a build-fixer agent and a test-fixer agent. Each one edits files until its target builds or its test passes, or it gives up.
-- ## Arm's share of top-hyperscaler servers: Q2 FY27 results, Nov 4, 2026
+- ## Arm's share of hyperscaler servers and PCs: Q2 FY27 results, Nov 4, 2026
 
 	- **Source**: Arm, Q2 FYE27 results (quarter ended Sept 30, 2026), published Nov 4, 2026; user-provided excerpt, checked against Arm's newsroom post. These figures are Arm's own and are not independently audited.
 	- ^^**"Arm-based server market share at the top hyperscalers more than tripled—from 15% in calendar 2024 to more than 50% in calendar 2025. Based on current ramps across Google Axion, AWS Graviton, Microsoft Cobalt, and NVIDIA platforms, we expect that share to exceed 60% by the end of calendar 2026."**^^
@@ -69,6 +69,12 @@ file-updated-at:: 2026-11-12
 	- *My note*: Arm doesn't define the share. It doesn't say which hyperscalers count as "top," or whether it counts units, sockets, cores or new deployments rather than the installed base. A 15% to 50%+ jump in one year looks more like a share of new server shipments than of the installed fleet.
 	- *My note*: including "NVIDIA platforms" means part of the gain is Grace CPUs shipped inside GB200/GB300 racks. That share rides on AI accelerator purchases and isn't x86 being displaced in general-purpose compute. Arm doesn't split the two.
 	- *My note*: this is the market-share data the CACM paper lacks. Google's 75% of CPU cycles with Arm-ready software shows the software barrier falling. Arm's numbers suggest hyperscalers are already buying on that basis.
+	- **PCs and consumer compute**:
+		- ^^**"Arm-based PCs have now reached approximately 20% of global shipments, reflecting growing adoption of Arm in personal computing."**^^
+		- **Googlebook**: Google introduced a new category of AI-native laptops built for Gemini Intelligence. Arm is "a primary compute platform for many models," so not all of them.
+		- **NVIDIA RTX Spark**: NVIDIA's Arm-based PC chip, which Arm says extends its reach into local AI, content creation and gaming. See [[2026-06-04-stratechery-nvidia-ai-pc-microsoft-solara-mai]] and [[2026-06-03-sinofsky-nvidia-spark-ai-pc-platform-shift]].
+		- *My note*: Arm doesn't break out Apple. Macs have run entirely on Arm since Apple finished its M-series transition, so they likely make up a large part of the 20%. The share that comes from x86 is the non-Apple part: Windows on Snapdragon, RTX Spark and Googlebook. Arm gives no number for it.
+		- *My note*: Arm's share of PCs (about 20%) is far below its share of hyperscaler servers (more than 50%). A hyperscaler controls its own software stack and can port it, as Google's migration shows. PC makers depend on third-party Windows apps and games running well on Arm, which they don't control. RTX Spark's gaming pitch tests exactly that.
 - ## From x86 Dependence to Mixed-Architecture Fleets
 
 	- **Broader trend, narrower measurement**: The authors identify Amazon, Google, and Microsoft as hyperscalers migrating large codebases from x86 to ARM. Only Google's migration is quantified here; this is not an industry market-share survey. For Arm's own share figures, see the Q2 FY27 section above.
