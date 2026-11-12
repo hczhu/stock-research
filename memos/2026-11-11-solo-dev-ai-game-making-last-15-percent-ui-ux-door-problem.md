@@ -1,0 +1,69 @@
+tags:: [[AI-coding]], [[vibe-coding]], [[video-games]], [[game-development]], [[UI-UX]], [[design]], [[Anthropic]], [[Claude]], [[Opus-5.5]], [[SaaS]], [[$TTWO]], [[$RBLX]], [[$U]], [[$FIG]], [[The-Door-Problem]], [[Liz-England]], [[X-post]], [[ai-model:Opus5.5]], [[ai-effort:high]]
+file-created-at:: 2026-11-11
+
+- ## AI can get a game to 85%. The last 15% (taste, gameplay feel and UI) is still human
+	- **Sources**:
+		- **Main**: an X post by a developer with a software engineering background who is building a AAA-style game with Claude Opus 5.5. The author's name was not included in the paste. It is one practitioner's self-reported experience.
+		- **Quoted post**: Di Huang (@dihuang111): friends who think AI will make AAA games possible "in just a couple of months" are "seriously underestimat[ing] how complex game development is."
+		- **Reference**: Liz England, "The Door Problem," lizengland.com, Apr 21, 2014 (user-provided screenshots).
+	- **Thesis**: AI is driving the cost of game *production* toward zero, but not the cost of game *quality*.
+		- Code, engine and assets get to about 85%. The final 15% (gameplay feel, custom UI and consistency) still takes human taste and detailed specification.
+		- Games are harder for AI than SaaS. Users tolerate jank in a work app because it pays off for them; a player leaves at the first irritant.
+		- The likely result is a flood of nearly finished games, with value moving to the scarce inputs: taste, IP and distribution. AI does not displace the studios that can supply the last 15%.
+	- Related: [[2025-07-23-lex-fridman-demis-hassabis-agi-predictions]], [[2026-09-13-casey-muratori-performance-games-engines-as-ai-preview]], [[2026-10-21-willison-vibe-coding-static-web-games-model-familiarity]].
+- ## The practitioner's evidence
+	- **Leverage**: about **6 weeks**, mostly after hours and on weekends, produced what the author estimates is "the equivalent work of a 10-person studio working for ~6 months." They add: "there's definitely a lot more work to go before this is a real game."
+	- **Model threshold**: the project started just before Opus 5.5 launched, "when attempts with Astra just couldn't cut it." Opus 5.5 "can do many of the coding tasks." "Fable and Astra can't do it."
+	- **The quality curve**:
+		- A lazy prompt gives blocky graphics and barely-working gameplay, about 50%.
+		- Iterating with detailed specs gets to about **85%**: "playable, can generate impressive screenshots and maybe even gameplay clips."
+		- "That last 15% or so still needs hand-tuning and human taste-making." Feeding the model "every game design and UI/UX guide you can find" still produces only "kind of workable."
+	- **Where AI does well**: the engine. Given the author's software engineering background, it is "quite well-optimized even with tons and tons of moving things and physics."
+	- **Where it fails: custom UI**:
+		- For common functions, the model reaches for a UI template.
+		- For unusual, fun mechanics, the UI has to "engage the user's intuition," show responsiveness and progress, and handle the corner cases ("fun often involves corner cases"). The model gets parts of this wrong.
+		- It ignores important details even in a precise sketch "because it simply didn't realize those details were key." Example: drawing two elements next to each other "literally means they need to be next to each other."
+		- The author's diagnosis: the AI "doesn't have the interiority of a human user."
+	- **Problems a demanding player would flag**:
+		- Buttons slightly out of alignment.
+		- Inconsistent icons for the same action.
+		- A tree or shadow that looks wrong from one angle.
+		- Elements that behave janky under some conditions.
+		- Lag when the screen gets busy.
+	- **Conclusion**: "No AAA game studio would ship what AI produces today."
+- ## Why games are harder for AI than SaaS
+	- **Work apps get forgiven**: "as long as your economic value gained is high enough, you'll tolerate bugs and UI imperfections and lag, even outright illogical app behavior." The author has "like a dozen vibe-coded utility apps" that do their job and aren't worth polishing.
+	- **Games don't**: "your willingness to continue doing so rests entirely on the quality of the experience." With any irritant, "you don't have any incentive to keep going."
+	- **One person now covers every role**:
+		- The good news: one person can be the gameplay designer, art director, engine developer and interface designer, with AI doing the tasks.
+		- The bad news: one person *has to* be all of them, and later the marketer too.
+		- The bottleneck becomes the human's range across disciplines. The author admits "I don't even know the right terminology to describe a lot of the art/graphics things I want to see."
+	- **A reversal in who is valued**: the old tech-company ranking was backend > frontend > visual designer > UI/UX. Now "the AI does everything else but it still can't design a great interface worth a damn." The author adds: "to the UI/UX designers I knew: I owe you an apology."
+- ## The Door Problem: why the spec is the hard part
+	- England's point is that even a door carries dozens of design decisions:
+		- Can every door open, or are some decoration? How does the player tell the difference?
+		- What signals locked-but-openable versus never-openable? Does it take a key, a hacked console, a puzzle or a story beat?
+		- Do doors lock behind the player? With two players, does a door lock only after both pass through?
+		- If the level is too big to load at once, what happens to the player left behind? Do you block progress, or teleport them?
+		- What happens when co-op partners or allies block the doorway?
+		- "SOMEONE has to solve The Door Problem, and that someone is a designer."
+	- **Roles at a big studio that touch the same door**: creative director, project manager, designer, concept artist, art director, environment artist, animator, sound designer, audio engineer, composer, VFX artist (partly hidden in the screenshot), writer and lighter. Each owns a slice.
+	- *My note*: AI now covers most of the *execution* roles (environment art, animation, sound, VFX, code). The practitioner's experience says it does not cover the *designer* role: deciding all the edge cases and how they should feel. That role is the one with the most judgment and the least training data.
+- ## My notes
+	- **Practitioner evidence against fully generated AAA games in five years**:
+		- Hassabis predicted generative open-world games within "five, 10 years" ([[2025-07-23-lex-fridman-demis-hassabis-agi-predictions]]). The emphasis there was on infinite *assets*.
+		- This builder says assets and code are the easy part. The bottleneck is taste: gameplay feel, UI intuition and consistency across thousands of small details.
+		- That favors incumbents with design talent and IP, such as $TTWO, more than the "hand-built content moat erodes" reading I gave in the Hassabis memo. AI cuts the cost of the 85%. The last 15% is still where hits are made.
+	- **Supply floods, and value moves to distribution**:
+		- If one person can match about 60 studio-months in six part-time weeks, the number of nearly finished indie games explodes.
+		- This repeats Muratori's licensable-engine experiment: when production gets commoditized, value moves to discovery and distribution ([[2026-09-13-casey-muratori-performance-games-engines-as-ai-preview]]).
+		- That's good for platforms that control discovery, such as $RBLX and Steam. It's bad for the median developer's economics. On Roblox's AI creation tools and their effect on game supply, see [[2026-07-23-roblox-ai-feed-creator-tools-games-safety]].
+	- **The flip side for SaaS**:
+		- The same argument says AI-built software is already good enough wherever users tolerate jank, which describes internal tools and simple work apps.
+		- The author's dozen unpolished utility apps are small-scale evidence that AI-built tools replace low-end SaaS ([[2026-07-27-vibe-coding-demand-destruction-vs-saas-operating-cost]]).
+		- Products sold on experience quality (consumer apps, games, design-led tools) are less exposed.
+	- **UI/UX taste as the last human bottleneck**:
+		- This supports the value of professional design work and the tools designers live in ($FIG, [[2026-06-02-figma-anthropic-claude-design-differentiation]]).
+		- One counterpoint: the failure is that the model misses which details matter, and the author says "subsequent models will be better (they often are)."
+		- If the next model closes that gap, both this thesis and the case for human designers weaken quickly.
+	- **Model differentiation**: one anecdote, but a specific one. Opus 5.5 crossed a usability threshold for a complex game that Astra and Fable did not. That is consistent with Anthropic's lead in coding-heavy agentic work.
