@@ -1,6 +1,6 @@
-tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]]
+tags:: [[$GOOGL]], [[$ARM]], [[$INTC]], [[$AMD]], [[$AMZN]], [[$MSFT]], [[CPU]], [[x86]], [[ISA]], [[hyperscalers]], [[data-center]], [[semiconductor]], [[agents]], [[developer-tools]], [[Axion]], [[Google-Cloud]], [[AI-coding]], [[$NVDA]], [[Graviton]], [[Cobalt]], [[market-share]]
 file-created-at:: 2026-10-16
-file-updated-at:: 2026-11-11
+file-updated-at:: 2026-11-12
 
 - ## Google Makes ARM a Fleet-Wide Software Option
 
@@ -55,9 +55,23 @@ file-updated-at:: 2026-11-11
 		  | Test execution environment | 11 / 89 | 12% |
 		  | **Total** | **73 / 245** | **30%** |
 		- **Design**: three nested agent loops. An orchestrator calls a build-fixer agent and a test-fixer agent. Each one edits files until its target builds or its test passes, or it gives up.
+- ## Arm's share of top-hyperscaler servers: Q2 FY27 results, Nov 4, 2026
+
+	- **Source**: Arm, Q2 FYE27 results (quarter ended Sept 30, 2026), published Nov 4, 2026; user-provided excerpt, checked against Arm's newsroom post. These figures are Arm's own and are not independently audited.
+	- ^^**"Arm-based server market share at the top hyperscalers more than tripled—from 15% in calendar 2024 to more than 50% in calendar 2025. Based on current ramps across Google Axion, AWS Graviton, Microsoft Cobalt, and NVIDIA platforms, we expect that share to exceed 60% by the end of calendar 2026."**^^
+	- | Period | Arm-based share of servers at the top hyperscalers |
+	  | --- | --- |
+	  | Calendar 2024 | **15%** |
+	  | Calendar 2025 | **More than 50%** (more than 3×) |
+	  | End of calendar 2026 (Arm's forecast) | **More than 60%** |
+	- **Royalties**: data center royalties **doubled year over year**. Total royalty revenue for the quarter was \$670 million.
+	- **Named drivers**: Google Axion, AWS Graviton, Microsoft Cobalt and NVIDIA platforms.
+	- *My note*: Arm doesn't define the share. It doesn't say which hyperscalers count as "top," or whether it counts units, sockets, cores or new deployments rather than the installed base. A 15% to 50%+ jump in one year looks more like a share of new server shipments than of the installed fleet.
+	- *My note*: including "NVIDIA platforms" means part of the gain is Grace CPUs shipped inside GB200/GB300 racks. That share rides on AI accelerator purchases and isn't x86 being displaced in general-purpose compute. Arm doesn't split the two.
+	- *My note*: this is the market-share data the CACM paper lacks. Google's 75% of CPU cycles with Arm-ready software shows the software barrier falling. Arm's numbers suggest hyperscalers are already buying on that basis.
 - ## From x86 Dependence to Mixed-Architecture Fleets
 
-	- **Broader trend, narrower measurement**: The authors identify Amazon, Google, and Microsoft as hyperscalers migrating large codebases from x86 to ARM. Only Google's migration is quantified here; this is not an industry market-share survey.
+	- **Broader trend, narrower measurement**: The authors identify Amazon, Google, and Microsoft as hyperscalers migrating large codebases from x86 to ARM. Only Google's migration is quantified here; this is not an industry market-share survey. For Arm's own share figures, see the Q2 FY27 section above.
 	- **Coexistence rather than a one-time replacement**: Google enables simultaneous x86 and ARM support. Its scheduler can place eligible workloads on either architecture, preserving flexibility rather than forcing every service off x86.
 	- **Utilization requires breadth**: An ARM server can remain underused if only a few large applications can run on it. Porting smaller workloads lets the scheduler pack jobs across available capacity; software eligibility is therefore part of the hardware-utilization equation.
 	- **Shared fixes have leverage**: Early migrations of Spanner, BigQuery, and Bigtable exposed common dependency and configuration issues. Fixing a shared dependency could unblock many applications at once, making subsequent migrations more scalable.
