@@ -1,5 +1,6 @@
 tags:: [[MediaTek]], [[$2454.TW]], [[earnings]], [[AI-accelerators]], [[ASIC]], [[custom-silicon]], [[data-center]], [[TPU]], [[$GOOGL]], [[$NVDA]], [[NVLink-Fusion]], [[UALink]], [[EMIB-T]], [[$INTC]], [[$TSM]], [[advanced-packaging]], [[SerDes]], [[CPO]], [[HBM]], [[$AVGO]], [[edge-AI]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-12
+file-updated-at:: 2026-11-12
 
 - ## MediaTek 3Q26 Earnings — AI ASIC Ramp Begins, 2027 Aimed at ~\$16B
 	- **Source** — MediaTek 3Q26 press release and earnings-call transcript (Oct 30, 2026). All NT$ figures converted to US$ at MediaTek's stated average rates: **31.99** (3Q26), **31.60** (2Q26), **29.95** (3Q25); 4Q26 guidance at the company's **31.7** forecast rate. Balance-sheet items use the 3Q26 average rate as an approximation.
