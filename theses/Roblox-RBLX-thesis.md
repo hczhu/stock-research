@@ -1,6 +1,6 @@
 tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [[AI]], [[metaverse]]
 file-created-at:: 2026-07-01
-file-updated-at:: 2026-07-03
+file-updated-at:: 2026-11-13
 
 - **Company**: Roblox Corporation ($RBLX)
 - **Date**: 2026-06-04
@@ -25,6 +25,25 @@ file-updated-at:: 2026-07-03
 	- > What will the business look like in 5–10 years? Is the market big enough for 10x? Can it 4x revenue in 10 years?
 	- **The one-line story**: *"Roblox is bigger than a gaming platform — it's a 3D communications platform."* The business is a two-sided UGC network (players + developers) compounding toward a 1-billion-user, all-ages, all-device, global platform, with monetization expanding from virtual goods into advertising and commerce.
 	- **The four-dimensional growth strategy**: age up, everywhere (every device), international, and a vibrant economy. Road to 200M DAU and "connect 1 billion people."
+	- **From game engine to aggregator of play (Nov 2026)**: AI makes games abundant, so Baszucki is widening Roblox from a 3D multiplayer engine to the whole "play market." The aim is to "do everything within the carefully thought-out boundaries of the future of play," then earn on the demand side: discovery, the social graph, the economy, safety and ads. Three strategies ([[2026-11-12-stratechery-baszucki-roblox-aggregating-play-market]], [[RBLX-2026-Q3]]):
+		- **1. Pull third-party games into Roblox's distribution and discovery, and deepen Roblox Everywhere**:
+			- **Universal Player** imports existing PC, console and mobile games with AI-assisted conversion.
+			- **"Robloxification"** gives them multiplayer by default, phone support through 3D streaming, instant join instead of a large download, and access to Roblox's economy.
+			- **Roblox Everywhere** lets creators ship standalone games to app stores, PC and consoles on the same tech. Roblox will also publish its own hits as standalone apps; Q3 put the first native titles in H1 2027. The economics for developers who publish directly are undisclosed but promised to be "pretty provocative."
+			- **The payoff**: the content also becomes discoverable inside the Roblox app. Baszucki calls this "the best way to grow users in the Roblox app itself."
+		- **2. Open Roblox Studio to single-player games**:
+			- Roblox Studio and the engine are being opened to single-player, 2D and offline games such as puzzles. That drops one of the last founding constraints, after mobile and imported 3D meshes.
+			- The range now runs from 2D puzzles on a 2GB Android phone to photorealistic Roblox Reality. Multiplayer stays the foundation.
+			- This widens the genres that can reach adults. They are 18+, the fastest-growing cohort, which matters because Roblox already takes about 20% of U.S. under-18 gaming revenue.
+		- **3. Use AI to make game creation very easy**:
+			- **Roblox Build**: prompt-to-game creation on a phone, "the creation of short-form video" for games. It aims to be free, with paid tokens for heavy users.
+			- **The harness**: it routes each request by asset type across frontier, open-source and in-house models, including the **Cube** 3D model. Self-hosted models handled 77% of requests (Q3).
+			- **Adoption**:
+				- MCP use with agents such as Claude Code and Codex is up about 5×.
+				- Two AI-made games reached the top 20, and 80% or more of the top 100 used AI tools.
+				- Build alpha has 500K+ users and 70K published games, and more than 75% of Build users had never opened Studio.
+				- Canada went live in Nov 2026, with a broad U.S. release planned for Dec 2026.
+		- **Why it fits the thesis**: when production is nearly free, value moves to whoever owns discovery, friends and payments. Roblox already does at 100M+ DAU. A flood of new games is also demand for user-acquisition ads on Roblox, so supply growth should feed the ads leg. Pre-roll video during 5–7-second game loads is another new format.
 	- **The age-up pivot (2026)**: The thesis is shifting from a kids' platform to an all-ages one. 18–34 users grew **+50% YoY** and monetize **50% higher** than under-18s (2026 Q1). O18 players represent **80% of the global gaming market (≈\$150B ex-China)**. Age verification (chat gated globally Jan 2026) is the near-term cost — it slowed new-user signups and **cut FY bookings growth guidance to 8–12%** — but gives Roblox its first accurate read on adult users, which it's using to raise creator payouts (**DevEx increasing 42% for age-verified O18 U.S. spend effective June 8, 2026**, up from 37.8% previously) to seed older-skewing content. As of Q1 2026, **26% of age-checked DAUs are O18**.
 	- **One-of-a-kind, with no real substitute**: Roblox is a singular gaming business — from both the developer and player experience, there is no direct substitute. It uniquely combines a creator engine, distribution, social graph, and a full game-operating backend (hosting, matchmaking, payments, moderation) into one platform. The closest analogs each cover only a slice (Fortnite/UEFN on the engine, Steam on distribution, Minecraft on modding) — none replicate the end-to-end "create → publish → monetize → operate" loop at Roblox's scale and accessibility. See the Competition Landscape platform comparison below.
 	- **The market's mental model is still outdated.** The market still prices Roblox with an old frame: kids play simple games → kids spend Robux → parents control the wallet → growth slows once kids saturate. The more accurate frame is: Roblox is a user-generated gaming platform with a large social graph, a native virtual economy, a creator marketplace, and it is expanding into young adult audiences. A kids-only platform has a low ceiling. An all-ages entertainment platform has a much higher ceiling. Young adult users can support more complex games, higher average spending, persistent social worlds, branded virtual goods, ads, commerce, subscriptions, premium creator economics, and more mature genres. Roblox does not need to abandon kids — it needs to keep kids while expanding into young adults. That is how the platform grows out of the "kids' game" box and why aging up changes the monetization model, not just the demographic mix.
@@ -128,6 +147,9 @@ file-updated-at:: 2026-07-03
 	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
 	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events, and AI-generated thumbnail ad creatives in Ads Manager — the second revenue leg |
 	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
+	  | Third-party game imports (Universal Player) and Roblox Everywhere | How many outside games are imported or Robloxified. When the first Roblox-published standalone apps ship (H1 2027 target). The developer economics for direct publishing. Whether Everywhere content measurably lifts discovery and DAU inside the Roblox app |
+	  | Single-player, 2D and offline games | When these launch in Studio. Whether they add 18+ engagement and new genres without diluting social, multiplayer play |
+	  | AI creation (Build, Studio Assistant, MCP) | Build's U.S. launch (Dec 2026 plan). Published games, Build users who are first-time creators, AI-made games in the top charts. Inference cost per created game, and token revenue from heavy users |
 	  | Mobile-commission / distribution-cost mitigation | Two levers vs. the ~30% app-store tax: (1) regulators forcing Apple/Google to open distribution (**2026Q1: 29% Apple / 15% Google**, down from 30%/17% in 2023); (2) Roblox's own push — Differential Robux Pricing to avoid payment fees (2025Q1) and a deliberate shift to **first-party distribution channels** (tangible progress in 2025Q4). A multi-quarter, self-help margin tailwind, not just a regulatory wait |
 	  | Infra cost per hour | \$10.5/1000 hours in 2026Q1 (down from ≈\$14 in 2022–23, ≈25% improvement) — confirming the "less than a penny" structural cost advantage |
 	  | Payer conversion (MUP/MAU) | **9% in 2026Q1**, up from 4% in 2024; MUP +52% YoY to 30.7M; DUP 1.8M — gap to Fortnite (≈15%) narrowing fast |
@@ -174,6 +196,7 @@ file-updated-at:: 2026-07-03
 	  7. **Founder-CEO age / succession** — David Baszucki born 1963 (founder-led is a strength, but key-person risk).
 	  8. **Monetization ceiling** — if ARPU stays stuck near 4% MUP/MAU, the \$13.5B ARPU-parity upside never materializes. **Cautionary comp — Fortnite**: revenue peaked at ≈\$6B in 2021 (likely a COVID-boosted high) and has not reclaimed it since; Epic Games conducted [layoffs](https://www.epicgames.com/site/news/todays-layoffs) — evidence that even the closest competitor's UGC/live-service model can plateau and de-rate after a demand pull-forward. A reminder that gaming-platform engagement and spend can mean-revert.
 	  9. **Recurring regulatory / geographic headwinds (8-quarter trend)** — friction shows up almost every year: Turkey ban (Aug 2024), Russia ban (Dec 2025), and the global age-verification rollout that gated chat, slowed new-user signups, and **cut FY2026 bookings guidance to 8–12%** (2025Q3, 2026Q1). A large, kid-heavy, global platform is a standing target for child-safety regulation and country bans — a persistent, partly-unpredictable drag on growth and a compliance-cost burden.
+	  10. **"Do everything" spreads execution thin, and Everywhere may leak demand** — Build, Universal Player, Everywhere, Roblox Reality, 2D/offline play, ads and the adult push are all being built at once, on top of rising model-inference costs. Roblox Everywhere also lets content and players live outside the Roblox app, the opposite of what aggregators usually do. If standalone games don't send users back to the app, Roblox becomes a Unity-like engine, earning fees far below what it keeps from spending inside its own app. See [[2026-11-12-stratechery-baszucki-roblox-aggregating-play-market]].
 	- ---
 - ## Friendly to Shareholders?
 	- > Share dilution and executive incentive plans.
