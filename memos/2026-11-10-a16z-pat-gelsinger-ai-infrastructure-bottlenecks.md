@@ -1,6 +1,6 @@
 tags:: [[Pat-Gelsinger]], [[a16z]], [[Playground Global]], [[AI-infrastructure]], [[chip-design]], [[EDA]], [[AI-accelerators]], [[HBM]], [[DRAM]], [[advanced-packaging]], [[optics]], [[CPO]], [[copper]], [[OCS]], [[power]], [[800V-DC]], [[data-center]], [[virtualization]], [[agents]], [[$NVDA]], [[$INTC]], [[$MU]], [[$ORCL]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-10
-file-updated-at:: 2026-11-10
+file-updated-at:: 2026-11-14
 
 - ## Pat Gelsinger on where AI infrastructure bottlenecks go next
 	- **Source**: a16z podcast, Raghu Raghuram and Guido Appenzeller with Pat Gelsinger (General Partner at Playground Global; former CEO of Intel and VMware). User-provided auto-generated transcript, undated; captured Nov 10, 2026.
@@ -29,6 +29,7 @@ file-updated-at:: 2026-11-10
 		  | Rack-scale integration | ~3 months | "Nothing's a chip anymore, it's a rack" |
 		  | **Until usable** | **~9 months after design** | |
 		  | **Until software runs at scale** | **~18 months** | By then the workloads it was designed for have moved |
+		- **Related fact (added Nov 14, 2026; no source given)**: chips take about **three months** to go from raw silicon to finished components. That matches Gelsinger's ≥3-month fab stage.
 		- **Mask sets cost ~\$50M** before prototyping. He wants new lithography and design flows that cut silicon-to-use to 1–2 months.
 		- **Why it matters**: a chip designed against today's workloads lands in a different world. Graphcore "wasn't a bad design, but the world moved on."
 	- **Power modeling is weak**: no good 3D tools for power dissipation and hotspots. Designers guard-band almost the whole power envelope, **losing ~40% of power to guard-banding**.
