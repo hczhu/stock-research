@@ -1,0 +1,46 @@
+tags:: [[$RDDT]], [[$GOOG]], [[consumer-internet]], [[advertising]], [[AI]], [[AI-data-licensing]], [[engagement]], [[ai-model:GPT-6 Astra]], [[ai-effort:high]]
+file-created-at:: 2026-11-13
+file-updated-at:: 2026-11-13
+
+- ## Reddit and Google: AI answers disrupt the traffic-for-content exchange
+	- **Source**: User-supplied Q3 2026 earnings-call summary and screenshot of @modestproposal1's commentary/chart; screenshot has no visible post date or URL. Cross-checked against [Reddit's October 29 results](https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/default.aspx) and [shareholder letter, pp. 4–5](https://www.sec.gov/Archives/edgar/data/1713445/000171344526000114/exhibit992q326.htm). Google context: [Liz Reid's August 6, 2025 statement](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/).
+	- **Thesis**: Reddit's current advertising strength can coexist with damage to its future user-acquisition funnel. Google can retain more answer-seeking activity, but Reddit's login push shows the potential cost: valuable content owners may restrict access and demand more compensation. The central question for both companies is who captures the economics of human-generated answers, not simply who attracts more visits.
+- ## Strong monetization, weakening discovery
+	- Financial figures below are verified in Reddit's Q3 release; forward-looking traffic commentary is management's conditional assessment, not an independently measured Google-wide effect.
+	- | Metric | Q3 2026 / latest disclosed signal | Why it matters |
+	  |---|---|---|
+	  | Revenue | $895M, +53% YoY | Monetization is growing much faster than audience reach. |
+	  | Advertising | $847M, +54% YoY | About 95% of revenue, calculated; data licensing is not yet a replacement for the ad business. |
+	  | Adjusted EBITDA | $402M; approximately 45% margin | Strong current earnings cushion, but non-GAAP profitability does not resolve acquisition risk. |
+	  | Daily active uniques | 130.3M, +12% YoY; U.S. 50.7M, −2% YoY | Global expansion masks weakness in the commercially important U.S. audience. |
+	  | Search referrals | Down meaningfully in Q3; October declines exceeded 1M referrals per week on average | Referrals are visits, not unique people; this cannot be translated one-for-one into DAU losses. |
+	  | Conditional Q4 audience outlook | Low-double-digit percentage decline from the roughly 130M current base if the decline persists | Not a YoY forecast, a precise point estimate, or a prediction of an equal revenue decline. |
+	  | Logged-in and app users | Over 80% of monetization; both audiences grew sequentially | These overlapping groups are not additive. The letter says monetization, broader than the supplied summary's advertising-revenue wording. |
+	- The supplied call summary attributes the referral deterioration to AI Overviews and AI Mode, while Huffman argues continued Google crawling and searches for Reddit show enduring demand. Those observations support content relevance, but do not establish that every lost visit was caused by AI answers rather than rankings, query mix, or other changes.
+- ## Chart: the search windfall preceded the slowdown
+	- **Extraction method**: Approximate visual readings from the supplied chart, not downloaded company data. The chart is labeled user growth, YoY; it does not specify geography or define its user measure. Values are rounded and should not be treated as precise reported DAUq statistics.
+	- | Chart period | Logged-in growth, approximate | Logged-out growth, approximate | Pattern |
+	  |---|---|---|---|
+	  | Q1 2022 | +18% | −5% | Logged-in growth initially led. |
+	  | Q2 2023 | +14% | Around 0% | Logged-out acceleration began from a weak base. |
+	  | Q4 2023 | +21% | +34% | Logged-out growth overtook logged-in growth. |
+	  | Q2 2024 | +31% | +74% | Peak gap of roughly 43 percentage points. |
+	  | Q2 2025 | +17% | +24% | Both series slowed, especially logged-out users. |
+	  | Q2 2026 | +7% | +27% | Logged-out growth remained positive before the Q3 referral deterioration. |
+	- **The post's argument**: Google ranking changes sharply increased Reddit visibility in late 2023 and 2024. The historical surge is important context when interpreting subsequent slowing growth; not every deceleration demonstrates new AI-driven displacement.
+	- **What the chart cannot prove**: It ends before Q3 2026, measures growth rather than traffic levels, and does not identify referral sources. A fall from roughly 74% to 27% growth is not a fall in users. Nor does comparison against an unusually strong prior year explain away management's separate report of actual referral declines in autumn 2026.
+	- **Analytical implication**: Both forces can coexist—normalization after an algorithm-driven windfall and a structural reduction in outbound clicks. Logged-in growth slowing too means the historical search surge did not translate into equally strong durable-account growth; the chart alone does not measure conversion or retention.
+- ## Reddit: trading open access for a direct relationship
+	- Management plans Q4 login tests in selected non-U.S. markets before optimizing a broader rollout. This is a distribution and engagement change within the advertising model, not an announced subscription paywall. Accounts can remain pseudonymous; login is not the same as disclosing real-world identity.
+	- **Economic logic**: Authentication can improve personalization, repeat visits, and ad-targeting signals. But existing account holders self-select for engagement: forcing a casual visitor to register does not automatically reproduce their lifetime value. Evaluate retained active accounts and incremental ad gross profit, not registrations alone.
+	- **Acquisition tradeoff**: Search brings new visitors and reengages existing users. A login barrier could lose both before they experience a useful community. Replacing organic discovery with paid marketing can preserve audience while increasing acquisition costs and pressuring margins.
+	- **Counterevidence to a collapse thesis**: Reddit reports new-app-user first-week return rates improving over 50% YoY, although it gives no absolute rate. Only about 13% of eligible mobile-web users currently see the app-conversion prompt. These suggest product and conversion opportunities, not proof that compulsory login will work. [Shareholder letter, p. 5](https://www.sec.gov/Archives/edgar/data/1713445/000171344526000114/exhibit992q326.htm).
+	- **Data protection**: The supplied summary says scraping is concentrated in logged-out access. Authentication can raise extraction friction and strengthen licensing negotiations, but it neither eliminates scraping nor determines how existing licensed access will change. Restricting discoverability may also weaken the audience that creates future content.
+	- **Measurement trap**: Losing lightly monetized visitors can mechanically lift average revenue per unique even without better monetization of retained users. Distinguish cohort engagement, ad yield, geographic mix, and acquisition costs from a shrinking denominator.
+- ## Alphabet: more control over discovery, less automatic access to content
+	- **Potential benefit, not a quantified earnings conclusion**: Answering questions within Google can preserve query share and create additional opportunities to monetize commercial intent. Reddit's referral decline does not reveal Google's incremental ad revenue, AI-serving cost, or profit per query; an outbound organic visit is not the same thing as a paid ad click.
+	- **Google's stated counterargument**: In August 2025, Google said aggregate organic clicks were broadly stable YoY and click quality had improved, while acknowledging traffic redistribution across sites. This older, aggregate claim is compatible with a later decline at Reddit; it does not rebut Reddit's Q3 2026 experience. [Google Search statement](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/).
+	- **Potential cost**: If AI summaries weaken the incentive to publish openly, Google may face more authentication barriers, less accessible fresh discussion, or more expensive negotiated access. That is an inference about future bargaining, not evidence of a newly signed or repriced contract.
+	- **The strategic tension**: Google needs useful source material while Reddit needs discovery. Neither side necessarily benefits from eliminating the exchange. A sustainable settlement could combine licensed access, attribution, referrals, and direct-account growth; the supplied evidence does not establish the eventual terms.
+	- **Evidence that would change the assessment**: For Reddit, login-test conversion and retained engagement after accounting for paid acquisition; for Google, monetized-query growth and AI-search economics alongside source-access costs. Continued strong quarterly Reddit revenue alone does not settle the long-term distribution question.
+	- **Earlier context**: [[2026-07-21-reddit-q1-2026-hhhypergrowth-arpu-ads-ai-data]] described search algorithms as a positive user-growth contributor. The Q3 evidence changes that distribution assessment without invalidating the separate ad-monetization thesis.
