@@ -1,5 +1,5 @@
 file-created-at:: 2026-09-14
-file-updated-at:: 2026-11-13
+file-updated-at:: 2026-11-16
 
 # AGENTS.md
 
@@ -133,6 +133,7 @@ file-updated-at:: YYYY-MM-DD
 
 ## Memo Length and Concision
 
+- Do not add your own takes, opinions, investment judgments, or recommendations to memos unless the user explicitly asks for them. Summarize source findings and clearly attribute source opinions instead.
 - Default to a compact memo. Extract the few source-specific facts and insights that can change an investment view; omit generic summaries, obvious restatements, and filler analysis.
 - Do not repeat the same datapoint in a summary, a table, and a concluding section. State it once in the clearest location.
 - Prefer a one-line `**Thesis**:` followed by a small number of descriptive, source-specific sections. Do not add generic synthesis sections merely to make a memo feel complete.
