@@ -4,8 +4,8 @@ file-updated-at:: 2026-11-16
 
 - ## Steam: Revenue, Users, Releases and Market Share
 	- **Sources** (two PDFs supplied by the user):
-		- Richard Jaimes, "Steam Game Statistics", Quantumrun Foresight, Dec 22, 2025. It cites SQ Magazine and Backlinko.
-		- Naveen Kumar, "Steam Statistics (2026) – Active Users & Market Share Data", DemandSage, Aug 20, 2026. It cites Alinea Analytics, PC Gamer, SteamDB and Statista.
+		- Richard Jaimes, ["Steam Game Statistics"](https://www.quantumrun.com/consulting/steam-game-statistics/), Quantumrun Foresight, Dec 22, 2025. It cites SQ Magazine and Backlinko.
+		- Naveen Kumar, ["Steam Statistics (2026) – Active Users & Market Share Data"](https://www.demandsage.com/steam-statistics/), DemandSage, Aug 20, 2026. It cites Alinea Analytics, PC Gamer, SteamDB and Statista.
 		- Valve is private and doesn't publish financials, so every revenue figure is a third-party estimate. The two sources disagree on several numbers, as noted below.
 	- **Thesis**: Steam's gross sales hit a record \$11.1B in 1H 2026, up 14.5% YoY, and Alinea puts 2025 at about \$20B. Steam holds 74–75% of PC digital distribution, and new releases keep climbing. Valve hasn't disclosed user counts since 2021.
 	- Related: Steam is one of the peers in the revenue table of [[Roblox-RBLX-thesis]].
