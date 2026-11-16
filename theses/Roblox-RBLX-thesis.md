@@ -1,6 +1,6 @@
 tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [[AI]], [[metaverse]]
 file-created-at:: 2026-07-01
-file-updated-at:: 2026-11-13
+file-updated-at:: 2026-11-16
 
 - **Company**: Roblox Corporation ($RBLX)
 - **Date**: 2026-06-04
@@ -55,11 +55,12 @@ file-updated-at:: 2026-11-13
 	  
 	  | Company | Category | Annual revenue |
 	  |---|---|---:|
-	  | Roblox | 3D UGC platform | \$7.3B (LTM bookings to 2026 Q1) |
-	  | Steam | PC gaming platform | \$8.5B |
-	  | Fortnite | Single game | \$6B |
+	  | Roblox | 3D UGC platform | \$7.2B (LTM bookings to 2026 Q3; Q3 bookings −12% YoY) |
+	  | Steam | PC gaming platform | ≈\$16.9B gross platform revenue (2025 est.); Valve's ≈24% cut on third-party games ≈\$3.5B |
+	  | Fortnite | Single game | ≈\$6B (2025 est.; Epic doesn't disclose) |
 	  | Sony gaming | Console | ≈\$21.2B content (digital+add-on+network); ≈\$30.5B total segment incl. hardware (FY2026 — see Appendix) |
-	  | Minecraft | PC/console/mobile | \$500M at peak |
+	  | Minecraft | PC/console/mobile | ≈\$220M (2024 est.); \$500M at 2018 peak |
+		- Sources (updated 2026-11-16): Roblox [Q3 2026](https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm) and [Q4 2025](https://www.sec.gov/Archives/edgar/data/1315098/000131509826000009/ex991-q42025shareholder.htm) shareholder letters: 9M 2026 bookings \$4,985M + Q4 2025 \$2,222M = \$7,207M. Steam: [GameDiscoverCo](https://newsletter.gamediscover.co/p/revealed-the-numbers-behind-steams), Mar 24, 2026; Alinea Analytics puts 2025 at \$16.2–17.7B. Fortnite and Minecraft: third-party estimates, which vary (Fortnite \$4–6B). Sony unchanged: FY ended Mar 2026 is its latest full fiscal year.
 	- **The PlayStation comparison**: PlayStation has **125M MAUs** (March 2026, +1% YoY, record Q4 high; vs Roblox ≈340M) and ≈57M DAUs† (vs Roblox **132M in 2026Q1**; **152M peak in Q3 2025**) — one-third the MAUs and less than half the DAUs — yet generates ≈**\$21.2B** in game software, digital downloads, add-on content, and network services (total PlayStation segment **≈\$30.5B** including hardware; FY ended Mar 2026 — see Appendix) vs Roblox's **≈\$7.3B LTM bookings (2026Q1)**. Roblox is dramatically under-monetized relative to engagement.
 		- † Sony does not disclose PlayStation DAU. Estimated as MAU × ≈43% (Sony disclosed ≈43% of PS5 global MAU were also daily-active, ≈March 2024): 132M MAU (Dec 2025 record) × 43% ≈ 57M.
 	- **End-state scenarios**:
