@@ -1,14 +1,14 @@
-tags:: [[$GOOGL]], [[TPU]], [[ASIC]], [[$2454.TW]], [[MediaTek]], [[$AVGO]], [[$INTC]], [[EMIB]], [[advanced-packaging]], [[OpenAI]], [[Anthropic]], [[$NVDA]], [[semiconductor]], [[AI-capex]], [[ai-model:Opus5.5]], [[ai-effort:high]]
+tags:: [[$GOOGL]], [[TPU]], [[ASIC]], [[$2454.TW]], [[MediaTek]], [[$AVGO]], [[$INTC]], [[EMIB]], [[advanced-packaging]], [[OpenAI]], [[Anthropic]], [[$NVDA]], [[semiconductor]], [[AI-capex]], [[Ming-Chi-Kuo]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-15
 file-updated-at:: 2026-11-15
 
 - ## Google TPU: OpenAI and Anthropic Orders Extend Visibility to 2029, and MediaTek Becomes the Sole Next-Gen Designer
-	- **Source**: User-supplied supply-chain survey note, "Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to 2029; v10 lineup overhauled (now Quillfish); MediaTek and Broadcom lead as the top suppliers to watch," received Nov 15, 2026. The note is written in the first person ("my latest industry survey"), but the author is not named. Unit and share figures are the author's estimates, not company disclosures.
+	- **Source**: [Ming-Chi Kuo (郭明錤, @mingchikuo), X post, Nov 15, 2026](https://x.com/mingchikuo/status/2122133109630194098), titled "Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to 2029; v10 lineup overhauled (now Quillfish); MediaTek and Broadcom lead as the top suppliers to watch." Kuo bases it on his latest industry survey. Unit and share figures are Kuo's estimates, not company disclosures.
 	- **Thesis**: OpenAI and Anthropic orders for v8 TPUs, not Google's own buildout, drive TPU volume through 2029. MediaTek gains on two fronts: it designs the high-margin 8t that OpenAI buys, and it is the sole designer of v9, v10 and v11. Its main exposures are Intel EMIB-T packaging capacity and OpenAI's ability to fund about 12M chips.
 	- **Prior codenames**, from [[2026-06-03-hbm-supply-demand-model-morgan-stanley]]: 8t is Zebrafish (MediaTek) and 8i is Sunfish (Broadcom). The v9 parts are Humufish and Triggerfish ([[2026-05-01-mediatek-google-tpu-codesign-semi-cot-model]]).
 - ## Shipment Plan: Visibility Now Runs to 2029
-	- **Visibility**: new OpenAI and Anthropic orders extend TPU shipment visibility to **2029**. The author puts visibility for Nvidia GPUs and other AI ASICs mostly at **4Q27–2Q28**.
-	- **Customer split**: from 2028, v9 becomes the mainstay of Google's own compute buildout, so the author attributes v8-series orders (8t, 8i or their design variants) to OpenAI and Anthropic.
+	- **Visibility**: new OpenAI and Anthropic orders extend TPU shipment visibility to **2029**. Kuo puts visibility for Nvidia GPUs and other AI ASICs mostly at **4Q27–2Q28**.
+	- **Customer split**: from 2028, v9 becomes the mainstay of Google's own compute buildout, so Kuo attributes v8-series orders (8t, 8i or their design variants) to OpenAI and Anthropic.
 	- | Customer | Chip and designer | 2028–29 combined demand | How it pays |
 	  | --- | --- | --- | --- |
 	  | OpenAI | 8t, designed by MediaTek | **About 12M units**, growing YoY | Buys outright |
@@ -40,7 +40,7 @@ file-updated-at:: 2026-11-15
 		- The Merope / Bladerunner branch has lost its v10 slot.
 	- **Packaging**: from v9 onward, every new TPU uses Intel's **EMIB-T** advanced packaging. EMIB-T's initial capacity is limited, so **v8 stays the bulk of TPU shipments through 2029**.
 - ## MediaTek: The Biggest TPU Winner of the Next Few Years
-	- **Why the author ranks MediaTek first**:
+	- **Why Kuo ranks MediaTek first**:
 		- **Sole designer from v9 onward**: MediaTek designs v9, v10 (Quillfish) and v11 (Icefish).
 		- **Rising share of a growing total**: its share of TPU supply rises from 45–50% in 2027 to 55–60% in 2029. Combined with rising shipments, TPU revenue and profit contribution should rise every year.
 		- **8t is the profit engine**: the high-margin 8t has shipment visibility through 2029, with OpenAI as the 2028–29 buyer.
