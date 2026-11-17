@@ -35,6 +35,12 @@ file-updated-at:: 2026-11-17
 	- | Driver | Notes | Metrics |
 	  |---|---|---|
 	  | YouTube eats TV markets | YouTube tops time spent across devices and TV, and half of that time is on TV | 9M YouTube TV customers as of 2025 |
+	  | Search revenue growth reaccelerates (AI Mode and AI Overviews) | See the argument below | Search revenue growth, AI Mode ad coverage |
+	- **Search revenue reacceleration (2026Q3)**: Google Search, including AI Mode and AI Overviews, has a reasonable chance of reaccelerating revenue growth over the next few quarters. On the 2026Q3 call, CBO Philipp Schindler gave four supporting factors ([[GOOG-2026-Q3]]):
+		- 1. **Incremental demand**: AI Mode queries are largely incremental to traditional Search.
+		  2. **Upper-funnel opportunity**: AI Mode queries tend to be upper-funnel searches with high-value commercial intent, while traditional Search skews to the lower funnel. This could make AI Mode ads more like Meta's ads.
+		  3. **Competitive click-through rates**: sponsored product listings get click-through rates similar to organic listings.
+		  4. **Expanding ad coverage**: Google is showing AI Mode ads to more users and across more queries.
 	  
 	  ---
 - ## Secular Trends as Tailwinds
@@ -83,7 +89,7 @@ file-updated-at:: 2026-11-17
 - ## Appendix — Earnings Notes by Quarter
 	- Converted from the doc's "Earnings & Filings & Proxies & Events" section. See [[GOOG-2026-Q2]] and [[GOOG-2026-Q3]] for the full notes.
 	- ### 2026Q3
-		- **AI Mode query monetization**: many upper-funnel queries carry new high-value commercial intent, and the majority are incremental. CTRs are similar between organic and sponsored product listings (shopping ads only). Google is scaling high-quality ads to more users and queries.
+		- **AI Mode query monetization**: see the Search reacceleration argument under Key Value Drivers.
 		- **Agentic experiences for businesses and consumers**: Google will build ad models for agentic use cases and go beyond them with subscriptions and other payment methods.
 		- **Users**: YoY query growth is the highest in five years. 32B tokens per minute, +40% QoQ and 4× YoY.
 		- **TPU**: meaningful TPU system revenue ramp in 2027. A TPU system combines hardware, system software, compilers and optical networking, assembled as a system. TPU systems will be available in customers' data centers. 100+ TPU customers.
