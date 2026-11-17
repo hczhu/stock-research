@@ -36,11 +36,19 @@ file-updated-at:: 2026-11-17
 	  |---|---|---|
 	  | YouTube eats TV markets | YouTube tops time spent across devices and TV, and half of that time is on TV | 9M YouTube TV customers as of 2025 |
 	  | Search revenue growth reaccelerates (AI Mode and AI Overviews) | See the argument below | Search revenue growth, AI Mode ad coverage |
+	  | TPU system sales into customers' data centers | See the accounting flow below | **Inventory balance**: \$2.4B (Dec 2025) → \$10.0B (Jun 2026) → \$13.3B (Sep 2026) |
 	- **Search revenue reacceleration (2026Q3)**: Google Search, including AI Mode and AI Overviews, has a reasonable chance of reaccelerating revenue growth over the next few quarters. On the 2026Q3 call, CBO Philipp Schindler gave four supporting factors ([[GOOG-2026-Q3]]):
 		- 1. **Incremental demand**: AI Mode queries are largely incremental to traditional Search.
 		  2. **Upper-funnel opportunity**: AI Mode queries tend to be upper-funnel searches with high-value commercial intent, while traditional Search skews to the lower funnel. This could make AI Mode ads more like Meta's ads.
 		  3. **Competitive click-through rates**: sponsored product listings get click-through rates similar to organic listings.
 		  4. **Expanding ad coverage**: Google is showing AI Mode ads to more users and across more queries.
+	- **TPU system "resale" business (2026Q3)**: Google sells TPU systems to large customers and deploys them in the customers' own data centers. A TPU system is hardware, system software and compilers, plus optical networking and other components, assembled as one system. Per a user-supplied post summarizing the CFO's explanation, Google fronts the cash to build these systems **as inventory for sale** rather than keeping them as its own cloud infrastructure:
+		- 1. **Signed agreement**: added to backlog, not revenue.
+		  2. **Build the systems**: inventory rises and cash goes out.
+		  3. **Transfer control to the customer**: recognize hardware and software revenue, and the associated inventory cost.
+		  4. **Collect payment**: the receivable becomes cash. Installation, support and warranty are recognized as service revenue as delivered.
+		- **What to monitor**: inventory on the balance sheet. Alphabet's inventory rose from **\$2.44B** at Dec 31, 2025 to **\$9.99B** at June 30, 2026 and **\$13.31B** at Sep 30, 2026 (10-Q filings). The post reads this as a business that is, at minimum, multibillion-dollar. Management expects the vast majority of TPU system revenue in 2027.
+		- Related: Google's conditional TPU repurchase rights in [[2026-10-29-google-tpu-repurchase-guarantees]].
 	  
 	  ---
 - ## Secular Trends as Tailwinds
