@@ -28,6 +28,11 @@ file-updated-at:: 2026-11-17
 	- **From game engine to an aggregator of play with a social network (Nov 2026)**: AI makes games abundant, so Baszucki is widening Roblox from a 3D multiplayer engine to the whole "play market." The aim is to "do everything within the carefully thought-out boundaries of the future of play," then earn on the demand side: discovery, the social graph, the economy, safety and ads. Three strategies ([[2026-11-12-stratechery-baszucki-roblox-aggregating-play-market]], [[RBLX-2026-Q3]]):
 		- **1. Pull third-party games into Roblox's distribution and discovery, and deepen Roblox Everywhere**:
 			- **Universal Player** imports existing PC, console and mobile games with AI-assisted conversion.
+				- **It modernizes old games, which gives their owners a reason to bring them over** (Q3 2026 call, answering Jefferies' James Heaney): instead of a full rewrite, a creator with an existing game can have it "functioning in a matter of days rather than weeks or months." Running in Roblox's cloud adds what the original lacks:
+					- **Mobile reach**: "There's a lot of PC games that don't run mobile right now." With cloud scaling they "will run at lower resolution on a low-end 2-gig Android device."
+					- **Instant launch**: games with a large download "will launch much more quickly."
+					- **Frequent updates**: for large games that are hard to update, Roblox Everywhere and Universal Player make updates "possible many times a day."
+					- **Licensing**: Roblox wants licensed IP and respects DMCA takedowns, so imports come from the owners of existing properties, not unlicensed ports.
 			- **"Robloxification"** gives them multiplayer by default, phone support through 3D streaming, instant join instead of a large download, and access to Roblox's economy.
 			- **Roblox Everywhere** lets creators ship standalone games to app stores, PC and consoles on the same tech. Roblox will also publish its own hits as standalone apps; Q3 put the first native titles in H1 2027. The economics for developers who publish directly are undisclosed but promised to be "pretty provocative."
 			- **The payoff**: the content also becomes discoverable inside the Roblox app. Baszucki calls this "the best way to grow users in the Roblox app itself."
