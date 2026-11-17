@@ -135,6 +135,12 @@ file-updated-at:: 2026-11-17
 		  
 		  ---
 - ## Anecdotes & Opinions
+	- **2026-11, Hacker News commenters on Instagram ads** (front-page thread full of complaints about internet ads; shared by the owner on X, Nov 6, 2026; the thread link is truncated in the screenshot): bullish (Instagram ad targeting)
+		- Instagram was the lone exception in the thread. WarmWash: "Whatever Meta is doing on Instagram is next level advertising." Rather than identifying who the user is, "they identified the social niche stereotype I identify with, and then pull ads from that reservoir." Google pushes work-related items ("discrete transistors and push cart tires"), while Meta offers "bespoke Icelandic wool socks, artisan gummy edibles, and hand made ceramic table ware."
+		- avalys has bought a number of \$50–\$100 products from Instagram ads, and once a \$1,000 piece of furniture. The ads are "perfectly targeted": often niche products from companies avalys didn't know existed. Meta must be using data from other sites, since the accounts avalys follows have nothing to do with products. avalys also thinks the ads help small businesses build awareness more cheaply than other channels. By contrast, "targeted" ads on local news sites (sports gambling, "800 singles in your area") are "just shitty ads."
+		- mkehrt: "their ads are *remarkably* well targeted. The rest of the internet needs to do whatever they are doing."
+		- **Pushback**: HWR_14 asked, "Why would Meta not raise their costs of advertising until it was the most efficient by the smallest margin?" pocksuppet found it "rather scary" that Instagram knew which university they attended, in another country, and recommended a cybersecurity course.
+		- Compare the 2023/03 user note below, which found ads generally irrelevant but Instagram's the most relevant.
 	- **2026-05, a former colleague at OG level, over drinks** (non-sensitive inside stories; translated from Chinese): bearish (model quality, culture)
 		- Avocado can barely handle any productivity task, even experimental projects. Only leftover chat-related tasks use it.
 		- Meta's own codebase and other data are low quality and hard to train on, so the company spends heavily on producing training data.
