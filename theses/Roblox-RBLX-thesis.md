@@ -154,6 +154,7 @@ file-updated-at:: 2026-11-16
 	  | Adult–under-16 communication ban | Banned cross-age communication between adults and users under 16; prerequisite for offering genuinely more open social features to the O18 cohort without regulatory risk |
 	  | Roblox Plus subscription | New subscription service offering exclusive platform benefits; premium tier strategy to increase utility and prestige for adult users with higher disposable income |
 	  | Novel game expansion | Active initiative to grow the "novel game" portfolio in genres resonating with 18–34 users (sophisticated simulations, competitive shooters); fastest-growing cohort +50% YoY in U.S. |
+	  | Paid user acquisition for O18 | A growth lever Roblox's cash flow can fund: Q3 2026 FCF was \$364M and operating cash flow \$395M. Q3 2026 letter, "Using Paid User Acquisition to Accelerate O18 Growth": **200+ UA campaigns** this summer, with O18-targeted marketing spend **up nearly 3× YoY**. Paid users' retention, engagement and monetization are **outperforming organic signups**, and Roblox plans to keep investing "while maintaining a high bar for return on investment." Watch for disclosed payback/ROI and O18 DAU lift |
 	  | Bookings growth | FY2026 guided 8–12% (cut on age-verification headwind); **recovery is the key catalyst** |
 	  | Creative monetization (ads) | Immersive ads, in-game brand ads, live events, and AI-generated thumbnail ad creatives in Ads Manager — the second revenue leg |
 	  | Platform extensions | Education, 3D avatar, AI-driven NPC games |
