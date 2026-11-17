@@ -1,5 +1,5 @@
 file-created-at:: 2026-09-14
-file-updated-at:: 2026-11-16
+file-updated-at:: 2026-11-17
 
 # AGENTS.md
 
@@ -212,7 +212,7 @@ Before adding a tag, grep existing memos to confirm the canonical form already i
 
 ## Workflow Rules
 
-- Never push directly to `main`. Always branch → PR → merge. Always merge pull requests with the GitHub CLI (`gh pr merge`), not through a connected GitHub integration. If GitHub CLI authentication is expired or unavailable, restore CLI authentication before merging. After merging, `git checkout main && git pull`.
+- Never push directly to `main`. Always branch → PR → merge. Always merge pull requests with the GitHub CLI (`gh pr merge`), not through a connected GitHub integration. If GitHub CLI authentication is expired or unavailable, restore CLI authentication before merging. **Exception for cloud environments** (e.g. Claude Code on the web): when the GitHub CLI is unavailable or not permitted there, merge the PR by other available means, such as the GitHub MCP merge tool, rather than leaving it open. After merging, `git checkout main && git pull`.
 - **Verify the staged set before every commit**: run `git diff --cached --stat` and confirm it contains exactly the paths you intend. `git commit` commits the whole index, not just the paths passed to the preceding `git add` — and other sessions frequently work in this repo concurrently, so unrelated files may already be staged and will be swept into your commit under your message. To recover: `git reset --soft HEAD~1`, then `git restore --staged <their paths>` to return them to the working tree with content intact, then re-commit.
 - **Finish the Git workflow automatically**: immediately `git add` every new file, stage the task's edits, commit, push a branch, create a PR, and merge it without waiting for an explicit commit/merge command or additional confirmation. Do not finish with the task's changes or new files pending only in the local repository. Sync the local default branch after merging and verify the changes are present remotely.
 - Keep commits scoped to the task; preserve unrelated user/other-session work and honor explicit instructions to leave particular files uncommitted. If authentication, conflicts, required checks, or permissions block completion, report the blocker and exact pending state. Do not bypass required checks or branch protections.
