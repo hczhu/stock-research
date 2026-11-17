@@ -37,6 +37,8 @@ file-updated-at:: 2026-11-17
 			- **Subscriptions**: the only direct Muse revenue at the Q3 call. Muse Wonder is available to paid users; more advanced models, extra tokens, and business or workplace features are planned paid tiers.
 			- **Ads**: Li kept direct advertising open as a possibility.
 			- **Higher value per user**: more than 20% of US Muse users already generate at least \$1,000 a year for the Family of Apps. Zuckerberg expects Muse could eventually exceed existing Family of Apps revenue per user in this group, a long-term view.
+				- **Rough baseline**: Meta management, in a remark supplied by the user (speaker and date not given): "the average revenue per American user for our existing Family of Apps users is several hundreds of dollars annually."
+				- For comparison, the US Muse users above who generate at least \$1,000 a year are above that average.
 		- **Structural edges**:
 			- **Ads fund the giveaway**: Meta can offer Muse free because ads already pay for its data centers, while OpenAI has to charge for Dots ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]). At launch Muse offered up to 100M tokens a week free plus a virtual computer ([[2026-09-08-zuckerberg-heath-muse-personal-agent-strategy]]).
 			- **Bundling**: one free, context-rich agent can absorb many low-frequency consumer jobs and become the default interface to the internet, removing the need for specialized apps and thin agent wrappers ([[2026-09-15-meta-muse-consumer-agent-app-disintermediation]]).
@@ -47,12 +49,11 @@ file-updated-at:: 2026-11-17
 			- **Execution reliability**: browser-based shopping produced errors in a hands-on review, even when calendar, content and planning workflows worked ([[2026-09-13-how-i-ai-meta-muse-firsthand-product-review]]).
 			- **Trust for buying**: consumer surveys show trust falls sharply as agents move from searching to buying, so transaction fees are the hardest revenue to earn ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]).
 			- **Model quality**: see the Avocado anecdotes and the "Not on the cutting edge of LLMs" risk below.
-	  
-	  ---
+			  
+			  ---
 - ## Napkin Math
-	- Assuming full metaverse spend, no metaverse revenue contribution, and buybacks (net of SBC), Meta can generate **\$30 EPS in 2026. At a 22.5× P/E multiple, that is a share price of \$675, or about 15% IRR** from the time of writing (an older estimate; the doc doesn't date it).
-	  
-	  ---
+	- WIP??
+	- Meta's astronomical Capex spend on AI compute buildout messed up everything
 - ## Key Value Drivers
 	- | Driver | Notes | Metrics |
 	  |---|---|---|
@@ -125,8 +126,8 @@ file-updated-at:: 2026-11-17
 		  | Excluded | Zuckerberg does not participate |
 		  | Structure | More time-based RSUs plus performance-based stock options tied to share-price milestones |
 		  | Maximum payout | Up to \$921M each for Bosworth, Cox and Olivan; up to \$161M for Li, if the \$9T target is reached |
-	  
-	  ---
+		  
+		  ---
 - ## Anecdotes & Opinions
 	- **2026-05, a former colleague at OG level, over drinks** (non-sensitive inside stories; translated from Chinese): bearish (model quality, culture)
 		- Avocado can barely handle any productivity task, even experimental projects. Only leftover chat-related tasks use it.
@@ -169,8 +170,8 @@ file-updated-at:: 2026-11-17
 		- This is the third time Meta has tried to make social shoppable and then pulled back, which suggests a fundamental problem with social checkout.
 		- About half of online shoppers think social is "a great place to discover new products," but three quarters prefer to check out on the brand site, because of trust and authenticity concerns, inventory synchronization, assortment, pricing and promotions, and missing faceted search. Only 17% of shoppers who bought via a social network and had to return the product would buy via social again.
 		- Most brands don't want customers to check out on social: they need the customer data and consent, because profits come from repeat customers. A quarter of the brands Meta touted at the Instagram checkout launch no longer use it. "The pattern that clearly works is to drive traffic to the brand site to convert."
-	  
-	  ---
+		  
+		  ---
 - ## Appendix — Data Points & Facts
 	- **The reach of the Family of Apps (2023/01)**: the ITU estimates nearly 3B of the world's 8B people lack internet access. Excluding China's 400M+ connected users, where US social media is largely banned, Meta's apps are used monthly by 90% of the world's connected population and daily by 70%.
 	- **Piper Sandler teen survey (10/2024)**, top social media platforms: TikTok 39%, Instagram 32%.
@@ -191,8 +192,8 @@ file-updated-at:: 2026-11-17
 		- New: the WhatsApp Cloud API, letting any company build on WhatsApp; a full suite for messaging and engaging customers; a cloud-hosted WhatsApp Business Platform (Zendesk is a partner); opt-in recurring notifications for businesses on WhatsApp and Instagram Direct.
 		- Numbers: 1B people message with a business each week across the Family of Apps. Daily conversations between people and businesses grew 50% YoY. 50% of C&A's digital sales in Brazil come through WhatsApp.
 		- Customers: Aldi cut customer response time from 3 minutes to 3 seconds using Meta machine learning. Indosat 5×'d revenue via WhatsApp.
-	  
-	  ---
+		  
+		  ---
 - ## Appendix — Earnings Notes by Quarter (2021Q3–2026Q2)
 	- Converted from the doc's "Earnings & Filings & Proxy & Events" tab. The doc's 2026Q3 entry was empty; see [[META-2026-Q3]] and [[META-2026-Q2]] for the full notes.
 	- ### 2026Q2
@@ -301,8 +302,8 @@ file-updated-at:: 2026-11-17
 		- Product priorities: **creators, commerce, and building the next computing platform**. Reels is the main driver of Instagram engagement growth; all apps aim to be the best for young adults (18–29). Commerce: ads that point to a business's website or Shop, exclusive Shop gifts, daily Live Shopping with Walmart, Macy's and others. Presence is "the holy grail of online social experiences."
 		- Online commerce contributed less to growth, due to ATT and lapping the COVID e-commerce surge. Facebook engagement remains well above 2019, but softened vs. 2020 amid competition in video from TikTok. SKAN limits measurement, e.g. no conversions for re-engagement campaigns.
 		- Balancing social equities: free expression vs. harmful content, encrypted privacy vs. law enforcement, research and interoperability vs. data lockdown.
-	  
-	  ---
+		  
+		  ---
 - ## Appendix — Terminology
 	- **Customer data platform (CDP)**: marketing software that collects and unifies first-party customer data from multiple sources into a single view of each customer.
 	- **ARPU**: total revenue in a geography in a quarter divided by the average of MAUs at the start and end of the quarter. MAUs here count only Facebook and Messenger users, though revenue from them is "the substantial majority" of the total.
