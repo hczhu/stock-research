@@ -8,14 +8,18 @@ file-updated-at:: 2026-11-17
 	- **Participants**: an open standard anyone can implement. Meta and Sierra are developing it with Genesys, Instinct, Rocket, Shopify, Stripe and Walmart. On October 9 Sierra published a draft and added **35 design partners**, including Bank of America, OpenAI, Visa and United Airlines.
 	- **Context**: Meta previewed the protocol on its Q3 call as the way a personal Muse transacts with merchants' agents. Susan Li expects authenticated APIs and approved integrations to support these interactions, with many interactions staying assisted while integrations mature ([[META-2026-Q3]]).
 
+- ## Stakeholders and their desires
+	- The post's premise: the connection is adopted at scale only if it works for every party. **Everyone wants security**, but each party also wants something different, and the protocol divides control accordingly.
+	- | Stakeholder | Named participants | What they want | What the protocol gives them |
+	  |---|---|---|---|
+	  | **Consumers** | End users of personal agents | **Speed, dependability and trust**: the job done right the first time by an agent they can count on to act in their best interest | They decide what access their agent gets: guest only, or signed in with **read-only or write** access. Tasks that take minutes of clicking or a support call could finish in seconds |
+	  | **Brands and businesses** | Walmart, United Airlines, Bank of America | **Visibility and control**: knowing when a personal agent is acting for a customer, and deciding for themselves what it can do. Companies want to respect consumers' choices while protecting their privacy and security | They **set the parameters** for what agents can do and choose which routes to open (website, APIs or their own agent). They see what agents do across those routes |
+	  | **Personal-agent builders** | Meta (Muse), OpenAI | **Efficiency and access**: a direct, consistent way to work with participating companies | One standard way to discover, authenticate with and act at any participating company, instead of navigating each site's pages and forms |
+	  | **Commerce, payments and customer-service platforms** | Sierra, Genesys, Shopify, Stripe, Visa | The post does not state their goals separately | They sit between agents and businesses: company agents and contact centers (Sierra, Genesys), storefronts (Shopify) and payments (Stripe, Visa) |
+	- The post does not describe the roles of founding partners Instinct and Rocket.
+
 - ## The problem it targets
 	- Most personal agents today use websites and apps the way people do: loading pages and clicking through forms. When that fails, they call the company's support line or open its web chat. That is slow and may not finish the task. Sierra says a direct connection could do the same task securely in seconds.
-	- Adoption at scale requires the connection to work for all three parties:
-		- | Party | What it wants |
-		  |---|---|
-		  | Consumers | Speed, dependability and trust: the job done right the first time by an agent acting in their interest |
-		  | Brands | Visibility and control: knowing when an agent acts for a customer, and deciding what it can do |
-		  | Personal-agent builders | Efficiency and access: one direct, consistent way to work with participating companies |
 
 - ## How it works
 	- **Governing principle**: consumers decide what access their agents get, and companies set the parameters for what agents can do.
@@ -30,4 +34,3 @@ file-updated-at:: 2026-11-17
 		  | Website | Navigates the company's regular web pages |
 		  | APIs | Connects through interfaces built on standards such as **MCP and OpenAPI** |
 		  | Company agent | Works through tasks that need conversation with the company's own agent, such as a warranty claim |
-	- **Business visibility**: the protocol is designed to handle authentication and give companies visibility into what personal agents do through their websites, APIs or company agents.
