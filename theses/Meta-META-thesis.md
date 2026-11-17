@@ -40,12 +40,18 @@ file-updated-at:: 2026-11-17
 				- **Rough baseline**: existing US Muse users generate on average **several hundred dollars a year** of Family of Apps revenue. Meta management said "the average revenue per American user for our existing Family of Apps users is several hundreds of dollars annually," then clarified that "the average revenue that I was talking about before is the Family of Apps revenue for our existing Muse users." (Remarks supplied by the user; speaker and date not given.)
 				- The more than 20% of US Muse users who generate at least \$1,000 a year sit above that Muse-user average.
 		- **Structural edges**:
-			- **Ads fund the giveaway**: Meta can offer Muse free because ads already pay for its data centers, while OpenAI has to charge for Dots ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]). At launch Muse offered up to 100M tokens a week free plus a virtual computer ([[2026-09-08-zuckerberg-heath-muse-personal-agent-strategy]]).
+			- **A very generous free tier, funded by ads**: Meta can give Muse away because ads already pay for its data centers ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]).
+				- | Offer | Muse | OpenAI Dots |
+				  |---|---|---|
+				  | Free use | Core service free. At launch, **up to 100M tokens a week** plus a virtual computer per user ([[2026-09-08-zuckerberg-heath-muse-personal-agent-strategy]]) | None |
+				  | Paid tiers | Optional \$20 a month, or \$100 for higher usage limits | Only on plans costing at least \$100 a month |
+				- The 100M figure is a weekly ceiling, not average use.
+				- **The cost side**: management says "Muse is very compute-intensive to run. But we expect to improve its cost efficiency by more than 10x in the next year." The Q3 call named the levers: smaller and task-specific models, inference and product optimization, and moving suitable work to off-peak capacity. Even so, total serving costs are expected to rise ([[META-2026-Q3]]).
 			- **Bundling**: one free, context-rich agent can absorb many low-frequency consumer jobs and become the default interface to the internet, removing the need for specialized apps and thin agent wrappers ([[2026-09-15-meta-muse-consumer-agent-app-disintermediation]]).
 			- **Product craft and trust**: familiar distribution, progressive permissions, persistent memory and polished artifacts make the agent easier to trust and reuse ([[2026-09-13-how-i-ai-meta-muse-firsthand-product-review]]). Each user's Muse runs in an isolated cloud VM, with a separate Sentinel agent checking actions ([[2026-09-08-meta-muse-secure-vm-architecture]]).
 			- **Glasses**: Zuckerberg said on the Q3 call that Muse would start coming to Meta Glasses in November 2026. Bosworth sees wearables as the ultimate surface for personal AI because they give it real-world context (see Anecdotes, 2026-02).
 		- **What has to go right**:
-			- **Serving cost**: Meta targets more than 10× better Muse compute cost efficiency over the following year, but expects total serving costs to rise ([[META-2026-Q3]]).
+			- **Serving cost**: Meta targets more than 10× better Muse cost efficiency in the next year, but still expects total serving costs to rise as usage grows (see the free-tier bullet above).
 			- **Execution reliability**: browser-based shopping produced errors in a hands-on review, even when calendar, content and planning workflows worked ([[2026-09-13-how-i-ai-meta-muse-firsthand-product-review]]).
 			- **Trust for buying**: consumer surveys show trust falls sharply as agents move from searching to buying, so transaction fees are the hardest revenue to earn ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]).
 			- **Model quality**: see the Avocado anecdotes and the "Not on the cutting edge of LLMs" risk below.
