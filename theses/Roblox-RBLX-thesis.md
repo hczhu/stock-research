@@ -1,6 +1,6 @@
 tags:: [[$RBLX]], [[gaming]], [[consumer-internet]], [[UGC]], [[advertising]], [[AI]], [[metaverse]]
 file-created-at:: 2026-07-01
-file-updated-at:: 2026-11-16
+file-updated-at:: 2026-11-17
 
 - **Company**: Roblox Corporation ($RBLX)
 - **Date**: 2026-06-04
@@ -171,13 +171,15 @@ file-updated-at:: 2026-11-16
 		- 4. **The safety layer may become a growth asset over time.** Today age verification is friction. Over time it becomes infrastructure: advertisers, brands, parents, regulators, and developers all want a safer, more predictable platform. Strong age segmentation and safety controls can make the platform more investable for external partners, shifting safety from a pure cost center toward a growth enabler.
 	- ---
 - ## Secular Trends as Tailwinds
-  
-  | Trend | Detail |
-  |---|---|
-  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games." Gaming platforms are the #2 most-used category among Gen Alpha (54%), behind only YouTube and ahead of all social media — see Appendix: Gen Alpha platform usage |
-  | Digital-native generations | Newer generations spend more of life in the digital world |
-  | Demographic inflow | ≈140M new gamers born per year; ≈140M age into Roblox per year |
-  | Aging user base | Average user age rising (Piper Sandler: avg teen age 15.8; Roblox active usage 46%, up from 34%) — kids keep using it as they age |
+
+	- | Trend | Detail |
+	  |---|---|
+	  | Gaming = the new social language | Play is how younger generations socialize; Roblox "feels like social media but based on games." Gaming platforms are the #2 most-used category among Gen Alpha (54%), behind only YouTube and ahead of all social media — see Appendix: Gen Alpha platform usage |
+	  | Digital-native generations | Newer generations spend more of life in the digital world |
+	  | Demographic inflow | ≈140M new gamers born per year; ≈140M age into Roblox per year |
+	  | Teen audience penetration | Piper Sandler active usage: 34% in Spring 2024 → 46% in Fall 2024 → 42% in Spring 2025 → 49% reported for Fall 2026. The final figure is supplied/secondarily reported, not independently verified against the full survey |
+	- **Teen survey evidence for the audience thesis**: The supplied series shows a 15-point increase in active usage, not uninterrupted growth. Never-played share fell from 22% in Spring 2024 to 17% in Fall 2024 and stayed at 17% in Spring 2025; 44% reported having stopped playing in Spring 2024. Later lapsed-player shares were not supplied. See [[2026-10-13-piper-sandler-taking-stock-with-teens-fall-2026]] for the full table and sources.
+	- **Keep teen penetration separate from aging-up evidence**: The survey's average respondent age is not Roblox's average user age. These cross-sectional U.S. teen observations do not demonstrate that the same children stayed as they aged, adult retention, global DAU growth, or monetization. The supplied Fall 2026 summary mentions daily/weekly strength without a numerical split. Primary corroboration: [DECA Fall 2024](https://www.decadirect.org/articles/deca-and-piper-sandler-complete-48th-semi-annual-survey) and [Spring 2025](https://www.decadirect.org/articles/deca-and-piper-sandler-complete-49th-semi-annual-survey); [secondary Fall 2026 report](https://www.roic.ai/news/piper-sandler-teen-survey-tiktok-roblox-and-beauty-lead-as-snapchat-and-netflix-lag-10-13-2026).
 	- ---
 - ## Innovative Culture
 	- Roblox encourages **systems-level thinking** over one-off feature development; mantras "Take the Long View" and "Take Responsibility."
