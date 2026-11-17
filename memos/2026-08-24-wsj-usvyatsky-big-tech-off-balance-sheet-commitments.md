@@ -1,6 +1,6 @@
-tags:: [[$GOOGL]], [[$META]], [[$MSFT]], [[$AMZN]], [[$NVDA]], [[$ORCL]], [[accounting]], [[leases]], [[AI-capex]], [[capex]], [[off-balance-sheet]], [[disclosure]], [[data-center]]
+tags:: [[$GOOGL]], [[$META]], [[$MSFT]], [[$AMZN]], [[$NVDA]], [[$ORCL]], [[accounting]], [[leases]], [[AI-capex]], [[capex]], [[off-balance-sheet]], [[disclosure]], [[data-center]], [[$AVGO]], [[guarantees]], [[purchase-commitments]], [[Spear]]
 file-created-at:: 2026-08-24
-file-updated-at:: 2026-08-29
+file-updated-at:: 2026-11-17
 
 - ## Big Tech's \$3T of off-balance-sheet AI commitments — the number, and how to read it
 	- **Sources**: (1) *WSJ*, "Why Big Tech's AI Spending Is \$3 Trillion Higher Than It Seems," Peter Rudegeair and Peter Santilli, August 16, 2026 — an analysis of footnotes in the most recent filings of **nine companies**: Alphabet, Amazon, Microsoft, Meta, Oracle, Nvidia, Broadcom, SpaceX, AMD. (2) **Olga Usvyatsky**, "Behind Big Tech's AI Commitments," August 24, 2026, a forensic-accounting response (partially paywalled in the copy read). **The pairing is the value**: WSJ supplies the number, Usvyatsky supplies the framework for interpreting it, and they disagree about what it means.
@@ -60,6 +60,40 @@ file-updated-at:: 2026-08-29
 		- Worth pairing with the useful-life change in [[MSFT-2026-Q2]]: extending data-center life from 15 to 25 years shifts **future** leases from finance to operating classification, which removes them from reported capex — while they would still surface in the uncommenced-lease footnote. **Two different accounting seams, both reducing the visibility of the same spending.**
 	- **Meta's Hyperion illustrates the guarantee problem.** The Louisiana project (~1,700 football fields) carries an initial **\$12.3B lease commitment** with rent starting **2029**, an initial **four-year term** and renewal options to **20 years**. Meta **guaranteed to make bondholders whole** if it does not stay the full two decades, and **records no liability** because it does not consider payment probable — the GAAP test. **Meta can terminate or decline to renew, but that flexibility is priced through a residual value guarantee protecting investors if the data centers lose value.**
 		- **The asymmetry to hold**: once leases commence, obligations move onto the balance sheet — **but the termination rights, and the substantial cost of exercising them, do not disappear.** A residual-value guarantee is precisely the instrument that converts apparent flexibility into a contingent liability that is invisible until it is probable.
+- ## Update (Nov 17, 2026): Spear's tally from filings through Nov 17
+	- **Source**: Spear Invest chart "Off-Balance-Sheet Commitments by Company" (spear-invest.com), supplied by the user on Nov 17, 2026. Figures are \$B and undiscounted, from company filings as of Nov 17, 2026, plus Spear's analysis. Capex is consensus estimates for calendar years. Guarantees are at maximum potential exposure. Spear labels Amazon's row "AWS."
+	- **Purchase commitments vs. projected capex**:
+		- | Company | Purchase and construction commitments | 2027E capex | 2028E capex | Commitments ÷ 2027E–28E capex (*my math*) |
+		  | --- | --- | --- | --- | --- |
+		  | Alphabet | **\$802B** | \$321B | \$369B | 1.2× |
+		  | Meta | **\$455B** | \$211B | \$228B | 1.0× |
+		  | Nvidia | **\$316B** | \$29B for both years | — | ~11× |
+		  | Amazon | **\$254B** | \$299B | \$334B | 0.4× |
+		  | Microsoft | **\$229B** | \$210B | \$244B | 0.5× |
+		  | Broadcom | **\$127B** | \$5B for both years | — | ~25× |
+		  | Oracle | **\$34B** | \$98B | \$89B | 0.2× |
+		- Nvidia and Broadcom are chip suppliers with small capex of their own, so their ratios aren't comparable with the hyperscalers'.
+	- **Leases not yet commenced**: Microsoft **\$365B**, Meta **\$356B**, Oracle **\$288B**, Amazon **\$165B**, Alphabet **\$131B**, Nvidia **\$45B**. Broadcom shows none.
+	- **Guarantees** (maximum potential exposure):
+		- | Company | Total | Guarantees and backstops | Investment, credit and other |
+		  | --- | --- | --- | --- |
+		  | Nvidia | **\$170B** | \$109B | \$61B |
+		  | Alphabet | **\$121B** | \$99B | ~\$22B (*my math*: total minus labeled segment) |
+		  | Broadcom | **\$75B** | ~\$29B (*my math*) | \$46B |
+		  | Meta | **\$57B** | \$42B | ~\$15B (*my math*) |
+		  | Amazon | **\$34B** | — | \$34B |
+		  | Microsoft | **\$1B** | Split not readable | Split not readable |
+		  | Oracle | none shown | — | — |
+		- Context: Nvidia's backstops are mapped in [[2026-09-11-nvidia-backstop-universe-credit-support]]; Alphabet's TPU repurchase guarantees are in [[2026-10-29-google-tpu-repurchase-guarantees]].
+	- **Change since the WSJ figures above** (WSJ used each company's most recent filing as of mid-August; the two sources' category definitions may not match exactly):
+		- | Company | Purchase commitments, WSJ → Spear | Leases not yet commenced, WSJ → Spear |
+		  | --- | --- | --- |
+		  | Alphabet | \$811.0B → \$802B | \$91.0B → \$131B |
+		  | Meta | \$349.3B → \$455B | \$347.0B → \$356B |
+		  | Microsoft | \$228.6B → \$229B | \$329.1B → \$365B |
+		  | Amazon | \$130.1B → \$254B | \$137.2B → \$165B |
+		- Amazon's purchase commitments roughly doubled, and Meta's rose by about \$106B. Alphabet's purchase commitments were flat after the Q2 jump, while its uncommenced leases rose about 44%.
+	- **Totals across the seven companies** (*my math*): about **\$2.2T** of purchase and construction commitments, **\$1.35T** of leases not yet commenced, and **\$458B** of guarantees, all undiscounted. The discounting and cancelability caveats above apply to all of them.
 - ## What to actually do with the \$3T
 	- **Do not use it as a leverage figure.** It mixes discounted and undiscounted, cancellable and non-cancellable, near-dated and 2054-dated obligations across nine companies with non-uniform definitions. Morgan Stanley's April framing is the fair one: **"it is becoming increasingly difficult for investors to assess companies' total potential leverage."**
 	- **Do use the growth rates.** An 840% increase in Alphabet's obligations against 90% capex growth is a real signal about forward commitment regardless of definitional issues, and **the \$332B → \$811B single-quarter jump with no explanation is a legitimate disclosure complaint.**
