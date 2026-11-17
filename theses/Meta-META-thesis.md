@@ -37,8 +37,8 @@ file-updated-at:: 2026-11-17
 			- **Subscriptions**: the only direct Muse revenue at the Q3 call. Muse Wonder is available to paid users; more advanced models, extra tokens, and business or workplace features are planned paid tiers.
 			- **Ads**: Li kept direct advertising open as a possibility.
 			- **Higher value per user**: more than 20% of US Muse users already generate at least \$1,000 a year for the Family of Apps. Zuckerberg expects Muse could eventually exceed existing Family of Apps revenue per user in this group, a long-term view.
-				- **Rough baseline**: Meta management, in a remark supplied by the user (speaker and date not given): "the average revenue per American user for our existing Family of Apps users is several hundreds of dollars annually."
-				- For comparison, the US Muse users above who generate at least \$1,000 a year are above that average.
+				- **Rough baseline**: existing US Muse users generate on average **several hundred dollars a year** of Family of Apps revenue. Meta management said "the average revenue per American user for our existing Family of Apps users is several hundreds of dollars annually," then clarified that "the average revenue that I was talking about before is the Family of Apps revenue for our existing Muse users." (Remarks supplied by the user; speaker and date not given.)
+				- The more than 20% of US Muse users who generate at least \$1,000 a year sit above that Muse-user average.
 		- **Structural edges**:
 			- **Ads fund the giveaway**: Meta can offer Muse free because ads already pay for its data centers, while OpenAI has to charge for Dots ([[2026-10-13-businessweek-meta-muse-openai-dots-agent-business-models]]). At launch Muse offered up to 100M tokens a week free plus a virtual computer ([[2026-09-08-zuckerberg-heath-muse-personal-agent-strategy]]).
 			- **Bundling**: one free, context-rich agent can absorb many low-frequency consumer jobs and become the default interface to the internet, removing the need for specialized apps and thin agent wrappers ([[2026-09-15-meta-muse-consumer-agent-app-disintermediation]]).
