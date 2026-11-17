@@ -1,4 +1,4 @@
-tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]], [[compute-multipliers]], [[multi-chip]], [[$AMD]], [[$NVDA]], [[$AMZN]], [[$GOOGL]], [[Trainium]], [[TPU]]
+tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]], [[compute-multipliers]], [[multi-chip]], [[$AMD]], [[$NVDA]], [[$AMZN]], [[$GOOGL]], [[Trainium]], [[TPU]], [[Altimeter]], [[SemiAnalysis]]
 file-created-at:: 2026-10-26
 file-updated-at:: 2026-11-17
 
@@ -59,6 +59,29 @@ file-updated-at:: 2026-11-17
 	  | **3. Compute multipliers** | Example: if a model needs 100 units of compute, a **4× multiplier** lets Anthropic train the same model with 25 units, or use all 100 to train a model that would have needed 400. Multipliers "build on each other... They stack," so they are hard to replicate. Management expects discovery to accelerate as it approaches **recursive self-improvement**, with Claude eventually finding multipliers "entirely by itself" | The S-1 defines compute multipliers as "algorithmic and methodological improvements in training and inference that increase the effective output of a given amount of compute." It calls their accelerating pace a direct expression of "closing the loop," and says Claude "has helped write and iterate on compute multipliers that are central to efficient inference" |
 	- **Financial evidence the S-1 cites**: revenue grew **1,368%** YoY in Q2 2026 while compute and infrastructure expenses grew **300%**. In the H1 table above, compute intensity fell from 201% to 55% of revenue.
 	- **Not quantified**: the remarks and the S-1 give no count or size of Anthropic's compute multipliers, no split of workloads or capacity by chip family, and no AMD capacity figure. The 4× example is illustrative, and recursive self-improvement is management's expectation, not a disclosed result.
+- ## Altimeter's Read: Revenue per Gigawatt and Where the Compute Goes
+
+	- **Source**: two Altimeter presentation slides (pages 15 and 17), photographed and supplied by the user on Nov 17, 2026. The event and presenter weren't given. The footnotes are only partly legible. The slide footnote discloses that Altimeter-managed funds hold positions in Anthropic.
+	- **Altimeter's "compute multiplier" = ARR per GW of inference capacity**: this is a revenue-productivity measure, not Anthropic's algorithmic definition in the section above. Altimeter puts it at **~3× in 12 months**.
+		- | Quarter | ARR | Inference capacity | ARR per GW |
+		  | --- | --- | --- | --- |
+		  | Q4 2025 | \$9.4B | 0.34 GW | ~\$28B |
+		  | Q2 2026 | \$58B | 1.03 GW | ~\$56B |
+		  | Q3 2026E | \$72B | 1.08 GW | ~\$67B |
+		  | Q4 2026E | \$86B | 1.13 GW | ~\$76B |
+		- **Method, per the footnote**: capacity comes from SemiAnalysis's Tokenomics model (Oct 2026), "Total Inference Compute" in MW. SemiAnalysis derives that series by dividing annualized inference revenue by an assumed maximum revenue per inference GW. ARR is a last-28-day run rate; Q4 2025 and Q2 2026 are company figures, and Q3 and Q4 2026 are Altimeter estimates. ARR per GW is ARR divided by inference capacity in the same quarter. The footnote labels it "for illustrative purposes only."
+		- Capacity grows only ~10% from Q2 to Q4 2026E (1.03 to 1.13 GW), so nearly all of the projected gain in ARR per GW comes from ARR growth on roughly flat inference capacity.
+	- **Compute allocation, training vs. inference** (Altimeter, from the S-1/A filed Nov 2, 2026):
+		- | Period | Total compute | Training, research, internal use and free tier (R&D + S&M) | Serving paying customers (cost of revenue) |
+		  | --- | --- | --- | --- |
+		  | FY2023 | \$0.4B | 94% | 6% |
+		  | FY2024 | \$2.5B | 70% | 30% |
+		  | FY2025 | \$7.3B | 62% | 38% |
+		  | 9M 2025 | \$4.4B | 59% | 41% |
+		  | **9M 2026** | **\$18.8B** | **74%** | **26%** |
+		- **Method**: the paid share is cost of revenue divided by compute and infrastructure expense. Altimeter calls it an upper bound, because cost of revenue also includes some personnel and allocated overhead. The remainder is a residual covering R&D (model development, research, internal usage) and free-tier compute booked in S&M, which the filing doesn't disclose separately.
+		- **Trend**: the serving share rose from 6% to 41% through 9M 2025, then fell to 26% in 9M 2026 as total compute grew about 4.3× YoY (\$4.4B to \$18.8B).
+		- **Consistency with this memo**: the FY totals match the compute build above (\$0.433B, \$2.522B and \$7.326B). The 9M 2026 split of 74% / 26% is close to the screenshot's H1 2026 estimate of about 70% R&D compute and 27% cost-of-revenue compute.
 - ## Compute Commitment Stack
 
 	- **Estimated total**: Approximately **\$855B**, derived by summing disclosed or identified commitment categories. The figure is not locked in stone: categories may overlap, some obligations arise only when capacity or equipment is accepted, and the SpaceXAI component is cancelable.
