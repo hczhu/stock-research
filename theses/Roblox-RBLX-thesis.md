@@ -33,6 +33,10 @@ file-updated-at:: 2026-11-17
 					- **Instant launch**: games with a large download "will launch much more quickly."
 					- **Frequent updates**: for large games that are hard to update, Roblox Everywhere and Universal Player make updates "possible many times a day."
 					- **Licensing**: Roblox wants licensed IP and respects DMCA takedowns, so imports come from the owners of existing properties, not unlicensed ports.
+				- **IP Manager connects IP owners with creators, and Roblox will actively help studios port** (Q3 2026 call, answering Oppenheimer's Zhihua Yang). Baszucki answered "yes, yes and yes" to whether Roblox will take a more active role in connecting publishers with Roblox developers:
+					- **Two self-serve paths**: Roblox is a self-serve platform both for IP holders and the creators who want to use their IP, and for creators who want to bring in an existing game.
+					- **IP Manager**: studios with content "may want to put it in our IP manager and allow others to use it." Outside studios supply the IP, and Roblox creators build with it.
+					- **Direct studio outreach**: Roblox's developer relations (DevRel) team is in direct contact with "many major studios." Universal Player aims to let a studio's game go live on Roblox "not in months, but in a day." Baszucki: "you'll see more of this to come."
 			- **"Robloxification"** gives them multiplayer by default, phone support through 3D streaming, instant join instead of a large download, and access to Roblox's economy.
 			- **Roblox Everywhere** lets creators ship standalone games to app stores, PC and consoles on the same tech. Roblox will also publish its own hits as standalone apps; Q3 put the first native titles in H1 2027. The economics for developers who publish directly are undisclosed but promised to be "pretty provocative."
 			- **The payoff**: the content also becomes discoverable inside the Roblox app. Baszucki calls this "the best way to grow users in the Roblox app itself."
