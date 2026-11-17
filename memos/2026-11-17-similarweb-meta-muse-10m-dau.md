@@ -5,7 +5,7 @@ file-updated-at:: 2026-11-17
 - ## Similarweb: Meta's Muse App Passes 10M Daily Active Users
 	- **Source**: Similarweb (@Similarweb), X post, 1:38 AM on Nov 17, 2026, 27.5K views, from a screenshot the user supplied. The chart covers iPhone and Android, worldwide, from Sep 20 to Nov 13, 2026. These are third-party panel estimates, not Meta's own figures.
 	- **Thesis (Similarweb's data)**: Muse's app DAU passed **10M on Nov 13, reaching 10.24M**. That is about 14× the level at the start of the chart, and DAU has accelerated since late October.
-	- Related: [[2026-09-21-apptopia-muse-launch-metrics-vs-chatgpt]] (Apptopia's launch-week estimates) and [[META-2026-Q3]] (Meta's first-party Muse figures).
+	- Related: [[2026-09-21-apptopia-muse-launch-metrics-vs-chatgpt]] (Apptopia's launch-week estimates), [[META-2026-Q3]] (Meta's first-party Muse figures) and [[Meta-META-thesis]] (Muse upside).
 - ## The DAU Curve
 	- Approximate values read from the chart, except the Nov 13 endpoint, which Similarweb states:
 	- | Date (2026) | Muse DAU |
