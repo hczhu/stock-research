@@ -2,9 +2,9 @@ tags:: [[$GOOGL]], [[$NVDA]], [[TPU]], [[Anthropic]], [[data-center]], [[capex]]
 file-created-at:: 2026-11-18
 file-updated-at:: 2026-11-18
 
-- ## What a gigawatt of AI compute costs Google with TPUs, vs. an Nvidia build
+- ## What a gigawatt of AI compute costs and earns Google with TPUs, vs. an Nvidia build and Claude
 	- **Source**: MBI Deep Dives (Mostly Borrowed Ideas), November 2026, user-provided excerpt. Google's figures are **MBI's estimates**, not Google disclosures. Anthropic's \$11.6B comes from MBI's own Anthropic model. The Nvidia comparison uses figures already in the repo, with derived numbers marked as memo calculations.
-	- **Thesis**: By MBI's estimate, Google builds a gigawatt for itself for about **\$33B of capex** and runs it for about **\$5.2B a year**. That is **less than half of Anthropic's ~\$11.6B blended compute cost per GW**, because Google designs its own chips and builds its own data centers. Against an Nvidia-based build of about \$50–60B per GW, Google's capex is roughly 55–66% as much, and the gap is almost entirely in the chips.
+	- **Thesis**: By MBI's estimate, Google builds a gigawatt for itself for about **\$33B of capex** and runs it for about **\$5.2B a year**. That is **less than half of Anthropic's ~\$11.6B blended compute cost per GW**, because Google designs its own chips and builds its own data centers. Against an Nvidia-based build of about \$50–60B per GW, Google's capex is roughly 55–66% as much, and the gap is almost entirely in the chips. On the revenue side, MBI estimates a Gemini GW earns about \$32B a year and a Claude GW about \$84B.
 
 - ## MBI's estimate for a Google self-built gigawatt
 	- | Item | Capex per GW | Depreciation life | Annual cost per GW |
@@ -15,6 +15,17 @@ file-updated-at:: 2026-11-18
 	  | **Total** | **About \$33B** | | **About \$5.2B** (MBI) |
 	- **Comparison with a frontier lab**: Anthropic's blended compute cost is about **\$11.6B per GW this year** in MBI's model, more than 2× Google's. Anthropic rents most of its compute, so its cost includes the margins of the clouds and chip vendors it buys from.
 	- **Chips dominate the annual bill**: on MBI's numbers, chip depreciation is about two-thirds of Google's annual cost per GW (memo calculation), so chip cost and chip lifespan matter far more than the building.
+
+- ## MBI's revenue per GW: Gemini, rented compute and Claude
+	- MBI's assumption: a GW running **Gemini earns about \$32B a year** today, **about 46% more than a rented GW**. MBI frames that premium as what customers pay for the model on top of the compute. A GW of **Claude earns about \$84B** in MBI's Anthropic model, but Gemini is priced well below Claude.
+	- | Use of a GW | Annual revenue per GW | Annual compute cost per GW | Revenue ÷ compute cost |
+	  |---|---|---|---|
+	  | Rented out as compute (Google TPU) | About \$22B (memo calculation: \$32B ÷ 1.46) | \$5.2B (Google, MBI) | About 4.2× |
+	  | **Serving Gemini** | **About \$32B** (MBI) | \$5.2B (Google, MBI) | About 6.2× |
+	  | **Serving Claude** (Anthropic) | **About \$84B** (MBI) | \$11.6B (Anthropic blended, MBI) | About 7.2× |
+	- **The model premium** (memo calculation): Gemini adds about \$10B a year per GW over renting the same capacity. Claude earns about 2.6× Gemini per GW, which more than offsets Anthropic's 2.2× higher compute cost per GW.
+	- **What the ratios leave out**: compute cost only. They exclude model training, R&D, sales and serving overhead, so they are not margins. MBI's per-GW revenue figures are its own modeling assumptions.
+	- **Cross-check in the repo**: Altimeter puts Anthropic's ARR per GW of inference capacity at about \$67B for Q3 2026E and \$76B for Q4 2026E ([[2026-10-26-anthropic-s1-financials-compute-economics]]), the same range as MBI's \$84B. An H200-class GW rented at SpaceX–Google contract prices earns about \$100B a year ([[2026-06-05-gpu-cluster-rental-unit-economics-spacex-google-anthropic]]), far above MBI's implied \$22B for a rented TPU GW. That reflects different hardware, pricing and power-denominator assumptions.
 
 - ## Contrast: Nvidia-based AI data center cost per GW
 	- | Source | Total per GW | Chips, systems and networking | Facility (land, power, shell) |
