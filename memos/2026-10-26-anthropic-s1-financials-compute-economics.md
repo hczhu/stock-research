@@ -1,6 +1,6 @@
 tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]], [[compute-multipliers]], [[multi-chip]], [[$AMD]], [[$NVDA]], [[$AMZN]], [[$GOOGL]], [[Trainium]], [[TPU]], [[Altimeter]], [[SemiAnalysis]]
 file-created-at:: 2026-10-26
-file-updated-at:: 2026-11-17
+file-updated-at:: 2026-11-18
 
 - ## Anthropic S-1: Hypergrowth Converts Compute Into Operating Leverage
 
@@ -82,6 +82,7 @@ file-updated-at:: 2026-11-17
 		- **Method**: the paid share is cost of revenue divided by compute and infrastructure expense. Altimeter calls it an upper bound, because cost of revenue also includes some personnel and allocated overhead. The remainder is a residual covering R&D (model development, research, internal usage) and free-tier compute booked in S&M, which the filing doesn't disclose separately.
 		- **Trend**: the serving share rose from 6% to 41% through 9M 2025, then fell to 26% in 9M 2026 as total compute grew about 4.3× YoY (\$4.4B to \$18.8B).
 		- **Consistency with this memo**: the FY totals match the compute build above (\$0.433B, \$2.522B and \$7.326B). The 9M 2026 split of 74% / 26% is close to the screenshot's H1 2026 estimate of about 70% R&D compute and 27% cost-of-revenue compute.
+		- **Independent read (user-provided, Nov 18, 2026)**: "Anthropic's S-1 showed it pointing about three-quarters of its fleet at research, training and the free tier," consistent with Altimeter's 74%.
 - ## Compute Commitment Stack
 
 	- **Estimated total**: Approximately **\$855B**, derived by summing disclosed or identified commitment categories. The figure is not locked in stone: categories may overlap, some obligations arise only when capacity or equipment is accepted, and the SpaceXAI component is cancelable.
