@@ -14,7 +14,7 @@ file-updated-at:: 2026-11-18
 	- | Item | Prior quarter (Q2 FY27) | Latest (Q3 FY27) | Source |
 	  |---|---|---|---|
 	  | Total spending commitments (excludes guarantees) | \$366B | **\$518B** (+\$152B, +42%) | News excerpt |
-	  | Of which purchase and supply commitments | \$279B, "mainly memory" | **\$390B** (+\$111B) | SemiAnalysis for Q2; Nvidia for Q3 |
+	  | Of which supply and capacity (purchase) commitments | \$279B, up from \$119B in Q1. Primarily memory and upstream capacity, 96% due by FY2029 | **\$390B** (+\$111B) | Q2: SemiAnalysis, "Nvidia's Backstop Universe," Sep 11, 2026, from Nvidia's Q2 FY27 disclosures ([[2026-09-11-nvidia-backstop-universe-credit-support]]). Q3: Nvidia ([[NVDA-2026-Q3]]) |
 	  | Data-center lease and cloud-service commitments | — | A little over \$100B | Nvidia, Q3 call |
 	  | Neocloud agreements | — | \$32B | Nvidia, Q3 call |
 	  | **Component suppliers, FY2028 only** | — | **\$203B** | News excerpt |
@@ -37,7 +37,7 @@ file-updated-at:: 2026-11-18
 	  | 25% | \$51B | Memory's share of the Vera Rubin rack BOM, which includes rack, cooling and power parts that Nvidia may not buy itself |
 	  | 40% | \$81B | Midpoint between the rack and chip views |
 	  | 50% | \$102B | HBM is at least 50% of packaged-GPU cost, by a SemiAnalysis estimate ([[2026-10-08-ieee-hbm-dram-shortage-supply-response]]) |
-	- **Memory dominates Nvidia's own purchasing**: SemiAnalysis described Q2's \$279B of supply commitments as "mainly memory." Nvidia's purchases are weighted toward GPU packages and memory, not the full rack, so the share in its own commitments is likely above the rack-level 25%.
+	- **Memory dominates Nvidia's own purchasing**: SemiAnalysis's commitment table describes Q2's \$279B of supply and capacity commitments as primarily memory and upstream capacity, and attributes most of the quarter's \$160B jump (from \$119B) to memory ([[2026-09-11-nvidia-backstop-universe-credit-support]]). It gives no exact memory share. Nvidia's purchases are weighted toward GPU packages and memory, not the full rack, so the share in its own commitments is likely above the rack-level 25%.
 	- **Nvidia buys more than HBM**: it also buys LPDDR for Vera CPUs and SOCAMM modules, and GDDR for other products. This adds to the memory total.
 
 - ## Split across the three memory vendors
