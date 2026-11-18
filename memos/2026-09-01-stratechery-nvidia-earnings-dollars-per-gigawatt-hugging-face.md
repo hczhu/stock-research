@@ -1,6 +1,6 @@
 tags:: [[$NVDA]], [[Nvidia]], [[Stratechery]], [[Ben-Thompson]], [[earnings]], [[AI infrastructure]], [[data-center]], [[capex]], [[supply]], [[open-weights]], [[Hugging Face]], [[sovereign-AI]], [[neoclouds]], [[custom-silicon]], [[OpenAI]], [[$MSFT]], [[CUDA]], [[moat]], [[power]], [[semiconductor]]
 file-created-at:: 2026-09-01
-file-updated-at:: 2026-09-14
+file-updated-at:: 2026-11-18
 
 - ## Stratechery on Nvidia's Quarter — The First-Party Dollars-Per-Gigawatt Numbers, and Avoiding a Consolidated World
 	- **Source**: Ben Thompson, "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face," Stratechery Update, Sep 1 2026, quoting Bloomberg and the earnings call (CFO Colette Kress, CEO Jensen Huang).
@@ -28,6 +28,7 @@ file-updated-at:: 2026-09-14
 		- Balaban's **\$35–45B/GW for compute servers** ([[2026-06-18-mad-podcast-stephen-balaban-lambda-ai-compute-neoclouds]]) brackets Vera Rubin's \$40B almost exactly — so **Nvidia's figure is its capture, not the build cost.**
 		- Balaban's **total AI factory at \$47–63B/GW** (servers plus shell plus generation) and WSJ's **\$80–100B/GW** for a complete deployment ([[2026-07-13-wsj-data-center-builders-stake-sales]]) are total-project numbers and are not comparable to Kress's.
 		- Against a ~\$50–60B/GW total build, Nvidia's share moves from roughly **30–36% under Hopper to 67–80% under Vera Rubin.** That is what "expanding our share of the data center TAM" means quantitatively.
+		- **Update (2026-11-18)**: a user-provided data point puts Nvidia's Vera Rubin revenue opportunity at **about \$40B per GW, roughly two-thirds of the total investment per GW**. That implies a total build of about \$60B per GW (memo calculation) and pins Nvidia's capture at the **67% low end** of the range above, not 80%.
 		- **It also corrects a figure in this repo.** The Circuit hosts cited Nvidia at "\$40–50B per GW going to \$90–100B." The lower bound matches Vera Rubin; **the upper figure is roughly 2.3–2.5× Nvidia's own total-platform disclosure** and appears to conflate Nvidia capture with total deployment cost — exactly the confusion those hosts themselves warned about when they said they would "love to see the spreadsheet behind both those math."
 	- **Practical consequence for modelling**: gigawatt counts and Nvidia revenue are not linearly related across generations, and per-GW capture has a ceiling — it cannot exceed the total build. A capture ratio already near two-thirds of a full deployment means **this particular growth lever is closer to exhausted than the +122% trend implies.**
 - ## Where the margin actually breaks
