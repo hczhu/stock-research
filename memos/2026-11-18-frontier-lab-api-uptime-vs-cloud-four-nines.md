@@ -20,3 +20,9 @@ file-updated-at:: 2026-11-18
 	- **Compute shortage as a cause**: a roughly day-long Anthropic outage in March–April 2026 is attributed in the S-1 to running out of compute, according to Goldberg. Anthropic paid up for spot compute to avoid another outage before its IPO ([[2026-11-10-circuit-anthropic-s1-q3-slowdown-compute-constraint]]).
 	- **Hyperscalers sell reliability**: once Anthropic joined Bedrock, AWS reached "basically parity" on models and competed on compliance, reliability, scalability and GPU availability ([[2026-11-04-expert-call-aws-bedrock-sales-motion-anthropic-economics]]). The memo's reading: the uptime gap gives enterprises a reason to buy frontier models through a hyperscaler rather than directly from the lab.
 	- **Running the service is the product**: customers pay for software that keeps working (uptime, recovery, accountability), not for the code itself ([[2026-01-24-swizec-future-of-software-engineering-is-sre]]).
+
+- ## Counter-argument: the gap is about compute, not capability (owner's view)
+	- **Talent**: frontier labs have the best talent in both research and general software engineering. There is no reason they cannot reach higher uptime.
+	- **Cause of past outages**: mainly compute shortages caused by demand surges, not weak engineering or operations.
+	- **Supporting evidence in the repo**: Anthropic's S-1 attributes its roughly day-long March–April 2026 outage to running out of compute, and the company throttled users and delayed signups while short of capacity ([[2026-11-10-circuit-anthropic-s1-q3-slowdown-compute-constraint]]).
+	- **What follows**: on this view, the low self-declared uptime reflects capacity constraints rather than a lasting disadvantage against the clouds. Uptime should rise as compute supply catches up with demand.
