@@ -1,6 +1,6 @@
 tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]], [[compute-multipliers]], [[multi-chip]], [[$AMD]], [[$NVDA]], [[$AMZN]], [[$GOOGL]], [[Trainium]], [[TPU]], [[Altimeter]], [[SemiAnalysis]]
 file-created-at:: 2026-10-26
-file-updated-at:: 2026-11-18
+file-updated-at:: 2026-11-19
 
 - ## Anthropic S-1: Hypergrowth Converts Compute Into Operating Leverage
 
@@ -107,6 +107,16 @@ file-updated-at:: 2026-11-18
 	- No customer represented more than 10% of revenue in the first nine months of 2026, but the top five represented approximately **25%**. Many large customers lack long-term contracts or can reduce usage, so rapid growth does not equal fully contracted durability.
 	- CSP marketplaces generated **48% of H1 2026 revenue**, up from **11% in 2023**, **32% in 2024**, and **47% in 2025**. These channels accelerate enterprise distribution but create platform concentration and revenue-sharing costs.
 	- Sales, marketing, and partnership expense increased by approximately **\$3.0B** year over year in H1 2026, driven primarily by a **\$2.7B increase in channel-partner fees** rather than a conventional salesforce build. That cost is economically tied to revenue delivery even though it sits below reported gross profit.
+	- **Expansion headroom and go-to-market** (user-provided, Nov 19, 2026, including Q3 2026 figures):
+		- **Agents drive consumption**: Claude Code shows how fast spending grows once agents take over more of a developer's work. The **top 5% of enterprise Claude Code users spent 20× the average**.
+		- **Repeating the playbook beyond coding**: first-party apps and industry-specific offerings let Anthropic extend the same agent-led consumption model across other enterprise functions. The platform also offers tools for customers and partners to build their own agents.
+		- **Penetration of large customers is low**:
+			- | Customer group | Anthropic revenue as a share of the customer's total expenses, Q3 2026 |
+			  | --- | --- |
+			  | Fortune 500 customers, average | **Less than 0.1%** |
+			  | Top 10 Fortune 500 customers | **Below 1%** |
+		- **Distribution**: Anthropic reaches customers through joint go-to-market partnerships with the top three clouds while keeping direct customer relationships. This is the channel behind the 48% of H1 revenue from cloud marketplaces above.
+		- **Lower cost per task**: the latest Opus release cut customers' **cost per task by about 40% while preserving Anthropic's margins**. The source says this could unlock more adoption in Q4 2026.
 - ## Offering and Control Structure
 
 	- Anthropic applied to list Class A shares on Nasdaq under **ANT**, but the initial filing leaves the share count, price range, proceeds, and therefore IPO valuation blank.
