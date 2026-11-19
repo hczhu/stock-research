@@ -3,7 +3,7 @@ file-created-at:: 2026-11-19
 file-updated-at:: 2026-11-19
 
 - ## Intuitive Surgical: dominant and recurring, but priced for almost nothing to go wrong (MBI)
-	- **Source**: MBI Deep Dives, "Intuitive Surgical: The Long Road to Everyday Surgery," October 26, 2026 (user-provided PDF). The author's reverse-DCF model targets a ~10% IRR. The author says he is staying away from the stock at about \$452.
+	- **Source**: MBI Deep Dives, "Intuitive Surgical: The Long Road to Everyday Surgery," October 26, 2026 (user-provided PDF). The author's reverse-DCF model targets a ~10% IRR. The author says he is staying away from the stock at about \$452. Additional history from scuttleblurb, "[ISRG – Intuitive Surgical] the robot is the easy part," October 22, 2026 (user-provided excerpt), is in its own section below.
 	- **Thesis**: Intuitive is a near-monopoly razor-blade business. About \$12B of 2026 revenue is 84% recurring at a ~40% non-GAAP operating margin, and procedure growth drives every revenue line. The runway is benign general surgery and international markets. Those are also the procedures with the weakest clinical case, the lowest prices, and the first real competitors in two decades. MBI's "priced-in" case, the operating path today's price needs to earn ~10%, looks like its own bull case.
 
 - ## Scale and history
@@ -15,6 +15,21 @@ file-updated-at:: 2026-11-19
 		- **2013**: a JAMA study, an ACOG statement and an FDA warning letter stalled benign gynecology. Intuitive answered with new products: Xi (2014), SP (2018) and Ion (2019).
 		- **2016**: the feared "patent cliff" never hurt, because the moat outlasted the patents.
 	- **Leadership**: three CEOs since 1997. Gary Guthart and Dave Rosa were both 1996 engineering hires. Rosa, the ninth employee, became CEO in July 2025, and Guthart stayed on as full-time Executive Chair.
+
+- ## Early product-procedure fit and the razor-blade model (scuttleblurb)
+	- **An improbable origin**: SRI International's late-1980s vision was a remote-controlled robot surgeon operating on soldiers on distant battlefields. Re-pitched as a fix for laparoscopy's ergonomics (laparoscopy's small incisions plus open surgery's wrist control and depth perception), it still failed to win support inside Guidant. Fred Moll, then running Guidant's surgical device division, founded Intuitive in 1995 with John Freund and Robert Younge on an **exclusive, royalty-free license** to some SRI IP.
+	- **A product in search of a procedure**: the prototypes were named Lenny (for Leonardo) and then Mona (for Mona Lisa). European clearance came in **1999** for general and cardiac surgery. At the June 2000 IPO, da Vinci still had **no FDA clearance**, was in patent litigation with Computer Motion, and had shown proof of concept in cholecystectomy and some cardiac procedures without a clear procedure fit.
+	- **Fit came from open surgery, not laparoscopy**: the robot's real advantage was less trauma than open surgery (smaller incisions, less pain, shorter recovery, lower inpatient costs), not dexterity over laparoscopy.
+		- | Procedure | Adoption milestones |
+		  |---|---|
+		  | Radical prostatectomy (US) | Share rose from **10% in 2004 to 20% in 2005** and about **two-thirds by 2010**. MBI puts it above 80% within a decade |
+		  | Hysterectomy for cancer | **More than 80%** of the addressable market by 2014 |
+		  | Benign hysterectomy | Resisted adoption: most cases were already minimally invasive, and the market was shrinking by 2014 as payers pushed conservative treatment of fibroids and other benign conditions |
+		- **Concentration**: from 2008 to 2013, prostatectomies and hysterectomies made up about **60% of procedure volume**.
+	- **The razor-blade model**: hospitals justify the robot (\$600K–3.1M plus \$95–225K a year of service) through extra operating-room throughput and beds freed by shorter recoveries. Each installed robot then throws off a **roughly 7-year instrument and service annuity**.
+		- Many instruments last only a dozen or so procedures before an embedded chip retires them.
+		- The instrument catalog keeps expanding, so da Vinci can complete more of each complex procedure without separate laparoscopic tools. That captures more recurring revenue per operation.
+	- **Resilience in a downturn**: as the installed base grew, instruments and accessories rose from **27% of revenue to more than 40%**. In 2009, system unit growth collapsed from 39% to 1%, yet total revenue still grew **20%** on recurring instruments and service. Hospitals are capital-constrained in recessions, but surgeries still have to be done.
 
 - ## Business model: one robot, three revenue streams
 	- **2025 revenue of \$10.1B**:
