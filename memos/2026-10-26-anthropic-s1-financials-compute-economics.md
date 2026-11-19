@@ -85,6 +85,13 @@ file-updated-at:: 2026-11-19
 		  | Q4 2026E | \$86B | 1.13 GW | ~\$76B |
 		- **Method, per the footnote**: capacity comes from SemiAnalysis's Tokenomics model (Oct 2026), "Total Inference Compute" in MW. SemiAnalysis derives that series by dividing annualized inference revenue by an assumed maximum revenue per inference GW. ARR is a last-28-day run rate; Q4 2025 and Q2 2026 are company figures, and Q3 and Q4 2026 are Altimeter estimates. ARR per GW is ARR divided by inference capacity in the same quarter. The footnote labels it "for illustrative purposes only."
 		- Capacity grows only ~10% from Q2 to Q4 2026E (1.03 to 1.13 GW), so nearly all of the projected gain in ARR per GW comes from ARR growth on roughly flat inference capacity.
+	- **API vs. subscription revenue per GW** (user-provided, Nov 19, 2026): the S-1 says subscriptions were **20% of H1 2026 revenue** but does not say how much compute they use. SemiAnalysis estimates Claude subscriptions take **about 40% of serving compute**.
+		- | Product | Share of revenue | Share of serving compute | Revenue per GW-year |
+		  | --- | --- | --- | --- |
+		  | API | About 80% | About 60% | **About \$84B** |
+		  | Subscriptions | 20% (S-1) | About 40% (SemiAnalysis estimate) | **About \$34B** |
+		- **A subscription watt earns about 40% of what an API watt earns**: (20% ÷ 40%) ÷ (80% ÷ 60%) is about 0.38 (memo calculation).
+		- **Cross-check**: weighting the two by compute share (60% × \$84B + 40% × \$34B) gives about **\$64B per GW-year** blended (memo calculation). That is close to Altimeter's ~\$67B for Q3 2026E above.
 	- **Compute allocation, training vs. inference** (Altimeter, from the S-1/A filed Nov 2, 2026):
 		- | Period | Total compute | Training, research, internal use and free tier (R&D + S&M) | Serving paying customers (cost of revenue) |
 		  | --- | --- | --- | --- |
