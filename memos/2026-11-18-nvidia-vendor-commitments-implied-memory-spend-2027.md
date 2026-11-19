@@ -1,6 +1,6 @@
 tags:: [[$NVDA]], [[$000660.KS]], [[$005930.KS]], [[$MU]], [[HBM]], [[DRAM]], [[purchase-commitments]], [[supply-chain]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-18
-file-updated-at:: 2026-11-18
+file-updated-at:: 2026-11-19
 
 - ## Nvidia's vendor commitments and the implied memory spend for 2027
 	- **Sources**:
@@ -15,8 +15,8 @@ file-updated-at:: 2026-11-18
 	  |---|---|---|---|
 	  | Total spending commitments (excludes guarantees) | \$366B | **\$518B** (+\$152B, +42%) | News excerpt |
 	  | Of which supply and capacity (purchase) commitments | \$279B, up from \$119B in Q1. Primarily memory and upstream capacity, 96% due by FY2029 | **\$390B** (+\$111B) | Q2: SemiAnalysis, "Nvidia's Backstop Universe," Sep 11, 2026, from Nvidia's Q2 FY27 disclosures ([[2026-09-11-nvidia-backstop-universe-credit-support]]). Q3: Nvidia ([[NVDA-2026-Q3]]) |
-	  | Data-center lease and cloud-service commitments | — | A little over \$100B | Nvidia, Q3 call |
-	  | Neocloud agreements | — | \$32B | Nvidia, Q3 call |
+	  | Data-center lease and cloud-service commitments | — | \$102B, including the \$32B below | Nvidia, Q3 call (Kress: "a little over \$100B"); \$102B per a user-provided source |
+	  | Of which neocloud agreements | — | \$32B | Nvidia, Q3 call |
 	  | **Component suppliers, FY2028 only** | — | **\$203B** | News excerpt |
 	  | Guarantees (separate from spending commitments) | — | \$118B, including \$105B for PORTS-Pike | Nvidia, Q3 call |
 	- The excerpt says the majority of the \$152B increase goes to component suppliers, especially for next year, and attributes part of the rise to more expensive memory chips.
@@ -29,7 +29,7 @@ file-updated-at:: 2026-11-18
 	  | FY2028 (about calendar 2027) | \$203B of component spending | **\$51B** | **\$50B** |
 	  | After FY2028, owner's method | \$518B − \$203B = \$315B of all remaining commitments | \$79B | **\$80B** |
 	  | After FY2028, purchase commitments only | \$390B − \$203B = \$187B | **\$47B** | — |
-	- **Which base to use after FY2028**: the owner's \$80B applies 25% to all remaining commitments. That base includes about \$100B of data-center leases and cloud services and \$32B of neocloud agreements, which contain no memory. Applied to purchase commitments alone, 25% gives about **\$47B** (memo calculation). That amount also covers the rest of FY2027 (Q4) as well as FY2029 and later.
+	- **Which base to use after FY2028**: the owner's \$80B applies 25% to all remaining commitments. That base includes about \$102B of data-center leases and cloud services, \$32B of it with neoclouds, which contain no memory. Applied to purchase commitments alone, 25% gives about **\$47B** (memo calculation). That amount also covers the rest of FY2027 (Q4) as well as FY2029 and later.
 
 - ## Why 25% is probably a floor
 	- | Memory share | FY2028 memory spend (on \$203B) | Basis |
