@@ -37,6 +37,20 @@ file-updated-at:: 2026-11-19
 	- **R&D now dominates the compute bill**: The screenshot estimates H1 2026 R&D compute at **about 70% of total compute**, versus roughly **27%** for cost-of-revenue compute and a small residual for free access. Estimated R&D compute rose almost **5x year over year**, from 1.26 to 6.25, while cost of revenue rose about **2.3x**, from 1.019 to 2.380.
 	- **The least controllable cost is competitive, not transactional**: Anthropic can improve inference efficiency and utilization, but the required frontier-training budget depends on how aggressively OpenAI, Google, Meta, and other labs advance the state of the art. Current revenue rests partly on Claude remaining a frontier model, so R&D compute may keep compounding faster than inference even as serving margins improve.
 	- **“Pacing the frontier” has an economic incentive**: Slower industry-wide escalation would let Anthropic defer some frontier-training spend or redirect capacity toward revenue-generating inference. That interpretation does not prove coordination or predict lower spending; it explains why an otherwise high-margin company could favor limits on the R&D arms race that preserve more of its operating leverage.
+- ## Fixed Costs That Behave Like Marginal Costs (commentary, added 2026-11-19)
+	- **Source**: user-provided commentary on the S-1 (author not given).
+	- **Why the 85% gross margin is so high**:
+		- Inference efficiency improved enormously over the last 18 months, across the whole industry.
+		- The explosive product-market fit in software development lets Anthropic "more or less name its price" during a severe compute shortage. The author compares this with oil companies, which also post high gross margins in a shortage.
+	- **Models depreciate fast**: Anthropic spent about **60% of H1 revenue on R&D**, mostly training the next model. That matches the \$9.741B of R&D on \$16.286B of revenue above. The filing also says **80% of Q3 revenue came from models trained in Q2 and Q3**. The author cites the line that frontier models are "the most expensive and fastest depreciating asset ever created."
+	- **Margin stack**:
+		- | Level | Margin | What it covers |
+		  | --- | --- | --- |
+		  | Selling an existing model (gross margin) | **About 85%** | Inference compute only |
+		  | Building and selling models | **About 25%** | 85% gross margin minus about 60% of revenue spent on R&D |
+		  | Whole company | **About breakeven** | After hyperscaler revenue shares and other operating costs |
+		- This is consistent with the H1 2026 GAAP operating margin of about −4% and Q2's 8% shown below.
+	- **The cost structure is inverted**: marginal cost (inference) has stayed flat while revenue exploded, but the supposedly fixed cost of R&D has scaled with revenue. In the author's words, "the fixed costs look like marginal costs and vice versa."
 - ## Growth and Profitability Inflection
 
 	- Quarterly revenue rose from **\$0.376B in Q1 2025 to \$11.555B in Q2 2026**. Q2 2026 revenue grew **1,368% year over year** and approximately **144% sequentially**.
