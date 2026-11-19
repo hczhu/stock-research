@@ -1,6 +1,6 @@
 tags:: [[$GOOGL]], [[TPU]], [[ASIC]], [[$2454.TW]], [[MediaTek]], [[$AVGO]], [[$INTC]], [[EMIB]], [[advanced-packaging]], [[OpenAI]], [[Anthropic]], [[$NVDA]], [[semiconductor]], [[AI-capex]], [[Ming-Chi-Kuo]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-15
-file-updated-at:: 2026-11-15
+file-updated-at:: 2026-11-19
 
 - ## Google TPU: OpenAI and Anthropic Orders Extend Visibility to 2029, and MediaTek Becomes the Sole Next-Gen Designer
 	- **Source**: [Ming-Chi Kuo (郭明錤, @mingchikuo), X post, Nov 15, 2026](https://x.com/mingchikuo/status/2122133109630194098), titled "Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to 2029; v10 lineup overhauled (now Quillfish); MediaTek and Broadcom lead as the top suppliers to watch." Kuo bases it on his latest industry survey. Unit and share figures are Kuo's estimates, not company disclosures.
@@ -26,6 +26,16 @@ file-updated-at:: 2026-11-15
 		- **Customer concentration**: OpenAI plus Anthropic total about 26M of the 30–33M units shipped in 2028–29, or **79–87%**. That leaves only about 4–7M units over two years for Google's own v9 and v10 buildout.
 		- **The numbers reconcile**: MediaTek's implied 2028–29 total is 15.8–19.1M units. Subtracting OpenAI's 12M of 8t leaves 3.8–7.1M of v9 and v10, which matches the 4–7M left for Google. The remainder for Broadcom, 11–17M, brackets Anthropic's 14M of 8i.
 	- *My note*: the expert call in [[2026-10-26-expert-call-nvidia-hyperscaler-concentration-external-tpu-amd-v10]] put external TPU volume at about 2.4M chips in 2027, a figure that may be a transcription error. That count covers external sales only, so it is not directly comparable with this note's 8–9M total. Even so, the gap is large enough that the 2027 figure deserves a cross-check.
+- ## Context: TPU Share of AI Compute Shipped (Epoch AI)
+	- **Source**: an Epoch AI newsletter supplied by the user on Nov 19, 2026: "our chip sales data shows Google's TPUs made up about a quarter of all AI compute shipped worldwide from April to June." The underlying data is Epoch's [AI chip sales dataset](https://epoch.ai/data/ai-chip-sales), updated Nov 18, 2026. It measures compute in H100-equivalents (H100e), which is peak dense 8-bit throughput relative to an H100 times the chip count. By that measure, 1M TPUv7s equal about 2.3M H100e.
+	- *My aggregation of Epoch's per-chip CSV (median estimates)*:
+		- | Quarter | Total shipped | Nvidia | Google TPU | Amazon | AMD | Huawei |
+		  | --- | --- | --- | --- | --- | --- | --- |
+		  | Q2 2025 | 2.93M H100e | 64.6% | 21.5% | 5.5% | 3.6% | 4.5% |
+		  | Q1 2026 | 4.98M H100e | 68.0% | 18.5% | 4.5% | 4.6% | 4.1% |
+		  | **Q2 2026** | **6.33M H100e** | **62.5%** | **25.4%** | 4.6% | 4.1% | 3.2% |
+		- Q3 2026 data is still incomplete, so it is left out.
+	- **Caveats**: the shares measure peak compute, not units or revenue. Epoch says its estimates are imprecise, with the most confidence in Nvidia and the least in Amazon Trainium.
 - ## Roadmap Reshuffle: Quillfish Becomes v10
 	- | Generation | Codename | Designer | Mass production |
 	  | --- | --- | --- | --- |
