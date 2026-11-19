@@ -126,6 +126,16 @@ file-updated-at:: 2026-11-19
 
 	- Remaining performance obligations were **\$10.8B** at June 30, 2026, with approximately **75%** expected to be recognized over the following 12 months. This provides some visibility but remains small relative to the H1 revenue run rate because much consumption is usage-based or cancellable.
 	- No customer represented more than 10% of revenue in the first nine months of 2026, but the top five represented approximately **25%**. Many large customers lack long-term contracts or can reduce usage, so rapid growth does not equal fully contracted durability.
+	- **Top-five customer detail** (X post by @modestproposal1, user-provided screenshot, Nov 19, 2026):
+		- | Customer | H1 2026 spend with Anthropic | Context |
+		  | --- | --- | --- |
+		  | Largest customer | **\$1.8B** | Equal to **1.5% of that customer's revenue** and **5% of its non-GAAP cash opex** |
+		  | Next four combined | **\$3.0B** | |
+		  | Top five combined | **\$4.8B** (memo calculation) | About **29% of H1 revenue** of \$16.286B (memo calculation), in line with the ~25% top-five share for the first nine months |
+		- **Growth is slowing**: the top five grew their spend **80% QoQ in Q2** but only **20% QoQ in Q3**. Anthropic's total revenue grew about 45% QoQ in Q3 ([[2026-10-17-anthropic-q3-revenue-ipo-valuation-compute-commitments]]), so concentration in the top five fell in Q3 (memo calculation).
+		- **Concentration confirmed falling** (user-provided, Nov 19, 2026): **79% of Q3 2026 revenue came from outside the top five customers, up from 64% in Q1 2026**. The top-five share therefore fell from about 36% to about 21% in two quarters (memo calculation).
+		- **Implied size of the largest customer** (memo calculation): \$1.8B at 1.5% of revenue implies about **\$120B of H1 revenue**, and at 5% of cash opex about **\$36B of H1 cash opex**. A repo anecdote says Meta is very likely Anthropic's largest customer ([[Meta-META-thesis]]). That is consistent with the implied size, but neither source confirms it.
+		- **Penetration even at the top**: the largest customer's spend is 5% of its cash opex. The Fortune 500 figures below use a different base, total expenses, so the two are not directly comparable.
 	- CSP marketplaces generated **48% of H1 2026 revenue**, up from **11% in 2023**, **32% in 2024**, and **47% in 2025**. These channels accelerate enterprise distribution but create platform concentration and revenue-sharing costs.
 	- Sales, marketing, and partnership expense increased by approximately **\$3.0B** year over year in H1 2026, driven primarily by a **\$2.7B increase in channel-partner fees** rather than a conventional salesforce build. That cost is economically tied to revenue delivery even though it sits below reported gross profit.
 	- **Expansion headroom and go-to-market** (user-provided, Nov 19, 2026, including Q3 2026 figures):
