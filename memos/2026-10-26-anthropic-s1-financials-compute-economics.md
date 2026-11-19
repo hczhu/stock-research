@@ -1,6 +1,6 @@
 tags:: [[$ANT]], [[Anthropic]], [[AI]], [[AI-labs]], [[IPO]], [[compute]], [[inference]], [[profitability]], [[compute-multipliers]], [[multi-chip]], [[$AMD]], [[$NVDA]], [[$AMZN]], [[$GOOGL]], [[Trainium]], [[TPU]], [[Altimeter]], [[SemiAnalysis]]
 file-created-at:: 2026-10-26
-file-updated-at:: 2026-11-18
+file-updated-at:: 2026-11-19
 
 - ## Anthropic S-1: Hypergrowth Converts Compute Into Operating Leverage
 
@@ -107,7 +107,7 @@ file-updated-at:: 2026-11-18
 	- No customer represented more than 10% of revenue in the first nine months of 2026, but the top five represented approximately **25%**. Many large customers lack long-term contracts or can reduce usage, so rapid growth does not equal fully contracted durability.
 	- CSP marketplaces generated **48% of H1 2026 revenue**, up from **11% in 2023**, **32% in 2024**, and **47% in 2025**. These channels accelerate enterprise distribution but create platform concentration and revenue-sharing costs.
 	- Sales, marketing, and partnership expense increased by approximately **\$3.0B** year over year in H1 2026, driven primarily by a **\$2.7B increase in channel-partner fees** rather than a conventional salesforce build. That cost is economically tied to revenue delivery even though it sits below reported gross profit.
-	- **Expansion headroom and go-to-market** (user-provided, Nov 18, 2026, including Q3 2026 figures):
+	- **Expansion headroom and go-to-market** (user-provided, Nov 19, 2026, including Q3 2026 figures):
 		- **Agents drive consumption**: Claude Code shows how fast spending grows once agents take over more of a developer's work. The **top 5% of enterprise Claude Code users spent 20× the average**.
 		- **Repeating the playbook beyond coding**: first-party apps and industry-specific offerings let Anthropic extend the same agent-led consumption model across other enterprise functions. The platform also offers tools for customers and partners to build their own agents.
 		- **Penetration of large customers is low**:
