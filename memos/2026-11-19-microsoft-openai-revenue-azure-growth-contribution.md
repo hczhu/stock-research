@@ -14,6 +14,7 @@ file-updated-at:: 2026-11-19
 	  |---|---|---|
 	  | Microsoft revenue from OpenAI, September 2026 quarter | $10.0B | Disclosed; commercial arrangements including revenue-sharing payments |
 	  | Microsoft revenue from OpenAI, full FY2026 | $24.1B | Disclosed annual total, not a quarterly breakdown |
+	  | OpenAI's incremental Azure purchase commitment, as of September 2026 | $250B | Original contract value [announced in October 2025](https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/), not recognized revenue or a disclosed September 2026 remaining balance |
 	  | OpenAI receivable, September / June 2026 | \$7.2B / \$6.0B | Disclosed quarter-end balances, not cash collected |
 	  | Share of Microsoft's September-quarter revenue | About 11% | Excerpt estimate; consistent with Microsoft's roughly $92.3B total revenue |
 	- OpenAI pays for Azure compute and also shares revenue with Microsoft. The excerpt assumes a **20% revenue share**; the cited disclosures do not separately identify the amounts or establish where that share is booked within Microsoft's revenue categories. Do not classify the entire commercial total as Azure compute.
