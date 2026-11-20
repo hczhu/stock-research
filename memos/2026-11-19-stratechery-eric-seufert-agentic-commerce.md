@@ -1,0 +1,65 @@
+tags:: [[$AMZN]], [[$GOOGL]], [[$META]], [[$SHOP]], [[$WMT]], [[OpenAI]], [[agents]], [[advertising]], [[e-commerce]], [[ai-model:GPT-6.2 Sol]], [[ai-effort:medium]]
+file-created-at:: 2026-11-19
+file-updated-at:: 2026-11-19
+
+- ## Agentic shopping splits discovery from checkout
+	- **Source**: Ben Thompson’s Stratechery interview with Eric Seufert, November 19, 2026. Product details, figures and forecasts below are attributed to the interview. [An Interview With Eric Seufert About Agentic Commerce](https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/)
+	- **Thesis**: Shopping agents can redirect product discovery without taking control of checkout. Retailers have the most reason to open their catalogs when the agent brings incremental demand. Platforms with advertiser demand, purchase signals and measurement can earn money from discovery even when the retailer completes the sale.
+	- Seufert expects major retailers to preserve control of their shopping experience through first-party agents and approved integrations. Thompson argues that consumers will bring their preferred agent and steer purchases to merchants that welcome it. His firsthand example was specialty fasteners: Claude helped him find suppliers and fill a cart at Albany County Fasteners, where he could take over to check out. That friction can decide who gets the order even if the agent never touches payment.
+
+- ## Three levels of agent control
+	- | Seufert’s model | Who chooses the product? | Who executes checkout? |
+	  | --- | --- | --- |
+	  | Hard agentic commerce | The agent gathers preferences and chooses autonomously | Agent buys without further user input |
+	  | Soft agentic commerce | User selects from options researched by the agent | Agent completes checkout after approval |
+	  | Agentic discovery | User decides whether to act on the agent’s suggestions | User checks out on the retailer’s site |
+	- These categories describe who acts. A separate question is who controls the catalog, ranking, checkout and customer relationship. Even an external assistant that accepts a checkout command can be passing the request to the retailer’s own agent.
+
+- ## Google Universal Cart gives retailers a choice at checkout
+	- Seufert describes a cart that persists across shopping sessions, tracks prices across retailers and uses Universal Commerce Protocol (UCP) integrations. He describes Search as an entry point and YouTube and Gmail as planned placements. A participating retailer can allow checkout in a Google surface or send the shopper back to its site.
+	- The retailer’s trade-off is the conversion lift from fewer steps versus the value of its checkout visit: on-site ads, upsells and a direct customer relationship. A specialty merchant may prioritize incremental orders. A large retailer with significant advertising revenue has more to protect. Google can sell sponsored discovery through Direct Offers regardless of which checkout path the merchant chooses, in Seufert’s account.
+	- Thompson and Seufert compare conversational search with Meta’s shift to Reels. A conversation creates more possible ad placements and reveals more intent with each turn. The platform must decide when to serve a broad ad, when to wait for a stronger purchase signal, and how much ad load the interaction can sustain.
+
+- ## Amazon, Walmart and Meta bring different assets
+	- | Company or platform | Control point | Economic mechanism discussed |
+	  | --- | --- | --- |
+	  | Amazon | Catalog, first-party purchase history, checkout and fulfillment | Seufert sees more upside in adding off-site ad inventory through partners such as OpenAI than in handing over the retail experience. He cites deterministic identity across about 90% of US households as his assessment of Amazon’s reach. The mechanics of the OpenAI ad tie-up were still speculative in the conversation. |
+	  | Walmart | Approved agentic checkout and its own Sparky assistant | In Seufert’s reading, an outside agent hands the request to Sparky through an approved integration. Walmart retains control of fulfillment of the shopping request and can include ads in results. |
+	  | Meta | Advertiser relationships, conversion measurement and potential Muse distribution | Seufert argues that multiple post-ATT matching paths make measurement more resilient. Retailer-reported purchase events via Conversions API are one example he gives. |
+	  | Shopify merchants | Merchant catalog and checkout, with different needs across sellers | An agent can expand qualified traffic and reduce friction for long-tail merchants. Lütke’s reported comments suggest limited room for intermediaries to charge percentage fees. |
+	- **Meta’s post-ATT mechanism**: Apple’s App Tracking Transparency reduced access to a common identifier. Seufert’s account is that Meta built redundant paths to match signals and measure outcomes. A merchant-side purchase event sent through Conversions API is distinct from linking a shopper’s Muse conversation to their other Meta activity. The interview offers Seufert’s interpretation of the architecture and incentives.
+	- The conversation cites ChatGPT ads at an annualized billion-dollar run rate about 6.5 months after launch. Seufert treats self-serve access, targeting and geographic expansion as ways to broaden the business. A run rate measures the pace at a point in time. Comparing it with a full-year revenue target requires the revenue accumulated during the ramp.
+
+- ## Checkout fees and advertising monetize different things
+	- | Figure discussed | What it represents | Revenue per USD 1,000 of eligible transaction volume |
+	  | --- | --- | ---: |
+	  | 4% | OpenAI’s attempted Instant Checkout charge, per Seufert | USD 40 |
+	  | 2% | Agent fee Tobi Lütke reportedly called unrealistic | USD 20 |
+	  | 25–50 basis points | Seufert’s illustrative range for what agents might earn | USD 2.50–5.00 |
+	  | About 15 basis points | Apple comparison raised tentatively by Thompson | USD 1.50 |
+	  | 5% fee on 40% of US e-commerce | Aggressive scenario Seufert attributes to analysts | USD 20 per USD 1,000 of **total** US e-commerce in the scenario |
+	- These figures are a mix of a reported attempted charge, an executive’s opinion, discussion examples and a scenario. The last row uses the full market as its denominator: 5% × 40% = 2%. At the same 40% penetration and a 25–50 bp fee, gross fee revenue would be only 0.1–0.2% of total e-commerce volume.
+	- Thompson argues that Meta captures more than 2% of product value through ads in some cases. That is his economic comparison in the interview. An agent fee applies to eligible order value, while advertising is purchased against expected outcomes and can monetize sessions that never end in a sale. Compare the models on incremental merchant contribution after ad spend or fees, and on revenue per shopping session for the platform.
+
+- ## Selected transcript excerpts
+	- ### Meta’s post-ATT redundancy
+		- > **Ben Thompson:** Right. And is this a payoff of how they had to rebuild everything post-ATT, where they actually don’t need direct linkages between everything? They can do good-enough matching, and that gives them actually more freedom of movement?
+		- > **Eric Seufert:** Yeah, exactly. My understanding is, you know, post-ATT, Meta’s operating strategy was, “We need redundancy”. We need multiple ways to connect data, and there can never be a total reliance on any single one of them, we need to make sure that we’ve got total coverage. If one of these gets revoked through some legal process or some regulatory process, that we still have coverage with other tools and that’s what they have now.
+	- ### Google Universal Cart, Direct Offers and retailer checkout
+		- > **Eric Seufert:** Here’s the other prototype, it’s Universal Cart from Google. Universal Cart is essentially Google’s agent, it’s a shopping agent, it’s embedded into Google Search, it’s going to be embedded into YouTube, it’s going to be embedded into Gmail.
+		- > And what it allows you to do is track prices across a multitude of retailers, they’ve got connectivity with the UCP [Universal Commerce Protocol]. And then when you want to buy something through the retailer’s integration with Universal Cart, they can say the user’s allowed to buy it right then and there. They can buy it through YouTube, they can buy it through Google Search or AI Mode. If that’s more convenient for them, they can do that and then here’s three API endpoints that you ping us with, and we’ll make sure we take care of the transaction.
+		- > Or they can say, “No, they’ve got to come to my website”. Why? Because I’ve got ads. I’ve got to fill the cart out, I’ve got to show ads to this person, and so they can collect all the information they want through your tool. But when they’re ready to check out, they’ve got to come to my website. And how is Google monetizing that? Ads. They’ve got Direct Offers, they’ve got an ad unit that the retailers can buy to nudge their suggestions up. That’s the form this is going to take.
+		- > Now, they don’t call it an ad, and I don’t think Meta is going to call it an ad, they’re going to call it something else. They’re going to call it agentic recommendations, or agentic nudges, or agentic hints — but it’ll be an ad. It’ll be something that someone pays for that nudges that product up in the suggestions and that will be an ad and I do think that’s how they’re going to monetize this.
+		- > **Ben Thompson:** Why would they integrate with that? Don’t they want the users on their site, putting it in the cart on their site? What’s the game?
+		- > **Eric Seufert:** ES: Because they’re just going where the people are, they’re getting potentially incremental demand. So they should more or less be totally indifferent if the user discovers their products on Google, added it to the cart in Universal Cart, and then checked out on their page, because they still got the opportunity to show the ad, they still got the opportunity to do upsells and collect all the information, they still maintain the first-party relationship.
+	- ### Hard commerce, soft commerce and discovery
+		- > **Eric Seufert:** There are three approaches, the first is what I would call hard agentic commerce, which is where a third-party agent autonomously gathers the user’s requirements and preferences, then proactively shops and completes the purchase without further input, so that’s a situation in which your agent buys something, you have no idea that it bought it, and you get a package on your doorstep the next day, that’s hard agentic commerce.
+		- > The second is soft agentic commerce. This is where a third-party agent searches for options based on the user’s requirements and preferences and presents them, the user then chooses one option and the agent completes the checkout. So that’s, “Let’s do some research together with my agent”, the agent will give me the three best options and I’ll say, “Go buy this one, I think this one’s the best”, and then it completes the checkout on the retailer’s website.
+		- > And then the last one is agentic discovery. So that’s the third-party agent sources options based on the user’s requirements and preferences and presents them, leaving the user to complete checkout on the retailer’s site. So that’s, “I’m just finding stuff for you, I’m serving the discovery function, and then you take this advice or don’t, and if you want, you can go buy it, and you know where to buy it, you know where to go”.
+	- ### The take-rate debate
+		- > **Eric Seufert:** You’re just basically an interface on top of Sparky or Alexa for Shopping and I think you’re even starting to see Shopify kind of force people to come to terms with the fact that you’re not going to be able to charge some meaningful transaction fee. [Shopify CEO] Tobi [Lütke] said recently in an interview, you’re not going to get 2%, he said 2% is unrealistic as a transaction fee, as a take rate.
+		- > Now, keep in mind, OpenAI was trying to charge 4% with Instant Checkout, so now we’re down to 2% being unrealistically high. So what do you get? He said, welcome to the world of basis points, so you’re talking, what, 50 basis points? 25? What value is there?
+		- > **Ben Thompson:** What does Apple pay? Like 15 basis points, something like that?
+		- > **Eric Seufert:** So now what do you do? You’re essentially just a tool for disocvering options. How do you monetize discovery? Ads.
+		- > **Eric Seufert:** Look, don’t get me started on what some of the analysts have put around, with the projections on agentic commerce and they’re talking about 5% take rates, and they’re talking about 40% of all US e-commerce going through agents, and it still pales in comparison to the ads business. So at the most unrealistic assumptions that you could muster up from an optimism cannon, you can’t even get anywhere close to the ads business in size.
+		- > **Ben Thompson:** Meta’s take rate on a product via ads is way higher than 2%, why do you want to diminish your business?
