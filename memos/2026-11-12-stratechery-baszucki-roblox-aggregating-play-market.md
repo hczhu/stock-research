@@ -1,6 +1,6 @@
 tags:: [[$RBLX]], [[Roblox]], [[David-Baszucki]], [[Stratechery]], [[Ben-Thompson]], [[aggregation-theory]], [[gaming]], [[play-market]], [[Universal-Player]], [[Robloxification]], [[Roblox-Build]], [[Roblox-Everywhere]], [[Roblox-Reality]], [[discovery]], [[advertising]], [[AI-coding]], [[game-development]], [[UGC]], [[$U]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-12
-file-updated-at:: 2026-11-12
+file-updated-at:: 2026-11-19
 
 - ## Roblox moves from game engine to aggregator of play
 	- **Source**: Stratechery, Ben Thompson, "An Interview With Roblox CEO David Baszucki About Aggregating Play," Nov 12, 2026 (user-provided PDF of the transcript). It is Thompson's third interview with Baszucki, after Feb 2022 and Nov 2023.
@@ -62,6 +62,7 @@ file-updated-at:: 2026-11-12
 		- It works "out of the box" on early tests with Grow a Garden.
 		- Baszucki calls it both a technology play (a low-latency video model conditioned on 3D and depth maps, unlike single-player world models) and a vertical-integration play.
 	- **Discovery**:
+		- **Abundance problem (angle 1 of 2)**: when everyone builds a game and there is an abundance of new experiences, the core challenge becomes "how do we connect the right person with the right game with their friends?"
 		- The ranking objective changed from short-term to **long-term retention**, measured "from every user-game pair." Adopt Me is the example of a game that lasts for years.
 		- With more games, **content understanding** matters. Every game runs in Roblox's cloud, so Roblox can inspect it and surface novel ones, even "1 in 100" inside "AI slop."
 		- A planned short-form-video-like feed shows 3D games friends are already playing, to "jump into a game."
