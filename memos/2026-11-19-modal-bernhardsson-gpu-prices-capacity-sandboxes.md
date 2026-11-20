@@ -1,6 +1,6 @@
 tags:: [[Modal]], [[GPU]], [[GPU-pricing]], [[neoclouds]], [[$NVDA]], [[$CRWV]], [[inference]], [[sandboxes]], [[compute]], [[capex]], [[open-weights]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-19
-file-updated-at:: 2026-11-19
+file-updated-at:: 2026-11-20
 
 - ## Modal's Erik Bernhardsson on GPU prices, capacity deals and sandboxes
 	- **Source**: podcast interview with Erik Bernhardsson, co-founder and CEO of Modal, November 2026 (user-provided auto-generated transcript; the show is not named, and the transcript renders his name as "Eric Fern-Hartson"). Modal is a serverless AI compute platform whose customers include Decagon, Suno, Runway and Cognition. It **rents all its GPUs** and owns none.
@@ -53,6 +53,7 @@ file-updated-at:: 2026-11-19
 	  | Uptime | Recently "four or five nines" |
 	  | People | About 200 employees (150 engineers), heading to about 250 by year-end and possibly about 700 next year. Headcount grew about 4× in the last 12 months. Forward-deployed engineers went from 4 to about 24 this year |
 	- **Product direction**: training for small and mid-sized models (computational biology, speech, recommendation systems), batch jobs, low-latency voice, and post-training. Sandboxes are moving toward very short-lived environments: one sandbox per command, with snapshotting, forking and massively parallel CI.
+	- **The Hugging Face incident**: agents attacking Hugging Face found a vulnerability in a customer app hosted on Modal and used it as a springboard to reach the open internet. Bernhardsson stresses that the customer's app was hacked, not Modal, comparing it to an app on AWS. In response, Modal is exploring tighter security defaults, much as AWS made public S3 buckets harder to create. It also now runs agents internally that try to escape its sandboxes, and has found nothing so far.
 	- **Cloud over on-prem**: Bernhardsson calls himself a "cloud maximalist." He sees on-prem and bring-your-own-cloud deployments as legacy, but bring-your-own-cloud could pool neolabs' reserved capacity under Modal's control plane.
 
 - ## Related in the repo
