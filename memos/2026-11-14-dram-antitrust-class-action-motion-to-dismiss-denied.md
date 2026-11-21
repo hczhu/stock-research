@@ -1,8 +1,9 @@
 tags:: [[DRAM]], [[HBM]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[antitrust]], [[litigation]], [[pricing]], [[super-cycle]], [[capex]], [[OpenAI]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-14
-file-updated-at:: 2026-11-14
+file-updated-at:: 2026-11-21
 
 - ## DRAM Conspiracy Class Action Survives Motion to Dismiss
+	- **Court references**: [Case docket](https://dockets.justia.com/docket/california/candce/5:2026cv06345/472931) and [Order denying the motion to dismiss (ECF No. 68)](https://docs.justia.com/cases/federal/district-courts/california/candce/5:2026cv06345/472931/68), via Justia.
 	- **Source**: *Garciaguirre v. Samsung Electronics Co.*, No. 5:26-cv-06345-NW (N.D. Cal.), ECF No. 68, "Order Denying Motion to Dismiss," Judge Noël Wise, filed **Nov 14, 2026** (20 pp., user-supplied PDF). The industry facts below are **plaintiffs' allegations**, which the court accepts as true at this stage. They are not findings. The complaint (filed Jun 25, 2026) was first noted in [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]].
 	- **Thesis**: The court found it plausible that the DRAM triopoly's post-2022 **supply discipline** was coordinated: the production cuts, the HBM pivot, the DDR4 exit, and no new commodity capacity despite a roughly 700% price rise. The same behavior is the core of the memory **super-cycle bull case**. The case now goes to discovery, which creates a legal overhang on \$MU, SK hynix and Samsung. Memo inference: it also raises the cost of continuing to withhold conventional DRAM capacity and of the customer-vetting practices.
 - ## Market Structure
