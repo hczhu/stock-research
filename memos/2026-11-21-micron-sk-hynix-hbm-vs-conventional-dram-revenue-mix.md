@@ -56,6 +56,10 @@ file-updated-at:: 2026-11-21
 
 - ## SK hynix: Q3 2026 (quarter ended September 30)
 	- **SK hynix does not disclose an HBM vs. conventional DRAM split** in its release, slides or quarterly filing.
+	- **Update (2026-11-21)**: the closest proxy is the Q3 deck's DRAM revenue-by-application chart ([[SKHY-2026-Q3]]).
+		- **The chart**: "Graphics (incl. HBM)" fell from about 42% of DRAM revenue in Q3 2025 to about 18% in Q2 2026 and about **16% in Q3 2026**. Server rose from about 33% to about 55%. These values are read from the chart.
+		- *Memo calculation*: about KRW 12.5T for graphics including HBM, vs. about KRW 43T for server DRAM, in Q3 2026.
+		- **What it supports**: the "well below half" conclusion, with HBM's share likely closer to one-sixth of DRAM revenue. SK hynix's categories may not map exactly to HBM.
 	- | Metric | Q3 2026 | Source |
 	  |---|---|---|
 	  | **Total revenue** | **KRW 104.62T** (+32% QoQ, +328% YoY) | Q3 release |
