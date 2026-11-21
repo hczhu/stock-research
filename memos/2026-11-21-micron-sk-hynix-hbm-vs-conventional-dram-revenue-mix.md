@@ -17,7 +17,12 @@ file-updated-at:: 2026-11-21
 	  | Cloud Memory BU (CMBU) | \$13.77B (33% of total; 83% gross margin) | \$16.3B (30%; 83% gross margin) | Holds **100% of HBM**, plus hyperscale DDR5 and LPDDR5 |
 	  | **Estimated HBM** (derived) | **About \$3.5–5.0B** (about 11–16% of DRAM) | **About \$4.5–6.5B** (about 11–16% of DRAM) | HBM4 alone passed \$1B in FQ3. Total HBM grew more than 31% QoQ in FQ4 |
 	  | **Estimated conventional DRAM** (derived) | **About \$26.3–27.8B** (about 84–89% of DRAM) | **About \$33.3–35.3B** (about 84–89%) | Server DDR5 and LPDDR5, PC and mobile DRAM, automotive and embedded |
-	- **Repo cross-check**: FQ3 revenue of \$41.46B and HBM4 passing \$1B match [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]] and [[MU-2026-Q2]], the FQ3 file. The FQ3 gross margin appears as about 85% and 84.6% in [[2026-07-01-circuit-podcast-semis-stock-memo]], vs. 84.9% here. The repo has no FQ4-26 earnings file.
+	- **Repo cross-check**: FQ3 revenue of \$41.46B and HBM4 passing \$1B match [[2026-07-03-dram-hbm-supercycle-news-roundup-jun-jul-2026]] and [[MU-2026-Q2]], the FQ3 file.
+		- **The gross-margin figures are both correct**: FQ3 gross margin was 84.6% GAAP and 84.9% non-GAAP. The roughly 85% and 84.6% in [[2026-07-01-circuit-podcast-semis-stock-memo]] both fit.
+		- **Update (2026-11-21), confirmed by Micron's FQ4 release and deck** ([[MU-2026-Q3]]):
+			- Revenue, DRAM, NAND and business-unit figures match the table above.
+			- In FQ4, DRAM bits rose mid-single digits and prices rose high-teens %.
+			- Micron said CY27 HBM contracts carry significant price increases, "**narrowing the gross margin gap with conventional DRAM**." That directly confirms the margin inversion.
 	- ### How the HBM range is triangulated
 		- **1. CMBU sets a hard ceiling.** Per Micron's FY2026 10-K, all data-center HBM sits in CMBU. HBM is therefore below \$13.77B (44% of DRAM) in FQ3 and \$16.3B (41%) in FQ4. It is well below those once hyperscale DDR5 and LPDDR5 are removed.
 		- **2. CMBU's growth limits how big HBM can be.**
