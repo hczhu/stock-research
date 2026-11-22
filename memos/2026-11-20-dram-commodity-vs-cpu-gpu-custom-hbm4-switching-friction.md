@@ -145,6 +145,31 @@ file-updated-at:: 2026-11-22
 	- **Balanced or oversupplied regime**: If enough qualified capacity comes online or AI capex slows, large buyers can steer allocations and push back on price. The chat’s **late 2027–2028** is a scenario, not a confirmed crossover: Micron expected **2027–28 to be tighter than 2026** and said it did not know when supply and demand would balance. [Micron FQ4 2026 call](https://www.roic.ai/quote/MU/transcripts/2026-year/4-quarter)
 	- **Margin implication, per the chat**: A higher trough than legacy commodity DRAM is plausible if contract floors, committed volumes, and unit costs support it. It is not a demonstrated margin floor or the end of cyclicality. The long-run ceiling remains contested because the largest buyers control system design, sourcing, and how much HBM they put into each product.
 
+- ## A friend's industry view: Nvidia standardizes, the rest of the market stays vendor-designed (added 2026-11-22)
+	- **Source**: a group chat with a friend who follows Taiwan's hardware supply chain, plus a question from another participant (user-provided screenshot, Chinese, translated). These are personal views and secondhand industry comments, not company disclosures.
+	- **On Lee's argument: right direction, but oversimplified**:
+		- "The general direction is right. The custom base die for HBM4 is increasingly **designed under Nvidia's lead and manufactured by TSMC**."
+		- **Samsung vs. the others**: Samsung could have developed its own version. SK hynix and Micron are "relatively lacking in this capability."
+		- **Why Nvidia wants a common design**: Nvidia wants Samsung to adopt the Nvidia/TSMC scheme too, "so the three suppliers' products are **easier to swap for one another**, to handle changes in supply and demand."
+		- **The friend's objection**: "saying DRAM makers will therefore become completely commoditized is an oversimplification. HBM **manufacturing technology, yield and capacity remain important barriers**. And Nvidia is not HBM's only customer. Google and other large AI chip makers have their own requirements."
+	- **Only Nvidia can impose a common base die**:
+		- "Only Nvidia is strong enough to control the base-die versions of all three memory companies. AMD's scheme can't do that."
+		- "**Nvidia's share of the memory companies' business will decline over the long term**. HBM is hard to commoditize."
+	- **How non-Nvidia customers get HBM**:
+		- **The question** (another participant): are the specs of Nvidia's base die public? Does AMD design its own base die, or leave it to Micron and the other memory makers?
+		- **The friend's answer**: "Companies other than Nvidia basically use HBM versions whose **base die is designed by the memory company itself**. Customers like AMD and Google state their requirements, and the memory company develops to match."
+	- **What Nvidia's integration means for the rest of the market**:
+		- The friend worries that Nvidia's integration rises every generation. Second-tier Taiwanese server makers rely on more customization, so that leaves them less room.
+		- The CTO of one such company told the friend that "**only Nvidia can integrate so many different component companies to this degree**. Others can't." Outside Nvidia, the market is "a hundred flowers blooming" (many competing approaches), with "very large room for development."
+	- **How this fits the rest of the memo** (memo's reading):
+		- **Corroborates Nvidia's intent**: the friend's account matches NVIDIA's stated aim of cutting qualification work across suppliers, and Seoul Economic Daily's October 18 report that Nvidia asked all three vendors to use TSMC 3nm for NVHBM base dies.
+		- **Interchangeability is part of the point**: making suppliers swappable is a goal of the Nvidia/TSMC base die, not a side effect. That supports Lee's direction, but **only for Nvidia's volume**.
+		- **The friend's main addition is market structure**:
+			- If Nvidia's share of HBM demand falls over time as Google, AMD and other ASIC programs grow, more volume moves onto **vendor-designed base dies**. There the memory maker keeps the logic design and the customer relationship.
+			- That limits commoditization to the Nvidia slice. It fits SK hynix's comment on the "growing importance of custom HBM" for individual customers ([[SKHY-2026-Q3]]).
+		- **One nuance on "lacking capability"**: SK hynix and Micron do **design** their own standard HBM4 base dies; SK hynix has them made at TSMC. The gap is better read as a lack of in-house leading-edge logic fabs, not of design ability. Samsung has both.
+		- **Some non-Nvidia programs are custom too**, such as Meta's reported custom HBM4E with Samsung and Marvell's custom HBM platform. "Basically" vendor-designed holds for now, but not universally.
+
 - ## Related in the repo
 	- **Base die economics and vendor foundry choices**: [[2026-09-04-hbm-base-die-becomes-a-foundry-business]].
 	- **The commodity debate**: [[2026-06-28-joe-lion-apple-memory-commodity-argument]], [[2026-06-05-memory-de-commoditization-permanent-plateau-geninnov]], and TSMC's view that 3D DRAM is not a commodity ([[2026-11-08-tsmc-3d-dram-report-embedded-oxide-memory-not-commodity]]).
