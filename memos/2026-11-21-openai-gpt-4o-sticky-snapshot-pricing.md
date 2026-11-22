@@ -13,9 +13,11 @@ file-updated-at:: 2026-11-21
 	  | Aug 6, 2024 | OpenAI releases `gpt-4o-2024-08-06`. Customers can select the lower-priced version directly. | 2.50 | 10.00 |
 	  | Early Oct 2024 | OpenAI repoints the floating `gpt-4o` alias to the August snapshot, confirmed in an Oct 3 announcement. | 2.50 | 10.00 |
 	  | Nov 20, 2024 | A new pinned snapshot, `gpt-4o-2024-11-20`, carries the same standard rates. | 2.50 | 10.00 |
+	  | Oct 14, 2026 | OpenAI issues the API deprecation notice for the August and November 2024 snapshots, about two years after the alias change. | — | — |
 	  | Nov 21, 2026 | OpenAI’s GPT-4o price card still lists the same rates. | 2.50 | 10.00 |
+	  | Jan 14, 2027 | Scheduled API shutdown for the August and November snapshots. | — | — |
 	- The August release lowered input by 50% and output by 33.3% relative to the May snapshot. The October change extended that rate to alias users. The public price points show a plateau of more than two years from the alias change through this check. [August release and price comparison](https://openai.com/index/introducing-structured-outputs-in-the-api/) · [October alias announcement](https://community.openai.com/t/latest-gpt-4o-snapshot-is-cheaper-and-supports-structured-outputs/966408) · [November snapshot release](https://developers.openai.com/api/docs/changelog#november-2024) · [GPT-4o price card](https://developers.openai.com/api/docs/models/gpt-4o)
-	- OpenAI retired the May snapshot on October 23, 2026. It gave notice on October 14, 2026 that the remaining GPT-4o snapshots and GPT-4o mini were scheduled to shut down on January 14, 2027, with GPT-6 Luna listed as the replacement. This is the API schedule. [OpenAI API deprecations](https://developers.openai.com/api/docs/deprecations)
+	- The October 14 notice covered the two remaining GPT-4o API snapshots and GPT-4o mini. OpenAI listed GPT-6 Luna as the replacement. The original May snapshot followed a separate schedule, with notice in April 2026 and shutdown on October 23, 2026. [OpenAI API deprecations](https://developers.openai.com/api/docs/deprecations)
 
 - ## Other 2024 models show both sticky rates and an exception
 	- | Model | Early output rate | Latest or last documented output rate | API status as of Nov 21, 2026 |
