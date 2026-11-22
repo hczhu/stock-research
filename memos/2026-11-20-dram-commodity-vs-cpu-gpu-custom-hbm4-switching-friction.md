@@ -1,6 +1,6 @@
 tags:: [[DRAM]], [[HBM]], [[memory]], [[commoditization]], [[JEDEC]], [[switching-costs]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$NVDA]], [[$AMD]], [[$TSM]], [[$MRVL]], [[advanced-packaging]], [[CoWoS]], [[custom-silicon]], [[3D-DRAM]], [[HBF]], [[semiconductor]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-20
-file-updated-at:: 2026-11-20
+file-updated-at:: 2026-11-22
 
 - ## Why DRAM is more of a commodity than CPUs and GPUs, and how custom HBM4 erodes the rule
 	- **Source**: a discussion between the owner and a friend about memory vendors' long-term moats, fact-checked by an AI assistant (user-provided text and two table screenshots, November 2026). The figures and dated events come from that AI answer. Where the repo has the same point, the matching memo is linked. Points the repo doesn't confirm are marked as unverified.
@@ -117,6 +117,24 @@ file-updated-at:: 2026-11-20
 	- At the **custom-HBM tier**, the comparison flips. A custom HBM4E supplier becomes as hard to replace mid-generation as a foundry, though the lock-in lasts only one platform cycle. Unlike a CUDA-style software moat, it does not carry over automatically to the next generation.
 	- This is the same split as in [[2026-07-04-dram-commodity-vs-decommoditization-synthesis]]: commodity-like at the standard die and spec layer, de-commoditizing at the package, customer and qualification layer.
 
+- ## Counter-argument: custom base dies commoditize memory makers further (added 2026-11-22)
+	- **Source**: an X exchange on November 22, 2026 (user-provided screenshot).
+	- **The owner's question** (@hzhu_): "Will AI permanently lift overall DRAM demand in the long term? Is custom HBM4 much less of a commodity than conventional DRAM, making DRAM vendors less cyclical than before?"
+	- **Dawson Lee's reply** (@LiDaosen): "HBM4 custom base dies commoditize memory makers further. In HBM3e, memory vendors owned the base die. In HBM4, Nvidia/TSMC own the custom logic controller; memory vendors are reduced to subcontracted DRAM stack assemblers with **zero pricing power over the custom logic**." His reply addresses only the second question.
+	- **The core of the argument**: the part of the stack that gets customized, the logic base die, moves to the customer and the foundry. Customization therefore doesn't give memory vendors pricing power. The value from it goes to Nvidia and TSMC, which is consistent with [[2026-11-20-tsmc-custom-hbm-base-die-strategic-leverage]].
+	- **Where the repo supports Lee**:
+		- In custom HBM4E / NVHBM, the customer owns the controller and PHY design ("customer RTL/PHY"), and the base die is made at TSMC. All three memory makers now use or plan to use TSMC for the base die.
+		- Memory vendors no longer capture the logic content of the stack. Micron's own investor materials put the differentiated value of HBM4E in the custom logic ([[2026-09-04-hbm-base-die-becomes-a-foundry-business]]).
+	- **Where the repo cuts against Lee** (memo's reading):
+		- **Standard HBM4 is different from custom HBM4E.** In standard HBM4 (2026), the base die follows the JEDEC spec and is **designed by the memory vendor**. It is made at TSMC (SK hynix) or in-house (Samsung 4nm, Micron CMOS). Customer-owned controller logic arrives with **custom HBM4E / NVHBM in 2027 and later**, not with HBM4.
+		- **No pricing power over the logic doesn't mean none over the stack.** Memory vendors still own the DRAM core dies, the vertical TSV interface, repair schemes and stacking (MR-MUF, TC-NCF), which are the scarce parts. Current HBM pricing power comes from DRAM scarcity, not from the base die:
+			- SK hynix says customers want **more than twice** what it can supply ([[SKHY-2026-Q3]]).
+			- Both SK hynix and Micron raised 2027 HBM prices "significantly" ([[MU-2026-Q3]]).
+		- **The lock-in runs both ways.** Each vendor's vertical interface is proprietary, so a custom stack needs separate integration work for each supplier. That makes the customer harder to switch away from, not easier.
+		- **What the vendors themselves say**:
+			- Micron expects **custom** HBM4E to carry a **higher** gross margin than standard HBM.
+			- SK hynix cites the "growing importance of custom HBM" and expects HBM profitability "far above the peak in past cycles."
+	- **Which way does it cut?** The two views fit together. Custom HBM shifts **logic value** to Nvidia and TSMC (Lee's point). It also makes each memory supplier harder to replace within a platform generation (this memo's point). On cyclicality, the memo's reading is that cycles get dampened mainly by **contracts and DRAM scarcity**, not by base-die customization: LTAs and SCAs now cover about half of supply.
 - ## Related in the repo
 	- **Base die economics and vendor foundry choices**: [[2026-09-04-hbm-base-die-becomes-a-foundry-business]].
 	- **The commodity debate**: [[2026-06-28-joe-lion-apple-memory-commodity-argument]], [[2026-06-05-memory-de-commoditization-permanent-plateau-geninnov]], and TSMC's view that 3D DRAM is not a commodity ([[2026-11-08-tsmc-3d-dram-report-embedded-oxide-memory-not-commodity]]).
