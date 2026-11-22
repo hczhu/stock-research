@@ -1,6 +1,6 @@
 tags:: [[$TSM]], [[TSMC]], [[HBM]], [[custom-HBM]], [[NVHBM]], [[foundry]], [[N3]], [[CoWoS]], [[advanced-packaging]], [[GUC]], [[$3443.TW]], [[$NVDA]], [[$MU]], [[$000660.KS]], [[$005930.KS]], [[$INTC]], [[$META]], [[$AMD]], [[$MRVL]], [[semiconductor]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-20
-file-updated-at:: 2026-11-20
+file-updated-at:: 2026-11-22
 
 - ## TSMC's stronger position in the custom HBM transition
 	- **Source**: an AI assistant's answer supplied by the user (November 2026), a follow-up to [[2026-11-20-dram-commodity-vs-cpu-gpu-custom-hbm4-switching-friction]]. Its figures and dated reports are the answer's own. Where the repo has the same point, the matching memo is linked. Points the repo doesn't confirm are marked as unverified.
@@ -30,7 +30,7 @@ file-updated-at:: 2026-11-20
 - ## 2. Where TSMC actually wins: strategic leverage
 	- **All three memory makers, not just SK hynix**:
 		- In **September 2026**, Micron confirmed it will outsource HBM4E base dies to TSMC, consistent with [[2026-09-04-hbm-base-die-becomes-a-foundry-business]].
-		- **October 2026 reports** say Nvidia is pushing **all three vendors, including Samsung**, to make NVHBM base dies on **TSMC 3nm**, so that Nvidia keeps one standard PDK across suppliers. Unverified: the repo has no record of this report.
+		- **October 2026 reports** say Nvidia is pushing **all three vendors, including Samsung**, to make NVHBM base dies on **TSMC 3nm**, so that Nvidia keeps one standard PDK across suppliers. Update (2026-11-22): now sourced. [Seoul Economic Daily, October 18](https://en.sedaily.com/business/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm) reported that Nvidia asked Samsung, SK hynix and Micron to use TSMC 3nm for NVHBM base dies. A friend's industry comment says the aim is to make the three suppliers interchangeable ([[2026-11-20-dram-commodity-vs-cpu-gpu-custom-hbm4-switching-friction]]). The report doesn't establish that all three are qualified at equal volume.
 	- **It neutralizes Samsung's one-stop moat**:
 		- Samsung's pitch has long been vertical integration: DRAM, 4nm/2nm foundry and advanced packaging under one roof.
 		- If TSMC becomes the default logic foundry for HBM base dies, it already makes the compute dies (N3/N2) and does the CoWoS-L packaging. It would then hold **all three active layers of an AI accelerator**, which makes it even harder for hyperscalers to leave its ecosystem.
