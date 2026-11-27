@@ -1,6 +1,6 @@
 tags:: [[$GOOGL]], [[Gemini]], [[Anthropic]], [[Claude]], [[Vercel]], [[coding-agents]], [[evals]], [[developer-sentiment]], [[ai-model:Opus5.5]], [[ai-effort:high]]
 file-created-at:: 2026-11-23
-file-updated-at:: 2026-11-23
+file-updated-at:: 2026-11-27
 
 - ## Google's Gemini Neon vs. Claude Opus 5.5: a developer's "personal eval"
 	- **Source**: X post by Guillermo Rauch (@rauchg, CEO of Vercel), November 23, 2026, about 75K views at capture (user-provided screenshot).
@@ -43,3 +43,4 @@ file-updated-at:: 2026-11-23
 	- **The evaluator is notable**: an Anthropic model (Fable) running the evaluation and picking Google's model is a small credibility point for the result.
 	- **Implications for Anthropic**: coding is Anthropic's main profit pool ([[2026-10-26-anthropic-s1-financials-compute-economics]]). A narrowing model gap moves competition toward speed, tool reliability and harness quality, where both developers favor Claude. This fits the short exclusive-window argument in [[2026-11-23-frontier-model-rd-nonlinear-returns-coding-sweet-spot]].
 	- **Limits**: this is one user's sessions, judged by an LLM, with uneven sample sizes and no controls for task difficulty. It is a directional signal, not a benchmark.
+	- **Update (2026-11-27)**: SemiAnalysis's GDPx follow-up ranks Neon behind OpenAI's 6.2 Astra and Anthropic's Fable 5.2 on most hard domains. It attributes Neon's popularity to **behavior, not intelligence**, and finds Google's weaker prompt caching makes Neon 18–32% costlier to run ([[2026-11-27-semianalysis-gdpx-gemini-neon-behavior-not-intelligence-caching]]).
