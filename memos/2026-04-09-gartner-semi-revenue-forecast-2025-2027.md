@@ -1,10 +1,11 @@
 tags:: [[semiconductor]], [[Gartner]], [[forecast]], [[DRAM]]
 file-created-at:: 2026-04-09
-file-updated-at:: 2026-06-02
+file-updated-at:: 2026-11-27
 
 - ## Gartner Semiconductor Revenue Forecast, Worldwide 2025–2027
 	- **Source**: Gartner (April 2026), via @lithos_graphein on X.com (posted 2026-04-09 12:52)
 	- **Headline**: Global semi revenue nearly doubles in 2 years to $1.5T — 2026 +64%, 2027 +18%
+	- **Update (2026-11-27)**: Gartner's later forecast raises 2026 memory to about \$0.93T and 2027 to about \$1.34T, with a dip to \$1.23T in 2028. 2027 memory is up about 79% vs. this April forecast. See [[2026-11-27-gartner-semi-revenue-forecast-memory-peak-2027]].
 	- The 2026 surge is almost entirely memory-driven: memory revenue triples (+193% YoY) while nonmemory grows a modest +17%
 
 - ## Data Table
