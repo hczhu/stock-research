@@ -1,3 +1,6 @@
 .agents/
 skills-lock.json
 .DS_Store
+
+# iCloud sync conflict copies
+* 2.md
